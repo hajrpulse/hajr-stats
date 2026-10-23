@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T10:27:08+03:00",
+ "generated_at": "2026-10-23T11:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,18 +16,27 @@
      "source": "public_page+rss",
      "channel_id": "UCbEfmXp9CbLqIj_FMH8w26A",
      "totals": {
-      "followers": 1,
+      "followers": 2,
       "views": null,
       "posts_count": null,
-      "views_recent": 13
+      "views_recent": 28
      },
      "posts": [
+      {
+       "id": "91WU66R30bA",
+       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح #Shorts",
+       "url": "https://youtube.com/shorts/91WU66R30bA",
+       "published": "2026-10-23T08:14:46+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "I2HkmjNtK-E",
        "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط #Shorts",
        "url": "https://youtube.com/shorts/I2HkmjNtK-E",
        "published": "2026-10-23T07:02:59+00:00",
-       "views": 4,
+       "views": 6,
        "likes": 1,
        "comments": null
       },
@@ -36,7 +45,7 @@
        "title": "مياه الهلال رسميا! شراكة استثمارية بين الهلال وصحّتين #Shorts",
        "url": "https://youtube.com/shorts/lG_7B5cAO7U",
        "published": "2026-10-23T06:22:53+00:00",
-       "views": 6,
+       "views": 10,
        "likes": 0,
        "comments": null
       },
@@ -45,8 +54,8 @@
        "title": "Typhoon Champi Disruption Causes Flight Cancellations in East Asia #Shorts",
        "url": "https://youtube.com/shorts/klhUuEVZXBw",
        "published": "2026-10-23T05:07:48+00:00",
-       "views": 3,
-       "likes": 1,
+       "views": 12,
+       "likes": 2,
        "comments": null
       }
      ]
@@ -114,19 +123,29 @@
      "totals": {
       "followers": 0,
       "following": 0,
-      "posts_count": 1,
-      "likes_recent": 0,
+      "posts_count": 2,
+      "likes_recent": 1,
       "comments_recent": 0,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18116448116037988",
+       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح\n\nتقارير إعلامية تتناول الأسباب التي قد تحول دون تحقيق فوز وا",
+       "url": "https://www.instagram.com/reel/De1G2RmAhLG/",
+       "published": "2026-10-23T08:16:35+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17953323234289166",
        "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nتواصل أسعار النفط صعودها في ظل استمرار المخاوف الم",
        "url": "https://www.instagram.com/reel/De0-m2Wigrv/",
        "published": "2026-10-23T07:04:33+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 1,
        "comments": 0,
        "views": null
       }
@@ -142,9 +161,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 1
+      "posts_count_recent": 2
      },
      "posts": [
+      {
+       "id": "18130432502509441",
+       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح\n\nتقارير إعلامية تتناول الأسباب التي قد تحول دون تحقيق فوز وا",
+       "url": "https://www.threads.com/@hajrnews/post/De1HGfViKAR",
+       "published": "2026-10-23T08:18:47+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18217509889348327",
        "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nأسعار_النفط #الشرق_الأوسط #الإمدادات #أخبار_هجر #H",
@@ -216,10 +245,10 @@
  "history": {
   "2026-10-23": {
    "Pulse/youtube": {
-    "followers": 1,
+    "followers": 2,
     "views": null,
     "posts_count": null,
-    "views_recent": 13
+    "views_recent": 28
    },
    "Pulse/instagram": {
     "followers": 0,
@@ -243,15 +272,15 @@
    "News/instagram": {
     "followers": 0,
     "following": 0,
-    "posts_count": 1,
-    "likes_recent": 0,
+    "posts_count": 2,
+    "likes_recent": 1,
     "comments_recent": 0,
     "views_recent": null
    },
    "News/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 1
+    "posts_count_recent": 2
    },
    "Quran/youtube": {
     "followers": null,
