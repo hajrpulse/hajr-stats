@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T11:27:08+03:00",
+ "generated_at": "2026-10-23T12:27:07+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -11,54 +11,17 @@
      "handle": "@HAJRPulseOfficial",
      "status": "ok",
      "missing": [
-      "oauth_stats: token.json has upload-only scope"
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
      ],
      "source": "public_page+rss",
-     "channel_id": "UCbEfmXp9CbLqIj_FMH8w26A",
+     "channel_id": null,
      "totals": {
-      "followers": 2,
+      "followers": null,
       "views": null,
-      "posts_count": null,
-      "views_recent": 28
+      "posts_count": null
      },
-     "posts": [
-      {
-       "id": "91WU66R30bA",
-       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح #Shorts",
-       "url": "https://youtube.com/shorts/91WU66R30bA",
-       "published": "2026-10-23T08:14:46+00:00",
-       "views": 0,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "I2HkmjNtK-E",
-       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط #Shorts",
-       "url": "https://youtube.com/shorts/I2HkmjNtK-E",
-       "published": "2026-10-23T07:02:59+00:00",
-       "views": 6,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "lG_7B5cAO7U",
-       "title": "مياه الهلال رسميا! شراكة استثمارية بين الهلال وصحّتين #Shorts",
-       "url": "https://youtube.com/shorts/lG_7B5cAO7U",
-       "published": "2026-10-23T06:22:53+00:00",
-       "views": 10,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "klhUuEVZXBw",
-       "title": "Typhoon Champi Disruption Causes Flight Cancellations in East Asia #Shorts",
-       "url": "https://youtube.com/shorts/klhUuEVZXBw",
-       "published": "2026-10-23T05:07:48+00:00",
-       "views": 12,
-       "likes": 2,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -104,12 +67,11 @@
       "subscribers (hidden/unparsed)"
      ],
      "source": "public_page+rss",
-     "channel_id": "UCcaxs8BmR5oVqOX0_Ic2RHw",
+     "channel_id": null,
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count": null,
-      "views_recent": 0
+      "posts_count": null
      },
      "posts": []
     },
@@ -245,10 +207,9 @@
  "history": {
   "2026-10-23": {
    "Pulse/youtube": {
-    "followers": 2,
+    "followers": null,
     "views": null,
-    "posts_count": null,
-    "views_recent": 28
+    "posts_count": null
    },
    "Pulse/instagram": {
     "followers": 0,
@@ -266,8 +227,7 @@
    "News/youtube": {
     "followers": null,
     "views": null,
-    "posts_count": null,
-    "views_recent": 0
+    "posts_count": null
    },
    "News/instagram": {
     "followers": 0,
