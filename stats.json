@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T09:26:51+03:00",
+ "generated_at": "2026-10-23T10:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -11,19 +11,45 @@
      "handle": "@HAJRPulseOfficial",
      "status": "ok",
      "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
+      "oauth_stats: token.json has upload-only scope"
      ],
      "source": "public_page+rss",
      "channel_id": "UCbEfmXp9CbLqIj_FMH8w26A",
      "totals": {
-      "followers": null,
+      "followers": 1,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 13
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "I2HkmjNtK-E",
+       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط #Shorts",
+       "url": "https://youtube.com/shorts/I2HkmjNtK-E",
+       "published": "2026-10-23T07:02:59+00:00",
+       "views": 4,
+       "likes": 1,
+       "comments": null
+      },
+      {
+       "id": "lG_7B5cAO7U",
+       "title": "مياه الهلال رسميا! شراكة استثمارية بين الهلال وصحّتين #Shorts",
+       "url": "https://youtube.com/shorts/lG_7B5cAO7U",
+       "published": "2026-10-23T06:22:53+00:00",
+       "views": 6,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "klhUuEVZXBw",
+       "title": "Typhoon Champi Disruption Causes Flight Cancellations in East Asia #Shorts",
+       "url": "https://youtube.com/shorts/klhUuEVZXBw",
+       "published": "2026-10-23T05:07:48+00:00",
+       "views": 3,
+       "likes": 1,
+       "comments": null
+      }
+     ]
     },
     {
      "platform": "instagram",
@@ -74,7 +100,6 @@
       "followers": null,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
       "views_recent": 0
      },
      "posts": []
@@ -82,17 +107,30 @@
     {
      "platform": "instagram",
      "status": "ok",
-     "missing": [],
+     "missing": [
+      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
      "handle": "@hajrnews",
      "totals": {
       "followers": 0,
       "following": 0,
-      "posts_count": 0,
+      "posts_count": 1,
       "likes_recent": 0,
       "comments_recent": 0,
-      "views_recent": 0
+      "views_recent": null
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "17953323234289166",
+       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nتواصل أسعار النفط صعودها في ظل استمرار المخاوف الم",
+       "url": "https://www.instagram.com/reel/De0-m2Wigrv/",
+       "published": "2026-10-23T07:04:33+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      }
+     ]
     },
     {
      "platform": "threads",
@@ -104,9 +142,20 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 0
+      "posts_count_recent": 1
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "18217509889348327",
+       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nأسعار_النفط #الشرق_الأوسط #الإمدادات #أخبار_هجر #H",
+       "url": "https://www.threads.com/@hajrnews/post/De0-2nfANhR",
+       "published": "2026-10-23T07:06:43+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -128,7 +177,6 @@
       "followers": null,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
       "views_recent": 0
      },
      "posts": []
@@ -168,11 +216,10 @@
  "history": {
   "2026-10-23": {
    "Pulse/youtube": {
-    "followers": null,
+    "followers": 1,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 13
    },
    "Pulse/instagram": {
     "followers": 0,
@@ -191,27 +238,25 @@
     "followers": null,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
     "views_recent": 0
    },
    "News/instagram": {
     "followers": 0,
     "following": 0,
-    "posts_count": 0,
+    "posts_count": 1,
     "likes_recent": 0,
     "comments_recent": 0,
-    "views_recent": 0
+    "views_recent": null
    },
    "News/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 0
+    "posts_count_recent": 1
    },
    "Quran/youtube": {
     "followers": null,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
     "views_recent": 0
    },
    "Quran/instagram": {
