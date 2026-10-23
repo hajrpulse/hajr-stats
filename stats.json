@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T16:27:07+03:00",
+ "generated_at": "2026-10-23T17:27:05+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -25,32 +25,15 @@
     },
     {
      "platform": "instagram",
-     "status": "ok",
+     "status": "error",
      "missing": [],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": 0,
-      "following": 0,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
+     "error": "HTTP 400: API access blocked."
     },
     {
      "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
+     "status": "error",
+     "missing": [],
+     "error": "HTTP 400: API access blocked."
     }
    ]
   },
@@ -77,76 +60,15 @@
     },
     {
      "platform": "instagram",
-     "status": "ok",
-     "missing": [
-      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrnews",
-     "totals": {
-      "followers": 0,
-      "following": 0,
-      "posts_count": 2,
-      "likes_recent": 1,
-      "comments_recent": 0,
-      "views_recent": null
-     },
-     "posts": [
-      {
-       "id": "18116448116037988",
-       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح\n\nتقارير إعلامية تتناول الأسباب التي قد تحول دون تحقيق فوز وا",
-       "url": "https://www.instagram.com/reel/De1G2RmAhLG/",
-       "published": "2026-10-23T08:16:35+0000",
-       "type": "VIDEO",
-       "likes": 0,
-       "comments": 0,
-       "views": null
-      },
-      {
-       "id": "17953323234289166",
-       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nتواصل أسعار النفط صعودها في ظل استمرار المخاوف الم",
-       "url": "https://www.instagram.com/reel/De0-m2Wigrv/",
-       "published": "2026-10-23T07:04:33+0000",
-       "type": "VIDEO",
-       "likes": 1,
-       "comments": 0,
-       "views": null
-      }
-     ]
+     "status": "error",
+     "missing": [],
+     "error": "HTTP 400: API access blocked."
     },
     {
      "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrnews",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 2
-     },
-     "posts": [
-      {
-       "id": "18130432502509441",
-       "title": "تساؤلات حول إمكانية عدم إسفار انتخابات إسرائيل عن فائز واضح\n\nتقارير إعلامية تتناول الأسباب التي قد تحول دون تحقيق فوز وا",
-       "url": "https://www.threads.com/@hajrnews/post/De1HGfViKAR",
-       "published": "2026-10-23T08:18:47+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "18217509889348327",
-       "title": "أسعار النفط تواصل الارتفاع بسبب مخاوف الإمدادات وصراعات الشرق الأوسط\n\nأسعار_النفط #الشرق_الأوسط #الإمدادات #أخبار_هجر #H",
-       "url": "https://www.threads.com/@hajrnews/post/De0-2nfANhR",
-       "published": "2026-10-23T07:06:43+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      }
-     ]
+     "status": "error",
+     "missing": [],
+     "error": "HTTP 400: API access blocked."
     }
    ]
   },
@@ -174,32 +96,15 @@
     },
     {
      "platform": "instagram",
-     "status": "ok",
+     "status": "error",
      "missing": [],
-     "handle": "@hajrquran",
-     "totals": {
-      "followers": 0,
-      "following": 0,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
+     "error": "HTTP 400: API access blocked."
     },
     {
      "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrquran",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
+     "status": "error",
+     "missing": [],
+     "error": "HTTP 400: API access blocked."
     }
    ]
   }
@@ -211,56 +116,23 @@
     "views": null,
     "posts_count": null
    },
-   "Pulse/instagram": {
-    "followers": 0,
-    "following": 0,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Pulse/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   },
+   "Pulse/instagram": {},
+   "Pulse/threads": {},
    "News/youtube": {
     "followers": null,
     "views": null,
     "posts_count": null
    },
-   "News/instagram": {
-    "followers": 0,
-    "following": 0,
-    "posts_count": 2,
-    "likes_recent": 1,
-    "comments_recent": 0,
-    "views_recent": null
-   },
-   "News/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 2
-   },
+   "News/instagram": {},
+   "News/threads": {},
    "Quran/youtube": {
     "followers": null,
     "views": null,
     "posts_count": null,
     "views_recent": 0
    },
-   "Quran/instagram": {
-    "followers": 0,
-    "following": 0,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Quran/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   }
+   "Quran/instagram": {},
+   "Quran/threads": {}
   }
  }
 }
