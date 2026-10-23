@@ -1,0 +1,232 @@
+{
+ "generated_at": "2026-10-23T09:26:51+03:00",
+ "timezone": "Asia/Riyadh",
+ "accounts": [
+  {
+   "name": "Pulse",
+   "folder": "C:\\hajr-pulse-auto",
+   "platforms": [
+    {
+     "platform": "youtube",
+     "handle": "@HAJRPulseOfficial",
+     "status": "ok",
+     "missing": [
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCbEfmXp9CbLqIj_FMH8w26A",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count": null,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": 0,
+      "following": 0,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
+    }
+   ]
+  },
+  {
+   "name": "News",
+   "folder": "C:\\hajr-news-auto",
+   "platforms": [
+    {
+     "platform": "youtube",
+     "handle": "@HAJRNews",
+     "status": "ok",
+     "missing": [
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCcaxs8BmR5oVqOX0_Ic2RHw",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count": null,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrnews",
+     "totals": {
+      "followers": 0,
+      "following": 0,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrnews",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
+    }
+   ]
+  },
+  {
+   "name": "Quran",
+   "folder": "C:\\hajr-quran-auto",
+   "platforms": [
+    {
+     "platform": "youtube",
+     "handle": "@HAJRQuran",
+     "status": "ok",
+     "missing": [
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count": null,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrquran",
+     "totals": {
+      "followers": 0,
+      "following": 0,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrquran",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
+    }
+   ]
+  }
+ ],
+ "history": {
+  "2026-10-23": {
+   "Pulse/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Pulse/instagram": {
+    "followers": 0,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
+   "News/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "News/instagram": {
+    "followers": 0,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "News/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 0,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   }
+  }
+ }
+}
