@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T00:27:07+03:00",
+ "generated_at": "2026-10-24T01:27:04+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -89,7 +89,7 @@
       "followers": 2,
       "views": null,
       "posts_count": null,
-      "views_recent": 308
+      "views_recent": 323
      },
      "posts": [
       {
@@ -97,8 +97,8 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 308,
-       "likes": 36,
+       "views": 323,
+       "likes": 37,
        "comments": null
       }
      ]
@@ -162,7 +162,7 @@
     "followers": 2,
     "views": null,
     "posts_count": null,
-    "views_recent": 308
+    "views_recent": 323
    },
    "Quran/instagram": {},
    "Quran/threads": {}
