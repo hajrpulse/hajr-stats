@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T00:30:25+03:00",
+ "generated_at": "2026-10-25T01:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,8 +16,58 @@
      "totals": {
       "followers": 1,
       "views": 0,
+      "posts_count": 1,
+      "views_recent": 3,
+      "likes_recent": 0,
+      "comments_recent": 0
+     },
+     "posts": [
+      {
+       "id": "pw_9wStcTFM",
+       "title": "ماذا يحدث لجسمك ودماغك عند المشي 30 دقيقة يومياً؟ 🫀🧠 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/pw_9wStcTFM",
+       "published": "2026-10-24T22:18:45Z",
+       "views": 3,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "1EqygkMBTSQ",
+       "title": "What Happens to Your Brain & Heart When You Walk 30 Minutes Daily? 🫀🧠 | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/1EqygkMBTSQ",
+       "published": "2026-10-24T22:18:33Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      }
+     ]
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": 2,
+      "following": 5,
       "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
       "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
      },
      "posts": []
     }
@@ -32,15 +82,15 @@
      "handle": "@HAJRQuran",
      "status": "ok",
      "missing": [
-      "oauth_stats: no token.json"
+      "oauth_stats: token.json has upload-only scope"
      ],
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
      "totals": {
-      "followers": 6,
+      "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 706
+      "views_recent": 700
      },
      "posts": [
       {
@@ -57,7 +107,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 148,
+       "views": 144,
        "likes": 17,
        "comments": null
       },
@@ -66,11 +116,40 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 557,
+       "views": 555,
        "likes": 43,
        "comments": null
       }
      ]
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrquran",
+     "totals": {
+      "followers": 4,
+      "following": 0,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrquran",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
     }
    ]
   },
@@ -88,18 +167,81 @@
      "totals": {
       "followers": 2,
       "views": 0,
-      "posts_count": 1,
-      "views_recent": 4,
+      "posts_count": 8,
+      "views_recent": 11,
       "likes_recent": 0,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "xvgfuke206s",
+       "title": "UFC 333 Event Coverage #Shorts",
+       "url": "https://youtube.com/shorts/xvgfuke206s",
+       "published": "2026-10-24T22:04:42Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "Y_h2hssDCwE",
+       "title": "Достоверный Хадис Бухари и Муслим #1: Поистине, дела оцениваются по намерениям 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/Y_h2hssDCwE",
+       "published": "2026-10-24T21:38:00Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "67dnsb_vWlY",
+       "title": "Sahih Buhari ve Müslim Hadis #1: Ameller Niyetlere Göredir 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/67dnsb_vWlY",
+       "published": "2026-10-24T21:37:59Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "5fEns2e5UKo",
+       "title": "صحیح بخاری و مسلم حدیث #1: اعمال کا دارومدار نیتوں پر ہے 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/5fEns2e5UKo",
+       "published": "2026-10-24T21:37:52Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "P4nilarMHmM",
+       "title": "Hadith Authentique Bukhari & Muslim #1 : Les actes ne valent que par les intentions 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/P4nilarMHmM",
+       "published": "2026-10-24T21:37:52Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "bR9NBBAZho8",
+       "title": "Hadiz Auténtico Bujari y Muslim #1: Las acciones dependen de las intenciones 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/bR9NBBAZho8",
+       "published": "2026-10-24T21:37:50Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "hmTMvB-pF7U",
+       "title": "Hadits Shahih Bukhari & Muslim #1: Sesungguhnya Amal Itu Tergantung Niatnya 🕌 #Shorts",
+       "url": "https://youtube.com/shorts/hmTMvB-pF7U",
+       "published": "2026-10-24T21:37:41Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "oIp0v9V1x9Y",
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 4,
+       "views": 11,
        "likes": 0,
        "comments": 0
       }
@@ -152,12 +294,33 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 0,
+      "followers": 1,
       "views": 0,
-      "posts_count": 0,
-      "views_recent": 0
+      "posts_count": 2,
+      "views_recent": 4,
+      "likes_recent": 2,
+      "comments_recent": 0
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "HEChlkd-D14",
+       "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/HEChlkd-D14",
+       "published": "2026-10-24T21:37:36Z",
+       "views": 3,
+       "likes": 1,
+       "comments": 0
+      },
+      {
+       "id": "nTonuQDGre4",
+       "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/nTonuQDGre4",
+       "published": "2026-10-24T21:37:35Z",
+       "views": 1,
+       "likes": 1,
+       "comments": 0
+      }
+     ]
     }
    ]
   },
@@ -175,33 +338,163 @@
      "totals": {
       "followers": 1,
       "views": 0,
-      "posts_count": 0,
-      "views_recent": 0
+      "posts_count": 2,
+      "views_recent": 2,
+      "likes_recent": 0,
+      "comments_recent": 0
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "DmD0hAELEgY",
+       "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
+       "url": "https://youtube.com/shorts/DmD0hAELEgY",
+       "published": "2026-10-24T21:37:35Z",
+       "views": 2,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "x5n__SBSmSw",
+       "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science 🌿 | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/x5n__SBSmSw",
+       "published": "2026-10-24T21:37:34Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      }
+     ]
     }
    ]
   }
  ],
  "history": {
+  "2026-10-23": {
+   "Pulse/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null
+   },
+   "Pulse/instagram": {},
+   "Pulse/threads": {},
+   "News/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null
+   },
+   "News/instagram": {},
+   "News/threads": {},
+   "Quran/youtube": {
+    "followers": 2,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 272
+   },
+   "Quran/instagram": {},
+   "Quran/threads": {}
+  },
+  "2026-10-24": {
+   "Pulse/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null
+   },
+   "Pulse/instagram": {
+    "followers": 0,
+    "following": 1,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
+   "News/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null
+   },
+   "News/instagram": {
+    "followers": 1,
+    "following": 0,
+    "posts_count": 1,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": null
+   },
+   "News/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 1
+   },
+   "Quran/youtube": {
+    "followers": 5,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 685
+   },
+   "Quran/instagram": {
+    "followers": 0,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   }
+  },
   "2026-10-25": {
    "Pulse/youtube": {
     "followers": 1,
     "views": 0,
+    "posts_count": 1,
+    "views_recent": 3,
+    "likes_recent": 0,
+    "comments_recent": 0
+   },
+   "Pulse/instagram": {
+    "followers": 2,
+    "following": 5,
     "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
     "views_recent": 0
    },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
    "Quran/youtube": {
-    "followers": 6,
+    "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 706
+    "views_recent": 700
+   },
+   "Quran/instagram": {
+    "followers": 4,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
    },
    "Sunnah/youtube": {
     "followers": 2,
     "views": 0,
-    "posts_count": 1,
-    "views_recent": 4,
+    "posts_count": 8,
+    "views_recent": 11,
     "likes_recent": 0,
     "comments_recent": 0
    },
@@ -212,16 +505,20 @@
     "views_recent": 14
    },
    "AI/youtube": {
-    "followers": 0,
+    "followers": 1,
     "views": 0,
-    "posts_count": 0,
-    "views_recent": 0
+    "posts_count": 2,
+    "views_recent": 4,
+    "likes_recent": 2,
+    "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 1,
     "views": 0,
-    "posts_count": 0,
-    "views_recent": 0
+    "posts_count": 2,
+    "views_recent": 2,
+    "likes_recent": 0,
+    "comments_recent": 0
    }
   }
  }
