@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T00:27:07+03:00",
+ "generated_at": "2026-10-25T00:30:25+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -8,125 +8,18 @@
    "platforms": [
     {
      "platform": "youtube",
-     "handle": "@HAJRPulseOfficial",
-     "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
-     ],
-     "source": "public_page+rss",
-     "channel_id": null,
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count": null
-     },
-     "posts": []
-    },
-    {
-     "platform": "instagram",
+     "handle": "@HAJRPulse",
      "status": "ok",
      "missing": [],
-     "handle": "@hajrpulse",
+     "source": "public_page+rss+oauth",
+     "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 0,
-      "following": 5,
+      "followers": 1,
+      "views": 0,
       "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
       "views_recent": 0
      },
      "posts": []
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
-    }
-   ]
-  },
-  {
-   "name": "News",
-   "folder": "C:\\hajr-news-auto",
-   "platforms": [
-    {
-     "platform": "youtube",
-     "handle": "@HAJRNews",
-     "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
-     ],
-     "source": "public_page+rss",
-     "channel_id": null,
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count": null
-     },
-     "posts": []
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [
-      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrsunnah",
-     "totals": {
-      "followers": 2,
-      "following": 0,
-      "posts_count": 1,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": null
-     },
-     "posts": [
-      {
-       "id": "17990895960081449",
-       "title": "عن أمير المؤمنين أبي حفص عمر بن الخطاب رضي الله عنه قال: سمعت رسول الله ﷺ يقول:\n«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإ",
-       "url": "https://www.instagram.com/reel/De4yFUzPpXF/",
-       "published": "2026-10-24T18:32:15+0000",
-       "type": "VIDEO",
-       "likes": 0,
-       "comments": 0,
-       "views": null
-      }
-     ]
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrsunnah",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 1
-     },
-     "posts": [
-      {
-       "id": "18054922919802697",
-       "title": "حديث #1: «إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى» ﷺ 🕌\nرواه البخاري (#1) ومسلم (#1907) ",
-       "url": "https://www.threads.com/@hajrsunnah/post/De4yVZBDgZ0",
-       "published": "2026-10-24T18:34:10+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      }
-     ]
     }
    ]
   },
@@ -139,7 +32,7 @@
      "handle": "@HAJRQuran",
      "status": "ok",
      "missing": [
-      "oauth_stats: token.json has upload-only scope"
+      "oauth_stats: no token.json"
      ],
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
@@ -147,7 +40,7 @@
       "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 700
+      "views_recent": 706
      },
      "posts": [
       {
@@ -164,7 +57,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 144,
+       "views": 148,
        "likes": 17,
        "comments": null
       },
@@ -173,38 +66,117 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 555,
+       "views": 557,
        "likes": 43,
        "comments": null
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "name": "Sunnah",
+   "folder": "C:\\hajr-sunnah-auto",
+   "platforms": [
     {
-     "platform": "instagram",
+     "platform": "youtube",
+     "handle": "@HAJRSunnah",
      "status": "ok",
      "missing": [],
-     "handle": "@hajrquran",
+     "source": "public_page+rss+oauth",
+     "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 2,
-      "following": 0,
-      "posts_count": 0,
+      "views": 0,
+      "posts_count": 1,
+      "views_recent": 4,
       "likes_recent": 0,
-      "comments_recent": 0,
+      "comments_recent": 0
+     },
+     "posts": [
+      {
+       "id": "oIp0v9V1x9Y",
+       "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
+       "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
+       "published": "2026-10-24T18:30:41Z",
+       "views": 4,
+       "likes": 0,
+       "comments": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BaytAbuHamza",
+   "folder": "C:\\hajr-family-auto",
+   "platforms": [
+    {
+     "platform": "youtube",
+     "handle": "@baytabuhamza",
+     "status": "ok",
+     "missing": [
+      "oauth_stats: no token.json"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
+     "totals": {
+      "followers": 5,
+      "views": null,
+      "posts_count": null,
+      "views_recent": 14
+     },
+     "posts": [
+      {
+       "id": "IrN8NAUu0GM",
+       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
+       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
+       "published": "2026-10-24T20:28:27+00:00",
+       "views": 14,
+       "likes": 4,
+       "comments": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "AI",
+   "folder": "C:\\hajr-ai-auto",
+   "platforms": [
+    {
+     "platform": "youtube",
+     "handle": "@HAJRAIOfficial",
+     "status": "ok",
+     "missing": [],
+     "source": "public_page+rss+oauth",
+     "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
+     "totals": {
+      "followers": 0,
+      "views": 0,
+      "posts_count": 0,
       "views_recent": 0
      },
      "posts": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Shifa",
+   "folder": "C:\\hajr-shifa-auto",
+   "platforms": [
     {
-     "platform": "threads",
+     "platform": "youtube",
+     "handle": "@HAJRShifa",
      "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrquran",
+     "missing": [],
+     "source": "public_page+rss+oauth",
+     "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
+      "followers": 1,
+      "views": 0,
+      "posts_count": 0,
+      "views_recent": 0
      },
      "posts": []
     }
@@ -212,142 +184,44 @@
   }
  ],
  "history": {
-  "2026-10-23": {
-   "Pulse/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "Pulse/instagram": {},
-   "Pulse/threads": {},
-   "News/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "News/instagram": {},
-   "News/threads": {},
-   "Quran/youtube": {
-    "followers": 2,
-    "views": null,
-    "posts_count": null,
-    "views_recent": 272
-   },
-   "Quran/instagram": {},
-   "Quran/threads": {}
-  },
-  "2026-10-24": {
-   "Pulse/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "Pulse/instagram": {
-    "followers": 0,
-    "following": 1,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Pulse/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   },
-   "News/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "News/instagram": {
-    "followers": 1,
-    "following": 0,
-    "posts_count": 1,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": null
-   },
-   "News/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 1
-   },
-   "Quran/youtube": {
-    "followers": 5,
-    "views": null,
-    "posts_count": null,
-    "views_recent": 685
-   },
-   "Quran/instagram": {
-    "followers": 0,
-    "following": 0,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Quran/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   }
-  },
   "2026-10-25": {
    "Pulse/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "Pulse/instagram": {
-    "followers": 0,
-    "following": 5,
+    "followers": 1,
+    "views": 0,
     "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
     "views_recent": 0
-   },
-   "Pulse/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   },
-   "News/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "News/instagram": {
-    "followers": 2,
-    "following": 0,
-    "posts_count": 1,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": null
-   },
-   "News/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 1
    },
    "Quran/youtube": {
     "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 700
+    "views_recent": 706
    },
-   "Quran/instagram": {
+   "Sunnah/youtube": {
     "followers": 2,
-    "following": 0,
-    "posts_count": 0,
+    "views": 0,
+    "posts_count": 1,
+    "views_recent": 4,
     "likes_recent": 0,
-    "comments_recent": 0,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 5,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 14
+   },
+   "AI/youtube": {
+    "followers": 0,
+    "views": 0,
+    "posts_count": 0,
     "views_recent": 0
    },
-   "Quran/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
+   "Shifa/youtube": {
+    "followers": 1,
+    "views": 0,
+    "posts_count": 0,
+    "views_recent": 0
    }
   }
  }
