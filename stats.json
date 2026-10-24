@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T05:27:03+03:00",
+ "generated_at": "2026-10-24T06:27:03+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -86,7 +86,7 @@
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
      "totals": {
-      "followers": 2,
+      "followers": 3,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -150,7 +150,7 @@
    "News/instagram": {},
    "News/threads": {},
    "Quran/youtube": {
-    "followers": 2,
+    "followers": 3,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
