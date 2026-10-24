@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T01:27:09+03:00",
+ "generated_at": "2026-10-25T02:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -14,14 +14,32 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 1,
+      "followers": 2,
       "views": 0,
-      "posts_count": 1,
-      "views_recent": 3,
-      "likes_recent": 0,
+      "posts_count": 2,
+      "views_recent": 12,
+      "likes_recent": 1,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "aYUw-EL40hk",
+       "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/aYUw-EL40hk",
+       "published": "2026-10-24T22:33:37Z",
+       "views": 6,
+       "likes": 1,
+       "comments": 0
+      },
+      {
+       "id": "Xjs_9u7e8Do",
+       "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
+       "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
+       "published": "2026-10-24T22:33:19Z",
+       "views": 3,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "pw_9wStcTFM",
        "title": "ماذا يحدث لجسمك ودماغك عند المشي 30 دقيقة يومياً؟ 🫀🧠 | هجر بلس #Shorts",
@@ -48,7 +66,7 @@
      "missing": [],
      "handle": "@hajrpulse",
      "totals": {
-      "followers": 2,
+      "followers": 3,
       "following": 5,
       "posts_count": 0,
       "likes_recent": 0,
@@ -90,7 +108,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 700
+      "views_recent": 715
      },
      "posts": [
       {
@@ -98,8 +116,8 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 1,
-       "likes": 0,
+       "views": 16,
+       "likes": 1,
        "comments": null
       },
       {
@@ -128,7 +146,7 @@
      "missing": [],
      "handle": "@hajrquran",
      "totals": {
-      "followers": 4,
+      "followers": 5,
       "following": 0,
       "posts_count": 0,
       "likes_recent": 0,
@@ -165,73 +183,28 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 2,
+      "followers": 3,
       "views": 0,
-      "posts_count": 8,
-      "views_recent": 11,
-      "likes_recent": 0,
-      "comments_recent": 0
+      "posts_count": 5,
+      "views_recent": 32,
+      "likes_recent": 3,
+      "comments_recent": 1
      },
      "posts": [
       {
-       "id": "xvgfuke206s",
-       "title": "UFC 333 Event Coverage #Shorts",
-       "url": "https://youtube.com/shorts/xvgfuke206s",
-       "published": "2026-10-24T22:04:42Z",
+       "id": "QvoQCjQmq9E",
+       "title": "اعمال کا دارومدار نیتوں پر ہے | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/QvoQCjQmq9E",
+       "published": "2026-10-24T22:38:26Z",
        "views": 0,
        "likes": 0,
        "comments": 0
       },
       {
-       "id": "Y_h2hssDCwE",
-       "title": "Достоверный Хадис Бухари и Муслим #1: Поистине, дела оцениваются по намерениям 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/Y_h2hssDCwE",
-       "published": "2026-10-24T21:38:00Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "67dnsb_vWlY",
-       "title": "Sahih Buhari ve Müslim Hadis #1: Ameller Niyetlere Göredir 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/67dnsb_vWlY",
-       "published": "2026-10-24T21:37:59Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "5fEns2e5UKo",
-       "title": "صحیح بخاری و مسلم حدیث #1: اعمال کا دارومدار نیتوں پر ہے 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/5fEns2e5UKo",
-       "published": "2026-10-24T21:37:52Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "P4nilarMHmM",
-       "title": "Hadith Authentique Bukhari & Muslim #1 : Les actes ne valent que par les intentions 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/P4nilarMHmM",
-       "published": "2026-10-24T21:37:52Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "bR9NBBAZho8",
-       "title": "Hadiz Auténtico Bujari y Muslim #1: Las acciones dependen de las intenciones 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/bR9NBBAZho8",
-       "published": "2026-10-24T21:37:50Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "hmTMvB-pF7U",
-       "title": "Hadits Shahih Bukhari & Muslim #1: Sesungguhnya Amal Itu Tergantung Niatnya 🕌 #Shorts",
-       "url": "https://youtube.com/shorts/hmTMvB-pF7U",
-       "published": "2026-10-24T21:37:41Z",
+       "id": "FMI2D4QKScg",
+       "title": "Hadits Niat | Setiap Amal Tergantung Niatnya • HR. Bukhari & Muslim #Shorts",
+       "url": "https://youtube.com/shorts/FMI2D4QKScg",
+       "published": "2026-10-24T22:38:24Z",
        "views": 0,
        "likes": 0,
        "comments": 0
@@ -241,9 +214,9 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 11,
-       "likes": 0,
-       "comments": 0
+       "views": 32,
+       "likes": 3,
+       "comments": 1
       }
      ]
     }
@@ -263,19 +236,28 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 5,
+      "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 14
+      "views_recent": 18
      },
      "posts": [
+      {
+       "id": "HBW_BB901X0",
+       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
+       "url": "https://youtube.com/shorts/HBW_BB901X0",
+       "published": "2026-10-24T23:06:13+00:00",
+       "views": 2,
+       "likes": 1,
+       "comments": null
+      },
       {
        "id": "IrN8NAUu0GM",
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 14,
-       "likes": 4,
+       "views": 16,
+       "likes": 5,
        "comments": null
       }
      ]
@@ -294,7 +276,7 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 1,
+      "followers": 2,
       "views": 0,
       "posts_count": 2,
       "views_recent": 4,
@@ -336,11 +318,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 1,
+      "followers": 2,
       "views": 0,
       "posts_count": 2,
-      "views_recent": 2,
-      "likes_recent": 0,
+      "views_recent": 5,
+      "likes_recent": 2,
       "comments_recent": 0
      },
      "posts": [
@@ -349,8 +331,8 @@
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
        "url": "https://youtube.com/shorts/DmD0hAELEgY",
        "published": "2026-10-24T21:37:35Z",
-       "views": 2,
-       "likes": 0,
+       "views": 5,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -451,15 +433,15 @@
   },
   "2026-10-25": {
    "Pulse/youtube": {
-    "followers": 1,
+    "followers": 2,
     "views": 0,
-    "posts_count": 1,
-    "views_recent": 3,
-    "likes_recent": 0,
+    "posts_count": 2,
+    "views_recent": 12,
+    "likes_recent": 1,
     "comments_recent": 0
    },
    "Pulse/instagram": {
-    "followers": 2,
+    "followers": 3,
     "following": 5,
     "posts_count": 0,
     "likes_recent": 0,
@@ -475,10 +457,10 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 700
+    "views_recent": 715
    },
    "Quran/instagram": {
-    "followers": 4,
+    "followers": 5,
     "following": 0,
     "posts_count": 0,
     "likes_recent": 0,
@@ -491,21 +473,21 @@
     "posts_count_recent": 0
    },
    "Sunnah/youtube": {
-    "followers": 2,
+    "followers": 3,
     "views": 0,
-    "posts_count": 8,
-    "views_recent": 11,
-    "likes_recent": 0,
-    "comments_recent": 0
+    "posts_count": 5,
+    "views_recent": 32,
+    "likes_recent": 3,
+    "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 5,
+    "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 14
+    "views_recent": 18
    },
    "AI/youtube": {
-    "followers": 1,
+    "followers": 2,
     "views": 0,
     "posts_count": 2,
     "views_recent": 4,
@@ -513,11 +495,11 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 1,
+    "followers": 2,
     "views": 0,
     "posts_count": 2,
-    "views_recent": 2,
-    "likes_recent": 0,
+    "views_recent": 5,
+    "likes_recent": 2,
     "comments_recent": 0
    }
   }
