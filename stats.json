@@ -1,288 +1,617 @@
 {
- "generated_at": "2026-10-24T22:27:07+03:00",
- "timezone": "Asia/Riyadh",
- "accounts": [
-  {
-   "name": "Pulse",
-   "folder": "C:\\hajr-pulse-auto",
-   "platforms": [
+  "generated_at": "2026-10-24T22:25:00+03:00",
+  "timezone": "Asia/Riyadh",
+  "accounts": [
     {
-     "platform": "youtube",
-     "handle": "@HAJRPulseOfficial",
-     "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
-     ],
-     "source": "public_page+rss",
-     "channel_id": null,
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count": null
-     },
-     "posts": []
+      "name": "Pulse",
+      "label": "HAJR Pulse | هجر بلس",
+      "folder": "C:\\hajr-pulse-auto",
+      "email": "s05553073@gmail.com (YouTube) / hajrpulse.official@gmail.com (Social)",
+      "page_url": "https://hajrpulse.github.io/pulse.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@HAJRPulse",
+          "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
+          "url": "https://www.youtube.com/@HAJRPulse",
+          "email": "s05553073@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "source": "public_page+rss",
+          "totals": {
+            "followers": 1,
+            "views": 0,
+            "posts_count": 0,
+            "views_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "instagram",
+          "handle": "@hajrpulse",
+          "url": "https://www.instagram.com/hajrpulse/",
+          "email": "hajrpulse.official@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "following": 0,
+            "posts_count": 0,
+            "likes_recent": 0,
+            "comments_recent": 0,
+            "views_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "threads",
+          "handle": "@hajrpulse",
+          "url": "https://www.threads.net/@hajrpulse",
+          "email": "hajrpulse.official@gmail.com",
+          "status": "ok",
+          "missing": [
+            "account insights (needs threads_manage_insights)"
+          ],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "tiktok",
+          "handle": "@hajrpulse",
+          "url": "https://www.tiktok.com/@hajrpulse",
+          "email": "hajrpulse.official@gmail.com",
+          "status": "ok",
+          "missing": [
+            "بانتظار ربط مفاتيح Sandbox في ملف الإحصاءات"
+          ],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "telegram",
+          "handle": "@VibeMediaSignals_bot",
+          "url": "https://t.me/VibeMediaSignals_bot",
+          "email": "hajrpulse.official@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": null
+          },
+          "posts": []
+        },
+        {
+          "platform": "redz",
+          "handle": "@hajrpulse",
+          "url": "https://hajrpulse.github.io/pulse.html",
+          "email": "hajrpulse.official@gmail.com",
+          "status": "ready",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          },
+          "posts": []
+        }
+      ]
     },
     {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": 0,
-      "following": 1,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
+      "name": "Quran",
+      "label": "HAJR Quran | هجر قرآن",
+      "folder": "C:\\hajr-quran-auto",
+      "email": "hajrpulse@gmail.com (YouTube) / hajrpulse.official+quran@gmail.com (Social)",
+      "page_url": "https://hajrpulse.github.io/quran.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@HAJRQuran",
+          "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
+          "url": "https://www.youtube.com/@HAJRQuran",
+          "email": "hajrpulse@gmail.com",
+          "status": "ok",
+          "missing": [
+            "oauth_stats: token.json has upload-only scope"
+          ],
+          "source": "public_page+rss",
+          "totals": {
+            "followers": 5,
+            "views": null,
+            "posts_count": 2,
+            "views_recent": 626
+          },
+          "posts": [
+            {
+              "id": "42ixawDwY8Q",
+              "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
+              "url": "https://youtube.com/shorts/42ixawDwY8Q",
+              "published": "2026-10-24T15:49:12+00:00",
+              "views": 83,
+              "likes": 16,
+              "comments": null
+            },
+            {
+              "id": "rkrExUj7xLI",
+              "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
+              "url": "https://youtube.com/shorts/rkrExUj7xLI",
+              "published": "2026-10-23T16:05:11+00:00",
+              "views": 536,
+              "likes": 42,
+              "comments": null
+            }
+          ]
+        },
+        {
+          "platform": "instagram",
+          "handle": "@hajrquran",
+          "url": "https://www.instagram.com/hajrquran/",
+          "email": "hajrpulse.official+quran@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "following": 0,
+            "posts_count": 0,
+            "likes_recent": 0,
+            "comments_recent": 0,
+            "views_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "threads",
+          "handle": "@hajrquran",
+          "url": "https://www.threads.net/@hajrquran",
+          "email": "hajrpulse.official+quran@gmail.com",
+          "status": "ok",
+          "missing": [
+            "account insights (needs threads_manage_insights)"
+          ],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "telegram",
+          "handle": "@hajr_quran_bot",
+          "url": "https://t.me/hajr_quran_bot",
+          "email": "hajrpulse.official+quran@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": null
+          },
+          "posts": []
+        },
+        {
+          "platform": "redz",
+          "handle": "@hajrquran",
+          "url": "https://hajrpulse.github.io/quran.html",
+          "email": "hajrpulse.official+quran@gmail.com",
+          "status": "ready",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          },
+          "posts": []
+        }
+      ]
     },
     {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
+      "name": "Sunnah",
+      "label": "HAJR Sunnah | هجر سُنّة",
+      "folder": "C:\\hajr-sunnah-auto",
+      "email": "j61076776@gmail.com",
+      "page_url": "https://hajrpulse.github.io/sunnah.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@HAJRSunnah",
+          "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
+          "url": "https://www.youtube.com/@HAJRSunnah",
+          "email": "j61076776@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "source": "public_page+rss",
+          "totals": {
+            "followers": 1,
+            "views": 0,
+            "posts_count": 1,
+            "views_recent": 0
+          },
+          "posts": [
+            {
+              "id": "oIp0v9V1x9Y",
+              "title": "حديث «إنما الأعمال بالنيات» (متفق عليه — البخاري ومسلم) #Shorts",
+              "url": "https://www.youtube.com/shorts/oIp0v9V1x9Y",
+              "published": "2026-10-24T18:15:00+00:00",
+              "views": 1,
+              "likes": 1,
+              "comments": 0
+            }
+          ]
+        },
+        {
+          "platform": "instagram",
+          "handle": "@hajrsunnah",
+          "url": "https://www.instagram.com/hajrsunnah/",
+          "email": "j61076776@gmail.com",
+          "status": "ok",
+          "missing": [
+            "insights (needs instagram_business_manage_insights)"
+          ],
+          "totals": {
+            "followers": 0,
+            "following": 0,
+            "posts_count": 1,
+            "likes_recent": 1,
+            "comments_recent": 0,
+            "views_recent": null
+          },
+          "posts": [
+            {
+              "id": "De4yFUzPpXF",
+              "title": "حديث «إنما الأعمال بالنيات» — @hajrsunnah",
+              "url": "https://www.instagram.com/hajrsunnah/reel/De4yFUzPpXF/",
+              "published": "2026-10-24T18:16:00+0000",
+              "type": "VIDEO",
+              "likes": 1,
+              "comments": 0,
+              "views": null
+            }
+          ]
+        },
+        {
+          "platform": "threads",
+          "handle": "@hajrsunnah",
+          "url": "https://www.threads.net/@hajrsunnah",
+          "email": "j61076776@gmail.com",
+          "status": "ok",
+          "missing": [
+            "account insights (needs threads_manage_insights)"
+          ],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count_recent": 1
+          },
+          "posts": [
+            {
+              "id": "De4yVZBDgZ0",
+              "title": "حديث «إنما الأعمال بالنيات» — @hajrsunnah",
+              "url": "https://www.threads.com/@hajrsunnah/post/De4yVZBDgZ0",
+              "published": "2026-10-24T18:18:00+0000",
+              "type": "VIDEO",
+              "views": null,
+              "likes": null,
+              "comments": null
+            }
+          ]
+        },
+        {
+          "platform": "telegram",
+          "handle": "@HAJRNewsAlertsBot",
+          "url": "https://t.me/HAJRNewsAlertsBot",
+          "email": "j61076776@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": null
+          },
+          "posts": []
+        },
+        {
+          "platform": "redz",
+          "handle": "@hajrsunnah",
+          "url": "https://hajrpulse.github.io/sunnah.html",
+          "email": "j61076776@gmail.com",
+          "status": "ready",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          },
+          "posts": []
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "label": "HAJR AI | هجر للذكاء الاصطناعي",
+      "folder": "C:\\hajr-ai-auto",
+      "email": "saed45449@gmail.com",
+      "page_url": "https://hajrpulse.github.io/ai.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@HAJRAI",
+          "url": "https://www.youtube.com/@HAJRAI",
+          "email": "saed45449@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "instagram",
+          "handle": "@hajrai",
+          "url": "https://www.instagram.com/hajrai/",
+          "email": "saed45449@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "threads",
+          "handle": "@hajrai",
+          "url": "https://www.threads.net/@hajrai",
+          "email": "saed45449@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "telegram",
+          "handle": "@VibeMediaSignals_bot",
+          "url": "https://t.me/VibeMediaSignals_bot",
+          "email": "saed45449@gmail.com",
+          "status": "ok",
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": null
+          }
+        },
+        {
+          "platform": "redz",
+          "handle": "@hajrai",
+          "url": "https://hajrpulse.github.io/ai.html",
+          "email": "saed45449@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shifa",
+      "label": "HAJR Shifa | هجر شِفاء",
+      "folder": "C:\\hajr-shifa-auto",
+      "email": "s10223936@gmail.com",
+      "page_url": "https://hajrpulse.github.io/shifa.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@HAJRShifa",
+          "url": "https://www.youtube.com/@HAJRShifa",
+          "email": "s10223936@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "instagram",
+          "handle": "@hajrshifa",
+          "url": "https://www.instagram.com/hajrshifa/",
+          "email": "s10223936@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "threads",
+          "handle": "@hajrshifa",
+          "url": "https://www.threads.net/@hajrshifa",
+          "email": "s10223936@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        },
+        {
+          "platform": "telegram",
+          "handle": "@VibeMediaSignals_bot",
+          "url": "https://t.me/VibeMediaSignals_bot",
+          "email": "s10223936@gmail.com",
+          "status": "ok",
+          "totals": {
+            "followers": null,
+            "views": null,
+            "posts_count": null
+          }
+        },
+        {
+          "platform": "redz",
+          "handle": "@hajrshifa",
+          "url": "https://hajrpulse.github.io/shifa.html",
+          "email": "s10223936@gmail.com",
+          "status": "ready",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BaytAbuHamza",
+      "label": "بيت أبو حمزة | Bayt Abu Hamza",
+      "folder": "يدوي (بدون بوت)",
+      "email": "amjed.nawasra80@gmail.com (YouTube) / hajrpulse.official+family@gmail.com (IG)",
+      "page_url": "https://hajrpulse.github.io/baytabuhamza.html",
+      "platforms": [
+        {
+          "platform": "youtube",
+          "handle": "@baytabuhamza",
+          "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
+          "url": "https://www.youtube.com/@baytabuhamza",
+          "email": "amjed.nawasra80@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "source": "public_page+rss",
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0,
+            "views_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "instagram",
+          "handle": "@baytabuhamza",
+          "url": "https://www.instagram.com/baytabuhamza/",
+          "email": "hajrpulse.official+family@gmail.com",
+          "status": "ok",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "following": 0,
+            "posts_count": 0,
+            "likes_recent": 0,
+            "comments_recent": 0,
+            "views_recent": 0
+          },
+          "posts": []
+        },
+        {
+          "platform": "redz",
+          "handle": "@baytabuhamza",
+          "url": "https://hajrpulse.github.io/baytabuhamza.html",
+          "email": "amjed.nawasra80@gmail.com",
+          "status": "ready",
+          "missing": [],
+          "totals": {
+            "followers": 0,
+            "views": 0,
+            "posts_count": 0
+          },
+          "posts": []
+        }
+      ]
     }
-   ]
-  },
-  {
-   "name": "News",
-   "folder": "C:\\hajr-news-auto",
-   "platforms": [
-    {
-     "platform": "youtube",
-     "handle": "@HAJRNews",
-     "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
-     ],
-     "source": "public_page+rss",
-     "channel_id": null,
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count": null
-     },
-     "posts": []
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [
-      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrsunnah",
-     "totals": {
-      "followers": 1,
-      "following": 0,
-      "posts_count": 1,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": null
-     },
-     "posts": [
-      {
-       "id": "17990895960081449",
-       "title": "عن أمير المؤمنين أبي حفص عمر بن الخطاب رضي الله عنه قال: سمعت رسول الله ﷺ يقول:\n«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإ",
-       "url": "https://www.instagram.com/reel/De4yFUzPpXF/",
-       "published": "2026-10-24T18:32:15+0000",
-       "type": "VIDEO",
-       "likes": 0,
-       "comments": 0,
-       "views": null
-      }
-     ]
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrsunnah",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 1
-     },
-     "posts": [
-      {
-       "id": "18054922919802697",
-       "title": "حديث #1: «إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى» ﷺ 🕌\nرواه البخاري (#1) ومسلم (#1907) ",
-       "url": "https://www.threads.com/@hajrsunnah/post/De4yVZBDgZ0",
-       "published": "2026-10-24T18:34:10+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Quran",
-   "folder": "C:\\hajr-quran-auto",
-   "platforms": [
-    {
-     "platform": "youtube",
-     "handle": "@HAJRQuran",
-     "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope"
-     ],
-     "source": "public_page+rss",
-     "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
-     "totals": {
-      "followers": 5,
-      "views": null,
-      "posts_count": null,
-      "views_recent": 652
-     },
-     "posts": [
-      {
-       "id": "42ixawDwY8Q",
-       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
-       "url": "https://youtube.com/shorts/42ixawDwY8Q",
-       "published": "2026-10-24T15:49:12+00:00",
-       "views": 112,
-       "likes": 17,
-       "comments": null
+  ],
+  "history": {
+    "2026-10-23": {
+      "Pulse/youtube": {
+        "followers": null,
+        "views": null,
+        "posts_count": null
       },
-      {
-       "id": "rkrExUj7xLI",
-       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
-       "url": "https://youtube.com/shorts/rkrExUj7xLI",
-       "published": "2026-10-23T16:05:11+00:00",
-       "views": 540,
-       "likes": 43,
-       "comments": null
+      "Pulse/instagram": {},
+      "Pulse/threads": {},
+      "Quran/youtube": {
+        "followers": 2,
+        "views": null,
+        "posts_count": null,
+        "views_recent": 272
+      },
+      "Quran/instagram": {},
+      "Quran/threads": {}
+    },
+    "2026-10-24": {
+      "Pulse/youtube": {
+        "followers": 1,
+        "views": 0,
+        "posts_count": 0,
+        "views_recent": 0
+      },
+      "Pulse/instagram": {
+        "followers": 0,
+        "following": 0,
+        "posts_count": 0,
+        "likes_recent": 0,
+        "comments_recent": 0,
+        "views_recent": 0
+      },
+      "Pulse/threads": {
+        "followers": null,
+        "views": null,
+        "posts_count_recent": 0
+      },
+      "Quran/youtube": {
+        "followers": 5,
+        "views": null,
+        "posts_count": 2,
+        "views_recent": 619
+      },
+      "Quran/instagram": {
+        "followers": 0,
+        "following": 0,
+        "posts_count": 0,
+        "likes_recent": 0,
+        "comments_recent": 0,
+        "views_recent": 0
+      },
+      "Quran/threads": {
+        "followers": null,
+        "views": null,
+        "posts_count_recent": 0
+      },
+      "Sunnah/youtube": {
+        "followers": 1,
+        "views": 0,
+        "posts_count": 0,
+        "views_recent": 0
+      },
+      "Sunnah/instagram": {
+        "followers": 0,
+        "following": 0,
+        "posts_count": 2,
+        "likes_recent": 1,
+        "comments_recent": 0,
+        "views_recent": null
+      },
+      "Sunnah/threads": {
+        "followers": null,
+        "views": null,
+        "posts_count_recent": 2
+      },
+      "BaytAbuHamza/youtube": {
+        "followers": 0,
+        "views": 0,
+        "posts_count": 0,
+        "views_recent": 0
       }
-     ]
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [],
-     "handle": "@hajrquran",
-     "totals": {
-      "followers": 0,
-      "following": 0,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrquran",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
     }
-   ]
   }
- ],
- "history": {
-  "2026-10-23": {
-   "Pulse/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "Pulse/instagram": {},
-   "Pulse/threads": {},
-   "News/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "News/instagram": {},
-   "News/threads": {},
-   "Quran/youtube": {
-    "followers": 2,
-    "views": null,
-    "posts_count": null,
-    "views_recent": 272
-   },
-   "Quran/instagram": {},
-   "Quran/threads": {}
-  },
-  "2026-10-24": {
-   "Pulse/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "Pulse/instagram": {
-    "followers": 0,
-    "following": 1,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Pulse/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   },
-   "News/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null
-   },
-   "News/instagram": {
-    "followers": 1,
-    "following": 0,
-    "posts_count": 1,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": null
-   },
-   "News/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 1
-   },
-   "Quran/youtube": {
-    "followers": 5,
-    "views": null,
-    "posts_count": null,
-    "views_recent": 652
-   },
-   "Quran/instagram": {
-    "followers": 0,
-    "following": 0,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Quran/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
-   }
-  }
- }
 }
