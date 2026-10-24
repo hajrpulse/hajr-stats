@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:27:08+03:00",
+ "generated_at": "2026-10-24T22:27:07+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -30,7 +30,7 @@
      "handle": "@hajrpulse",
      "totals": {
       "followers": 0,
-      "following": 0,
+      "following": 1,
       "posts_count": 0,
       "likes_recent": 0,
       "comments_recent": 0,
@@ -78,17 +78,30 @@
     {
      "platform": "instagram",
      "status": "ok",
-     "missing": [],
+     "missing": [
+      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
      "handle": "@hajrsunnah",
      "totals": {
-      "followers": 0,
+      "followers": 1,
       "following": 0,
-      "posts_count": 0,
+      "posts_count": 1,
       "likes_recent": 0,
       "comments_recent": 0,
-      "views_recent": 0
+      "views_recent": null
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "17990895960081449",
+       "title": "عن أمير المؤمنين أبي حفص عمر بن الخطاب رضي الله عنه قال: سمعت رسول الله ﷺ يقول:\n«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإ",
+       "url": "https://www.instagram.com/reel/De4yFUzPpXF/",
+       "published": "2026-10-24T18:32:15+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      }
+     ]
     },
     {
      "platform": "threads",
@@ -96,13 +109,24 @@
      "missing": [
       "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
      ],
-     "handle": "@hajrnews",
+     "handle": "@hajrsunnah",
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 0
+      "posts_count_recent": 1
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "18054922919802697",
+       "title": "حديث #1: «إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى» ﷺ 🕌\nرواه البخاري (#1) ومسلم (#1907) ",
+       "url": "https://www.threads.com/@hajrsunnah/post/De4yVZBDgZ0",
+       "published": "2026-10-24T18:34:10+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -123,7 +147,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 620
+      "views_recent": 652
      },
      "posts": [
       {
@@ -131,8 +155,8 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 84,
-       "likes": 16,
+       "views": 112,
+       "likes": 17,
        "comments": null
       },
       {
@@ -140,8 +164,8 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 536,
-       "likes": 42,
+       "views": 540,
+       "likes": 43,
        "comments": null
       }
      ]
@@ -211,7 +235,7 @@
    },
    "Pulse/instagram": {
     "followers": 0,
-    "following": 0,
+    "following": 1,
     "posts_count": 0,
     "likes_recent": 0,
     "comments_recent": 0,
@@ -228,23 +252,23 @@
     "posts_count": null
    },
    "News/instagram": {
-    "followers": 0,
+    "followers": 1,
     "following": 0,
-    "posts_count": 0,
+    "posts_count": 1,
     "likes_recent": 0,
     "comments_recent": 0,
-    "views_recent": 0
+    "views_recent": null
    },
    "News/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 0
+    "posts_count_recent": 1
    },
    "Quran/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 620
+    "views_recent": 652
    },
    "Quran/instagram": {
     "followers": 0,
