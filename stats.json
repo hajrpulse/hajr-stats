@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T20:27:11+03:00",
+ "generated_at": "2026-10-25T21:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -117,7 +117,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 943
+      "views_recent": 946
      },
      "posts": [
       {
@@ -125,7 +125,7 @@
        "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/z5-a2i1jbto",
        "published": "2026-10-25T16:03:48+00:00",
-       "views": 0,
+       "views": 1,
        "likes": 1,
        "comments": null
       },
@@ -134,7 +134,7 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 114,
+       "views": 117,
        "likes": 13,
        "comments": null
       },
@@ -143,7 +143,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 206,
+       "views": 205,
        "likes": 20,
        "comments": null
       },
@@ -257,7 +257,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 84
+      "views_recent": 91
      },
      "posts": [
       {
@@ -265,8 +265,8 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 35,
-       "likes": 8,
+       "views": 43,
+       "likes": 9,
        "comments": null
       },
       {
@@ -274,7 +274,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 49,
+       "views": 48,
        "likes": 11,
        "comments": null
       }
@@ -296,18 +296,27 @@
      "totals": {
       "followers": 7,
       "views": 35,
-      "posts_count": 3,
-      "views_recent": 56,
+      "posts_count": 4,
+      "views_recent": 67,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "OpfjFCrnVlo",
+       "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/OpfjFCrnVlo",
+       "published": "2026-10-25T18:01:55Z",
+       "views": 2,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "qNxPKnzbfEw",
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 5,
+       "views": 11,
        "likes": 0,
        "comments": 0
       },
@@ -325,7 +334,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 31,
+       "views": 34,
        "likes": 3,
        "comments": 0
       }
@@ -502,7 +511,7 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 943
+    "views_recent": 946
    },
    "Quran/instagram": {
     "followers": 9,
@@ -529,13 +538,13 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 84
+    "views_recent": 91
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
-    "posts_count": 3,
-    "views_recent": 56,
+    "posts_count": 4,
+    "views_recent": 67,
     "likes_recent": 6,
     "comments_recent": 0
    },
