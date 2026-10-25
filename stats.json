@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:27:10+03:00",
+ "generated_at": "2026-10-25T22:49:27+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -237,6 +237,35 @@
        "comments": 1
       }
      ]
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": 5,
+      "following": 5,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
     }
    ]
   },
@@ -257,7 +286,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 92
+      "views_recent": 91
      },
      "posts": [
       {
@@ -274,7 +303,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 49,
+       "views": 48,
        "likes": 11,
        "comments": null
       }
@@ -297,7 +326,7 @@
       "followers": 7,
       "views": 35,
       "posts_count": 4,
-      "views_recent": 68,
+      "views_recent": 67,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -325,7 +354,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 21,
+       "views": 20,
        "likes": 3,
        "comments": 0
       },
@@ -339,6 +368,35 @@
        "comments": 0
       }
      ]
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": 5,
+      "following": 5,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
     }
    ]
   },
@@ -399,6 +457,35 @@
        "comments": 0
       }
      ]
+    },
+    {
+     "platform": "instagram",
+     "status": "ok",
+     "missing": [],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": 5,
+      "following": 5,
+      "posts_count": 0,
+      "likes_recent": 0,
+      "comments_recent": 0,
+      "views_recent": 0
+     },
+     "posts": []
+    },
+    {
+     "platform": "threads",
+     "status": "ok",
+     "missing": [
+      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
+     "handle": "@hajrpulse",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count_recent": 0
+     },
+     "posts": []
     }
    ]
   }
@@ -534,19 +621,45 @@
     "likes_recent": 3,
     "comments_recent": 1
    },
+   "Sunnah/instagram": {
+    "followers": 5,
+    "following": 5,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Sunnah/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 92
+    "views_recent": 91
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 4,
-    "views_recent": 68,
+    "views_recent": 67,
     "likes_recent": 6,
     "comments_recent": 0
+   },
+   "AI/instagram": {
+    "followers": 5,
+    "following": 5,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "AI/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
@@ -555,6 +668,19 @@
     "views_recent": 111,
     "likes_recent": 8,
     "comments_recent": 0
+   },
+   "Shifa/instagram": {
+    "followers": 5,
+    "following": 5,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Shifa/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
    }
   }
  }
