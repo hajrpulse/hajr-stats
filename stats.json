@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T10:27:14+03:00",
+ "generated_at": "2026-10-25T11:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,12 +16,21 @@
      "totals": {
       "followers": 2,
       "views": 0,
-      "posts_count": 2,
+      "posts_count": 3,
       "views_recent": 16,
       "likes_recent": 1,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "4duYn-fJwpw",
+       "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/4duYn-fJwpw",
+       "published": "2026-10-25T08:03:23Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "aYUw-EL40hk",
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
@@ -108,7 +117,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 884
+      "views_recent": 909
      },
      "posts": [
       {
@@ -116,7 +125,7 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 101,
+       "views": 105,
        "likes": 11,
        "comments": null
       },
@@ -125,8 +134,8 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 190,
-       "likes": 18,
+       "views": 201,
+       "likes": 19,
        "comments": null
       },
       {
@@ -134,7 +143,7 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 593,
+       "views": 603,
        "likes": 45,
        "comments": null
       }
@@ -186,7 +195,7 @@
       "followers": 4,
       "views": 0,
       "posts_count": 5,
-      "views_recent": 60,
+      "views_recent": 62,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -214,7 +223,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 60,
+       "views": 62,
        "likes": 3,
        "comments": 1
       }
@@ -279,7 +288,7 @@
       "followers": 3,
       "views": 0,
       "posts_count": 2,
-      "views_recent": 30,
+      "views_recent": 29,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -298,7 +307,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 17,
+       "views": 16,
        "likes": 3,
        "comments": 0
       }
@@ -444,7 +453,7 @@
    "Pulse/youtube": {
     "followers": 2,
     "views": 0,
-    "posts_count": 2,
+    "posts_count": 3,
     "views_recent": 16,
     "likes_recent": 1,
     "comments_recent": 0
@@ -466,7 +475,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 884
+    "views_recent": 909
    },
    "Quran/instagram": {
     "followers": 6,
@@ -485,7 +494,7 @@
     "followers": 4,
     "views": 0,
     "posts_count": 5,
-    "views_recent": 60,
+    "views_recent": 62,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -499,7 +508,7 @@
     "followers": 3,
     "views": 0,
     "posts_count": 2,
-    "views_recent": 30,
+    "views_recent": 29,
     "likes_recent": 6,
     "comments_recent": 0
    },
