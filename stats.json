@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:27:10+03:00",
+ "generated_at": "2026-10-25T12:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -14,11 +14,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 2,
+      "followers": 3,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 16,
-      "likes_recent": 1,
+      "views_recent": 23,
+      "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
@@ -27,8 +27,8 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/4duYn-fJwpw",
        "published": "2026-10-25T08:03:23Z",
-       "views": 0,
-       "likes": 0,
+       "views": 1,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -45,8 +45,8 @@
        "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
        "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
        "published": "2026-10-24T22:33:19Z",
-       "views": 6,
-       "likes": 0,
+       "views": 12,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -245,10 +245,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 8,
+      "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 36
+      "views_recent": 37
      },
      "posts": [
       {
@@ -256,8 +256,8 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 10,
-       "likes": 2,
+       "views": 11,
+       "likes": 3,
        "comments": null
       },
       {
@@ -266,7 +266,7 @@
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
        "views": 26,
-       "likes": 6,
+       "likes": 7,
        "comments": null
       }
      ]
@@ -287,18 +287,27 @@
      "totals": {
       "followers": 3,
       "views": 0,
-      "posts_count": 2,
-      "views_recent": 29,
+      "posts_count": 3,
+      "views_recent": 31,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "qNxPKnzbfEw",
+       "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/qNxPKnzbfEw",
+       "published": "2026-10-25T09:01:55Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "HEChlkd-D14",
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 13,
+       "views": 14,
        "likes": 3,
        "comments": 0
       },
@@ -307,7 +316,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 16,
+       "views": 17,
        "likes": 3,
        "comments": 0
       }
@@ -330,7 +339,7 @@
       "followers": 3,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 16,
+      "views_recent": 21,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -340,7 +349,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40Z",
-       "views": 0,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -451,11 +460,11 @@
   },
   "2026-10-25": {
    "Pulse/youtube": {
-    "followers": 2,
+    "followers": 3,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 16,
-    "likes_recent": 1,
+    "views_recent": 23,
+    "likes_recent": 3,
     "comments_recent": 0
    },
    "Pulse/instagram": {
@@ -499,16 +508,16 @@
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 8,
+    "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 36
+    "views_recent": 37
    },
    "AI/youtube": {
     "followers": 3,
     "views": 0,
-    "posts_count": 2,
-    "views_recent": 29,
+    "posts_count": 3,
+    "views_recent": 31,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -516,7 +525,7 @@
     "followers": 3,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 16,
+    "views_recent": 21,
     "likes_recent": 5,
     "comments_recent": 0
    }
