@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T03:27:09+03:00",
+ "generated_at": "2026-10-25T04:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,9 +17,8 @@
       "followers": 2,
       "views": 0,
       "posts_count": 2,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 6,
-      "likes_recent": 0,
+      "views_recent": 12,
+      "likes_recent": 1,
       "comments_recent": 0
      },
      "posts": [
@@ -28,8 +27,8 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/aYUw-EL40hk",
        "published": "2026-10-24T22:33:37Z",
-       "views": 2,
-       "likes": 0,
+       "views": 6,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -37,7 +36,7 @@
        "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
        "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
        "published": "2026-10-24T22:33:19Z",
-       "views": 1,
+       "views": 3,
        "likes": 0,
        "comments": 0
       },
@@ -109,7 +108,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 812
+      "views_recent": 836
      },
      "posts": [
       {
@@ -117,8 +116,8 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 56,
-       "likes": 5,
+       "views": 80,
+       "likes": 9,
        "comments": null
       },
       {
@@ -187,7 +186,6 @@
       "followers": 4,
       "views": 0,
       "posts_count": 5,
-      "rss_error": "rss feed unavailable",
       "views_recent": 44,
       "likes_recent": 3,
       "comments_recent": 1
@@ -241,28 +239,10 @@
       "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 22
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "HBW_BB901X0",
-       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
-       "url": "https://youtube.com/shorts/HBW_BB901X0",
-       "published": "2026-10-24T23:06:13+00:00",
-       "views": 5,
-       "likes": 2,
-       "comments": null
-      },
-      {
-       "id": "IrN8NAUu0GM",
-       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
-       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
-       "published": "2026-10-24T20:28:27+00:00",
-       "views": 17,
-       "likes": 5,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -281,9 +261,8 @@
       "followers": 3,
       "views": 0,
       "posts_count": 2,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 13,
-      "likes_recent": 5,
+      "views_recent": 4,
+      "likes_recent": 2,
       "comments_recent": 0
      },
      "posts": [
@@ -292,8 +271,8 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 8,
-       "likes": 3,
+       "views": 3,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -301,8 +280,8 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 5,
-       "likes": 2,
+       "views": 1,
+       "likes": 1,
        "comments": 0
       }
      ]
@@ -325,8 +304,8 @@
       "views": 0,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 6,
-      "likes_recent": 3,
+      "views_recent": 10,
+      "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
@@ -344,8 +323,8 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science 🌿 | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/x5n__SBSmSw",
        "published": "2026-10-24T21:37:34Z",
-       "views": 0,
-       "likes": 0,
+       "views": 4,
+       "likes": 2,
        "comments": 0
       }
      ]
@@ -440,9 +419,8 @@
     "followers": 2,
     "views": 0,
     "posts_count": 2,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 6,
-    "likes_recent": 0,
+    "views_recent": 12,
+    "likes_recent": 1,
     "comments_recent": 0
    },
    "Pulse/instagram": {
@@ -462,7 +440,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 812
+    "views_recent": 836
    },
    "Quran/instagram": {
     "followers": 6,
@@ -481,7 +459,6 @@
     "followers": 4,
     "views": 0,
     "posts_count": 5,
-    "rss_error": "rss feed unavailable",
     "views_recent": 44,
     "likes_recent": 3,
     "comments_recent": 1
@@ -490,15 +467,15 @@
     "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 22
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "AI/youtube": {
     "followers": 3,
     "views": 0,
     "posts_count": 2,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 13,
-    "likes_recent": 5,
+    "views_recent": 4,
+    "likes_recent": 2,
     "comments_recent": 0
    },
    "Shifa/youtube": {
@@ -506,8 +483,8 @@
     "views": 0,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 6,
-    "likes_recent": 3,
+    "views_recent": 10,
+    "likes_recent": 5,
     "comments_recent": 0
    }
   }
