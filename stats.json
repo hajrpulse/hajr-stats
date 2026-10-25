@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T00:27:14+03:00",
+ "generated_at": "2026-10-26T01:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -304,7 +304,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 115
+      "views_recent": 113
      },
      "posts": [
       {
@@ -321,7 +321,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 65,
+       "views": 63,
        "likes": 11,
        "comments": null
       }
@@ -344,7 +344,7 @@
       "followers": 7,
       "views": 35,
       "posts_count": 5,
-      "views_recent": 77,
+      "views_recent": 79,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -354,7 +354,7 @@
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -390,7 +390,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 37,
+       "views": 38,
        "likes": 3,
        "comments": 0
       }
@@ -442,7 +442,7 @@
       "followers": 9,
       "views": 18,
       "posts_count": 4,
-      "views_recent": 111,
+      "views_recent": 112,
       "likes_recent": 8,
       "comments_recent": 0
      },
@@ -479,7 +479,7 @@
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
        "url": "https://youtube.com/shorts/DmD0hAELEgY",
        "published": "2026-10-24T21:37:35Z",
-       "views": 14,
+       "views": 15,
        "likes": 3,
        "comments": 0
       },
@@ -785,13 +785,13 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 115
+    "views_recent": 113
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 5,
-    "views_recent": 77,
+    "views_recent": 79,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -812,7 +812,7 @@
     "followers": 9,
     "views": 18,
     "posts_count": 4,
-    "views_recent": 111,
+    "views_recent": 112,
     "likes_recent": 8,
     "comments_recent": 0
    },
