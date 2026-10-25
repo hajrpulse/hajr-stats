@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T05:27:08+03:00",
+ "generated_at": "2026-10-25T06:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -18,7 +18,7 @@
       "views": 0,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 12,
+      "views_recent": 15,
       "likes_recent": 1,
       "comments_recent": 0
      },
@@ -28,7 +28,7 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/aYUw-EL40hk",
        "published": "2026-10-24T22:33:37Z",
-       "views": 6,
+       "views": 7,
        "likes": 1,
        "comments": 0
       },
@@ -37,7 +37,7 @@
        "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
        "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
        "published": "2026-10-24T22:33:19Z",
-       "views": 3,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -109,37 +109,10 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 836
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "2kYk2F7-FxI",
-       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
-       "url": "https://youtube.com/shorts/2kYk2F7-FxI",
-       "published": "2026-10-24T21:06:41+00:00",
-       "views": 80,
-       "likes": 9,
-       "comments": null
-      },
-      {
-       "id": "42ixawDwY8Q",
-       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
-       "url": "https://youtube.com/shorts/42ixawDwY8Q",
-       "published": "2026-10-24T15:49:12+00:00",
-       "views": 176,
-       "likes": 18,
-       "comments": null
-      },
-      {
-       "id": "rkrExUj7xLI",
-       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
-       "url": "https://youtube.com/shorts/rkrExUj7xLI",
-       "published": "2026-10-23T16:05:11+00:00",
-       "views": 580,
-       "likes": 44,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -188,7 +161,7 @@
       "views": 0,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 44,
+      "views_recent": 53,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -216,7 +189,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 44,
+       "views": 53,
        "likes": 3,
        "comments": 1
       }
@@ -307,7 +280,7 @@
       "views": 0,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 10,
+      "views_recent": 12,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -317,7 +290,7 @@
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
        "url": "https://youtube.com/shorts/DmD0hAELEgY",
        "published": "2026-10-24T21:37:35Z",
-       "views": 6,
+       "views": 8,
        "likes": 3,
        "comments": 0
       },
@@ -423,7 +396,7 @@
     "views": 0,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 12,
+    "views_recent": 15,
     "likes_recent": 1,
     "comments_recent": 0
    },
@@ -444,7 +417,8 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 836
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Quran/instagram": {
     "followers": 6,
@@ -464,7 +438,7 @@
     "views": 0,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 44,
+    "views_recent": 53,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -489,7 +463,7 @@
     "views": 0,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 10,
+    "views_recent": 12,
     "likes_recent": 5,
     "comments_recent": 0
    }
