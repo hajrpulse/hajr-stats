@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T19:27:11+03:00",
+ "generated_at": "2026-10-25T20:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -15,9 +15,9 @@
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
       "followers": 5,
-      "views": 0,
+      "views": 28,
       "posts_count": 3,
-      "views_recent": 39,
+      "views_recent": 42,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -27,7 +27,7 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/4duYn-fJwpw",
        "published": "2026-10-25T08:03:23Z",
-       "views": 5,
+       "views": 6,
        "likes": 2,
        "comments": 0
       },
@@ -45,7 +45,7 @@
        "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
        "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
        "published": "2026-10-24T22:33:19Z",
-       "views": 17,
+       "views": 19,
        "likes": 2,
        "comments": 0
       },
@@ -117,7 +117,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 942
+      "views_recent": 943
      },
      "posts": [
       {
@@ -126,7 +126,7 @@
        "url": "https://youtube.com/shorts/z5-a2i1jbto",
        "published": "2026-10-25T16:03:48+00:00",
        "views": 0,
-       "likes": 0,
+       "likes": 1,
        "comments": null
       },
       {
@@ -143,7 +143,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 205,
+       "views": 206,
        "likes": 20,
        "comments": null
       },
@@ -201,10 +201,10 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 6,
-      "views": 0,
+      "followers": 7,
+      "views": 64,
       "posts_count": 5,
-      "views_recent": 70,
+      "views_recent": 69,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -232,7 +232,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 70,
+       "views": 69,
        "likes": 3,
        "comments": 1
       }
@@ -257,7 +257,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 83
+      "views_recent": 84
      },
      "posts": [
       {
@@ -274,7 +274,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 48,
+       "views": 49,
        "likes": 11,
        "comments": null
       }
@@ -294,8 +294,8 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 6,
-      "views": 0,
+      "followers": 7,
+      "views": 35,
       "posts_count": 3,
       "views_recent": 56,
       "likes_recent": 6,
@@ -345,14 +345,23 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 8,
-      "views": 0,
-      "posts_count": 3,
+      "followers": 9,
+      "views": 18,
+      "posts_count": 4,
       "views_recent": 111,
       "likes_recent": 8,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "vd6diXAg-4E",
+       "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/vd6diXAg-4E",
+       "published": "2026-10-25T17:01:52Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "hormYm6L2iI",
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
@@ -470,9 +479,9 @@
   "2026-10-25": {
    "Pulse/youtube": {
     "followers": 5,
-    "views": 0,
+    "views": 28,
     "posts_count": 3,
-    "views_recent": 39,
+    "views_recent": 42,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -493,7 +502,7 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 942
+    "views_recent": 943
    },
    "Quran/instagram": {
     "followers": 9,
@@ -509,10 +518,10 @@
     "posts_count_recent": 0
    },
    "Sunnah/youtube": {
-    "followers": 6,
-    "views": 0,
+    "followers": 7,
+    "views": 64,
     "posts_count": 5,
-    "views_recent": 70,
+    "views_recent": 69,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -520,20 +529,20 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 83
+    "views_recent": 84
    },
    "AI/youtube": {
-    "followers": 6,
-    "views": 0,
+    "followers": 7,
+    "views": 35,
     "posts_count": 3,
     "views_recent": 56,
     "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 8,
-    "views": 0,
-    "posts_count": 3,
+    "followers": 9,
+    "views": 18,
+    "posts_count": 4,
     "views_recent": 111,
     "likes_recent": 8,
     "comments_recent": 0
