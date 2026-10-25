@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:27:10+03:00",
+ "generated_at": "2026-10-25T15:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,7 +17,7 @@
       "followers": 5,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 31,
+      "views_recent": 32,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -27,7 +27,7 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/4duYn-fJwpw",
        "published": "2026-10-25T08:03:23Z",
-       "views": 4,
+       "views": 5,
        "likes": 2,
        "comments": 0
       },
@@ -114,10 +114,10 @@
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
      "totals": {
-      "followers": 10,
+      "followers": 11,
       "views": null,
       "posts_count": null,
-      "views_recent": 928
+      "views_recent": 929
      },
      "posts": [
       {
@@ -125,7 +125,7 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 114,
+       "views": 115,
        "likes": 13,
        "comments": null
       },
@@ -155,7 +155,7 @@
      "missing": [],
      "handle": "@hajrquran",
      "totals": {
-      "followers": 7,
+      "followers": 8,
       "following": 0,
       "posts_count": 0,
       "likes_recent": 0,
@@ -245,10 +245,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 15,
+      "followers": 16,
       "views": null,
       "posts_count": null,
-      "views_recent": 53
+      "views_recent": 52
      },
      "posts": [
       {
@@ -256,7 +256,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 21,
+       "views": 20,
        "likes": 7,
        "comments": null
       },
@@ -285,10 +285,10 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 5,
+      "followers": 6,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 36,
+      "views_recent": 38,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -316,7 +316,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 19,
+       "views": 21,
        "likes": 3,
        "comments": 0
       }
@@ -336,7 +336,7 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 7,
+      "followers": 8,
       "views": 0,
       "posts_count": 3,
       "views_recent": 107,
@@ -463,7 +463,7 @@
     "followers": 5,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 31,
+    "views_recent": 32,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -481,13 +481,13 @@
     "posts_count_recent": 0
    },
    "Quran/youtube": {
-    "followers": 10,
+    "followers": 11,
     "views": null,
     "posts_count": null,
-    "views_recent": 928
+    "views_recent": 929
    },
    "Quran/instagram": {
-    "followers": 7,
+    "followers": 8,
     "following": 0,
     "posts_count": 0,
     "likes_recent": 0,
@@ -508,21 +508,21 @@
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 15,
+    "followers": 16,
     "views": null,
     "posts_count": null,
-    "views_recent": 53
+    "views_recent": 52
    },
    "AI/youtube": {
-    "followers": 5,
+    "followers": 6,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 36,
+    "views_recent": 38,
     "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 7,
+    "followers": 8,
     "views": 0,
     "posts_count": 3,
     "views_recent": 107,
