@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:27:12+03:00",
+ "generated_at": "2026-10-25T10:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,7 +17,6 @@
       "followers": 2,
       "views": 0,
       "posts_count": 2,
-      "rss_error": "rss feed unavailable",
       "views_recent": 16,
       "likes_recent": 1,
       "comments_recent": 0
@@ -109,10 +108,37 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 884
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "2kYk2F7-FxI",
+       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
+       "url": "https://youtube.com/shorts/2kYk2F7-FxI",
+       "published": "2026-10-24T21:06:41+00:00",
+       "views": 101,
+       "likes": 11,
+       "comments": null
+      },
+      {
+       "id": "42ixawDwY8Q",
+       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
+       "url": "https://youtube.com/shorts/42ixawDwY8Q",
+       "published": "2026-10-24T15:49:12+00:00",
+       "views": 190,
+       "likes": 18,
+       "comments": null
+      },
+      {
+       "id": "rkrExUj7xLI",
+       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
+       "url": "https://youtube.com/shorts/rkrExUj7xLI",
+       "published": "2026-10-23T16:05:11+00:00",
+       "views": 593,
+       "likes": 45,
+       "comments": null
+      }
+     ]
     },
     {
      "platform": "instagram",
@@ -160,7 +186,6 @@
       "followers": 4,
       "views": 0,
       "posts_count": 5,
-      "rss_error": "rss feed unavailable",
       "views_recent": 60,
       "likes_recent": 3,
       "comments_recent": 1
@@ -214,10 +239,28 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 36
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "HBW_BB901X0",
+       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
+       "url": "https://youtube.com/shorts/HBW_BB901X0",
+       "published": "2026-10-24T23:06:13+00:00",
+       "views": 10,
+       "likes": 2,
+       "comments": null
+      },
+      {
+       "id": "IrN8NAUu0GM",
+       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
+       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
+       "published": "2026-10-24T20:28:27+00:00",
+       "views": 26,
+       "likes": 6,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -236,8 +279,7 @@
       "followers": 3,
       "views": 0,
       "posts_count": 2,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 26,
+      "views_recent": 30,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -256,7 +298,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 13,
+       "views": 17,
        "likes": 3,
        "comments": 0
       }
@@ -278,13 +320,21 @@
      "totals": {
       "followers": 3,
       "views": 0,
-      "posts_count": 2,
-      "rss_error": "rss feed unavailable",
+      "posts_count": 3,
       "views_recent": 16,
       "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "hormYm6L2iI",
+       "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
+       "url": "https://youtube.com/shorts/hormYm6L2iI",
+       "published": "2026-10-25T07:01:40Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "DmD0hAELEgY",
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
@@ -395,7 +445,6 @@
     "followers": 2,
     "views": 0,
     "posts_count": 2,
-    "rss_error": "rss feed unavailable",
     "views_recent": 16,
     "likes_recent": 1,
     "comments_recent": 0
@@ -417,8 +466,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 884
    },
    "Quran/instagram": {
     "followers": 6,
@@ -437,7 +485,6 @@
     "followers": 4,
     "views": 0,
     "posts_count": 5,
-    "rss_error": "rss feed unavailable",
     "views_recent": 60,
     "likes_recent": 3,
     "comments_recent": 1
@@ -446,23 +493,20 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 36
    },
    "AI/youtube": {
     "followers": 3,
     "views": 0,
     "posts_count": 2,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 26,
+    "views_recent": 30,
     "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 3,
     "views": 0,
-    "posts_count": 2,
-    "rss_error": "rss feed unavailable",
+    "posts_count": 3,
     "views_recent": 16,
     "likes_recent": 5,
     "comments_recent": 0
