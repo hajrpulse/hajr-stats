@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T04:27:08+03:00",
+ "generated_at": "2026-10-25T05:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,6 +17,7 @@
       "followers": 2,
       "views": 0,
       "posts_count": 2,
+      "rss_error": "rss feed unavailable",
       "views_recent": 12,
       "likes_recent": 1,
       "comments_recent": 0
@@ -186,6 +187,7 @@
       "followers": 4,
       "views": 0,
       "posts_count": 5,
+      "rss_error": "rss feed unavailable",
       "views_recent": 44,
       "likes_recent": 3,
       "comments_recent": 1
@@ -261,8 +263,9 @@
       "followers": 3,
       "views": 0,
       "posts_count": 2,
-      "views_recent": 4,
-      "likes_recent": 2,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 25,
+      "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
@@ -271,8 +274,8 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 3,
-       "likes": 1,
+       "views": 13,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -280,8 +283,8 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 1,
-       "likes": 1,
+       "views": 12,
+       "likes": 3,
        "comments": 0
       }
      ]
@@ -419,6 +422,7 @@
     "followers": 2,
     "views": 0,
     "posts_count": 2,
+    "rss_error": "rss feed unavailable",
     "views_recent": 12,
     "likes_recent": 1,
     "comments_recent": 0
@@ -459,6 +463,7 @@
     "followers": 4,
     "views": 0,
     "posts_count": 5,
+    "rss_error": "rss feed unavailable",
     "views_recent": 44,
     "likes_recent": 3,
     "comments_recent": 1
@@ -474,8 +479,9 @@
     "followers": 3,
     "views": 0,
     "posts_count": 2,
-    "views_recent": 4,
-    "likes_recent": 2,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 25,
+    "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
