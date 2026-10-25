@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T15:27:09+03:00",
+ "generated_at": "2026-10-25T16:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,8 +17,8 @@
       "followers": 5,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 32,
-      "likes_recent": 6,
+      "views_recent": 37,
+      "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
@@ -45,8 +45,8 @@
        "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
        "url": "https://youtube.com/shorts/Xjs_9u7e8Do",
        "published": "2026-10-24T22:33:19Z",
-       "views": 12,
-       "likes": 1,
+       "views": 17,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -117,7 +117,7 @@
       "followers": 11,
       "views": null,
       "posts_count": null,
-      "views_recent": 929
+      "views_recent": 935
      },
      "posts": [
       {
@@ -134,7 +134,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 205,
+       "views": 206,
        "likes": 20,
        "comments": null
       },
@@ -143,7 +143,7 @@
        "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/rkrExUj7xLI",
        "published": "2026-10-23T16:05:11+00:00",
-       "views": 609,
+       "views": 614,
        "likes": 46,
        "comments": null
       }
@@ -195,7 +195,7 @@
       "followers": 6,
       "views": 0,
       "posts_count": 5,
-      "views_recent": 63,
+      "views_recent": 70,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -223,7 +223,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 63,
+       "views": 70,
        "likes": 3,
        "comments": 1
       }
@@ -307,7 +307,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 14,
+       "views": 16,
        "likes": 3,
        "comments": 0
       },
@@ -316,7 +316,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 21,
+       "views": 19,
        "likes": 3,
        "comments": 0
       }
@@ -339,8 +339,8 @@
       "followers": 8,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 107,
-      "likes_recent": 10,
+      "views_recent": 109,
+      "likes_recent": 8,
       "comments_recent": 0
      },
      "posts": [
@@ -350,7 +350,7 @@
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40Z",
        "views": 91,
-       "likes": 5,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -358,7 +358,7 @@
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
        "url": "https://youtube.com/shorts/DmD0hAELEgY",
        "published": "2026-10-24T21:37:35Z",
-       "views": 12,
+       "views": 14,
        "likes": 3,
        "comments": 0
       },
@@ -463,8 +463,8 @@
     "followers": 5,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 32,
-    "likes_recent": 6,
+    "views_recent": 37,
+    "likes_recent": 7,
     "comments_recent": 0
    },
    "Pulse/instagram": {
@@ -484,7 +484,7 @@
     "followers": 11,
     "views": null,
     "posts_count": null,
-    "views_recent": 929
+    "views_recent": 935
    },
    "Quran/instagram": {
     "followers": 8,
@@ -503,7 +503,7 @@
     "followers": 6,
     "views": 0,
     "posts_count": 5,
-    "views_recent": 63,
+    "views_recent": 70,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -525,8 +525,8 @@
     "followers": 8,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 107,
-    "likes_recent": 10,
+    "views_recent": 109,
+    "likes_recent": 8,
     "comments_recent": 0
    }
   }
