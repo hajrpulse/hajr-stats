@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T01:27:12+03:00",
+ "generated_at": "2026-10-26T02:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -17,7 +17,8 @@
       "followers": 5,
       "views": 28,
       "posts_count": 5,
-      "views_recent": 46,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 47,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -54,7 +55,7 @@
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/aYUw-EL40hk",
        "published": "2026-10-24T22:33:37Z",
-       "views": 15,
+       "views": 16,
        "likes": 3,
        "comments": 0
       },
@@ -135,46 +136,10 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 945
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "z5-a2i1jbto",
-       "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
-       "url": "https://youtube.com/shorts/z5-a2i1jbto",
-       "published": "2026-10-25T16:03:48+00:00",
-       "views": 3,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "2kYk2F7-FxI",
-       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
-       "url": "https://youtube.com/shorts/2kYk2F7-FxI",
-       "published": "2026-10-24T21:06:41+00:00",
-       "views": 114,
-       "likes": 13,
-       "comments": null
-      },
-      {
-       "id": "42ixawDwY8Q",
-       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
-       "url": "https://youtube.com/shorts/42ixawDwY8Q",
-       "published": "2026-10-24T15:49:12+00:00",
-       "views": 205,
-       "likes": 20,
-       "comments": null
-      },
-      {
-       "id": "rkrExUj7xLI",
-       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
-       "url": "https://youtube.com/shorts/rkrExUj7xLI",
-       "published": "2026-10-23T16:05:11+00:00",
-       "views": 623,
-       "likes": 46,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -222,6 +187,7 @@
       "followers": 7,
       "views": 64,
       "posts_count": 5,
+      "rss_error": "rss feed unavailable",
       "views_recent": 73,
       "likes_recent": 3,
       "comments_recent": 1
@@ -304,28 +270,10 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 113
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "HBW_BB901X0",
-       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
-       "url": "https://youtube.com/shorts/HBW_BB901X0",
-       "published": "2026-10-24T23:06:13+00:00",
-       "views": 50,
-       "likes": 9,
-       "comments": null
-      },
-      {
-       "id": "IrN8NAUu0GM",
-       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
-       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
-       "published": "2026-10-24T20:28:27+00:00",
-       "views": 63,
-       "likes": 11,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -344,7 +292,8 @@
       "followers": 7,
       "views": 35,
       "posts_count": 5,
-      "views_recent": 79,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 77,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -363,7 +312,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 6,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -390,7 +339,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 38,
+       "views": 37,
        "likes": 3,
        "comments": 0
       }
@@ -442,7 +391,7 @@
       "followers": 9,
       "views": 18,
       "posts_count": 4,
-      "views_recent": 112,
+      "views_recent": 113,
       "likes_recent": 8,
       "comments_recent": 0
      },
@@ -461,7 +410,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -724,7 +673,8 @@
     "followers": 5,
     "views": 28,
     "posts_count": 5,
-    "views_recent": 46,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 47,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -745,7 +695,8 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 945
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Quran/instagram": {
     "followers": 9,
@@ -764,6 +715,7 @@
     "followers": 7,
     "views": 64,
     "posts_count": 5,
+    "rss_error": "rss feed unavailable",
     "views_recent": 73,
     "likes_recent": 3,
     "comments_recent": 1
@@ -785,13 +737,15 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 113
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 5,
-    "views_recent": 79,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 77,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -812,7 +766,7 @@
     "followers": 9,
     "views": 18,
     "posts_count": 4,
-    "views_recent": 112,
+    "views_recent": 113,
     "likes_recent": 8,
     "comments_recent": 0
    },
