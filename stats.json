@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:49:27+03:00",
+ "generated_at": "2026-10-25T23:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,12 +16,30 @@
      "totals": {
       "followers": 5,
       "views": 28,
-      "posts_count": 3,
-      "views_recent": 43,
+      "posts_count": 5,
+      "views_recent": 45,
       "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "gz9fUjXL-Rk",
+       "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
+       "url": "https://youtube.com/shorts/gz9fUjXL-Rk",
+       "published": "2026-10-25T20:02:36Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
+      {
+       "id": "yLFYy0bIHbA",
+       "title": "AI & Neural Chips Revolution 2026: 3 Breakthroughs Changing Daily Life This Week! 🧠🤖 | HAJR Pulse #S",
+       "url": "https://youtube.com/shorts/yLFYy0bIHbA",
+       "published": "2026-10-25T20:01:04Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "4duYn-fJwpw",
        "title": "ثورة الذكاء الاصطناعي والرقائق العصبية 2026: 3 تقنيات غيرت العالم هذا الأسبوع! 🧠🤖 | هجر بلس #Shorts",
@@ -117,7 +135,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 943
+      "views_recent": 945
      },
      "posts": [
       {
@@ -125,7 +143,7 @@
        "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/z5-a2i1jbto",
        "published": "2026-10-25T16:03:48+00:00",
-       "views": 1,
+       "views": 3,
        "likes": 1,
        "comments": null
       },
@@ -204,7 +222,7 @@
       "followers": 7,
       "views": 64,
       "posts_count": 5,
-      "views_recent": 69,
+      "views_recent": 73,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -232,7 +250,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 69,
+       "views": 73,
        "likes": 3,
        "comments": 1
       }
@@ -325,12 +343,21 @@
      "totals": {
       "followers": 7,
       "views": 35,
-      "posts_count": 4,
-      "views_recent": 67,
+      "posts_count": 5,
+      "views_recent": 69,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "sfUG2WEcs1U",
+       "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/sfUG2WEcs1U",
+       "published": "2026-10-25T19:58:41Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "OpfjFCrnVlo",
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
@@ -354,7 +381,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 20,
+       "views": 21,
        "likes": 3,
        "comments": 0
       },
@@ -420,6 +447,15 @@
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "YFxuRWWOfyQ",
+       "title": "Black Seed (Nigella sativa): Pengobatan Nabawi Sahih & Sains PubMed | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/YFxuRWWOfyQ",
+       "published": "2026-10-25T19:58:30Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "vd6diXAg-4E",
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
@@ -576,8 +612,8 @@
    "Pulse/youtube": {
     "followers": 5,
     "views": 28,
-    "posts_count": 3,
-    "views_recent": 43,
+    "posts_count": 5,
+    "views_recent": 45,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -598,7 +634,7 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 943
+    "views_recent": 945
    },
    "Quran/instagram": {
     "followers": 9,
@@ -617,7 +653,7 @@
     "followers": 7,
     "views": 64,
     "posts_count": 5,
-    "views_recent": 69,
+    "views_recent": 73,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -643,8 +679,8 @@
    "AI/youtube": {
     "followers": 7,
     "views": 35,
-    "posts_count": 4,
-    "views_recent": 67,
+    "posts_count": 5,
+    "views_recent": 69,
     "likes_recent": 6,
     "comments_recent": 0
    },
