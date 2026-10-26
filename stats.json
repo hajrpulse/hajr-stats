@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:27:12+03:00",
+ "generated_at": "2026-10-26T21:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 11
+      "views_recent": 12
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/3uRgyusgjf4",
        "published": "2026-10-26T17:02:59+00:00",
-       "views": 1,
+       "views": 2,
        "likes": 1,
        "comments": null
       },
@@ -319,10 +319,10 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 7,
-      "views": 64,
+      "views": 83,
       "posts_count": 2,
-      "views_recent": 125,
-      "likes_recent": 5,
+      "views_recent": 128,
+      "likes_recent": 6,
       "comments_recent": 1
      },
      "posts": [
@@ -331,8 +331,8 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 41,
-       "likes": 2,
+       "views": 44,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -380,10 +380,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 18,
+      "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 151
+      "views_recent": 153
      },
      "posts": [
       {
@@ -400,7 +400,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 86,
+       "views": 88,
        "likes": 11,
        "comments": null
       }
@@ -423,7 +423,7 @@
       "followers": 7,
       "views": 91,
       "posts_count": 4,
-      "views_recent": 42,
+      "views_recent": 43,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -460,7 +460,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 23,
+       "views": 24,
        "likes": 0,
        "comments": 0
       }
@@ -483,7 +483,7 @@
       "followers": 9,
       "views": 116,
       "posts_count": 4,
-      "views_recent": 921,
+      "views_recent": 1159,
       "likes_recent": 18,
       "comments_recent": 0
      },
@@ -493,7 +493,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 828,
+       "views": 1066,
        "likes": 15,
        "comments": 0
       },
@@ -718,7 +718,7 @@
     "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 11
+    "views_recent": 12
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -754,23 +754,23 @@
    },
    "Sunnah/youtube": {
     "followers": 7,
-    "views": 64,
+    "views": 83,
     "posts_count": 2,
-    "views_recent": 125,
-    "likes_recent": 5,
+    "views_recent": 128,
+    "likes_recent": 6,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 18,
+    "followers": 19,
     "views": null,
     "posts_count": null,
-    "views_recent": 151
+    "views_recent": 153
    },
    "AI/youtube": {
     "followers": 7,
     "views": 91,
     "posts_count": 4,
-    "views_recent": 42,
+    "views_recent": 43,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -778,7 +778,7 @@
     "followers": 9,
     "views": 116,
     "posts_count": 4,
-    "views_recent": 921,
+    "views_recent": 1159,
     "likes_recent": 18,
     "comments_recent": 0
    }
