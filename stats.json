@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T06:27:11+03:00",
+ "generated_at": "2026-10-26T07:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -33,7 +33,7 @@
       "followers": 5,
       "following": 5,
       "posts_count": 1,
-      "likes_recent": 0,
+      "likes_recent": 1,
       "comments_recent": 0,
       "views_recent": 0
      },
@@ -44,7 +44,7 @@
        "url": "https://www.instagram.com/reel/De8IvxPANn4/",
        "published": "2026-10-26T01:48:30+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 1,
        "comments": 0,
        "views": 0,
        "reach": 0,
@@ -113,7 +113,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 22,
+      "likes_recent": 28,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -124,7 +124,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 8,
+       "likes": 13,
        "comments": 0,
        "views": null
       },
@@ -134,7 +134,7 @@
        "url": "https://www.instagram.com/reel/De8IOxZjA_M/",
        "published": "2026-10-26T01:43:59+0000",
        "type": "VIDEO",
-       "likes": 6,
+       "likes": 7,
        "comments": 0,
        "views": null
       },
@@ -610,7 +610,7 @@
     "followers": 5,
     "following": 5,
     "posts_count": 1,
-    "likes_recent": 0,
+    "likes_recent": 1,
     "comments_recent": 0,
     "views_recent": 0
    },
@@ -630,7 +630,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 22,
+    "likes_recent": 28,
     "comments_recent": 0,
     "views_recent": null
    },
