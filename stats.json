@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:27:12+03:00",
+ "generated_at": "2026-10-26T17:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 9
+      "views_recent": 10
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/QXXpFiEH6fE",
        "published": "2026-10-26T06:32:43+00:00",
-       "views": 5,
+       "views": 6,
        "likes": 2,
        "comments": null
       },
@@ -289,8 +289,8 @@
       "followers": 7,
       "views": 64,
       "posts_count": 2,
-      "views_recent": 87,
-      "likes_recent": 3,
+      "views_recent": 115,
+      "likes_recent": 4,
       "comments_recent": 1
      },
      "posts": [
@@ -299,8 +299,8 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 4,
-       "likes": 0,
+       "views": 32,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -351,7 +351,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 129
+      "views_recent": 131
      },
      "posts": [
       {
@@ -368,7 +368,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 72,
+       "views": 74,
        "likes": 11,
        "comments": null
       }
@@ -391,8 +391,8 @@
       "followers": 7,
       "views": 35,
       "posts_count": 5,
-      "views_recent": 94,
-      "likes_recent": 6,
+      "views_recent": 100,
+      "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
@@ -410,8 +410,8 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 6,
-       "likes": 0,
+       "views": 8,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -419,7 +419,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 19,
+       "views": 23,
        "likes": 0,
        "comments": 0
       },
@@ -460,8 +460,8 @@
       "followers": 9,
       "views": 18,
       "posts_count": 5,
-      "views_recent": 702,
-      "likes_recent": 21,
+      "views_recent": 878,
+      "likes_recent": 24,
       "comments_recent": 0
      },
      "posts": [
@@ -470,8 +470,8 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 586,
-       "likes": 12,
+       "views": 762,
+       "likes": 15,
        "comments": 0
       },
       {
@@ -713,7 +713,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 9
+    "views_recent": 10
    },
    "Pulse/instagram": {
     "followers": 5,
@@ -751,30 +751,30 @@
     "followers": 7,
     "views": 64,
     "posts_count": 2,
-    "views_recent": 87,
-    "likes_recent": 3,
+    "views_recent": 115,
+    "likes_recent": 4,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 129
+    "views_recent": 131
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 5,
-    "views_recent": 94,
-    "likes_recent": 6,
+    "views_recent": 100,
+    "likes_recent": 7,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": 18,
     "posts_count": 5,
-    "views_recent": 702,
-    "likes_recent": 21,
+    "views_recent": 878,
+    "likes_recent": 24,
     "comments_recent": 0
    }
   }
