@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:27:11+03:00",
+ "generated_at": "2026-10-26T08:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -113,7 +113,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 28,
+      "likes_recent": 32,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -124,7 +124,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 13,
+       "likes": 17,
        "comments": 0,
        "views": null
       },
@@ -289,7 +289,7 @@
       "views": 35,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 85,
+      "views_recent": 88,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -317,7 +317,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 14,
+       "views": 17,
        "likes": 0,
        "comments": 0
       },
@@ -630,7 +630,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 28,
+    "likes_recent": 32,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -660,7 +660,7 @@
     "views": 35,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 85,
+    "views_recent": 88,
     "likes_recent": 6,
     "comments_recent": 0
    },
