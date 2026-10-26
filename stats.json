@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T12:27:10+03:00",
+ "generated_at": "2026-10-26T13:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 8
+      "views_recent": 9
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/QXXpFiEH6fE",
        "published": "2026-10-26T06:32:43+00:00",
-       "views": 4,
+       "views": 5,
        "likes": 2,
        "comments": null
       },
@@ -138,7 +138,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 951
+      "views_recent": 952
      },
      "posts": [
       {
@@ -155,7 +155,7 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 115,
+       "views": 116,
        "likes": 14,
        "comments": null
       },
@@ -190,7 +190,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 176,
+      "likes_recent": 189,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -201,7 +201,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 161,
+       "likes": 174,
        "comments": 0,
        "views": null
       },
@@ -695,7 +695,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 8
+    "views_recent": 9
    },
    "Pulse/instagram": {
     "followers": 5,
@@ -714,13 +714,13 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 951
+    "views_recent": 952
    },
    "Quran/instagram": {
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 176,
+    "likes_recent": 189,
     "comments_recent": 0,
     "views_recent": null
    },
