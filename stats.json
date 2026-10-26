@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T08:27:09+03:00",
+ "generated_at": "2026-10-26T09:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -113,7 +113,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 32,
+      "likes_recent": 41,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -124,7 +124,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 17,
+       "likes": 26,
        "comments": 0,
        "views": null
       },
@@ -289,7 +289,7 @@
       "views": 35,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 88,
+      "views_recent": 89,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -326,7 +326,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 23,
+       "views": 24,
        "likes": 3,
        "comments": 0
       },
@@ -630,7 +630,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 32,
+    "likes_recent": 41,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -660,7 +660,7 @@
     "views": 35,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 88,
+    "views_recent": 89,
     "likes_recent": 6,
     "comments_recent": 0
    },
