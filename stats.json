@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:27:11+03:00",
+ "generated_at": "2026-10-26T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -138,7 +138,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 952
+      "views_recent": 953
      },
      "posts": [
       {
@@ -146,7 +146,7 @@
        "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/z5-a2i1jbto",
        "published": "2026-10-25T16:03:48+00:00",
-       "views": 6,
+       "views": 7,
        "likes": 1,
        "comments": null
       },
@@ -190,7 +190,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 189,
+      "likes_recent": 191,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -201,7 +201,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 174,
+       "likes": 176,
        "comments": 0,
        "views": null
       },
@@ -288,12 +288,21 @@
      "totals": {
       "followers": 7,
       "views": 64,
-      "posts_count": 1,
-      "views_recent": 82,
+      "posts_count": 2,
+      "views_recent": 87,
       "likes_recent": 3,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "nKJSvQbU0Ek",
+       "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
+       "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
+       "published": "2026-10-26T10:47:55Z",
+       "views": 4,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "QvoQCjQmq9E",
        "title": "اعمال کا دارومدار نیتوں پر ہے | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
@@ -317,7 +326,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 82,
+       "views": 83,
        "likes": 3,
        "comments": 1
       }
@@ -342,7 +351,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 119
+      "views_recent": 125
      },
      "posts": [
       {
@@ -359,7 +368,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 66,
+       "views": 72,
        "likes": 11,
        "comments": null
       }
@@ -450,12 +459,21 @@
      "totals": {
       "followers": 9,
       "views": 18,
-      "posts_count": 4,
-      "views_recent": 116,
-      "likes_recent": 9,
+      "posts_count": 5,
+      "views_recent": 362,
+      "likes_recent": 12,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "miOLahzKqcg",
+       "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
+       "url": "https://youtube.com/shorts/miOLahzKqcg",
+       "published": "2026-10-26T10:44:32Z",
+       "views": 246,
+       "likes": 3,
+       "comments": 0
+      },
       {
        "id": "vd6diXAg-4E",
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
@@ -714,13 +732,13 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 952
+    "views_recent": 953
    },
    "Quran/instagram": {
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 189,
+    "likes_recent": 191,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -732,8 +750,8 @@
    "Sunnah/youtube": {
     "followers": 7,
     "views": 64,
-    "posts_count": 1,
-    "views_recent": 82,
+    "posts_count": 2,
+    "views_recent": 87,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -741,7 +759,7 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 119
+    "views_recent": 125
    },
    "AI/youtube": {
     "followers": 7,
@@ -754,9 +772,9 @@
    "Shifa/youtube": {
     "followers": 9,
     "views": 18,
-    "posts_count": 4,
-    "views_recent": 116,
-    "likes_recent": 9,
+    "posts_count": 5,
+    "views_recent": 362,
+    "likes_recent": 12,
     "comments_recent": 0
    }
   }
