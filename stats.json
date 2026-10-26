@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T05:27:07+03:00",
+ "generated_at": "2026-10-26T06:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -113,7 +113,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 19,
+      "likes_recent": 22,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -124,7 +124,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 6,
+       "likes": 8,
        "comments": 0,
        "views": null
       },
@@ -134,7 +134,7 @@
        "url": "https://www.instagram.com/reel/De8IOxZjA_M/",
        "published": "2026-10-26T01:43:59+0000",
        "type": "VIDEO",
-       "likes": 5,
+       "likes": 6,
        "comments": 0,
        "views": null
       },
@@ -213,7 +213,7 @@
       "views": 64,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 78,
+      "views_recent": 82,
       "likes_recent": 3,
       "comments_recent": 1
      },
@@ -241,7 +241,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41Z",
-       "views": 78,
+       "views": 82,
        "likes": 3,
        "comments": 1
       }
@@ -289,7 +289,7 @@
       "views": 35,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 83,
+      "views_recent": 85,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -326,7 +326,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 22,
+       "views": 23,
        "likes": 3,
        "comments": 0
       },
@@ -335,7 +335,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/nTonuQDGre4",
        "published": "2026-10-24T21:37:35Z",
-       "views": 38,
+       "views": 39,
        "likes": 3,
        "comments": 0
       }
@@ -630,7 +630,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 19,
+    "likes_recent": 22,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -644,7 +644,7 @@
     "views": 64,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 78,
+    "views_recent": 82,
     "likes_recent": 3,
     "comments_recent": 1
    },
@@ -660,7 +660,7 @@
     "views": 35,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 83,
+    "views_recent": 85,
     "likes_recent": 6,
     "comments_recent": 0
    },
