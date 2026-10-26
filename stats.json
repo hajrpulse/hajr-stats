@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T18:27:11+03:00",
+ "generated_at": "2026-10-26T19:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 9
+      "views_recent": 10
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/QXXpFiEH6fE",
        "published": "2026-10-26T06:32:43+00:00",
-       "views": 5,
+       "views": 6,
        "likes": 2,
        "comments": null
       },
@@ -138,7 +138,7 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 954
+      "views_recent": 955
      },
      "posts": [
       {
@@ -146,8 +146,8 @@
        "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/z5-a2i1jbto",
        "published": "2026-10-25T16:03:48+00:00",
-       "views": 8,
-       "likes": 1,
+       "views": 9,
+       "likes": 2,
        "comments": null
       },
       {
@@ -190,7 +190,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 193,
+      "likes_recent": 194,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -201,7 +201,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 178,
+       "likes": 179,
        "comments": 0,
        "views": null
       },
@@ -289,8 +289,8 @@
       "followers": 7,
       "views": 64,
       "posts_count": 2,
-      "views_recent": 122,
-      "likes_recent": 6,
+      "views_recent": 120,
+      "likes_recent": 5,
       "comments_recent": 1
      },
      "posts": [
@@ -299,8 +299,8 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 39,
-       "likes": 3,
+       "views": 37,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -351,7 +351,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 131
+      "views_recent": 151
      },
      "posts": [
       {
@@ -359,7 +359,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 57,
+       "views": 65,
        "likes": 10,
        "comments": null
       },
@@ -368,7 +368,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 74,
+       "views": 86,
        "likes": 11,
        "comments": null
       }
@@ -389,13 +389,22 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 7,
-      "views": 35,
-      "posts_count": 5,
-      "views_recent": 100,
-      "likes_recent": 7,
+      "views": 91,
+      "posts_count": 3,
+      "views_recent": 38,
+      "likes_recent": 1,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "Iltdib_5iRY",
+       "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/Iltdib_5iRY",
+       "published": "2026-10-26T16:25:32Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "sfUG2WEcs1U",
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
@@ -410,7 +419,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 8,
+       "views": 9,
        "likes": 1,
        "comments": 0
       },
@@ -421,24 +430,6 @@
        "published": "2026-10-25T09:01:55Z",
        "views": 23,
        "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "HEChlkd-D14",
-       "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
-       "url": "https://youtube.com/shorts/HEChlkd-D14",
-       "published": "2026-10-24T21:37:36Z",
-       "views": 24,
-       "likes": 3,
-       "comments": 0
-      },
-      {
-       "id": "nTonuQDGre4",
-       "title": "Build Full Apps 10x Faster With Cursor AI Agents 🤖 | HAJR AI #Shorts",
-       "url": "https://youtube.com/shorts/nTonuQDGre4",
-       "published": "2026-10-24T21:37:35Z",
-       "views": 39,
-       "likes": 3,
        "comments": 0
       }
      ]
@@ -458,10 +449,10 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 18,
-      "posts_count": 5,
-      "views_recent": 947,
-      "likes_recent": 24,
+      "views": 116,
+      "posts_count": 4,
+      "views_recent": 1139,
+      "likes_recent": 18,
       "comments_recent": 0
      },
      "posts": [
@@ -470,7 +461,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 831,
+       "views": 1046,
        "likes": 15,
        "comments": 0
       },
@@ -489,24 +480,6 @@
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40Z",
        "views": 91,
-       "likes": 3,
-       "comments": 0
-      },
-      {
-       "id": "DmD0hAELEgY",
-       "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
-       "url": "https://youtube.com/shorts/DmD0hAELEgY",
-       "published": "2026-10-24T21:37:35Z",
-       "views": 17,
-       "likes": 3,
-       "comments": 0
-      },
-      {
-       "id": "x5n__SBSmSw",
-       "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science 🌿 | HAJR Shifa #Shorts",
-       "url": "https://youtube.com/shorts/x5n__SBSmSw",
-       "published": "2026-10-24T21:37:34Z",
-       "views": 6,
        "likes": 3,
        "comments": 0
       }
@@ -713,7 +686,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 9
+    "views_recent": 10
    },
    "Pulse/instagram": {
     "followers": 5,
@@ -732,13 +705,13 @@
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 954
+    "views_recent": 955
    },
    "Quran/instagram": {
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 193,
+    "likes_recent": 194,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -751,30 +724,30 @@
     "followers": 7,
     "views": 64,
     "posts_count": 2,
-    "views_recent": 122,
-    "likes_recent": 6,
+    "views_recent": 120,
+    "likes_recent": 5,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 131
+    "views_recent": 151
    },
    "AI/youtube": {
     "followers": 7,
-    "views": 35,
-    "posts_count": 5,
-    "views_recent": 100,
-    "likes_recent": 7,
+    "views": 91,
+    "posts_count": 3,
+    "views_recent": 38,
+    "likes_recent": 1,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 18,
-    "posts_count": 5,
-    "views_recent": 947,
-    "likes_recent": 24,
+    "views": 116,
+    "posts_count": 4,
+    "views_recent": 1139,
+    "likes_recent": 18,
     "comments_recent": 0
    }
   }
