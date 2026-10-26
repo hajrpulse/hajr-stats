@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:27:10+03:00",
+ "generated_at": "2026-10-26T12:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -53,7 +53,7 @@
       "posts_count": 2,
       "likes_recent": 1,
       "comments_recent": 0,
-      "views_recent": 5
+      "views_recent": 6
      },
      "posts": [
       {
@@ -64,8 +64,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 5,
-       "reach": 5,
+       "views": 6,
+       "reach": 6,
        "saved": 0,
        "shares": 0
       },
@@ -155,7 +155,7 @@
        "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/2kYk2F7-FxI",
        "published": "2026-10-24T21:06:41+00:00",
-       "views": 116,
+       "views": 115,
        "likes": 14,
        "comments": null
       },
@@ -164,7 +164,7 @@
        "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
        "url": "https://youtube.com/shorts/42ixawDwY8Q",
        "published": "2026-10-24T15:49:12+00:00",
-       "views": 206,
+       "views": 207,
        "likes": 21,
        "comments": null
       },
@@ -190,7 +190,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 3,
-      "likes_recent": 131,
+      "likes_recent": 176,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -201,7 +201,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 116,
+       "likes": 161,
        "comments": 0,
        "views": null
       },
@@ -342,7 +342,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 116
+      "views_recent": 119
      },
      "posts": [
       {
@@ -350,7 +350,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 50,
+       "views": 53,
        "likes": 9,
        "comments": null
       },
@@ -382,7 +382,7 @@
       "followers": 7,
       "views": 35,
       "posts_count": 5,
-      "views_recent": 89,
+      "views_recent": 90,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -410,7 +410,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 17,
+       "views": 18,
        "likes": 0,
        "comments": 0
       },
@@ -451,7 +451,7 @@
       "followers": 9,
       "views": 18,
       "posts_count": 4,
-      "views_recent": 115,
+      "views_recent": 116,
       "likes_recent": 9,
       "comments_recent": 0
      },
@@ -488,7 +488,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science 🌿 | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/x5n__SBSmSw",
        "published": "2026-10-24T21:37:34Z",
-       "views": 5,
+       "views": 6,
        "likes": 3,
        "comments": 0
       }
@@ -703,7 +703,7 @@
     "posts_count": 2,
     "likes_recent": 1,
     "comments_recent": 0,
-    "views_recent": 5
+    "views_recent": 6
    },
    "Pulse/threads": {
     "followers": null,
@@ -720,7 +720,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 3,
-    "likes_recent": 131,
+    "likes_recent": 176,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -741,13 +741,13 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 116
+    "views_recent": 119
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 5,
-    "views_recent": 89,
+    "views_recent": 90,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -755,7 +755,7 @@
     "followers": 9,
     "views": 18,
     "posts_count": 4,
-    "views_recent": 115,
+    "views_recent": 116,
     "likes_recent": 9,
     "comments_recent": 0
    }
