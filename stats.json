@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:27:12+03:00",
+ "generated_at": "2026-10-26T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 10
+      "views_recent": 9
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/QXXpFiEH6fE",
        "published": "2026-10-26T06:32:43+00:00",
-       "views": 6,
+       "views": 5,
        "likes": 2,
        "comments": null
       },
@@ -289,8 +289,8 @@
       "followers": 7,
       "views": 64,
       "posts_count": 2,
-      "views_recent": 115,
-      "likes_recent": 4,
+      "views_recent": 122,
+      "likes_recent": 6,
       "comments_recent": 1
      },
      "posts": [
@@ -299,8 +299,8 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 32,
-       "likes": 1,
+       "views": 39,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -460,7 +460,7 @@
       "followers": 9,
       "views": 18,
       "posts_count": 5,
-      "views_recent": 878,
+      "views_recent": 947,
       "likes_recent": 24,
       "comments_recent": 0
      },
@@ -470,7 +470,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 762,
+       "views": 831,
        "likes": 15,
        "comments": 0
       },
@@ -713,7 +713,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 10
+    "views_recent": 9
    },
    "Pulse/instagram": {
     "followers": 5,
@@ -751,8 +751,8 @@
     "followers": 7,
     "views": 64,
     "posts_count": 2,
-    "views_recent": 115,
-    "likes_recent": 4,
+    "views_recent": 122,
+    "likes_recent": 6,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -773,7 +773,7 @@
     "followers": 9,
     "views": 18,
     "posts_count": 5,
-    "views_recent": 878,
+    "views_recent": 947,
     "likes_recent": 24,
     "comments_recent": 0
    }
