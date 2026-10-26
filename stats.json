@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T04:27:10+03:00",
+ "generated_at": "2026-10-26T05:27:07+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,6 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
+      "rss_error": "rss feed unavailable",
       "views_recent": 0
      },
      "posts": []
@@ -31,12 +32,26 @@
      "totals": {
       "followers": 5,
       "following": 5,
-      "posts_count": 0,
+      "posts_count": 1,
       "likes_recent": 0,
       "comments_recent": 0,
       "views_recent": 0
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "17951655801053852",
+       "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس\n\n🪙📈 لماذا تشتري البنوك المركزية العالمية الذهب الف",
+       "url": "https://www.instagram.com/reel/De8IvxPANn4/",
+       "published": "2026-10-26T01:48:30+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      }
+     ]
     },
     {
      "platform": "threads",
@@ -48,9 +63,20 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 0
+      "posts_count_recent": 1
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "18104839676021467",
+       "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس\n\n🪙📈 لماذا تشتري البنوك المركزية العالمية الذهب الف",
+       "url": "https://www.threads.com/@hajrpulse/post/De8I5Y9FMsQ",
+       "published": "2026-10-26T01:49:32+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -71,61 +97,58 @@
       "followers": 12,
       "views": null,
       "posts_count": null,
-      "views_recent": 947
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "z5-a2i1jbto",
-       "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
-       "url": "https://youtube.com/shorts/z5-a2i1jbto",
-       "published": "2026-10-25T16:03:48+00:00",
-       "views": 4,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "2kYk2F7-FxI",
-       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
-       "url": "https://youtube.com/shorts/2kYk2F7-FxI",
-       "published": "2026-10-24T21:06:41+00:00",
-       "views": 115,
-       "likes": 13,
-       "comments": null
-      },
-      {
-       "id": "42ixawDwY8Q",
-       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
-       "url": "https://youtube.com/shorts/42ixawDwY8Q",
-       "published": "2026-10-24T15:49:12+00:00",
-       "views": 205,
-       "likes": 20,
-       "comments": null
-      },
-      {
-       "id": "rkrExUj7xLI",
-       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
-       "url": "https://youtube.com/shorts/rkrExUj7xLI",
-       "published": "2026-10-23T16:05:11+00:00",
-       "views": 623,
-       "likes": 46,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
      "status": "ok",
-     "missing": [],
+     "missing": [
+      "insights (needs instagram_business_manage_insights): HTTP 403: Application does not have permission for this action"
+     ],
      "handle": "@hajrquran",
      "totals": {
       "followers": 9,
       "following": 0,
-      "posts_count": 0,
-      "likes_recent": 0,
+      "posts_count": 3,
+      "likes_recent": 19,
       "comments_recent": 0,
-      "views_recent": 0
+      "views_recent": null
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "18130782136771696",
+       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 6-9\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (quran",
+       "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
+       "published": "2026-10-26T01:45:50+0000",
+       "type": "VIDEO",
+       "likes": 6,
+       "comments": 0,
+       "views": null
+      },
+      {
+       "id": "18190920637408470",
+       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 1-5\nالقارئ: مشاري راشد العفاسي\n\nالتفسير الميسر:\n(1) هذه ",
+       "url": "https://www.instagram.com/reel/De8IOxZjA_M/",
+       "published": "2026-10-26T01:43:59+0000",
+       "type": "VIDEO",
+       "likes": 5,
+       "comments": 0,
+       "views": null
+      },
+      {
+       "id": "18127516115309643",
+       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 10-12\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (qur",
+       "url": "https://www.instagram.com/reel/De8Gm0IjnAV/",
+       "published": "2026-10-26T01:29:15+0000",
+       "type": "VIDEO",
+       "likes": 8,
+       "comments": 0,
+       "views": null
+      }
+     ]
     },
     {
      "platform": "threads",
@@ -137,9 +160,40 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 0
+      "posts_count_recent": 3
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "17951246028055556",
+       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 6-9\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (quran",
+       "url": "https://www.threads.com/@hajrquran/post/De8ImzvDGyM",
+       "published": "2026-10-26T01:46:34+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
+      {
+       "id": "17953509750331050",
+       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 1-5\nالقارئ: مشاري راشد العفاسي\n\nالتفسير الميسر:\n(1) هذه ",
+       "url": "https://www.threads.com/@hajrquran/post/De8IYSNlRTk",
+       "published": "2026-10-26T01:44:35+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
+      {
+       "id": "18110536799261954",
+       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 10-12\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (qur",
+       "url": "https://www.threads.com/@hajrquran/post/De8GtW4E47Y",
+       "published": "2026-10-26T01:30:23+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -158,6 +212,7 @@
       "followers": 7,
       "views": 64,
       "posts_count": 5,
+      "rss_error": "rss feed unavailable",
       "views_recent": 78,
       "likes_recent": 3,
       "comments_recent": 1
@@ -191,35 +246,6 @@
        "comments": 1
       }
      ]
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": 5,
-      "following": 5,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
     }
    ]
   },
@@ -240,28 +266,10 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 115
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "HBW_BB901X0",
-       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
-       "url": "https://youtube.com/shorts/HBW_BB901X0",
-       "published": "2026-10-24T23:06:13+00:00",
-       "views": 50,
-       "likes": 9,
-       "comments": null
-      },
-      {
-       "id": "IrN8NAUu0GM",
-       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
-       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
-       "published": "2026-10-24T20:28:27+00:00",
-       "views": 65,
-       "likes": 11,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -280,7 +288,8 @@
       "followers": 7,
       "views": 35,
       "posts_count": 5,
-      "views_recent": 82,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 83,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -308,7 +317,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 12,
+       "views": 14,
        "likes": 0,
        "comments": 0
       },
@@ -317,7 +326,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI 🤖 | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/HEChlkd-D14",
        "published": "2026-10-24T21:37:36Z",
-       "views": 23,
+       "views": 22,
        "likes": 3,
        "comments": 0
       },
@@ -331,35 +340,6 @@
        "comments": 0
       }
      ]
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": 5,
-      "following": 5,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
     }
    ]
   },
@@ -378,7 +358,8 @@
       "followers": 9,
       "views": 18,
       "posts_count": 4,
-      "views_recent": 114,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 115,
       "likes_recent": 8,
       "comments_recent": 0
      },
@@ -406,7 +387,7 @@
        "title": "معجزة الحبة السوداء بين الحديث الصحيح وأبحاث PubMed 🌿 | هجر للطب النبوي #Shorts",
        "url": "https://youtube.com/shorts/DmD0hAELEgY",
        "published": "2026-10-24T21:37:35Z",
-       "views": 16,
+       "views": 17,
        "likes": 3,
        "comments": 0
       },
@@ -420,35 +401,6 @@
        "comments": 0
       }
      ]
-    },
-    {
-     "platform": "instagram",
-     "status": "ok",
-     "missing": [],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": 5,
-      "following": 5,
-      "posts_count": 0,
-      "likes_recent": 0,
-      "comments_recent": 0,
-      "views_recent": 0
-     },
-     "posts": []
-    },
-    {
-     "platform": "threads",
-     "status": "ok",
-     "missing": [
-      "account insights (needs threads_manage_insights): HTTP 403: Application does not have permission for this action"
-     ],
-     "handle": "@hajrpulse",
-     "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count_recent": 0
-     },
-     "posts": []
     }
    ]
   }
@@ -651,12 +603,13 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
+    "rss_error": "rss feed unavailable",
     "views_recent": 0
    },
    "Pulse/instagram": {
     "followers": 5,
     "following": 5,
-    "posts_count": 0,
+    "posts_count": 1,
     "likes_recent": 0,
     "comments_recent": 0,
     "views_recent": 0
@@ -664,95 +617,61 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 0
+    "posts_count_recent": 1
    },
    "Quran/youtube": {
     "followers": 12,
     "views": null,
     "posts_count": null,
-    "views_recent": 947
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Quran/instagram": {
     "followers": 9,
     "following": 0,
-    "posts_count": 0,
-    "likes_recent": 0,
+    "posts_count": 3,
+    "likes_recent": 19,
     "comments_recent": 0,
-    "views_recent": 0
+    "views_recent": null
    },
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 0
+    "posts_count_recent": 3
    },
    "Sunnah/youtube": {
     "followers": 7,
     "views": 64,
     "posts_count": 5,
+    "rss_error": "rss feed unavailable",
     "views_recent": 78,
     "likes_recent": 3,
     "comments_recent": 1
-   },
-   "Sunnah/instagram": {
-    "followers": 5,
-    "following": 5,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Sunnah/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 115
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "AI/youtube": {
     "followers": 7,
     "views": 35,
     "posts_count": 5,
-    "views_recent": 82,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 83,
     "likes_recent": 6,
     "comments_recent": 0
-   },
-   "AI/instagram": {
-    "followers": 5,
-    "following": 5,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "AI/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": 18,
     "posts_count": 4,
-    "views_recent": 114,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 115,
     "likes_recent": 8,
     "comments_recent": 0
-   },
-   "Shifa/instagram": {
-    "followers": 5,
-    "following": 5,
-    "posts_count": 0,
-    "likes_recent": 0,
-    "comments_recent": 0,
-    "views_recent": 0
-   },
-   "Shifa/threads": {
-    "followers": null,
-    "views": null,
-    "posts_count_recent": 0
    }
   }
  }
