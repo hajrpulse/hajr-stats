@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:27:13+03:00",
+ "generated_at": "2026-10-27T21:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 20
+      "views_recent": 21
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/TC-cIJk5gT8",
        "published": "2026-10-27T06:32:45+00:00",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": null
       },
@@ -433,7 +433,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 72
+      "views_recent": 71
      },
      "posts": [
       {
@@ -459,7 +459,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55+00:00",
-       "views": 18,
+       "views": 17,
        "likes": 1,
        "comments": null
       },
@@ -493,7 +493,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1191
+      "views_recent": 1190
      },
      "posts": [
       {
@@ -528,7 +528,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40+00:00",
-       "views": 93,
+       "views": 92,
        "likes": 3,
        "comments": null
       }
@@ -805,7 +805,7 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 20
+    "views_recent": 21
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -856,13 +856,13 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 72
+    "views_recent": 71
    },
    "Shifa/youtube": {
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1191
+    "views_recent": 1190
    }
   }
  }
