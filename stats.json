@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:27:11+03:00",
+ "generated_at": "2026-10-27T06:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -277,19 +277,28 @@
      "totals": {
       "followers": 7,
       "views": 83,
-      "posts_count": 2,
+      "posts_count": 3,
       "rss_error": "rss feed unavailable",
-      "views_recent": 139,
+      "views_recent": 141,
       "likes_recent": 7,
       "comments_recent": 1
      },
      "posts": [
       {
+       "id": "rMrmvD00WVo",
+       "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
+       "url": "https://youtube.com/shorts/rMrmvD00WVo",
+       "published": "2026-10-27T02:32:10Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "nKJSvQbU0Ek",
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 54,
+       "views": 56,
        "likes": 4,
        "comments": 0
       },
@@ -364,7 +373,7 @@
       "views": 91,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 58,
+      "views_recent": 61,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -374,7 +383,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18Z",
-       "views": 4,
+       "views": 6,
        "likes": 1,
        "comments": 0
       },
@@ -392,7 +401,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 15,
+       "views": 16,
        "likes": 1,
        "comments": 0
       },
@@ -769,9 +778,9 @@
    "Sunnah/youtube": {
     "followers": 7,
     "views": 83,
-    "posts_count": 2,
+    "posts_count": 3,
     "rss_error": "rss feed unavailable",
-    "views_recent": 139,
+    "views_recent": 141,
     "likes_recent": 7,
     "comments_recent": 1
    },
@@ -787,7 +796,7 @@
     "views": 91,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 58,
+    "views_recent": 61,
     "likes_recent": 2,
     "comments_recent": 0
    },
