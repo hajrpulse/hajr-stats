@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T21:27:11+03:00",
+ "generated_at": "2026-10-27T22:27:15+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -391,7 +391,7 @@
       "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 173
+      "views_recent": 178
      },
      "posts": [
       {
@@ -399,7 +399,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 74,
+       "views": 77,
        "likes": 11,
        "comments": null
       },
@@ -408,7 +408,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 99,
+       "views": 101,
        "likes": 11,
        "comments": null
       }
@@ -433,7 +433,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 71
+      "views_recent": 72
      },
      "posts": [
       {
@@ -459,7 +459,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55+00:00",
-       "views": 17,
+       "views": 18,
        "likes": 1,
        "comments": null
       },
@@ -519,7 +519,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52+00:00",
-       "views": 4,
+       "views": 3,
        "likes": 1,
        "comments": null
       },
@@ -528,7 +528,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40+00:00",
-       "views": 92,
+       "views": 93,
        "likes": 3,
        "comments": null
       }
@@ -850,13 +850,13 @@
     "followers": 19,
     "views": null,
     "posts_count": null,
-    "views_recent": 173
+    "views_recent": 178
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 71
+    "views_recent": 72
    },
    "Shifa/youtube": {
     "followers": 7,
