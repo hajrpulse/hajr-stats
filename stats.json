@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T19:27:11+03:00",
+ "generated_at": "2026-10-27T20:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -433,7 +433,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 69
+      "views_recent": 72
      },
      "posts": [
       {
@@ -441,7 +441,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18+00:00",
-       "views": 9,
+       "views": 10,
        "likes": 1,
        "comments": null
       },
@@ -459,7 +459,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55+00:00",
-       "views": 17,
+       "views": 18,
        "likes": 1,
        "comments": null
       },
@@ -468,7 +468,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55+00:00",
-       "views": 34,
+       "views": 35,
        "likes": 0,
        "comments": null
       }
@@ -493,7 +493,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1181
+      "views_recent": 1191
      },
      "posts": [
       {
@@ -501,7 +501,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 10,
+       "views": 19,
        "likes": 0,
        "comments": null
       },
@@ -528,7 +528,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40+00:00",
-       "views": 92,
+       "views": 93,
        "likes": 3,
        "comments": null
       }
@@ -856,13 +856,13 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 69
+    "views_recent": 72
    },
    "Shifa/youtube": {
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1181
+    "views_recent": 1191
    }
   }
  }
