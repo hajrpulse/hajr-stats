@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T08:27:11+03:00",
+ "generated_at": "2026-10-27T09:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -279,7 +279,7 @@
       "views": 139,
       "posts_count": 3,
       "rss_error": "rss feed unavailable",
-      "views_recent": 145,
+      "views_recent": 148,
       "likes_recent": 9,
       "comments_recent": 1
      },
@@ -298,7 +298,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 56,
+       "views": 59,
        "likes": 4,
        "comments": 0
       },
@@ -347,7 +347,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 19,
+      "followers": 20,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -789,12 +789,12 @@
     "views": 139,
     "posts_count": 3,
     "rss_error": "rss feed unavailable",
-    "views_recent": 145,
+    "views_recent": 148,
     "likes_recent": 9,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 19,
+    "followers": 20,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
