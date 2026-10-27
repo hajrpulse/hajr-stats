@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T06:27:11+03:00",
+ "generated_at": "2026-10-27T07:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -279,8 +279,8 @@
       "views": 83,
       "posts_count": 3,
       "rss_error": "rss feed unavailable",
-      "views_recent": 141,
-      "likes_recent": 7,
+      "views_recent": 144,
+      "likes_recent": 8,
       "comments_recent": 1
      },
      "posts": [
@@ -289,8 +289,8 @@
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
        "published": "2026-10-27T02:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 1,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -298,7 +298,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 56,
+       "views": 58,
        "likes": 4,
        "comments": 0
       },
@@ -370,11 +370,11 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 7,
-      "views": 91,
+      "views": 54,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 61,
-      "likes_recent": 2,
+      "views_recent": 60,
+      "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
@@ -393,7 +393,7 @@
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41Z",
        "views": 8,
-       "likes": 0,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -401,7 +401,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 16,
+       "views": 15,
        "likes": 1,
        "comments": 0
       },
@@ -434,7 +434,7 @@
       "views": 116,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1170,
+      "views_recent": 1171,
       "likes_recent": 20,
       "comments_recent": 0
      },
@@ -444,7 +444,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1075,
+       "views": 1076,
        "likes": 16,
        "comments": 0
       },
@@ -780,8 +780,8 @@
     "views": 83,
     "posts_count": 3,
     "rss_error": "rss feed unavailable",
-    "views_recent": 141,
-    "likes_recent": 7,
+    "views_recent": 144,
+    "likes_recent": 8,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -793,11 +793,11 @@
    },
    "AI/youtube": {
     "followers": 7,
-    "views": 91,
+    "views": 54,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 61,
-    "likes_recent": 2,
+    "views_recent": 60,
+    "likes_recent": 3,
     "comments_recent": 0
    },
    "Shifa/youtube": {
@@ -805,7 +805,7 @@
     "views": 116,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1170,
+    "views_recent": 1171,
     "likes_recent": 20,
     "comments_recent": 0
    }
