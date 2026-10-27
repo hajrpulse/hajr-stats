@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:27:13+03:00",
+ "generated_at": "2026-10-27T14:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -194,63 +194,19 @@
      "handle": "@HAJRQuran",
      "status": "ok",
      "missing": [
-      "oauth_stats: token.json has upload-only scope"
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
      ],
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
      "totals": {
-      "followers": 10,
+      "followers": null,
       "views": null,
       "posts_count": null,
-      "views_recent": 969
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "fDQCnEcm5RA",
-       "title": "سورة البقرة (15-18) بصوت ماهر المعيقلي #Shorts",
-       "url": "https://youtube.com/shorts/fDQCnEcm5RA",
-       "published": "2026-10-26T22:02:58+00:00",
-       "views": 8,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "z5-a2i1jbto",
-       "title": "سورة البقرة (13-14) بصوت محمد صديق المنشاوي #Shorts",
-       "url": "https://youtube.com/shorts/z5-a2i1jbto",
-       "published": "2026-10-25T16:03:48+00:00",
-       "views": 9,
-       "likes": 2,
-       "comments": null
-      },
-      {
-       "id": "2kYk2F7-FxI",
-       "title": "سورة البقرة (10-12) بصوت محمود خليل الحصري #Shorts",
-       "url": "https://youtube.com/shorts/2kYk2F7-FxI",
-       "published": "2026-10-24T21:06:41+00:00",
-       "views": 117,
-       "likes": 14,
-       "comments": null
-      },
-      {
-       "id": "42ixawDwY8Q",
-       "title": "سورة البقرة (6-9) بصوت أحمد بن علي العجمي #Shorts",
-       "url": "https://youtube.com/shorts/42ixawDwY8Q",
-       "published": "2026-10-24T15:49:12+00:00",
-       "views": 212,
-       "likes": 22,
-       "comments": null
-      },
-      {
-       "id": "rkrExUj7xLI",
-       "title": "سورة البقرة (1-5) بصوت مشاري راشد العفاسي #Shorts",
-       "url": "https://youtube.com/shorts/rkrExUj7xLI",
-       "published": "2026-10-23T16:05:11+00:00",
-       "views": 623,
-       "likes": 46,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -375,62 +331,44 @@
      "platform": "youtube",
      "handle": "@HAJRSunnah",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('disabled_client: The OAuth client was disabled.', {'error': 'disabled_client', 'error_description': 'The OAuth client was disabled.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 139,
-      "posts_count": 3,
-      "views_recent": 162,
-      "likes_recent": 10,
-      "comments_recent": 1
+      "views": null,
+      "posts_count": null,
+      "views_recent": 163
      },
      "posts": [
       {
        "id": "rMrmvD00WVo",
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
-       "published": "2026-10-27T02:32:10Z",
+       "published": "2026-10-27T02:32:10+00:00",
        "views": 18,
        "likes": 3,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "nKJSvQbU0Ek",
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
-       "published": "2026-10-26T10:47:55Z",
-       "views": 59,
+       "published": "2026-10-26T10:47:55+00:00",
+       "views": 60,
        "likes": 4,
-       "comments": 0
-      },
-      {
-       "id": "QvoQCjQmq9E",
-       "title": "اعمال کا دارومدار نیتوں پر ہے | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
-       "url": "https://youtube.com/shorts/QvoQCjQmq9E",
-       "published": "2026-10-24T22:38:26Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "FMI2D4QKScg",
-       "title": "Hadits Niat | Setiap Amal Tergantung Niatnya • HR. Bukhari & Muslim #Shorts",
-       "url": "https://youtube.com/shorts/FMI2D4QKScg",
-       "published": "2026-10-24T22:38:24Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "oIp0v9V1x9Y",
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
-       "published": "2026-10-24T18:30:41Z",
+       "published": "2026-10-24T18:30:41+00:00",
        "views": 85,
        "likes": 3,
-       "comments": 1
+       "comments": null
       }
      ]
     }
@@ -453,7 +391,7 @@
       "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 167
+      "views_recent": 172
      },
      "posts": [
       {
@@ -461,7 +399,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 70,
+       "views": 73,
        "likes": 11,
        "comments": null
       },
@@ -470,7 +408,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 97,
+       "views": 99,
        "likes": 11,
        "comments": null
       }
@@ -486,53 +424,53 @@
      "platform": "youtube",
      "handle": "@HAJRAIOfficial",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('disabled_client: The OAuth client was disabled.', {'error': 'disabled_client', 'error_description': 'The OAuth client was disabled.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 54,
-      "posts_count": 4,
-      "views_recent": 66,
-      "likes_recent": 3,
-      "comments_recent": 0
+      "views": null,
+      "posts_count": null,
+      "views_recent": 66
      },
      "posts": [
       {
        "id": "Iltdib_5iRY",
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
-       "published": "2026-10-26T16:27:18Z",
+       "published": "2026-10-26T16:27:18+00:00",
        "views": 7,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "sfUG2WEcs1U",
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
-       "published": "2026-10-25T19:58:41Z",
+       "published": "2026-10-25T19:58:41+00:00",
        "views": 9,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "OpfjFCrnVlo",
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
-       "published": "2026-10-25T18:01:55Z",
+       "published": "2026-10-25T18:01:55+00:00",
        "views": 16,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "qNxPKnzbfEw",
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
-       "published": "2026-10-25T09:01:55Z",
+       "published": "2026-10-25T09:01:55+00:00",
        "views": 34,
        "likes": 0,
-       "comments": 0
+       "comments": null
       }
      ]
     }
@@ -546,53 +484,53 @@
      "platform": "youtube",
      "handle": "@HAJRShifa",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('disabled_client: The OAuth client was disabled.', {'error': 'disabled_client', 'error_description': 'The OAuth client was disabled.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 7,
-      "views": 1170,
-      "posts_count": 4,
-      "views_recent": 1181,
-      "likes_recent": 20,
-      "comments_recent": 0
+      "views": null,
+      "posts_count": null,
+      "views_recent": 1181
      },
      "posts": [
       {
        "id": "Lv_6VE6DYF8",
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
-       "published": "2026-10-27T04:32:11Z",
+       "published": "2026-10-27T04:32:11+00:00",
        "views": 7,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "miOLahzKqcg",
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
-       "published": "2026-10-26T10:44:32Z",
+       "published": "2026-10-26T10:44:32+00:00",
        "views": 1078,
        "likes": 16,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "vd6diXAg-4E",
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
-       "published": "2026-10-25T17:01:52Z",
+       "published": "2026-10-25T17:01:52+00:00",
        "views": 4,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "hormYm6L2iI",
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
-       "published": "2026-10-25T07:01:40Z",
+       "published": "2026-10-25T07:01:40+00:00",
        "views": 92,
        "likes": 3,
-       "comments": 0
+       "comments": null
       }
      ]
     }
@@ -883,10 +821,11 @@
     "posts_count_recent": 4
    },
    "Quran/youtube": {
-    "followers": 10,
+    "followers": null,
     "views": null,
     "posts_count": null,
-    "views_recent": 969
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Quran/instagram": {
     "followers": 9,
@@ -903,33 +842,27 @@
    },
    "Sunnah/youtube": {
     "followers": 5,
-    "views": 139,
-    "posts_count": 3,
-    "views_recent": 162,
-    "likes_recent": 10,
-    "comments_recent": 1
+    "views": null,
+    "posts_count": null,
+    "views_recent": 163
    },
    "BaytAbuHamza/youtube": {
     "followers": 19,
     "views": null,
     "posts_count": null,
-    "views_recent": 167
+    "views_recent": 172
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 54,
-    "posts_count": 4,
-    "views_recent": 66,
-    "likes_recent": 3,
-    "comments_recent": 0
+    "views": null,
+    "posts_count": null,
+    "views_recent": 66
    },
    "Shifa/youtube": {
     "followers": 7,
-    "views": 1170,
-    "posts_count": 4,
-    "views_recent": 1181,
-    "likes_recent": 20,
-    "comments_recent": 0
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1181
    }
   }
  }
