@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:27:14+03:00",
+ "generated_at": "2026-10-28T01:27:32+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -68,12 +68,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 4,
+      "posts_count": 5,
       "likes_recent": 1,
       "comments_recent": 0,
       "views_recent": 14
      },
      "posts": [
+      {
+       "id": "17913941649552762",
+       "title": "من متابعة الأفكار إلى تنظيم العمل: تعرّفوا على أدوات التخطيط وصناعة المحتوى الرقمية في HAJR Store.\n\nFrom following ideas",
+       "url": "https://www.instagram.com/p/DfA4XVUDB6b/",
+       "published": "2026-10-27T22:00:29+0000",
+       "type": "IMAGE",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "18122706244731388",
        "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse\n\n📈💡 How the 1% Compound Rule & Rule of 72 Mu",
@@ -138,9 +151,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 4
+      "posts_count_recent": 5
      },
      "posts": [
+      {
+       "id": "18607895482067641",
+       "title": "من متابعة الأفكار إلى تنظيم العمل: تعرّفوا على أدوات التخطيط وصناعة المحتوى الرقمية في HAJR Store.\n\nFrom following ideas",
+       "url": "https://www.threads.com/@hajrpulse/post/DfA4N77DBMg",
+       "published": "2026-10-27T21:59:11+0000",
+       "type": "TEXT_POST",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18080815316447676",
        "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse\n\n📈💡 How the 1% Compound Rule & Rule of 72 Mu",
@@ -218,12 +241,22 @@
      "totals": {
       "followers": 9,
       "following": 0,
-      "posts_count": 4,
+      "posts_count": 5,
       "likes_recent": 209,
       "comments_recent": 0,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18145268686585348",
+       "title": "تعريف بمتجر الشبكة: HAJR Store. للاطلاع على تفاصيل المنتجات الرقمية وأسعارها، يمكنكم زيارة الرابطين أدناه.\n\nIntroducing ",
+       "url": "https://www.instagram.com/p/DfA4Z8xDBEg/",
+       "published": "2026-10-27T22:00:53+0000",
+       "type": "IMAGE",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18106705393975872",
        "title": "سورة البقرة (15-18) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 15-18\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
@@ -276,9 +309,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 4
+      "posts_count_recent": 5
      },
      "posts": [
+      {
+       "id": "18117447824606709",
+       "title": "تعريف بمتجر الشبكة: HAJR Store. للاطلاع على تفاصيل المنتجات الرقمية وأسعارها، يمكنكم زيارة الرابطين أدناه.\n\nIntroducing ",
+       "url": "https://www.threads.com/@hajrquran/post/DfA4PDQjKjK",
+       "published": "2026-10-27T21:59:20+0000",
+       "type": "TEXT_POST",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18101238722082399",
        "title": "سورة البقرة (15-18) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 15-18\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
@@ -493,7 +536,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 1201
+      "views_recent": 1203
      },
      "posts": [
       {
@@ -519,7 +562,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52+00:00",
-       "views": 3,
+       "views": 5,
        "likes": 1,
        "comments": null
       },
@@ -875,7 +918,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 4,
+    "posts_count": 5,
     "likes_recent": 1,
     "comments_recent": 0,
     "views_recent": 14
@@ -883,7 +926,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 4
+    "posts_count_recent": 5
    },
    "Quran/youtube": {
     "followers": null,
@@ -895,7 +938,7 @@
    "Quran/instagram": {
     "followers": 9,
     "following": 0,
-    "posts_count": 4,
+    "posts_count": 5,
     "likes_recent": 209,
     "comments_recent": 0,
     "views_recent": null
@@ -903,7 +946,7 @@
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 4
+    "posts_count_recent": 5
    },
    "Sunnah/youtube": {
     "followers": 5,
@@ -927,7 +970,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 1201
+    "views_recent": 1203
    }
   }
  }
