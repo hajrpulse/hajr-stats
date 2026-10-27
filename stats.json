@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T11:27:11+03:00",
+ "generated_at": "2026-10-27T12:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,7 +16,7 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 6,
+      "followers": 4,
       "views": null,
       "posts_count": null,
       "views_recent": 20
@@ -199,10 +199,10 @@
      "source": "public_page+rss",
      "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
      "totals": {
-      "followers": 12,
+      "followers": 10,
       "views": null,
       "posts_count": null,
-      "views_recent": 965
+      "views_recent": 969
      },
      "posts": [
       {
@@ -210,7 +210,7 @@
        "title": "سورة البقرة (15-18) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/fDQCnEcm5RA",
        "published": "2026-10-26T22:02:58+00:00",
-       "views": 4,
+       "views": 8,
        "likes": 0,
        "comments": null
       },
@@ -379,10 +379,10 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 7,
+      "followers": 5,
       "views": 139,
       "posts_count": 3,
-      "views_recent": 163,
+      "views_recent": 162,
       "likes_recent": 10,
       "comments_recent": 1
      },
@@ -401,7 +401,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 60,
+       "views": 59,
        "likes": 4,
        "comments": 0
       },
@@ -450,7 +450,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 20,
+      "followers": 19,
       "views": null,
       "posts_count": null,
       "views_recent": 167
@@ -490,7 +490,7 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 7,
+      "followers": 5,
       "views": 54,
       "posts_count": 4,
       "views_recent": 66,
@@ -550,7 +550,7 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 9,
+      "followers": 7,
       "views": 1170,
       "posts_count": 4,
       "views_recent": 1181,
@@ -864,7 +864,7 @@
   },
   "2026-10-27": {
    "Pulse/youtube": {
-    "followers": 6,
+    "followers": 4,
     "views": null,
     "posts_count": null,
     "views_recent": 20
@@ -883,10 +883,10 @@
     "posts_count_recent": 4
    },
    "Quran/youtube": {
-    "followers": 12,
+    "followers": 10,
     "views": null,
     "posts_count": null,
-    "views_recent": 965
+    "views_recent": 969
    },
    "Quran/instagram": {
     "followers": 9,
@@ -902,21 +902,21 @@
     "posts_count_recent": 4
    },
    "Sunnah/youtube": {
-    "followers": 7,
+    "followers": 5,
     "views": 139,
     "posts_count": 3,
-    "views_recent": 163,
+    "views_recent": 162,
     "likes_recent": 10,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 20,
+    "followers": 19,
     "views": null,
     "posts_count": null,
     "views_recent": 167
    },
    "AI/youtube": {
-    "followers": 7,
+    "followers": 5,
     "views": 54,
     "posts_count": 4,
     "views_recent": 66,
@@ -924,7 +924,7 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 9,
+    "followers": 7,
     "views": 1170,
     "posts_count": 4,
     "views_recent": 1181,
