@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T10:27:14+03:00",
+ "generated_at": "2026-10-27T11:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -382,8 +382,8 @@
       "followers": 7,
       "views": 139,
       "posts_count": 3,
-      "views_recent": 144,
-      "likes_recent": 8,
+      "views_recent": 163,
+      "likes_recent": 10,
       "comments_recent": 1
      },
      "posts": [
@@ -392,8 +392,8 @@
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
        "published": "2026-10-27T02:32:10Z",
-       "views": 1,
-       "likes": 1,
+       "views": 18,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -401,7 +401,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 58,
+       "views": 60,
        "likes": 4,
        "comments": 0
       },
@@ -493,7 +493,7 @@
       "followers": 7,
       "views": 54,
       "posts_count": 4,
-      "views_recent": 64,
+      "views_recent": 66,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -503,7 +503,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18Z",
-       "views": 6,
+       "views": 7,
        "likes": 1,
        "comments": 0
       },
@@ -512,7 +512,7 @@
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41Z",
-       "views": 8,
+       "views": 9,
        "likes": 1,
        "comments": 0
       },
@@ -553,7 +553,7 @@
       "followers": 9,
       "views": 1170,
       "posts_count": 4,
-      "views_recent": 1173,
+      "views_recent": 1181,
       "likes_recent": 20,
       "comments_recent": 0
      },
@@ -563,7 +563,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11Z",
-       "views": 1,
+       "views": 7,
        "likes": 0,
        "comments": 0
       },
@@ -572,7 +572,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1076,
+       "views": 1078,
        "likes": 16,
        "comments": 0
       },
@@ -905,8 +905,8 @@
     "followers": 7,
     "views": 139,
     "posts_count": 3,
-    "views_recent": 144,
-    "likes_recent": 8,
+    "views_recent": 163,
+    "likes_recent": 10,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -919,7 +919,7 @@
     "followers": 7,
     "views": 54,
     "posts_count": 4,
-    "views_recent": 64,
+    "views_recent": 66,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -927,7 +927,7 @@
     "followers": 9,
     "views": 1170,
     "posts_count": 4,
-    "views_recent": 1173,
+    "views_recent": 1181,
     "likes_recent": 20,
     "comments_recent": 0
    }
