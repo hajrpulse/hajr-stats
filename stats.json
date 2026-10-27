@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:27:13+03:00",
+ "generated_at": "2026-10-27T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -340,7 +340,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 172
+      "views_recent": 176
      },
      "posts": [
       {
@@ -348,7 +348,7 @@
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
        "published": "2026-10-27T02:32:10+00:00",
-       "views": 19,
+       "views": 20,
        "likes": 3,
        "comments": null
       },
@@ -357,7 +357,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55+00:00",
-       "views": 68,
+       "views": 71,
        "likes": 4,
        "comments": null
       },
@@ -391,7 +391,7 @@
       "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 174
+      "views_recent": 173
      },
      "posts": [
       {
@@ -408,7 +408,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 100,
+       "views": 99,
        "likes": 11,
        "comments": null
       }
@@ -433,7 +433,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 66
+      "views_recent": 69
      },
      "posts": [
       {
@@ -441,7 +441,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18+00:00",
-       "views": 7,
+       "views": 9,
        "likes": 1,
        "comments": null
       },
@@ -459,7 +459,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55+00:00",
-       "views": 16,
+       "views": 17,
        "likes": 1,
        "comments": null
       },
@@ -493,7 +493,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1183
+      "views_recent": 1184
      },
      "posts": [
       {
@@ -501,7 +501,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 9,
+       "views": 10,
        "likes": 0,
        "comments": null
       },
@@ -844,25 +844,25 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 172
+    "views_recent": 176
    },
    "BaytAbuHamza/youtube": {
     "followers": 19,
     "views": null,
     "posts_count": null,
-    "views_recent": 174
+    "views_recent": 173
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 66
+    "views_recent": 69
    },
    "Shifa/youtube": {
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1183
+    "views_recent": 1184
    }
   }
  }
