@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:27:10+03:00",
+ "generated_at": "2026-10-27T03:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 3,
       "likes_recent": 1,
       "comments_recent": 0,
-      "views_recent": 10
+      "views_recent": 11
      },
      "posts": [
       {
@@ -59,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 7,
-       "reach": 7,
+       "views": 8,
+       "reach": 8,
        "saved": 0,
        "shares": 0
       },
@@ -279,7 +279,7 @@
       "views": 83,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 133,
+      "views_recent": 139,
       "likes_recent": 7,
       "comments_recent": 1
      },
@@ -289,7 +289,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 48,
+       "views": 54,
        "likes": 4,
        "comments": 0
       },
@@ -392,7 +392,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 11,
+       "views": 12,
        "likes": 1,
        "comments": 0
       },
@@ -401,7 +401,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55Z",
-       "views": 29,
+       "views": 28,
        "likes": 0,
        "comments": 0
       }
@@ -425,7 +425,7 @@
       "views": 116,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1167,
+      "views_recent": 1168,
       "likes_recent": 20,
       "comments_recent": 0
      },
@@ -435,7 +435,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1072,
+       "views": 1075,
        "likes": 16,
        "comments": 0
       },
@@ -453,7 +453,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40Z",
-       "views": 92,
+       "views": 90,
        "likes": 3,
        "comments": 0
       }
@@ -739,7 +739,7 @@
     "posts_count": 3,
     "likes_recent": 1,
     "comments_recent": 0,
-    "views_recent": 10
+    "views_recent": 11
    },
    "Pulse/threads": {
     "followers": null,
@@ -771,7 +771,7 @@
     "views": 83,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 133,
+    "views_recent": 139,
     "likes_recent": 7,
     "comments_recent": 1
    },
@@ -796,7 +796,7 @@
     "views": 116,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1167,
+    "views_recent": 1168,
     "likes_recent": 20,
     "comments_recent": 0
    }
