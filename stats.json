@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:27:11+03:00",
+ "generated_at": "2026-10-27T19:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -219,7 +219,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 4,
-      "likes_recent": 208,
+      "likes_recent": 209,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -230,7 +230,7 @@
        "url": "https://www.instagram.com/reel/De-T6ZwEps8/",
        "published": "2026-10-26T22:04:15+0000",
        "type": "VIDEO",
-       "likes": 13,
+       "likes": 14,
        "comments": 0,
        "views": null
       },
@@ -340,7 +340,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 176
+      "views_recent": 175
      },
      "posts": [
       {
@@ -348,7 +348,7 @@
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
        "published": "2026-10-27T02:32:10+00:00",
-       "views": 20,
+       "views": 19,
        "likes": 3,
        "comments": null
       },
@@ -493,7 +493,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1184
+      "views_recent": 1181
      },
      "posts": [
       {
@@ -510,7 +510,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1078,
+       "views": 1075,
        "likes": 16,
        "comments": null
       },
@@ -831,7 +831,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 4,
-    "likes_recent": 208,
+    "likes_recent": 209,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -844,7 +844,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 176
+    "views_recent": 175
    },
    "BaytAbuHamza/youtube": {
     "followers": 19,
@@ -862,7 +862,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1184
+    "views_recent": 1181
    }
   }
  }
