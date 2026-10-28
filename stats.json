@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T12:27:13+03:00",
+ "generated_at": "2026-10-28T13:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -69,9 +69,9 @@
       "followers": 6,
       "following": 5,
       "posts_count": 6,
-      "likes_recent": 2,
+      "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 20
+      "views_recent": 30
      },
      "posts": [
       {
@@ -80,10 +80,10 @@
        "url": "https://www.instagram.com/reel/DfBzEgjEni6/",
        "published": "2026-10-28T06:33:54+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 1,
        "comments": 0,
-       "views": 4,
-       "reach": 4,
+       "views": 14,
+       "reach": 9,
        "saved": 0,
        "shares": 0
       },
@@ -499,7 +499,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 82
+      "views_recent": 85
      },
      "posts": [
       {
@@ -507,7 +507,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18+00:00",
-       "views": 18,
+       "views": 20,
        "likes": 1,
        "comments": null
       },
@@ -534,7 +534,7 @@
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
        "published": "2026-10-25T09:01:55+00:00",
-       "views": 36,
+       "views": 37,
        "likes": 0,
        "comments": null
       }
@@ -942,9 +942,9 @@
     "followers": 6,
     "following": 5,
     "posts_count": 6,
-    "likes_recent": 2,
+    "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 20
+    "views_recent": 30
    },
    "Pulse/threads": {
     "followers": null,
@@ -987,7 +987,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 82
+    "views_recent": 85
    },
    "Shifa/youtube": {
     "followers": 9,
