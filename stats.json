@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T14:27:11+03:00",
+ "generated_at": "2026-10-28T15:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 6,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 55
+      "views_recent": 67
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 1,
        "comments": 0,
-       "views": 39,
-       "reach": 32,
+       "views": 51,
+       "reach": 45,
        "saved": 0,
        "shares": 0
       },
@@ -559,7 +559,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 1229
+      "views_recent": 1230
      },
      "posts": [
       {
@@ -576,7 +576,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1094,
+       "views": 1095,
        "likes": 16,
        "comments": null
       },
@@ -944,7 +944,7 @@
     "posts_count": 6,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 55
+    "views_recent": 67
    },
    "Pulse/threads": {
     "followers": null,
@@ -993,7 +993,7 @@
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 1229
+    "views_recent": 1230
    }
   }
  }
