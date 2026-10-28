@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T15:27:12+03:00",
+ "generated_at": "2026-10-28T16:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 6,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 67
+      "views_recent": 70
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 1,
        "comments": 0,
-       "views": 51,
-       "reach": 45,
+       "views": 54,
+       "reach": 49,
        "saved": 0,
        "shares": 0
       },
@@ -944,7 +944,7 @@
     "posts_count": 6,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 67
+    "views_recent": 70
    },
    "Pulse/threads": {
     "followers": null,
