@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:27:13+03:00",
+ "generated_at": "2026-10-28T20:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -68,12 +68,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 6,
+      "posts_count": 7,
       "likes_recent": 3,
       "comments_recent": 0,
       "views_recent": 71
      },
      "posts": [
+      {
+       "id": "18121195933981112",
+       "title": "قاعدة 50/30/20 الذهبية لإدارة الراتب وبناء الثروة من الصفر! 💰📊 | هجر بلس\n\n💰📊 قاعدة 50/30/20 الذهبية لإدارة الراتب الشهري",
+       "url": "https://www.instagram.com/reel/DfC7JoqFOsR/",
+       "published": "2026-10-28T17:03:40+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "18179432617432482",
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse\n\n⚖️💼 The 3 Golden Rules of Halal Equity I",
@@ -164,9 +177,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 6
+      "posts_count_recent": 7
      },
      "posts": [
+      {
+       "id": "17966736224984174",
+       "title": "قاعدة 50/30/20 الذهبية لإدارة الراتب وبناء الثروة من الصفر! 💰📊 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrsto",
+       "url": "https://www.threads.com/@hajrpulse/post/DfC7OZrirIn",
+       "published": "2026-10-28T17:04:24+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18110712379909342",
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://h",
@@ -265,7 +288,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 6,
-      "likes_recent": 210,
+      "likes_recent": 223,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -276,7 +299,7 @@
        "url": "https://www.instagram.com/reel/DfC0UCGiVVG/",
        "published": "2026-10-28T16:04:11+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 13,
        "comments": 0,
        "views": null
       },
@@ -961,7 +984,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 6,
+    "posts_count": 7,
     "likes_recent": 3,
     "comments_recent": 0,
     "views_recent": 71
@@ -969,7 +992,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 6
+    "posts_count_recent": 7
    },
    "Quran/youtube": {
     "followers": null,
@@ -982,7 +1005,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 6,
-    "likes_recent": 210,
+    "likes_recent": 223,
     "comments_recent": 0,
     "views_recent": null
    },
