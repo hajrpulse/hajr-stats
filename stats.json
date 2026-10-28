@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:27:12+03:00",
+ "generated_at": "2026-10-28T11:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -69,7 +69,7 @@
       "followers": 6,
       "following": 5,
       "posts_count": 6,
-      "likes_recent": 1,
+      "likes_recent": 2,
       "comments_recent": 0,
       "views_recent": 16
      },
@@ -93,7 +93,7 @@
        "url": "https://www.instagram.com/p/DfA4XVUDB6b/",
        "published": "2026-10-27T22:00:29+0000",
        "type": "IMAGE",
-       "likes": 0,
+       "likes": 1,
        "comments": 0,
        "views": 2,
        "reach": 1,
@@ -164,9 +164,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 5
+      "posts_count_recent": 6
      },
      "posts": [
+      {
+       "id": "18110712379909342",
+       "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://h",
+       "url": "https://www.threads.com/@hajrpulse/post/DfB6uhnDkY3",
+       "published": "2026-10-28T07:40:43+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18607895482067641",
        "title": "من متابعة الأفكار إلى تنظيم العمل: تعرّفوا على أدوات التخطيط وصناعة المحتوى الرقمية في HAJR Store.\n\nFrom following ideas",
@@ -549,7 +559,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 1227
+      "views_recent": 1228
      },
      "posts": [
       {
@@ -566,7 +576,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1093,
+       "views": 1094,
        "likes": 16,
        "comments": null
       },
@@ -932,14 +942,14 @@
     "followers": 6,
     "following": 5,
     "posts_count": 6,
-    "likes_recent": 1,
+    "likes_recent": 2,
     "comments_recent": 0,
     "views_recent": 16
    },
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 5
+    "posts_count_recent": 6
    },
    "Quran/youtube": {
     "followers": null,
@@ -983,7 +993,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 1227
+    "views_recent": 1228
    }
   }
  }
