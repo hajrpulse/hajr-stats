@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:27:12+03:00",
+ "generated_at": "2026-10-28T18:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,46 +19,10 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 22
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "TC-cIJk5gT8",
-       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/TC-cIJk5gT8",
-       "published": "2026-10-27T06:32:45+00:00",
-       "views": 2,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "3uRgyusgjf4",
-       "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
-       "url": "https://youtube.com/shorts/3uRgyusgjf4",
-       "published": "2026-10-26T17:02:59+00:00",
-       "views": 3,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "QXXpFiEH6fE",
-       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/QXXpFiEH6fE",
-       "published": "2026-10-26T06:32:43+00:00",
-       "views": 10,
-       "likes": 2,
-       "comments": null
-      },
-      {
-       "id": "0cxz2EvE2OM",
-       "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس #Shorts",
-       "url": "https://youtube.com/shorts/0cxz2EvE2OM",
-       "published": "2026-10-26T01:03:46+00:00",
-       "views": 7,
-       "likes": 2,
-       "comments": null
-      }
-     ]
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -559,7 +523,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 1229
+      "views_recent": 1242
      },
      "posts": [
       {
@@ -567,7 +531,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 35,
+       "views": 43,
        "likes": 0,
        "comments": null
       },
@@ -576,7 +540,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1095,
+       "views": 1100,
        "likes": 16,
        "comments": null
       },
@@ -936,7 +900,8 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 22
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -993,7 +958,7 @@
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 1229
+    "views_recent": 1242
    }
   }
  }
