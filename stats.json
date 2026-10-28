@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:27:14+03:00",
+ "generated_at": "2026-10-28T21:27:17+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 7,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 71
+      "views_recent": 72
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 1,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -288,7 +288,7 @@
       "followers": 9,
       "following": 0,
       "posts_count": 6,
-      "likes_recent": 223,
+      "likes_recent": 227,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -299,7 +299,7 @@
        "url": "https://www.instagram.com/reel/DfC0UCGiVVG/",
        "published": "2026-10-28T16:04:11+0000",
        "type": "VIDEO",
-       "likes": 13,
+       "likes": 17,
        "comments": 0,
        "views": null
       },
@@ -449,7 +449,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 182
+      "views_recent": 184
      },
      "posts": [
       {
@@ -466,7 +466,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55+00:00",
-       "views": 78,
+       "views": 80,
        "likes": 4,
        "comments": null
       },
@@ -602,7 +602,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 1242
+      "views_recent": 1244
      },
      "posts": [
       {
@@ -610,7 +610,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 43,
+       "views": 45,
        "likes": 0,
        "comments": null
       },
@@ -987,7 +987,7 @@
     "posts_count": 7,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 71
+    "views_recent": 72
    },
    "Pulse/threads": {
     "followers": null,
@@ -1005,7 +1005,7 @@
     "followers": 9,
     "following": 0,
     "posts_count": 6,
-    "likes_recent": 223,
+    "likes_recent": 227,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -1018,7 +1018,7 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 182
+    "views_recent": 184
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
@@ -1036,7 +1036,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 1242
+    "views_recent": 1244
    }
   }
  }
