@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:27:12+03:00",
+ "generated_at": "2026-10-28T17:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 6,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 70
+      "views_recent": 71
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 1,
        "comments": 0,
-       "views": 54,
-       "reach": 49,
+       "views": 55,
+       "reach": 50,
        "saved": 0,
        "shares": 0
       },
@@ -499,7 +499,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 85
+      "views_recent": 87
      },
      "posts": [
       {
@@ -516,7 +516,7 @@
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41+00:00",
-       "views": 10,
+       "views": 12,
        "likes": 1,
        "comments": null
       },
@@ -559,7 +559,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 1230
+      "views_recent": 1229
      },
      "posts": [
       {
@@ -567,7 +567,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 36,
+       "views": 35,
        "likes": 0,
        "comments": null
       },
@@ -944,7 +944,7 @@
     "posts_count": 6,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 70
+    "views_recent": 71
    },
    "Pulse/threads": {
     "followers": null,
@@ -987,13 +987,13 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 85
+    "views_recent": 87
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 1230
+    "views_recent": 1229
    }
   }
  }
