@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:27:12+03:00",
+ "generated_at": "2026-10-28T12:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 6,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 16
+      "views_recent": 20
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 4,
+       "reach": 4,
        "saved": 0,
        "shares": 0
       },
@@ -499,7 +499,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 81
+      "views_recent": 82
      },
      "posts": [
       {
@@ -516,7 +516,7 @@
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41+00:00",
-       "views": 9,
+       "views": 10,
        "likes": 1,
        "comments": null
       },
@@ -556,7 +556,7 @@
      "source": "public_page+rss",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 8,
+      "followers": 9,
       "views": null,
       "posts_count": null,
       "views_recent": 1228
@@ -944,7 +944,7 @@
     "posts_count": 6,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 16
+    "views_recent": 20
    },
    "Pulse/threads": {
     "followers": null,
@@ -987,10 +987,10 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 81
+    "views_recent": 82
    },
    "Shifa/youtube": {
-    "followers": 8,
+    "followers": 9,
     "views": null,
     "posts_count": null,
     "views_recent": 1228
