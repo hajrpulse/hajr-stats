@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T01:27:16+03:00",
+ "generated_at": "2026-10-30T02:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -334,7 +334,7 @@
       "followers": 13,
       "following": 0,
       "posts_count": 9,
-      "likes_recent": 472,
+      "likes_recent": 505,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -345,7 +345,7 @@
        "url": "https://www.instagram.com/reel/DfGCRHJiQId/",
        "published": "2026-10-29T22:03:33+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 33,
        "comments": 0,
        "views": null
       },
@@ -555,37 +555,10 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 186
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "rMrmvD00WVo",
-       "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
-       "url": "https://youtube.com/shorts/rMrmvD00WVo",
-       "published": "2026-10-27T02:32:10+00:00",
-       "views": 20,
-       "likes": 3,
-       "comments": null
-      },
-      {
-       "id": "nKJSvQbU0Ek",
-       "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
-       "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
-       "published": "2026-10-26T10:47:55+00:00",
-       "views": 82,
-       "likes": 4,
-       "comments": null
-      },
-      {
-       "id": "oIp0v9V1x9Y",
-       "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
-       "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
-       "published": "2026-10-24T18:30:41+00:00",
-       "views": 84,
-       "likes": 3,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -606,28 +579,10 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 183
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "HBW_BB901X0",
-       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
-       "url": "https://youtube.com/shorts/HBW_BB901X0",
-       "published": "2026-10-24T23:06:13+00:00",
-       "views": 79,
-       "likes": 11,
-       "comments": null
-      },
-      {
-       "id": "IrN8NAUu0GM",
-       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
-       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
-       "published": "2026-10-24T20:28:27+00:00",
-       "views": 104,
-       "likes": 11,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -648,46 +603,10 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 89
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "Iltdib_5iRY",
-       "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
-       "url": "https://youtube.com/shorts/Iltdib_5iRY",
-       "published": "2026-10-26T16:27:18+00:00",
-       "views": 21,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "sfUG2WEcs1U",
-       "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
-       "url": "https://youtube.com/shorts/sfUG2WEcs1U",
-       "published": "2026-10-25T19:58:41+00:00",
-       "views": 12,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "OpfjFCrnVlo",
-       "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
-       "url": "https://youtube.com/shorts/OpfjFCrnVlo",
-       "published": "2026-10-25T18:01:55+00:00",
-       "views": 19,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "qNxPKnzbfEw",
-       "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
-       "url": "https://youtube.com/shorts/qNxPKnzbfEw",
-       "published": "2026-10-25T09:01:55+00:00",
-       "views": 37,
-       "likes": 0,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -708,46 +627,10 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1261
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "Lv_6VE6DYF8",
-       "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
-       "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
-       "published": "2026-10-27T04:32:11+00:00",
-       "views": 56,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "miOLahzKqcg",
-       "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
-       "url": "https://youtube.com/shorts/miOLahzKqcg",
-       "published": "2026-10-26T10:44:32+00:00",
-       "views": 1105,
-       "likes": 16,
-       "comments": null
-      },
-      {
-       "id": "vd6diXAg-4E",
-       "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
-       "url": "https://youtube.com/shorts/vd6diXAg-4E",
-       "published": "2026-10-25T17:01:52+00:00",
-       "views": 6,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "hormYm6L2iI",
-       "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
-       "url": "https://youtube.com/shorts/hormYm6L2iI",
-       "published": "2026-10-25T07:01:40+00:00",
-       "views": 94,
-       "likes": 3,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   }
@@ -1241,7 +1124,7 @@
     "followers": 13,
     "following": 0,
     "posts_count": 9,
-    "likes_recent": 472,
+    "likes_recent": 505,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -1254,25 +1137,29 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 186
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 183
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "AI/youtube": {
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 89
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Shifa/youtube": {
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1261
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    }
   }
  }
