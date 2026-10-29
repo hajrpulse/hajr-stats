@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:27:19+03:00",
+ "generated_at": "2026-10-29T20:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -68,12 +68,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 8,
+      "posts_count": 9,
       "likes_recent": 3,
       "comments_recent": 0,
       "views_recent": 78
      },
      "posts": [
+      {
+       "id": "18181045135431445",
+       "title": "الفرق الخفي بين الأصول والخصوم الذي يصنع الحرية المالية! 🏦🔑 | هجر بلس\n\n🏦🔑 الفرق الحقيقي بين الأصول المدرة للدخل والخصوم ",
+       "url": "https://www.instagram.com/reel/DfFf7icFCzY/",
+       "published": "2026-10-29T17:03:31+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17922739902446633",
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse\n\n💰📊 The 50/30/20 Golden Rule for Salary M",
@@ -190,9 +203,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 8
+      "posts_count_recent": 9
      },
      "posts": [
+      {
+       "id": "18115133966124778",
+       "title": "الفرق الخفي بين الأصول والخصوم الذي يصنع الحرية المالية! 🏦🔑 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore.",
+       "url": "https://www.threads.com/@hajrpulse/post/DfFf_74Ey2B",
+       "published": "2026-10-29T17:04:14+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18129008533861990",
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://h",
@@ -1112,7 +1135,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 8,
+    "posts_count": 9,
     "likes_recent": 3,
     "comments_recent": 0,
     "views_recent": 78
@@ -1120,7 +1143,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 8
+    "posts_count_recent": 9
    },
    "Quran/youtube": {
     "followers": null,
