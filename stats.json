@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:27:14+03:00",
+ "generated_at": "2026-10-29T19:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -310,12 +310,22 @@
      "totals": {
       "followers": 13,
       "following": 0,
-      "posts_count": 7,
+      "posts_count": 8,
       "likes_recent": 471,
       "comments_recent": 0,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17949187842341031",
+       "title": "سورة البقرة (24) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 24\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصحف (qur",
+       "url": "https://www.instagram.com/reel/DfFY9rtjrjI/",
+       "published": "2026-10-29T16:02:40+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18102907634385926",
        "title": "سورة البقرة (21-23) بصوت سعود الشريم\n\nسورة البقرة — الآيات 21-23\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -398,9 +408,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 7
+      "posts_count_recent": 8
      },
      "posts": [
+      {
+       "id": "18199581070389850",
+       "title": "سورة البقرة (24) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 24\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصحف (qur",
+       "url": "https://www.threads.com/@hajrquran/post/DfFZG33ivD7",
+       "published": "2026-10-29T16:04:02+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18131658736800318",
        "title": "سورة البقرة (21-23) بصوت سعود الشريم\n\nسورة البقرة — الآيات 21-23\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -1112,7 +1132,7 @@
    "Quran/instagram": {
     "followers": 13,
     "following": 0,
-    "posts_count": 7,
+    "posts_count": 8,
     "likes_recent": 471,
     "comments_recent": 0,
     "views_recent": null
@@ -1120,7 +1140,7 @@
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 7
+    "posts_count_recent": 8
    },
    "Sunnah/youtube": {
     "followers": 4,
