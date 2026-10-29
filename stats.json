@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T23:27:15+03:00",
+ "generated_at": "2026-10-30T00:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -1126,6 +1126,71 @@
    }
   },
   "2026-10-29": {
+   "Pulse/youtube": {
+    "followers": 3,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 22
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 9,
+    "likes_recent": 3,
+    "comments_recent": 0,
+    "views_recent": 78
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 9
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 13,
+    "following": 0,
+    "posts_count": 8,
+    "likes_recent": 472,
+    "comments_recent": 0,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 8
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 186
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 18,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 183
+   },
+   "AI/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 89
+   },
+   "Shifa/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1261
+   }
+  },
+  "2026-10-30": {
    "Pulse/youtube": {
     "followers": 3,
     "views": null,
