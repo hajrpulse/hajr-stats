@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:27:14+03:00",
+ "generated_at": "2026-10-31T02:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -380,8 +380,8 @@
       "followers": 14,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 746,
-      "comments_recent": 0,
+      "likes_recent": 761,
+      "comments_recent": 1,
       "views_recent": null
      },
      "posts": [
@@ -391,7 +391,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 12,
        "comments": 0,
        "views": null
       },
@@ -401,8 +401,8 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 122,
-       "comments": 0,
+       "likes": 124,
+       "comments": 1,
        "views": null
       },
       {
@@ -411,7 +411,7 @@
        "url": "https://www.instagram.com/reel/DfGCRHJiQId/",
        "published": "2026-10-29T22:03:33+0000",
        "type": "VIDEO",
-       "likes": 151,
+       "likes": 152,
        "comments": 0,
        "views": null
       },
@@ -1392,8 +1392,8 @@
     "followers": 14,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 746,
-    "comments_recent": 0,
+    "likes_recent": 761,
+    "comments_recent": 1,
     "views_recent": null
    },
    "Quran/threads": {
