@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:27:15+03:00",
+ "generated_at": "2026-10-30T20:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -68,12 +68,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 10,
+      "posts_count": 11,
       "likes_recent": 3,
       "comments_recent": 0,
       "views_recent": 80
      },
      "posts": [
+      {
+       "id": "17995440312062267",
+       "title": "كيف تضاعف نتائجك وأرباحك بـ قانون باريتو 80/20؟ 🎯⏱️ | هجر بلس\n\n🎯⏱️ تطبيق قانون باريتو 80/20 في إدارة الوقت والأعمال ومضا",
+       "url": "https://www.instagram.com/reel/DfIEuZ3EST4/",
+       "published": "2026-10-30T17:03:33+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "18125938543926186",
        "title": "Income Assets vs. Liabilities: The #1 Rule of Real Wealth! 🏦🔑 | HAJR Pulse\n\n🏦🔑 Income-Generating Assets vs. Money-Draini",
@@ -216,9 +229,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 10
+      "posts_count_recent": 11
      },
      "posts": [
+      {
+       "id": "17954557620279332",
+       "title": "كيف تضاعف نتائجك وأرباحك بـ قانون باريتو 80/20؟ 🎯⏱️ | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore.gumroad.",
+       "url": "https://www.threads.com/@hajrpulse/post/DfIEzF7DvZx",
+       "published": "2026-10-30T17:04:10+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17998305639022102",
        "title": "Income Assets vs. Liabilities: The #1 Rule of Real Wealth! 🏦🔑 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://hajrs",
@@ -357,7 +380,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 10,
-      "likes_recent": 621,
+      "likes_recent": 638,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -368,7 +391,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 17,
        "comments": 0,
        "views": null
       },
@@ -378,7 +401,7 @@
        "url": "https://www.instagram.com/reel/DfGCRHJiQId/",
        "published": "2026-10-29T22:03:33+0000",
        "type": "VIDEO",
-       "likes": 147,
+       "likes": 148,
        "comments": 0,
        "views": null
       },
@@ -751,7 +774,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1264
+      "views_recent": 1265
      },
      "posts": [
       {
@@ -759,7 +782,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11+00:00",
-       "views": 56,
+       "views": 57,
        "likes": 0,
        "comments": null
       },
@@ -1263,7 +1286,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 10,
+    "posts_count": 11,
     "likes_recent": 3,
     "comments_recent": 0,
     "views_recent": 80
@@ -1271,7 +1294,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 10
+    "posts_count_recent": 11
    },
    "Quran/youtube": {
     "followers": null,
@@ -1284,7 +1307,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 10,
-    "likes_recent": 621,
+    "likes_recent": 638,
     "comments_recent": 0,
     "views_recent": null
    },
@@ -1315,7 +1338,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1264
+    "views_recent": 1265
    }
   }
  }
