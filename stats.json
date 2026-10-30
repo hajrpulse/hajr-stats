@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T13:27:13+03:00",
+ "generated_at": "2026-10-30T14:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -71,7 +71,7 @@
       "posts_count": 10,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 79
+      "views_recent": 80
      },
      "posts": [
       {
@@ -82,8 +82,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 1,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -357,7 +357,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 9,
-      "likes_recent": 617,
+      "likes_recent": 618,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -368,7 +368,7 @@
        "url": "https://www.instagram.com/reel/DfGCRHJiQId/",
        "published": "2026-10-29T22:03:33+0000",
        "type": "VIDEO",
-       "likes": 144,
+       "likes": 145,
        "comments": 0,
        "views": null
       },
@@ -1246,7 +1246,7 @@
     "posts_count": 10,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 79
+    "views_recent": 80
    },
    "Pulse/threads": {
     "followers": null,
@@ -1264,7 +1264,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 9,
-    "likes_recent": 617,
+    "likes_recent": 618,
     "comments_recent": 0,
     "views_recent": null
    },
