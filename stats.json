@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:27:14+03:00",
+ "generated_at": "2026-10-30T19:27:15+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -356,12 +356,22 @@
      "totals": {
       "followers": 14,
       "following": 0,
-      "posts_count": 9,
-      "likes_recent": 620,
+      "posts_count": 10,
+      "likes_recent": 621,
       "comments_recent": 0,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18641725759010729",
+       "title": "سورة البقرة (26) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 26\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (quran-u",
+       "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
+       "published": "2026-10-30T16:03:55+0000",
+       "type": "VIDEO",
+       "likes": 1,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18285708277293064",
        "title": "سورة البقرة (25) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 25\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
@@ -464,9 +474,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 9
+      "posts_count_recent": 10
      },
      "posts": [
+      {
+       "id": "18175009177415132",
+       "title": "سورة البقرة (26) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 26\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (quran-u",
+       "url": "https://www.threads.com/@hajrquran/post/DfH-Fovieku",
+       "published": "2026-10-30T16:05:57+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18109640545911981",
        "title": "سورة البقرة (25) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 25\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
@@ -1263,15 +1283,15 @@
    "Quran/instagram": {
     "followers": 14,
     "following": 0,
-    "posts_count": 9,
-    "likes_recent": 620,
+    "posts_count": 10,
+    "likes_recent": 621,
     "comments_recent": 0,
     "views_recent": null
    },
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 9
+    "posts_count_recent": 10
    },
    "Sunnah/youtube": {
     "followers": 4,
