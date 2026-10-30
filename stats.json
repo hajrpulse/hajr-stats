@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:27:18+03:00",
+ "generated_at": "2026-10-31T00:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -380,7 +380,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 10,
-      "likes_recent": 675,
+      "likes_recent": 705,
       "comments_recent": 0,
       "views_recent": null
      },
@@ -391,7 +391,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 51,
+       "likes": 81,
        "comments": 0,
        "views": null
       },
@@ -1308,6 +1308,71 @@
     "following": 0,
     "posts_count": 10,
     "likes_recent": 675,
+    "comments_recent": 0,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 10
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 184
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 18,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 188
+   },
+   "AI/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 89
+   },
+   "Shifa/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1269
+   }
+  },
+  "2026-10-31": {
+   "Pulse/youtube": {
+    "followers": 3,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 22
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 11,
+    "likes_recent": 3,
+    "comments_recent": 0,
+    "views_recent": 80
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 14,
+    "following": 0,
+    "posts_count": 10,
+    "likes_recent": 705,
     "comments_recent": 0,
     "views_recent": null
    },
