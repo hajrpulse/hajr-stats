@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:27:14+03:00",
+ "generated_at": "2026-10-30T15:27:15+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -731,7 +731,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1261
+      "views_recent": 1264
      },
      "posts": [
       {
@@ -748,7 +748,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1105,
+       "views": 1106,
        "likes": 16,
        "comments": null
       },
@@ -757,7 +757,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52+00:00",
-       "views": 6,
+       "views": 8,
        "likes": 1,
        "comments": null
       },
@@ -1295,7 +1295,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1261
+    "views_recent": 1264
    }
   }
  }
