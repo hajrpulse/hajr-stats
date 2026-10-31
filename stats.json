@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:27:16+03:00",
+ "generated_at": "2026-11-01T01:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -426,7 +426,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 801,
+      "likes_recent": 802,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -437,7 +437,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 41,
+       "likes": 42,
        "comments": 0,
        "views": null
       },
@@ -738,7 +738,7 @@
       "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 203
+      "views_recent": 212
      },
      "posts": [
       {
@@ -746,7 +746,7 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 11,
+       "views": 15,
        "likes": 4,
        "comments": null
       },
@@ -755,7 +755,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 88,
+       "views": 90,
        "likes": 12,
        "comments": null
       },
@@ -764,8 +764,8 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 104,
-       "likes": 11,
+       "views": 107,
+       "likes": 12,
        "comments": null
       }
      ]
@@ -1512,7 +1512,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 801,
+    "likes_recent": 802,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1531,7 +1531,7 @@
     "followers": 19,
     "views": null,
     "posts_count": null,
-    "views_recent": 203
+    "views_recent": 212
    },
    "AI/youtube": {
     "followers": 4,
