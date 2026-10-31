@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:27:21+03:00",
+ "generated_at": "2026-10-31T13:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -403,7 +403,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 775,
+      "likes_recent": 778,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -414,7 +414,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 23,
+       "likes": 26,
        "comments": 0,
        "views": null
       },
@@ -664,7 +664,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 184
+      "views_recent": 185
      },
      "posts": [
       {
@@ -690,7 +690,7 @@
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
        "published": "2026-10-24T18:30:41+00:00",
-       "views": 84,
+       "views": 85,
        "likes": 3,
        "comments": null
       }
@@ -715,7 +715,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 189
+      "views_recent": 190
      },
      "posts": [
       {
@@ -723,7 +723,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 85,
+       "views": 86,
        "likes": 11,
        "comments": null
       },
@@ -1415,7 +1415,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 775,
+    "likes_recent": 778,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1428,13 +1428,13 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 184
+    "views_recent": 185
    },
    "BaytAbuHamza/youtube": {
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 189
+    "views_recent": 190
    },
    "AI/youtube": {
     "followers": 4,
