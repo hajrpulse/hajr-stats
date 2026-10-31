@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:27:19+03:00",
+ "generated_at": "2026-10-31T16:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -400,10 +400,10 @@
      ],
      "handle": "@hajrquran",
      "totals": {
-      "followers": 14,
+      "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 786,
+      "likes_recent": 787,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -424,7 +424,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 130,
+       "likes": 131,
        "comments": 1,
        "views": null
       },
@@ -1412,10 +1412,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 14,
+    "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 786,
+    "likes_recent": 787,
     "comments_recent": 1,
     "views_recent": null
    },
