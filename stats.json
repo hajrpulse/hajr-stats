@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:27:19+03:00",
+ "generated_at": "2026-10-31T15:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -403,7 +403,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 784,
+      "likes_recent": 786,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -414,7 +414,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 29,
+       "likes": 30,
        "comments": 0,
        "views": null
       },
@@ -454,7 +454,7 @@
        "url": "https://www.instagram.com/reel/DfDdoHHlVbb/",
        "published": "2026-10-28T22:05:19+0000",
        "type": "VIDEO",
-       "likes": 151,
+       "likes": 152,
        "comments": 0,
        "views": null
       },
@@ -817,7 +817,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1270
+      "views_recent": 1271
      },
      "posts": [
       {
@@ -852,7 +852,7 @@
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
        "published": "2026-10-25T07:01:40+00:00",
-       "views": 94,
+       "views": 95,
        "likes": 3,
        "comments": null
       }
@@ -1415,7 +1415,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 784,
+    "likes_recent": 786,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1446,7 +1446,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1270
+    "views_recent": 1271
    }
   }
  }
