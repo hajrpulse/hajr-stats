@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:27:16+03:00",
+ "generated_at": "2026-10-31T11:27:17+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -403,7 +403,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 770,
+      "likes_recent": 771,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -414,7 +414,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 20,
+       "likes": 21,
        "comments": 0,
        "views": null
       },
@@ -1415,7 +1415,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 770,
+    "likes_recent": 771,
     "comments_recent": 1,
     "views_recent": null
    },
