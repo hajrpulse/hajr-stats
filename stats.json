@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:27:13+03:00",
+ "generated_at": "2026-10-31T04:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -344,7 +344,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 765,
+      "likes_recent": 767,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -355,7 +355,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 16,
+       "likes": 17,
        "comments": 0,
        "views": null
       },
@@ -365,7 +365,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 124,
+       "likes": 125,
        "comments": 1,
        "views": null
       },
@@ -1240,7 +1240,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 765,
+    "likes_recent": 767,
     "comments_recent": 1,
     "views_recent": null
    },
