@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T23:27:16+03:00",
+ "generated_at": "2026-11-01T00:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -426,7 +426,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 800,
+      "likes_recent": 801,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -437,7 +437,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 40,
+       "likes": 41,
        "comments": 0,
        "views": null
       },
@@ -735,19 +735,28 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 18,
+      "followers": 19,
       "views": null,
       "posts_count": null,
-      "views_recent": 192
+      "views_recent": 203
      },
      "posts": [
+      {
+       "id": "GbzvvFq84Fs",
+       "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
+       "url": "https://youtube.com/shorts/GbzvvFq84Fs",
+       "published": "2026-10-31T20:37:16+00:00",
+       "views": 11,
+       "likes": 4,
+       "comments": null
+      },
       {
        "id": "HBW_BB901X0",
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
        "views": 88,
-       "likes": 11,
+       "likes": 12,
        "comments": null
       },
       {
@@ -1458,6 +1467,71 @@
     "views": null,
     "posts_count": null,
     "views_recent": 192
+   },
+   "AI/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 94
+   },
+   "Shifa/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1271
+   }
+  },
+  "2026-11-01": {
+   "Pulse/youtube": {
+    "followers": 3,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 22
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 13,
+    "likes_recent": 3,
+    "comments_recent": 0,
+    "views_recent": 82
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 13
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 15,
+    "following": 0,
+    "posts_count": 11,
+    "likes_recent": 801,
+    "comments_recent": 1,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 185
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 19,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 203
    },
    "AI/youtube": {
     "followers": 4,
