@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T16:27:14+03:00",
+ "generated_at": "2026-10-31T17:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -403,7 +403,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 787,
+      "likes_recent": 791,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -414,7 +414,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 30,
+       "likes": 33,
        "comments": 0,
        "views": null
       },
@@ -424,7 +424,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 131,
+       "likes": 132,
        "comments": 1,
        "views": null
       },
@@ -715,7 +715,7 @@
       "followers": 18,
       "views": null,
       "posts_count": null,
-      "views_recent": 190
+      "views_recent": 191
      },
      "posts": [
       {
@@ -723,7 +723,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 86,
+       "views": 87,
        "likes": 11,
        "comments": null
       },
@@ -1415,7 +1415,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 787,
+    "likes_recent": 791,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1434,7 +1434,7 @@
     "followers": 18,
     "views": null,
     "posts_count": null,
-    "views_recent": 190
+    "views_recent": 191
    },
    "AI/youtube": {
     "followers": 4,
