@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T19:27:16+03:00",
+ "generated_at": "2026-10-31T20:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -68,12 +68,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 12,
+      "posts_count": 13,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 81
+      "views_recent": 82
      },
      "posts": [
+      {
+       "id": "18112781101897134",
+       "title": "كيف يلتهم التضخم الخفي نصف مدخراتك وكيف تحمي أموالك؟ 🛡️💵 | هجر بلس\n\n🛡️💵 كيف يلتهم التضخم القوة الشرائية للنقود وكيف تحمي",
+       "url": "https://www.instagram.com/reel/DfKpiJwFJ7v/",
+       "published": "2026-10-31T17:03:47+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "18133969261662167",
        "title": "How the 80/20 Pareto Principle Doubles Your Output & Income! 🎯⏱️ | HAJR Pulse\n\n🎯⏱️ How the 80/20 Pareto Principle Multip",
@@ -82,8 +95,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 1,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -242,9 +255,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 12
+      "posts_count_recent": 13
      },
      "posts": [
+      {
+       "id": "17947117458086227",
+       "title": "كيف يلتهم التضخم الخفي نصف مدخراتك وكيف تحمي أموالك؟ 🛡️💵 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore.gum",
+       "url": "https://www.threads.com/@hajrpulse/post/DfKpno7DcWz",
+       "published": "2026-10-31T17:04:47+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17911061667484723",
        "title": "How the 80/20 Pareto Principle Doubles Your Output & Income! 🎯⏱️ | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://ha",
@@ -403,7 +426,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 793,
+      "likes_recent": 796,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -414,7 +437,7 @@
        "url": "https://www.instagram.com/reel/DfInCKSiSRv/",
        "published": "2026-10-30T22:03:21+0000",
        "type": "VIDEO",
-       "likes": 34,
+       "likes": 36,
        "comments": 0,
        "views": null
       },
@@ -434,7 +457,7 @@
        "url": "https://www.instagram.com/reel/DfGCRHJiQId/",
        "published": "2026-10-29T22:03:33+0000",
        "type": "VIDEO",
-       "likes": 152,
+       "likes": 153,
        "comments": 0,
        "views": null
       },
@@ -1394,15 +1417,15 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 12,
+    "posts_count": 13,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 81
+    "views_recent": 82
    },
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 12
+    "posts_count_recent": 13
    },
    "Quran/youtube": {
     "followers": null,
@@ -1415,7 +1438,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 793,
+    "likes_recent": 796,
     "comments_recent": 1,
     "views_recent": null
    },
