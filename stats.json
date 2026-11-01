@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:27:23+03:00",
+ "generated_at": "2026-11-01T22:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,7 +811,7 @@
       "followers": 20,
       "views": null,
       "posts_count": null,
-      "views_recent": 298
+      "views_recent": 299
      },
      "posts": [
       {
@@ -846,7 +846,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 123,
+       "views": 124,
        "likes": 12,
        "comments": null
       }
@@ -1624,7 +1624,7 @@
     "followers": 20,
     "views": null,
     "posts_count": null,
-    "views_recent": 298
+    "views_recent": 299
    },
    "AI/youtube": {
     "followers": 4,
