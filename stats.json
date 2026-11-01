@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T11:27:14+03:00",
+ "generated_at": "2026-11-01T12:27:15+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -449,7 +449,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 803,
+      "likes_recent": 804,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -470,7 +470,7 @@
        "url": "https://www.instagram.com/reel/DfH95zLjMDb/",
        "published": "2026-10-30T16:03:55+0000",
        "type": "VIDEO",
-       "likes": 134,
+       "likes": 135,
        "comments": 1,
        "views": null
       },
@@ -761,7 +761,7 @@
       "followers": 20,
       "views": null,
       "posts_count": null,
-      "views_recent": 238
+      "views_recent": 248
      },
      "posts": [
       {
@@ -769,7 +769,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 12,
+       "views": 16,
        "likes": 4,
        "comments": null
       },
@@ -778,8 +778,8 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 17,
-       "likes": 5,
+       "views": 21,
+       "likes": 6,
        "comments": null
       },
       {
@@ -787,7 +787,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 92,
+       "views": 93,
        "likes": 12,
        "comments": null
       },
@@ -796,7 +796,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 117,
+       "views": 118,
        "likes": 12,
        "comments": null
       }
@@ -1544,7 +1544,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 803,
+    "likes_recent": 804,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1563,7 +1563,7 @@
     "followers": 20,
     "views": null,
     "posts_count": null,
-    "views_recent": 238
+    "views_recent": 248
    },
    "AI/youtube": {
     "followers": 4,
