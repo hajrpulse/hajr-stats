@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:27:13+03:00",
+ "generated_at": "2026-11-01T09:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -672,7 +672,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 19,
+      "followers": 20,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -1368,7 +1368,7 @@
     "views_recent": 0
    },
    "BaytAbuHamza/youtube": {
-    "followers": 19,
+    "followers": 20,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
