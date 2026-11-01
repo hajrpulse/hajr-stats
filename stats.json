@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:27:15+03:00",
+ "generated_at": "2026-11-01T14:28:07+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -83,7 +83,7 @@
        "likes": 0,
        "comments": 0,
        "views": 1,
-       "reach": 0,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -836,12 +836,21 @@
      "totals": {
       "followers": 4,
       "views": 94,
-      "posts_count": 4,
-      "views_recent": 95,
+      "posts_count": 5,
+      "views_recent": 96,
       "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "E1cZdXUUjaM",
+       "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/E1cZdXUUjaM",
+       "published": "2026-11-01T10:32:50Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "Iltdib_5iRY",
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
@@ -1588,8 +1597,8 @@
    "AI/youtube": {
     "followers": 4,
     "views": 94,
-    "posts_count": 4,
-    "views_recent": 95,
+    "posts_count": 5,
+    "views_recent": 96,
     "likes_recent": 3,
     "comments_recent": 0
    },
