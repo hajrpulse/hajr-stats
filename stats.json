@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T15:27:16+03:00",
+ "generated_at": "2026-11-01T16:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 22
+      "views_recent": 25
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/TC-cIJk5gT8",
        "published": "2026-10-27T06:32:45+00:00",
-       "views": 2,
+       "views": 4,
        "likes": 0,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/3uRgyusgjf4",
        "published": "2026-10-26T17:02:59+00:00",
-       "views": 3,
+       "views": 4,
        "likes": 1,
        "comments": null
       },
@@ -779,7 +779,7 @@
       "followers": 20,
       "views": null,
       "posts_count": null,
-      "views_recent": 248
+      "views_recent": 257
      },
      "posts": [
       {
@@ -787,7 +787,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 16,
+       "views": 20,
        "likes": 4,
        "comments": null
       },
@@ -796,8 +796,8 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 21,
-       "likes": 6,
+       "views": 25,
+       "likes": 5,
        "comments": null
       },
       {
@@ -806,7 +806,7 @@
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
        "views": 93,
-       "likes": 13,
+       "likes": 12,
        "comments": null
       },
       {
@@ -814,8 +814,8 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 118,
-       "likes": 13,
+       "views": 119,
+       "likes": 12,
        "comments": null
       }
      ]
@@ -1545,7 +1545,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 22
+    "views_recent": 25
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1592,7 +1592,7 @@
     "followers": 20,
     "views": null,
     "posts_count": null,
-    "views_recent": 248
+    "views_recent": 257
    },
    "AI/youtube": {
     "followers": 4,
