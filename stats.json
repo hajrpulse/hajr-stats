@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:27:23+03:00",
+ "generated_at": "2026-11-01T21:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,7 +811,7 @@
       "followers": 20,
       "views": null,
       "posts_count": null,
-      "views_recent": 294
+      "views_recent": 298
      },
      "posts": [
       {
@@ -819,7 +819,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 40,
+       "views": 44,
        "likes": 5,
        "comments": null
       },
@@ -869,7 +869,7 @@
       "followers": 4,
       "views": 95,
       "posts_count": 5,
-      "views_recent": 98,
+      "views_recent": 101,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -879,7 +879,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 3,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -897,7 +897,7 @@
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
        "published": "2026-10-25T19:58:41Z",
-       "views": 12,
+       "views": 13,
        "likes": 1,
        "comments": 0
       },
@@ -1624,13 +1624,13 @@
     "followers": 20,
     "views": null,
     "posts_count": null,
-    "views_recent": 294
+    "views_recent": 298
    },
    "AI/youtube": {
     "followers": 4,
     "views": 95,
     "posts_count": 5,
-    "views_recent": 98,
+    "views_recent": 101,
     "likes_recent": 3,
     "comments_recent": 0
    },
