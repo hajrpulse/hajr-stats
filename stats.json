@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T00:27:20+03:00",
+ "generated_at": "2026-11-02T01:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,7 +811,7 @@
       "followers": 20,
       "views": null,
       "posts_count": null,
-      "views_recent": 299
+      "views_recent": 300
      },
      "posts": [
       {
@@ -846,7 +846,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 124,
+       "views": 125,
        "likes": 12,
        "comments": null
       }
@@ -869,7 +869,7 @@
       "followers": 4,
       "views": 95,
       "posts_count": 5,
-      "views_recent": 106,
+      "views_recent": 107,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -888,7 +888,7 @@
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
        "published": "2026-10-26T16:27:18Z",
-       "views": 22,
+       "views": 23,
        "likes": 1,
        "comments": 0
       },
@@ -1695,13 +1695,13 @@
     "followers": 20,
     "views": null,
     "posts_count": null,
-    "views_recent": 299
+    "views_recent": 300
    },
    "AI/youtube": {
     "followers": 4,
     "views": 95,
     "posts_count": 5,
-    "views_recent": 106,
+    "views_recent": 107,
     "likes_recent": 3,
     "comments_recent": 0
    },
