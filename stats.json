@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T23:27:22+03:00",
+ "generated_at": "2026-11-02T00:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -869,7 +869,7 @@
       "followers": 4,
       "views": 95,
       "posts_count": 5,
-      "views_recent": 104,
+      "views_recent": 106,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -906,7 +906,7 @@
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
        "published": "2026-10-25T18:01:55Z",
-       "views": 22,
+       "views": 24,
        "likes": 1,
        "comments": 0
       },
@@ -1631,6 +1631,77 @@
     "views": 95,
     "posts_count": 5,
     "views_recent": 104,
+    "likes_recent": 3,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 7,
+    "views": 1272,
+    "posts_count": 4,
+    "views_recent": 1272,
+    "likes_recent": 20,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-02": {
+   "Pulse/youtube": {
+    "followers": 3,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 28
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 15,
+    "likes_recent": 3,
+    "comments_recent": 0,
+    "views_recent": 84
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 15
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 15,
+    "following": 0,
+    "posts_count": 11,
+    "likes_recent": 805,
+    "comments_recent": 1,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": 185,
+    "posts_count": 3,
+    "views_recent": 185,
+    "likes_recent": 10,
+    "comments_recent": 1
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 20,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 299
+   },
+   "AI/youtube": {
+    "followers": 4,
+    "views": 95,
+    "posts_count": 5,
+    "views_recent": 106,
     "likes_recent": 3,
     "comments_recent": 0
    },
