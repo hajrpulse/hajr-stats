@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:27:23+03:00",
+ "generated_at": "2026-11-02T22:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 42
+      "views_recent": 458
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 4,
-       "likes": 0,
+       "views": 418,
+       "likes": 9,
        "comments": null
       },
       {
@@ -45,8 +45,8 @@
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/8sCdHDePbBc",
        "published": "2026-11-01T17:02:30+00:00",
-       "views": 0,
-       "likes": 0,
+       "views": 2,
+       "likes": 1,
        "comments": null
       },
       {
@@ -55,7 +55,7 @@
        "url": "https://youtube.com/shorts/TC-cIJk5gT8",
        "published": "2026-10-27T06:32:45+00:00",
        "views": 4,
-       "likes": 0,
+       "likes": 1,
        "comments": null
       },
       {
@@ -98,7 +98,7 @@
       "posts_count": 17,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 104
+      "views_recent": 113
      },
      "posts": [
       {
@@ -109,8 +109,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 1,
-       "reach": 0,
+       "views": 10,
+       "reach": 6,
        "saved": 0,
        "shares": 0
       },
@@ -802,7 +802,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 185,
+      "views": 186,
       "posts_count": 4,
       "views_recent": 199,
       "likes_recent": 11,
@@ -884,7 +884,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 364
+      "views_recent": 398
      },
      "posts": [
       {
@@ -892,7 +892,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 25,
+       "views": 53,
        "likes": 6,
        "comments": null
       },
@@ -919,7 +919,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 122,
+       "views": 128,
        "likes": 17,
        "comments": null
       },
@@ -949,9 +949,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 123,
+      "views": 134,
       "posts_count": 6,
-      "views_recent": 317,
+      "views_recent": 318,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -970,7 +970,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 38,
+       "views": 39,
        "likes": 0,
        "comments": 0
       },
@@ -1748,7 +1748,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 42
+    "views_recent": 458
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1756,7 +1756,7 @@
     "posts_count": 17,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 104
+    "views_recent": 113
    },
    "Pulse/threads": {
     "followers": null,
@@ -1785,7 +1785,7 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 185,
+    "views": 186,
     "posts_count": 4,
     "views_recent": 199,
     "likes_recent": 11,
@@ -1795,13 +1795,13 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 364
+    "views_recent": 398
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 123,
+    "views": 134,
     "posts_count": 6,
-    "views_recent": 317,
+    "views_recent": 318,
     "likes_recent": 3,
     "comments_recent": 0
    },
