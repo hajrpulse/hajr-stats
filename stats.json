@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T05:27:18+03:00",
+ "generated_at": "2026-11-02T06:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -694,13 +694,22 @@
      "totals": {
       "followers": 4,
       "views": 185,
-      "posts_count": 3,
+      "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 185,
+      "views_recent": 186,
       "likes_recent": 10,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "Kwnym8MRMH4",
+       "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
+       "url": "https://youtube.com/shorts/Kwnym8MRMH4",
+       "published": "2026-11-02T02:32:02Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "rMrmvD00WVo",
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
@@ -1609,9 +1618,9 @@
    "Sunnah/youtube": {
     "followers": 4,
     "views": 185,
-    "posts_count": 3,
+    "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 185,
+    "views_recent": 186,
     "likes_recent": 10,
     "comments_recent": 1
    },
