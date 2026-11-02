@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:27:22+03:00",
+ "generated_at": "2026-11-02T19:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 37
+      "views_recent": 38
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/zXImt2qE2Uw",
        "published": "2026-11-02T06:32:33+00:00",
-       "views": 9,
+       "views": 10,
        "likes": 0,
        "comments": null
       },
@@ -852,7 +852,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 354
+      "views_recent": 357
      },
      "posts": [
       {
@@ -860,8 +860,8 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 19,
-       "likes": 5,
+       "views": 22,
+       "likes": 6,
        "comments": null
       },
       {
@@ -919,8 +919,8 @@
       "followers": 4,
       "views": 123,
       "posts_count": 6,
-      "views_recent": 237,
-      "likes_recent": 4,
+      "views_recent": 315,
+      "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
@@ -929,8 +929,8 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 102,
-       "likes": 1,
+       "views": 180,
+       "likes": 0,
        "comments": 0
       },
       {
@@ -1716,7 +1716,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 37
+    "views_recent": 38
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1763,14 +1763,14 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 354
+    "views_recent": 357
    },
    "AI/youtube": {
     "followers": 4,
     "views": 123,
     "posts_count": 6,
-    "views_recent": 237,
-    "likes_recent": 4,
+    "views_recent": 315,
+    "likes_recent": 3,
     "comments_recent": 0
    },
    "Shifa/youtube": {
