@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:27:19+03:00",
+ "generated_at": "2026-11-02T11:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,10 +19,64 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 29
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "zXImt2qE2Uw",
+       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/zXImt2qE2Uw",
+       "published": "2026-11-02T06:32:33+00:00",
+       "views": 1,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "8sCdHDePbBc",
+       "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/8sCdHDePbBc",
+       "published": "2026-11-01T17:02:30+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "TC-cIJk5gT8",
+       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/TC-cIJk5gT8",
+       "published": "2026-10-27T06:32:45+00:00",
+       "views": 4,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "3uRgyusgjf4",
+       "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/3uRgyusgjf4",
+       "published": "2026-10-26T17:02:59+00:00",
+       "views": 5,
+       "likes": 1,
+       "comments": null
+      },
+      {
+       "id": "QXXpFiEH6fE",
+       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/QXXpFiEH6fE",
+       "published": "2026-10-26T06:32:43+00:00",
+       "views": 11,
+       "likes": 2,
+       "comments": null
+      },
+      {
+       "id": "0cxz2EvE2OM",
+       "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/0cxz2EvE2OM",
+       "published": "2026-10-26T01:03:46+00:00",
+       "views": 8,
+       "likes": 2,
+       "comments": null
+      }
+     ]
     },
     {
      "platform": "instagram",
@@ -35,7 +89,7 @@
       "posts_count": 16,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 85
+      "views_recent": 86
      },
      "posts": [
       {
@@ -46,7 +100,7 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
+       "views": 1,
        "reach": 0,
        "saved": 0,
        "shares": 0
@@ -718,7 +772,6 @@
       "followers": 4,
       "views": 185,
       "posts_count": 4,
-      "rss_error": "rss feed unavailable",
       "views_recent": 194,
       "likes_recent": 11,
       "comments_recent": 1
@@ -796,13 +849,49 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 24,
+      "followers": 27,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 312
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "WVQYQ2I0Xv4",
+       "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
+       "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
+       "published": "2026-11-01T04:22:24+00:00",
+       "views": 45,
+       "likes": 6,
+       "comments": null
+      },
+      {
+       "id": "GbzvvFq84Fs",
+       "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
+       "url": "https://youtube.com/shorts/GbzvvFq84Fs",
+       "published": "2026-10-31T20:37:16+00:00",
+       "views": 33,
+       "likes": 5,
+       "comments": null
+      },
+      {
+       "id": "HBW_BB901X0",
+       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
+       "url": "https://youtube.com/shorts/HBW_BB901X0",
+       "published": "2026-10-24T23:06:13+00:00",
+       "views": 108,
+       "likes": 16,
+       "comments": null
+      },
+      {
+       "id": "IrN8NAUu0GM",
+       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
+       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
+       "published": "2026-10-24T20:28:27+00:00",
+       "views": 126,
+       "likes": 12,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -821,7 +910,6 @@
       "followers": 4,
       "views": 123,
       "posts_count": 5,
-      "rss_error": "rss feed unavailable",
       "views_recent": 131,
       "likes_recent": 3,
       "comments_recent": 0
@@ -891,8 +979,7 @@
       "followers": 8,
       "views": 1272,
       "posts_count": 5,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 1670,
+      "views_recent": 1799,
       "likes_recent": 30,
       "comments_recent": 0
      },
@@ -902,7 +989,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 397,
+       "views": 526,
        "likes": 7,
        "comments": 0
       },
@@ -1611,8 +1698,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 29
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1620,7 +1706,7 @@
     "posts_count": 16,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 85
+    "views_recent": 86
    },
    "Pulse/threads": {
     "followers": null,
@@ -1651,23 +1737,20 @@
     "followers": 4,
     "views": 185,
     "posts_count": 4,
-    "rss_error": "rss feed unavailable",
     "views_recent": 194,
     "likes_recent": 11,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 24,
+    "followers": 27,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 312
    },
    "AI/youtube": {
     "followers": 4,
     "views": 123,
     "posts_count": 5,
-    "rss_error": "rss feed unavailable",
     "views_recent": 131,
     "likes_recent": 3,
     "comments_recent": 0
@@ -1676,8 +1759,7 @@
     "followers": 8,
     "views": 1272,
     "posts_count": 5,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 1670,
+    "views_recent": 1799,
     "likes_recent": 30,
     "comments_recent": 0
    }
