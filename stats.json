@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T15:27:18+03:00",
+ "generated_at": "2026-11-02T16:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -89,7 +89,7 @@
       "posts_count": 16,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 97
+      "views_recent": 99
      },
      "posts": [
       {
@@ -113,8 +113,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 1,
-       "reach": 1,
+       "views": 3,
+       "reach": 2,
        "saved": 0,
        "shares": 0
       },
@@ -919,8 +919,8 @@
       "followers": 4,
       "views": 123,
       "posts_count": 6,
-      "views_recent": 145,
-      "likes_recent": 3,
+      "views_recent": 171,
+      "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
@@ -929,8 +929,8 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 12,
-       "likes": 0,
+       "views": 38,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1724,7 +1724,7 @@
     "posts_count": 16,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 97
+    "views_recent": 99
    },
    "Pulse/threads": {
     "followers": null,
@@ -1769,8 +1769,8 @@
     "followers": 4,
     "views": 123,
     "posts_count": 6,
-    "views_recent": 145,
-    "likes_recent": 3,
+    "views_recent": 171,
+    "likes_recent": 5,
     "comments_recent": 0
    },
    "Shifa/youtube": {
