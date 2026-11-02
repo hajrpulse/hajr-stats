@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T06:27:20+03:00",
+ "generated_at": "2026-11-02T07:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -773,7 +773,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 20,
+      "followers": 21,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -799,7 +799,7 @@
       "views": 95,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 123,
+      "views_recent": 130,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -809,7 +809,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 24,
+       "views": 31,
        "likes": 0,
        "comments": 0
       },
@@ -1625,7 +1625,7 @@
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 20,
+    "followers": 21,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
@@ -1636,7 +1636,7 @@
     "views": 95,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 123,
+    "views_recent": 130,
     "likes_recent": 3,
     "comments_recent": 0
    },
