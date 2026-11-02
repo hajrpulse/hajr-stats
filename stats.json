@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T09:27:19+03:00",
+ "generated_at": "2026-11-02T10:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -32,12 +32,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 15,
+      "posts_count": 16,
       "likes_recent": 3,
       "comments_recent": 0,
       "views_recent": 85
      },
      "posts": [
+      {
+       "id": "17883597459628769",
+       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse\n\n📊🛡️ The 1% Institutional Risk Management Ru",
+       "url": "https://www.instagram.com/reel/DfOq6aVE_sp/",
+       "published": "2026-11-02T06:32:39+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17912740488556546",
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس\n\n📊🛡️ قاعدة الـ 1% المؤسسية في إدارة المخاطر وحماية رأ",
@@ -245,9 +258,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 15
+      "posts_count_recent": 16
      },
      "posts": [
+      {
+       "id": "18119303981007171",
+       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://hajr",
+       "url": "https://www.threads.com/@hajrpulse/post/DfOq-vID7Z3",
+       "published": "2026-11-02T06:33:15+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18135655474675588",
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore.gum",
@@ -696,7 +719,7 @@
       "views": 185,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 193,
+      "views_recent": 194,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -706,7 +729,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 7,
+       "views": 8,
        "likes": 1,
        "comments": 0
       },
@@ -799,7 +822,7 @@
       "views": 123,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 130,
+      "views_recent": 131,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -809,7 +832,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 31,
+       "views": 32,
        "likes": 0,
        "comments": 0
       },
@@ -865,12 +888,12 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 7,
+      "followers": 8,
       "views": 1272,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1374,
-      "likes_recent": 26,
+      "views_recent": 1670,
+      "likes_recent": 30,
       "comments_recent": 0
      },
      "posts": [
@@ -879,8 +902,8 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 102,
-       "likes": 3,
+       "views": 397,
+       "likes": 7,
        "comments": 0
       },
       {
@@ -906,7 +929,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52Z",
-       "views": 10,
+       "views": 11,
        "likes": 2,
        "comments": 0
       },
@@ -1594,7 +1617,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 15,
+    "posts_count": 16,
     "likes_recent": 3,
     "comments_recent": 0,
     "views_recent": 85
@@ -1602,7 +1625,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 15
+    "posts_count_recent": 16
    },
    "Quran/youtube": {
     "followers": null,
@@ -1629,7 +1652,7 @@
     "views": 185,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 193,
+    "views_recent": 194,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1645,17 +1668,17 @@
     "views": 123,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 130,
+    "views_recent": 131,
     "likes_recent": 3,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 7,
+    "followers": 8,
     "views": 1272,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1374,
-    "likes_recent": 26,
+    "views_recent": 1670,
+    "likes_recent": 30,
     "comments_recent": 0
    }
   }
