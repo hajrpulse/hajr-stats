@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T20:55:19+03:00",
+ "generated_at": "2026-11-02T21:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -9,10 +9,83 @@
     {
      "platform": "youtube",
      "handle": "@HAJRPulse",
-     "status": "error",
-     "missing": [],
-     "source": null,
-     "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /@HAJRPulse (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of p"
+     "status": "ok",
+     "missing": [
+      "oauth_stats: no token.json"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
+     "totals": {
+      "followers": 3,
+      "views": null,
+      "posts_count": null,
+      "views_recent": 42
+     },
+     "posts": [
+      {
+       "id": "Cjzn26pmrCo",
+       "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/Cjzn26pmrCo",
+       "published": "2026-11-02T17:58:12+00:00",
+       "views": 4,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "zXImt2qE2Uw",
+       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/zXImt2qE2Uw",
+       "published": "2026-11-02T06:32:33+00:00",
+       "views": 10,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "8sCdHDePbBc",
+       "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/8sCdHDePbBc",
+       "published": "2026-11-01T17:02:30+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "TC-cIJk5gT8",
+       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/TC-cIJk5gT8",
+       "published": "2026-10-27T06:32:45+00:00",
+       "views": 4,
+       "likes": 0,
+       "comments": null
+      },
+      {
+       "id": "3uRgyusgjf4",
+       "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/3uRgyusgjf4",
+       "published": "2026-10-26T17:02:59+00:00",
+       "views": 5,
+       "likes": 1,
+       "comments": null
+      },
+      {
+       "id": "QXXpFiEH6fE",
+       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
+       "url": "https://youtube.com/shorts/QXXpFiEH6fE",
+       "published": "2026-10-26T06:32:43+00:00",
+       "views": 11,
+       "likes": 2,
+       "comments": null
+      },
+      {
+       "id": "0cxz2EvE2OM",
+       "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/0cxz2EvE2OM",
+       "published": "2026-10-26T01:03:46+00:00",
+       "views": 8,
+       "likes": 2,
+       "comments": null
+      }
+     ]
     },
     {
      "platform": "instagram",
@@ -22,12 +95,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 16,
+      "posts_count": 17,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 101
+      "views_recent": 104
      },
      "posts": [
+      {
+       "id": "17914083249473787",
+       "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس\n\n⏳🔥 قاعدة الـ 90 دقيقة للعمل العميق (Deep Work) و",
+       "url": "https://www.instagram.com/reel/DfP5Y4IjvlR/",
+       "published": "2026-11-02T17:58:21+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 1,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17883597459628769",
        "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse\n\n📊🛡️ The 1% Institutional Risk Management Ru",
@@ -36,8 +122,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 14,
-       "reach": 12,
+       "views": 16,
+       "reach": 13,
        "saved": 0,
        "shares": 0
       },
@@ -248,9 +334,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 16
+      "posts_count_recent": 17
      },
      "posts": [
+      {
+       "id": "17952321501340786",
+       "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore",
+       "url": "https://www.threads.com/@hajrpulse/post/DfP5dG-ATsw",
+       "published": "2026-11-02T17:59:05+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18119303981007171",
        "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://hajr",
@@ -422,10 +518,21 @@
     {
      "platform": "youtube",
      "handle": "@HAJRQuran",
-     "status": "error",
-     "missing": [],
-     "source": null,
-     "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /@HAJRQuran (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of p"
+     "status": "ok",
+     "missing": [
+      "oauth_stats: token.json has upload-only scope",
+      "subscribers (hidden/unparsed)"
+     ],
+     "source": "public_page+rss",
+     "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
+     "totals": {
+      "followers": null,
+      "views": null,
+      "posts_count": null,
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
+     },
+     "posts": []
     },
     {
      "platform": "instagram",
@@ -777,7 +884,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 360
+      "views_recent": 364
      },
      "posts": [
       {
@@ -785,7 +892,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 22,
+       "views": 25,
        "likes": 6,
        "comments": null
       },
@@ -794,7 +901,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 50,
+       "views": 51,
        "likes": 7,
        "comments": null
       },
@@ -1637,21 +1744,32 @@
    }
   },
   "2026-11-02": {
-   "Pulse/youtube": {},
+   "Pulse/youtube": {
+    "followers": 3,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 42
+   },
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 16,
+    "posts_count": 17,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 101
+    "views_recent": 104
    },
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 16
+    "posts_count_recent": 17
    },
-   "Quran/youtube": {},
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
    "Quran/instagram": {
     "followers": 15,
     "following": 0,
@@ -1677,7 +1795,7 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 360
+    "views_recent": 364
    },
    "AI/youtube": {
     "followers": 4,
