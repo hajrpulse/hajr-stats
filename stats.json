@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T22:27:21+03:00",
+ "generated_at": "2026-11-02T23:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 458
+      "views_recent": 883
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 418,
-       "likes": 9,
+       "views": 843,
+       "likes": 13,
        "comments": null
       },
       {
@@ -98,7 +98,7 @@
       "posts_count": 17,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 113
+      "views_recent": 142
      },
      "posts": [
       {
@@ -109,8 +109,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 10,
-       "reach": 6,
+       "views": 39,
+       "reach": 18,
        "saved": 0,
        "shares": 0
       },
@@ -884,7 +884,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 398
+      "views_recent": 409
      },
      "posts": [
       {
@@ -892,7 +892,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 53,
+       "views": 63,
        "likes": 6,
        "comments": null
       },
@@ -919,7 +919,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 128,
+       "views": 129,
        "likes": 17,
        "comments": null
       },
@@ -951,7 +951,7 @@
       "followers": 4,
       "views": 134,
       "posts_count": 6,
-      "views_recent": 318,
+      "views_recent": 341,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -961,7 +961,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 180,
+       "views": 204,
        "likes": 0,
        "comments": 0
       },
@@ -970,7 +970,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 39,
+       "views": 38,
        "likes": 0,
        "comments": 0
       },
@@ -1748,7 +1748,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 458
+    "views_recent": 883
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1756,7 +1756,7 @@
     "posts_count": 17,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 113
+    "views_recent": 142
    },
    "Pulse/threads": {
     "followers": null,
@@ -1795,13 +1795,13 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 398
+    "views_recent": 409
    },
    "AI/youtube": {
     "followers": 4,
     "views": 134,
     "posts_count": 6,
-    "views_recent": 318,
+    "views_recent": 341,
     "likes_recent": 3,
     "comments_recent": 0
    },
