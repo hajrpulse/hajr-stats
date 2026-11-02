@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:27:21+03:00",
+ "generated_at": "2026-11-02T15:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 36
+      "views_recent": 37
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/zXImt2qE2Uw",
        "published": "2026-11-02T06:32:33+00:00",
-       "views": 8,
+       "views": 9,
        "likes": 0,
        "comments": null
       },
@@ -89,7 +89,7 @@
       "posts_count": 16,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 95
+      "views_recent": 97
      },
      "posts": [
       {
@@ -100,8 +100,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 10,
-       "reach": 8,
+       "views": 12,
+       "reach": 10,
        "saved": 0,
        "shares": 0
       },
@@ -852,9 +852,18 @@
       "followers": 27,
       "views": null,
       "posts_count": null,
-      "views_recent": 330
+      "views_recent": 346
      },
      "posts": [
+      {
+       "id": "uLKPXVYHdoE",
+       "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
+       "url": "https://youtube.com/shorts/uLKPXVYHdoE",
+       "published": "2026-11-02T11:45:06+00:00",
+       "views": 16,
+       "likes": 4,
+       "comments": null
+      },
       {
        "id": "WVQYQ2I0Xv4",
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
@@ -910,7 +919,7 @@
       "followers": 4,
       "views": 123,
       "posts_count": 6,
-      "views_recent": 133,
+      "views_recent": 145,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -920,7 +929,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 0,
+       "views": 12,
        "likes": 0,
        "comments": 0
       },
@@ -1707,7 +1716,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 36
+    "views_recent": 37
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1715,7 +1724,7 @@
     "posts_count": 16,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 95
+    "views_recent": 97
    },
    "Pulse/threads": {
     "followers": null,
@@ -1754,13 +1763,13 @@
     "followers": 27,
     "views": null,
     "posts_count": null,
-    "views_recent": 330
+    "views_recent": 346
    },
    "AI/youtube": {
     "followers": 4,
     "views": 123,
     "posts_count": 6,
-    "views_recent": 133,
+    "views_recent": 145,
     "likes_recent": 3,
     "comments_recent": 0
    },
