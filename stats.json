@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:27:20+03:00",
+ "generated_at": "2026-11-02T09:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 15,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 84
+      "views_recent": 85
      },
      "posts": [
       {
@@ -46,8 +46,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 1,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -696,8 +696,8 @@
       "views": 185,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 186,
-      "likes_recent": 10,
+      "views_recent": 193,
+      "likes_recent": 11,
       "comments_recent": 1
      },
      "posts": [
@@ -706,8 +706,8 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 1,
-       "likes": 0,
+       "views": 7,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -715,7 +715,7 @@
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
        "published": "2026-10-27T02:32:10Z",
-       "views": 18,
+       "views": 19,
        "likes": 3,
        "comments": 0
       },
@@ -773,7 +773,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 22,
+      "followers": 24,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -869,8 +869,8 @@
       "views": 1272,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1278,
-      "likes_recent": 24,
+      "views_recent": 1374,
+      "likes_recent": 26,
       "comments_recent": 0
      },
      "posts": [
@@ -879,8 +879,8 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 6,
-       "likes": 1,
+       "views": 102,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -1597,7 +1597,7 @@
     "posts_count": 15,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 84
+    "views_recent": 85
    },
    "Pulse/threads": {
     "followers": null,
@@ -1629,12 +1629,12 @@
     "views": 185,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 186,
-    "likes_recent": 10,
+    "views_recent": 193,
+    "likes_recent": 11,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 22,
+    "followers": 24,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
@@ -1654,8 +1654,8 @@
     "views": 1272,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1278,
-    "likes_recent": 24,
+    "views_recent": 1374,
+    "likes_recent": 26,
     "comments_recent": 0
    }
   }
