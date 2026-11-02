@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T01:27:18+03:00",
+ "generated_at": "2026-11-03T02:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 1050
+      "views_recent": 1052
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 998,
+       "views": 999,
        "likes": 12,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/8sCdHDePbBc",
        "published": "2026-11-01T17:02:30+00:00",
-       "views": 2,
+       "views": 3,
        "likes": 1,
        "comments": null
       },
@@ -884,7 +884,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 414
+      "views_recent": 413
      },
      "posts": [
       {
@@ -901,7 +901,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 52,
+       "views": 51,
        "likes": 7,
        "comments": null
       },
@@ -1029,7 +1029,7 @@
       "followers": 8,
       "views": 1277,
       "posts_count": 5,
-      "views_recent": 2028,
+      "views_recent": 2031,
       "likes_recent": 30,
       "comments_recent": 0
      },
@@ -1039,7 +1039,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 751,
+       "views": 754,
        "likes": 7,
        "comments": 0
       },
@@ -1819,7 +1819,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 1050
+    "views_recent": 1052
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1866,7 +1866,7 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 414
+    "views_recent": 413
    },
    "AI/youtube": {
     "followers": 4,
@@ -1880,7 +1880,7 @@
     "followers": 8,
     "views": 1277,
     "posts_count": 5,
-    "views_recent": 2028,
+    "views_recent": 2031,
     "likes_recent": 30,
     "comments_recent": 0
    }
