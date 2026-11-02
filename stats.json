@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T07:27:18+03:00",
+ "generated_at": "2026-11-02T08:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -773,7 +773,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 21,
+      "followers": 22,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -796,7 +796,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 95,
+      "views": 123,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
       "views_recent": 130,
@@ -867,20 +867,29 @@
      "totals": {
       "followers": 7,
       "views": 1272,
-      "posts_count": 4,
+      "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1272,
-      "likes_recent": 20,
+      "views_recent": 1278,
+      "likes_recent": 24,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "ka0oYigp5Cc",
+       "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
+       "url": "https://youtube.com/shorts/ka0oYigp5Cc",
+       "published": "2026-11-02T04:32:53Z",
+       "views": 6,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "Lv_6VE6DYF8",
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11Z",
        "views": 59,
-       "likes": 0,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -889,7 +898,7 @@
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
        "views": 1108,
-       "likes": 16,
+       "likes": 17,
        "comments": 0
       },
       {
@@ -898,7 +907,7 @@
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52Z",
        "views": 10,
-       "likes": 1,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1625,7 +1634,7 @@
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 21,
+    "followers": 22,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
@@ -1633,7 +1642,7 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 95,
+    "views": 123,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
     "views_recent": 130,
@@ -1643,10 +1652,10 @@
    "Shifa/youtube": {
     "followers": 7,
     "views": 1272,
-    "posts_count": 4,
+    "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1272,
-    "likes_recent": 20,
+    "views_recent": 1278,
+    "likes_recent": 24,
     "comments_recent": 0
    }
   }
