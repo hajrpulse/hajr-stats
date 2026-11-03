@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:27:23+03:00",
+ "generated_at": "2026-11-03T14:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 1067
+      "views_recent": 1068
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1009,
+       "views": 1010,
        "likes": 12,
        "comments": null
       },
@@ -836,7 +836,7 @@
       "followers": 4,
       "views": 204,
       "posts_count": 5,
-      "views_recent": 217,
+      "views_recent": 219,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -855,7 +855,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 22,
+       "views": 24,
        "likes": 1,
        "comments": 0
       },
@@ -925,7 +925,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 442
+      "views_recent": 449
      },
      "posts": [
       {
@@ -933,7 +933,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 88,
+       "views": 94,
        "likes": 7,
        "comments": null
       },
@@ -960,7 +960,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 132,
+       "views": 133,
        "likes": 17,
        "comments": null
       },
@@ -991,12 +991,21 @@
      "totals": {
       "followers": 4,
       "views": 346,
-      "posts_count": 6,
-      "views_recent": 351,
+      "posts_count": 7,
+      "views_recent": 352,
       "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "eqNShkzw6QI",
+       "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/eqNShkzw6QI",
+       "published": "2026-11-03T10:32:30Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "mS8tZEVvL_I",
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
@@ -1869,7 +1878,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 1067
+    "views_recent": 1068
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1908,7 +1917,7 @@
     "followers": 4,
     "views": 204,
     "posts_count": 5,
-    "views_recent": 217,
+    "views_recent": 219,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1916,13 +1925,13 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 442
+    "views_recent": 449
    },
    "AI/youtube": {
     "followers": 4,
     "views": 346,
-    "posts_count": 6,
-    "views_recent": 351,
+    "posts_count": 7,
+    "views_recent": 352,
     "likes_recent": 3,
     "comments_recent": 0
    },
