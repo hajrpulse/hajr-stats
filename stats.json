@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:27:22+03:00",
+ "generated_at": "2026-11-03T17:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,7 +16,7 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 3,
+      "followers": 4,
       "views": null,
       "posts_count": null,
       "views_recent": 1072
@@ -36,7 +36,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1009,
+       "views": 1010,
        "likes": 12,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/8sCdHDePbBc",
        "published": "2026-11-01T17:02:30+00:00",
-       "views": 4,
+       "views": 3,
        "likes": 1,
        "comments": null
       },
@@ -836,7 +836,7 @@
       "followers": 4,
       "views": 204,
       "posts_count": 5,
-      "views_recent": 219,
+      "views_recent": 220,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -846,7 +846,7 @@
        "title": "Las obras dependen de las intenciones | Hadith Sahih Bujari y Muslim #Shorts",
        "url": "https://youtube.com/shorts/xravUT72xOY",
        "published": "2026-11-03T02:32:25Z",
-       "views": 8,
+       "views": 9,
        "likes": 0,
        "comments": 0
       },
@@ -925,7 +925,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 450
+      "views_recent": 457
      },
      "posts": [
       {
@@ -933,7 +933,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 94,
+       "views": 100,
        "likes": 7,
        "comments": null
       },
@@ -960,7 +960,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 133,
+       "views": 134,
        "likes": 17,
        "comments": null
       },
@@ -992,8 +992,8 @@
       "followers": 4,
       "views": 346,
       "posts_count": 7,
-      "views_recent": 352,
-      "likes_recent": 3,
+      "views_recent": 374,
+      "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
@@ -1002,8 +1002,8 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 1,
-       "likes": 0,
+       "views": 20,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1011,7 +1011,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 212,
+       "views": 214,
        "likes": 0,
        "comments": 0
       },
@@ -1020,7 +1020,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 40,
+       "views": 41,
        "likes": 0,
        "comments": 0
       },
@@ -1875,7 +1875,7 @@
   },
   "2026-11-03": {
    "Pulse/youtube": {
-    "followers": 3,
+    "followers": 4,
     "views": null,
     "posts_count": null,
     "views_recent": 1072
@@ -1917,7 +1917,7 @@
     "followers": 4,
     "views": 204,
     "posts_count": 5,
-    "views_recent": 219,
+    "views_recent": 220,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1925,14 +1925,14 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 450
+    "views_recent": 457
    },
    "AI/youtube": {
     "followers": 4,
     "views": 346,
     "posts_count": 7,
-    "views_recent": 352,
-    "likes_recent": 3,
+    "views_recent": 374,
+    "likes_recent": 5,
     "comments_recent": 0
    },
    "Shifa/youtube": {
