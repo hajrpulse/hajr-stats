@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:27:23+03:00",
+ "generated_at": "2026-11-03T18:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 1072
+      "views_recent": 1074
      },
      "posts": [
       {
@@ -28,7 +28,7 @@
        "url": "https://youtube.com/shorts/m739i-DYgBQ",
        "published": "2026-11-03T06:33:33+00:00",
        "views": 3,
-       "likes": 0,
+       "likes": 1,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1010,
+       "views": 1011,
        "likes": 12,
        "comments": null
       },
@@ -54,8 +54,8 @@
        "title": "قاعدة الـ 1% الصارمة التي تحمي رأس مالك من الانهيار! 📊🛡️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/8sCdHDePbBc",
        "published": "2026-11-01T17:02:30+00:00",
-       "views": 3,
-       "likes": 1,
+       "views": 4,
+       "likes": 2,
        "comments": null
       },
       {
@@ -836,7 +836,7 @@
       "followers": 4,
       "views": 204,
       "posts_count": 5,
-      "views_recent": 220,
+      "views_recent": 225,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -855,7 +855,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 24,
+       "views": 29,
        "likes": 1,
        "comments": 0
       },
@@ -925,7 +925,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 457
+      "views_recent": 686
      },
      "posts": [
       {
@@ -933,7 +933,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 100,
+       "views": 330,
        "likes": 7,
        "comments": null
       },
@@ -960,7 +960,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 134,
+       "views": 133,
        "likes": 17,
        "comments": null
       },
@@ -992,7 +992,7 @@
       "followers": 4,
       "views": 346,
       "posts_count": 7,
-      "views_recent": 374,
+      "views_recent": 371,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1002,7 +1002,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 20,
+       "views": 17,
        "likes": 2,
        "comments": 0
       },
@@ -1878,7 +1878,7 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 1072
+    "views_recent": 1074
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1917,7 +1917,7 @@
     "followers": 4,
     "views": 204,
     "posts_count": 5,
-    "views_recent": 220,
+    "views_recent": 225,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1925,13 +1925,13 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 457
+    "views_recent": 686
    },
    "AI/youtube": {
     "followers": 4,
     "views": 346,
     "posts_count": 7,
-    "views_recent": 374,
+    "views_recent": 371,
     "likes_recent": 5,
     "comments_recent": 0
    },
