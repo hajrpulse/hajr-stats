@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T12:27:22+03:00",
+ "generated_at": "2026-11-03T13:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 1064
+      "views_recent": 1067
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1006,
+       "views": 1009,
        "likes": 12,
        "comments": null
       },
@@ -119,7 +119,7 @@
        "likes": 0,
        "comments": 0,
        "views": 47,
-       "reach": 42,
+       "reach": 45,
        "saved": 0,
        "shares": 0
       },
@@ -577,7 +577,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 805,
+      "likes_recent": 804,
       "comments_recent": 1,
       "views_recent": null
      },
@@ -668,7 +668,7 @@
        "url": "https://www.instagram.com/reel/De8IeMiFFMV/",
        "published": "2026-10-26T01:45:50+0000",
        "type": "VIDEO",
-       "likes": 180,
+       "likes": 179,
        "comments": 0,
        "views": null
       },
@@ -934,7 +934,7 @@
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
        "views": 88,
-       "likes": 6,
+       "likes": 7,
        "comments": null
       },
       {
@@ -992,7 +992,7 @@
       "followers": 4,
       "views": 346,
       "posts_count": 6,
-      "views_recent": 350,
+      "views_recent": 351,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -1002,7 +1002,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 211,
+       "views": 212,
        "likes": 0,
        "comments": 0
       },
@@ -1070,8 +1070,8 @@
       "followers": 8,
       "views": 2040,
       "posts_count": 6,
-      "views_recent": 2063,
-      "likes_recent": 31,
+      "views_recent": 2079,
+      "likes_recent": 32,
       "comments_recent": 0
      },
      "posts": [
@@ -1080,8 +1080,8 @@
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
        "published": "2026-11-03T04:32:26Z",
-       "views": 11,
-       "likes": 1,
+       "views": 18,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1089,7 +1089,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 773,
+       "views": 782,
        "likes": 7,
        "comments": 0
       },
@@ -1869,7 +1869,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 1064
+    "views_recent": 1067
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1895,7 +1895,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 805,
+    "likes_recent": 804,
     "comments_recent": 1,
     "views_recent": null
    },
@@ -1922,7 +1922,7 @@
     "followers": 4,
     "views": 346,
     "posts_count": 6,
-    "views_recent": 350,
+    "views_recent": 351,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -1930,8 +1930,8 @@
     "followers": 8,
     "views": 2040,
     "posts_count": 6,
-    "views_recent": 2063,
-    "likes_recent": 31,
+    "views_recent": 2079,
+    "likes_recent": 32,
     "comments_recent": 0
    }
   }
