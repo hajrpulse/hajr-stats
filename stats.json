@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T23:27:23+03:00",
+ "generated_at": "2026-11-04T00:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 1307
+      "views_recent": 1322
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/oMxE4jFJ2Dc",
        "published": "2026-11-03T17:02:41+00:00",
-       "views": 237,
-       "likes": 4,
+       "views": 253,
+       "likes": 3,
        "comments": null
       },
       {
@@ -45,7 +45,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1005,
+       "views": 1004,
        "likes": 12,
        "comments": null
       },
@@ -116,7 +116,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 217
+      "views_recent": 225
      },
      "posts": [
       {
@@ -127,8 +127,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 3,
-       "reach": 1,
+       "views": 11,
+       "reach": 8,
        "saved": 0,
        "shares": 0
       },
@@ -868,7 +868,7 @@
       "followers": 4,
       "views": 204,
       "posts_count": 5,
-      "views_recent": 228,
+      "views_recent": 230,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -887,7 +887,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 30,
+       "views": 32,
        "likes": 1,
        "comments": 0
       },
@@ -957,7 +957,7 @@
       "followers": 31,
       "views": null,
       "posts_count": null,
-      "views_recent": 1400
+      "views_recent": 1401
      },
      "posts": [
       {
@@ -1001,7 +1001,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 134,
+       "views": 135,
        "likes": 12,
        "comments": null
       }
@@ -1024,7 +1024,7 @@
       "followers": 4,
       "views": 346,
       "posts_count": 7,
-      "views_recent": 399,
+      "views_recent": 404,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1034,7 +1034,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 32,
+       "views": 37,
        "likes": 2,
        "comments": 0
       },
@@ -1109,9 +1109,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 8,
-      "views": 2040,
+      "views": 2062,
       "posts_count": 6,
-      "views_recent": 2124,
+      "views_recent": 2125,
       "likes_recent": 32,
       "comments_recent": 0
      },
@@ -1130,7 +1130,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 804,
+       "views": 805,
        "likes": 7,
        "comments": 0
       },
@@ -1972,6 +1972,77 @@
     "views": 2040,
     "posts_count": 6,
     "views_recent": 2124,
+    "likes_recent": 32,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-04": {
+   "Pulse/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1322
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 19,
+    "likes_recent": 3,
+    "comments_recent": 0,
+    "views_recent": 225
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 19
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 15,
+    "following": 0,
+    "posts_count": 11,
+    "likes_recent": 804,
+    "comments_recent": 1,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": 204,
+    "posts_count": 5,
+    "views_recent": 230,
+    "likes_recent": 11,
+    "comments_recent": 1
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 31,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1401
+   },
+   "AI/youtube": {
+    "followers": 4,
+    "views": 346,
+    "posts_count": 7,
+    "views_recent": 404,
+    "likes_recent": 5,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 8,
+    "views": 2062,
+    "posts_count": 6,
+    "views_recent": 2125,
     "likes_recent": 32,
     "comments_recent": 0
    }
