@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T11:27:21+03:00",
+ "generated_at": "2026-11-03T12:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 1067
+      "views_recent": 1064
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1009,
+       "views": 1006,
        "likes": 12,
        "comments": null
       },
@@ -107,7 +107,7 @@
       "posts_count": 18,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 194
+      "views_recent": 213
      },
      "posts": [
       {
@@ -118,8 +118,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 28,
-       "reach": 23,
+       "views": 47,
+       "reach": 42,
        "saved": 0,
        "shares": 0
       },
@@ -925,7 +925,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 441
+      "views_recent": 442
      },
      "posts": [
       {
@@ -933,7 +933,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 87,
+       "views": 88,
        "likes": 6,
        "comments": null
       },
@@ -1869,7 +1869,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 1067
+    "views_recent": 1064
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1877,7 +1877,7 @@
     "posts_count": 18,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 194
+    "views_recent": 213
    },
    "Pulse/threads": {
     "followers": null,
@@ -1916,7 +1916,7 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 441
+    "views_recent": 442
    },
    "AI/youtube": {
     "followers": 4,
