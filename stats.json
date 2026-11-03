@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T22:27:21+03:00",
+ "generated_at": "2026-11-03T23:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 1151
+      "views_recent": 1307
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/oMxE4jFJ2Dc",
        "published": "2026-11-03T17:02:41+00:00",
-       "views": 81,
+       "views": 237,
        "likes": 4,
        "comments": null
       },
@@ -116,7 +116,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 214
+      "views_recent": 217
      },
      "posts": [
       {
@@ -127,8 +127,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 3,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -1024,7 +1024,7 @@
       "followers": 4,
       "views": 346,
       "posts_count": 7,
-      "views_recent": 395,
+      "views_recent": 399,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1043,7 +1043,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 223,
+       "views": 227,
        "likes": 0,
        "comments": 0
       },
@@ -1111,7 +1111,7 @@
       "followers": 8,
       "views": 2040,
       "posts_count": 6,
-      "views_recent": 2107,
+      "views_recent": 2124,
       "likes_recent": 32,
       "comments_recent": 0
      },
@@ -1121,7 +1121,7 @@
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
        "published": "2026-11-03T04:32:26Z",
-       "views": 33,
+       "views": 41,
        "likes": 2,
        "comments": 0
       },
@@ -1130,7 +1130,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 795,
+       "views": 804,
        "likes": 7,
        "comments": 0
       },
@@ -1910,7 +1910,7 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 1151
+    "views_recent": 1307
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1918,7 +1918,7 @@
     "posts_count": 19,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 214
+    "views_recent": 217
    },
    "Pulse/threads": {
     "followers": null,
@@ -1963,7 +1963,7 @@
     "followers": 4,
     "views": 346,
     "posts_count": 7,
-    "views_recent": 395,
+    "views_recent": 399,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -1971,7 +1971,7 @@
     "followers": 8,
     "views": 2040,
     "posts_count": 6,
-    "views_recent": 2107,
+    "views_recent": 2124,
     "likes_recent": 32,
     "comments_recent": 0
    }
