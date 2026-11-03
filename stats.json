@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T05:27:23+03:00",
+ "generated_at": "2026-11-03T06:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -740,13 +740,22 @@
      "totals": {
       "followers": 4,
       "views": 186,
-      "posts_count": 4,
+      "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 208,
+      "views_recent": 209,
       "likes_recent": 11,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "xravUT72xOY",
+       "title": "Las obras dependen de las intenciones | Hadith Sahih Bujari y Muslim #Shorts",
+       "url": "https://youtube.com/shorts/xravUT72xOY",
+       "published": "2026-11-03T02:32:25Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "Kwnym8MRMH4",
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
@@ -845,7 +854,7 @@
       "views": 134,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 347,
+      "views_recent": 350,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -855,7 +864,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 208,
+       "views": 211,
        "likes": 0,
        "comments": 0
       },
@@ -924,7 +933,7 @@
       "views": 1277,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2041,
+      "views_recent": 2046,
       "likes_recent": 30,
       "comments_recent": 0
      },
@@ -934,7 +943,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 762,
+       "views": 767,
        "likes": 7,
        "comments": 0
       },
@@ -1753,9 +1762,9 @@
    "Sunnah/youtube": {
     "followers": 4,
     "views": 186,
-    "posts_count": 4,
+    "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 208,
+    "views_recent": 209,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1771,7 +1780,7 @@
     "views": 134,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 347,
+    "views_recent": 350,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -1780,7 +1789,7 @@
     "views": 1277,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2041,
+    "views_recent": 2046,
     "likes_recent": 30,
     "comments_recent": 0
    }
