@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T06:27:18+03:00",
+ "generated_at": "2026-11-03T07:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 17,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 157
+      "views_recent": 158
      },
      "posts": [
       {
@@ -59,7 +59,7 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 17,
+       "views": 18,
        "reach": 14,
        "saved": 0,
        "shares": 0
@@ -742,7 +742,7 @@
       "views": 186,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 209,
+      "views_recent": 210,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -779,7 +779,7 @@
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
        "published": "2026-10-26T10:47:55Z",
-       "views": 82,
+       "views": 83,
        "likes": 4,
        "comments": 0
       },
@@ -851,10 +851,10 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 134,
+      "views": 346,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 350,
+      "views_recent": 349,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -864,7 +864,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 211,
+       "views": 210,
        "likes": 0,
        "comments": 0
       },
@@ -1732,7 +1732,7 @@
     "posts_count": 17,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 157
+    "views_recent": 158
    },
    "Pulse/threads": {
     "followers": null,
@@ -1764,7 +1764,7 @@
     "views": 186,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 209,
+    "views_recent": 210,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1777,10 +1777,10 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 134,
+    "views": 346,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 350,
+    "views_recent": 349,
     "likes_recent": 3,
     "comments_recent": 0
    },
