@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T09:27:19+03:00",
+ "generated_at": "2026-11-03T10:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -32,12 +32,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 17,
+      "posts_count": 18,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 163
+      "views_recent": 174
      },
      "posts": [
+      {
+       "id": "18096460727664511",
+       "title": "The 90-Minute Deep Work Protocol That Doubles Daily Output! ⏳🔥 | HAJR Pulse\n\n⏳🔥 The 90-Minute Deep Work Focus Protocol f",
+       "url": "https://www.instagram.com/reel/DfRP0pMCTP_/",
+       "published": "2026-11-03T06:33:39+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 8,
+       "reach": 2,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17914083249473787",
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس\n\n⏳🔥 قاعدة الـ 90 دقيقة للعمل العميق (Deep Work) و",
@@ -46,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 53,
-       "reach": 46,
+       "views": 54,
+       "reach": 47,
        "saved": 0,
        "shares": 0
       },
@@ -59,8 +72,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 23,
-       "reach": 17,
+       "views": 25,
+       "reach": 21,
        "saved": 0,
        "shares": 0
       },
@@ -271,9 +284,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 17
+      "posts_count_recent": 18
      },
      "posts": [
+      {
+       "id": "18120868666922170",
+       "title": "The 90-Minute Deep Work Protocol That Doubles Daily Output! ⏳🔥 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://hajr",
+       "url": "https://www.threads.com/@hajrpulse/post/DfRP48UhpoD",
+       "published": "2026-11-03T06:34:21+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17952321501340786",
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore",
@@ -854,7 +877,7 @@
       "views": 346,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 349,
+      "views_recent": 350,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -864,7 +887,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 210,
+       "views": 211,
        "likes": 0,
        "comments": 0
       },
@@ -930,11 +953,11 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 8,
-      "views": 2040,
-      "posts_count": 6,
+      "views": 1277,
+      "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2058,
-      "likes_recent": 31,
+      "views_recent": 2059,
+      "likes_recent": 32,
       "comments_recent": 0
      },
      "posts": [
@@ -943,8 +966,8 @@
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
        "published": "2026-11-03T04:32:26Z",
-       "views": 11,
-       "likes": 1,
+       "views": 12,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1738,15 +1761,15 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 17,
+    "posts_count": 18,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 163
+    "views_recent": 174
    },
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 17
+    "posts_count_recent": 18
    },
    "Quran/youtube": {
     "followers": null,
@@ -1789,17 +1812,17 @@
     "views": 346,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 349,
+    "views_recent": 350,
     "likes_recent": 3,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 8,
-    "views": 2040,
-    "posts_count": 6,
+    "views": 1277,
+    "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2058,
-    "likes_recent": 31,
+    "views_recent": 2059,
+    "likes_recent": 32,
     "comments_recent": 0
    }
   }
