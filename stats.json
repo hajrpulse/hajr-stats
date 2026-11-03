@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T03:27:23+03:00",
+ "generated_at": "2026-11-03T04:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 17,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 156
+      "views_recent": 157
      },
      "posts": [
       {
@@ -59,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 16,
-       "reach": 13,
+       "views": 17,
+       "reach": 14,
        "saved": 0,
        "shares": 0
       },
@@ -742,7 +742,7 @@
       "views": 186,
       "posts_count": 4,
       "rss_error": "rss feed unavailable",
-      "views_recent": 199,
+      "views_recent": 208,
       "likes_recent": 11,
       "comments_recent": 1
      },
@@ -752,7 +752,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 13,
+       "views": 22,
        "likes": 1,
        "comments": 0
       },
@@ -822,55 +822,10 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 430
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "uLKPXVYHdoE",
-       "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
-       "url": "https://youtube.com/shorts/uLKPXVYHdoE",
-       "published": "2026-11-02T11:45:06+00:00",
-       "views": 79,
-       "likes": 6,
-       "comments": null
-      },
-      {
-       "id": "WVQYQ2I0Xv4",
-       "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
-       "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
-       "published": "2026-11-01T04:22:24+00:00",
-       "views": 52,
-       "likes": 7,
-       "comments": null
-      },
-      {
-       "id": "GbzvvFq84Fs",
-       "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
-       "url": "https://youtube.com/shorts/GbzvvFq84Fs",
-       "published": "2026-10-31T20:37:16+00:00",
-       "views": 35,
-       "likes": 5,
-       "comments": null
-      },
-      {
-       "id": "HBW_BB901X0",
-       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
-       "url": "https://youtube.com/shorts/HBW_BB901X0",
-       "published": "2026-10-24T23:06:13+00:00",
-       "views": 131,
-       "likes": 17,
-       "comments": null
-      },
-      {
-       "id": "IrN8NAUu0GM",
-       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
-       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
-       "published": "2026-10-24T20:28:27+00:00",
-       "views": 133,
-       "likes": 12,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -889,6 +844,7 @@
       "followers": 4,
       "views": 134,
       "posts_count": 6,
+      "rss_error": "rss feed unavailable",
       "views_recent": 345,
       "likes_recent": 3,
       "comments_recent": 0
@@ -968,7 +924,7 @@
       "views": 1277,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2038,
+      "views_recent": 2041,
       "likes_recent": 30,
       "comments_recent": 0
      },
@@ -978,7 +934,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 761,
+       "views": 762,
        "likes": 7,
        "comments": 0
       },
@@ -987,7 +943,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11Z",
-       "views": 60,
+       "views": 62,
        "likes": 1,
        "comments": 0
       },
@@ -1767,7 +1723,7 @@
     "posts_count": 17,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 156
+    "views_recent": 157
    },
    "Pulse/threads": {
     "followers": null,
@@ -1799,7 +1755,7 @@
     "views": 186,
     "posts_count": 4,
     "rss_error": "rss feed unavailable",
-    "views_recent": 199,
+    "views_recent": 208,
     "likes_recent": 11,
     "comments_recent": 1
    },
@@ -1807,12 +1763,14 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 430
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "AI/youtube": {
     "followers": 4,
     "views": 134,
     "posts_count": 6,
+    "rss_error": "rss feed unavailable",
     "views_recent": 345,
     "likes_recent": 3,
     "comments_recent": 0
@@ -1822,7 +1780,7 @@
     "views": 1277,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2038,
+    "views_recent": 2041,
     "likes_recent": 30,
     "comments_recent": 0
    }
