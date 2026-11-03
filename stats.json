@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T14:27:19+03:00",
+ "generated_at": "2026-11-03T15:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 3,
       "views": null,
       "posts_count": null,
-      "views_recent": 1068
+      "views_recent": 1072
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 90-Minute Deep Work Protocol That Doubles Daily Output! ⏳🔥 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/m739i-DYgBQ",
        "published": "2026-11-03T06:33:33+00:00",
-       "views": 0,
+       "views": 3,
        "likes": 0,
        "comments": null
       },
@@ -90,7 +90,7 @@
        "title": "لماذا تشتري البنوك المركزية الذهب بكميات قياسية في 2026؟ 🪙📈 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/0cxz2EvE2OM",
        "published": "2026-10-26T01:03:46+00:00",
-       "views": 11,
+       "views": 12,
        "likes": 2,
        "comments": null
       }
@@ -925,7 +925,7 @@
       "followers": 28,
       "views": null,
       "posts_count": null,
-      "views_recent": 449
+      "views_recent": 445
      },
      "posts": [
       {
@@ -933,7 +933,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 94,
+       "views": 88,
        "likes": 7,
        "comments": null
       },
@@ -951,7 +951,7 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 35,
+       "views": 36,
        "likes": 5,
        "comments": null
       },
@@ -960,7 +960,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 133,
+       "views": 134,
        "likes": 17,
        "comments": null
       },
@@ -1878,7 +1878,7 @@
     "followers": 3,
     "views": null,
     "posts_count": null,
-    "views_recent": 1068
+    "views_recent": 1072
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1925,7 +1925,7 @@
     "followers": 28,
     "views": null,
     "posts_count": null,
-    "views_recent": 449
+    "views_recent": 445
    },
    "AI/youtube": {
     "followers": 4,
