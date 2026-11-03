@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:27:18+03:00",
+ "generated_at": "2026-11-03T08:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -60,7 +60,7 @@
        "likes": 0,
        "comments": 0,
        "views": 18,
-       "reach": 14,
+       "reach": 15,
        "saved": 0,
        "shares": 0
       },
@@ -739,7 +739,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 186,
+      "views": 204,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
       "views_recent": 210,
@@ -930,14 +930,23 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 8,
-      "views": 1277,
-      "posts_count": 5,
+      "views": 2040,
+      "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2046,
-      "likes_recent": 30,
+      "views_recent": 2049,
+      "likes_recent": 31,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "76oSyElXr-k",
+       "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/76oSyElXr-k",
+       "published": "2026-11-03T04:32:26Z",
+       "views": 3,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "ka0oYigp5Cc",
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
@@ -1761,7 +1770,7 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 186,
+    "views": 204,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
     "views_recent": 210,
@@ -1786,11 +1795,11 @@
    },
    "Shifa/youtube": {
     "followers": 8,
-    "views": 1277,
-    "posts_count": 5,
+    "views": 2040,
+    "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2046,
-    "likes_recent": 30,
+    "views_recent": 2049,
+    "likes_recent": 31,
     "comments_recent": 0
    }
   }
