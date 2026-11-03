@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T00:27:18+03:00",
+ "generated_at": "2026-11-04T01:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 1322
+      "views_recent": 1323
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1004,
+       "views": 1005,
        "likes": 12,
        "comments": null
       },
@@ -116,7 +116,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 225
+      "views_recent": 238
      },
      "posts": [
       {
@@ -127,8 +127,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 11,
-       "reach": 8,
+       "views": 24,
+       "reach": 19,
        "saved": 0,
        "shares": 0
       },
@@ -957,7 +957,7 @@
       "followers": 31,
       "views": null,
       "posts_count": null,
-      "views_recent": 1401
+      "views_recent": 1521
      },
      "posts": [
       {
@@ -965,7 +965,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1043,
+       "views": 1163,
        "likes": 20,
        "comments": null
       },
@@ -1022,7 +1022,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 346,
+      "views": 352,
       "posts_count": 7,
       "views_recent": 404,
       "likes_recent": 5,
@@ -1109,7 +1109,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 8,
-      "views": 2062,
+      "views": 2040,
       "posts_count": 6,
       "views_recent": 2125,
       "likes_recent": 32,
@@ -1981,7 +1981,7 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 1322
+    "views_recent": 1323
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -1989,7 +1989,7 @@
     "posts_count": 19,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 225
+    "views_recent": 238
    },
    "Pulse/threads": {
     "followers": null,
@@ -2028,11 +2028,11 @@
     "followers": 31,
     "views": null,
     "posts_count": null,
-    "views_recent": 1401
+    "views_recent": 1521
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 346,
+    "views": 352,
     "posts_count": 7,
     "views_recent": 404,
     "likes_recent": 5,
@@ -2040,7 +2040,7 @@
    },
    "Shifa/youtube": {
     "followers": 8,
-    "views": 2062,
+    "views": 2040,
     "posts_count": 6,
     "views_recent": 2125,
     "likes_recent": 32,
