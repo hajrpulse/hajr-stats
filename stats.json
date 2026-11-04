@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:27:22+03:00",
+ "generated_at": "2026-11-04T16:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -998,7 +998,7 @@
       "followers": 31,
       "views": null,
       "posts_count": null,
-      "views_recent": 1527
+      "views_recent": 1529
      },
      "posts": [
       {
@@ -1006,8 +1006,8 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1167,
-       "likes": 20,
+       "views": 1169,
+       "likes": 21,
        "comments": null
       },
       {
@@ -1065,7 +1065,7 @@
       "followers": 4,
       "views": 413,
       "posts_count": 8,
-      "views_recent": 440,
+      "views_recent": 460,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1075,7 +1075,7 @@
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 10,
+       "views": 29,
        "likes": 0,
        "comments": 0
       },
@@ -1093,7 +1093,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 245,
+       "views": 246,
        "likes": 0,
        "comments": 0
       },
@@ -1161,7 +1161,7 @@
       "followers": 9,
       "views": 2149,
       "posts_count": 7,
-      "views_recent": 2358,
+      "views_recent": 2391,
       "likes_recent": 40,
       "comments_recent": 2
      },
@@ -1171,7 +1171,7 @@
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/WnRw5fosvKA",
        "published": "2026-11-04T04:32:05Z",
-       "views": 198,
+       "views": 228,
        "likes": 8,
        "comments": 2
       },
@@ -1189,7 +1189,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 836,
+       "views": 839,
        "likes": 7,
        "comments": 0
       },
@@ -2087,13 +2087,13 @@
     "followers": 31,
     "views": null,
     "posts_count": null,
-    "views_recent": 1527
+    "views_recent": 1529
    },
    "AI/youtube": {
     "followers": 4,
     "views": 413,
     "posts_count": 8,
-    "views_recent": 440,
+    "views_recent": 460,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2101,7 +2101,7 @@
     "followers": 9,
     "views": 2149,
     "posts_count": 7,
-    "views_recent": 2358,
+    "views_recent": 2391,
     "likes_recent": 40,
     "comments_recent": 2
    }
