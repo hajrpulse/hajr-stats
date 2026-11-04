@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T09:27:20+03:00",
+ "generated_at": "2026-11-04T10:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,7 +16,7 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 4,
+      "followers": 5,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -32,12 +32,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 19,
+      "posts_count": 20,
       "likes_recent": 3,
       "comments_recent": 0,
       "views_recent": 255
      },
      "posts": [
+      {
+       "id": "17998620483101127",
+       "title": "Build a 6-Month Financial Fortress Before You Invest! 🏰💰 | HAJR Pulse\n\n🏰💰 How to Build a 6-Month Emergency Fund & Why It",
+       "url": "https://www.instagram.com/reel/DfT0h3ggaKx/",
+       "published": "2026-11-04T06:32:53+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17924433450220829",
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس\n\n🏰💰 كيف تبني صندوق الطوارئ المالي لـ 6 أشهر ولم",
@@ -297,9 +310,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 19
+      "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18120094597979912",
+       "title": "Build a 6-Month Financial Fortress Before You Invest! 🏰💰 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://hajrstore.",
+       "url": "https://www.threads.com/@hajrpulse/post/DfT0mZ0AUvM",
+       "published": "2026-11-04T06:33:37+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18134913010663230",
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrsto",
@@ -785,11 +808,11 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 209,
+      "views": 231,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 239,
-      "likes_recent": 13,
+      "views_recent": 231,
+      "likes_recent": 11,
       "comments_recent": 1
      },
      "posts": [
@@ -798,8 +821,8 @@
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
        "published": "2026-11-04T02:32:10Z",
-       "views": 8,
-       "likes": 2,
+       "views": 0,
+       "likes": 0,
        "comments": 0
       },
       {
@@ -909,7 +932,7 @@
       "views": 352,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 419,
+      "views_recent": 423,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -919,7 +942,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 40,
+       "views": 41,
        "likes": 2,
        "comments": 0
       },
@@ -928,7 +951,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 238,
+       "views": 241,
        "likes": 0,
        "comments": 0
       },
@@ -993,12 +1016,12 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 8,
-      "views": 2062,
+      "followers": 9,
+      "views": 2149,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2179,
-      "likes_recent": 33,
+      "views_recent": 2311,
+      "likes_recent": 39,
       "comments_recent": 2
      },
      "posts": [
@@ -1007,8 +1030,8 @@
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/WnRw5fosvKA",
        "published": "2026-11-04T04:32:05Z",
-       "views": 21,
-       "likes": 1,
+       "views": 152,
+       "likes": 7,
        "comments": 2
       },
       {
@@ -1025,7 +1048,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 835,
+       "views": 836,
        "likes": 7,
        "comments": 0
       },
@@ -1873,7 +1896,7 @@
   },
   "2026-11-04": {
    "Pulse/youtube": {
-    "followers": 4,
+    "followers": 5,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
@@ -1882,7 +1905,7 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 19,
+    "posts_count": 20,
     "likes_recent": 3,
     "comments_recent": 0,
     "views_recent": 255
@@ -1890,7 +1913,7 @@
    "Pulse/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 19
+    "posts_count_recent": 20
    },
    "Quran/youtube": {
     "followers": null,
@@ -1914,11 +1937,11 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 209,
+    "views": 231,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 239,
-    "likes_recent": 13,
+    "views_recent": 231,
+    "likes_recent": 11,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -1933,17 +1956,17 @@
     "views": 352,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 419,
+    "views_recent": 423,
     "likes_recent": 5,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 8,
-    "views": 2062,
+    "followers": 9,
+    "views": 2149,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2179,
-    "likes_recent": 33,
+    "views_recent": 2311,
+    "likes_recent": 39,
     "comments_recent": 2
    }
   }
