@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:27:27+03:00",
+ "generated_at": "2026-11-04T21:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1578
+      "views_recent": 1581
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "أين تتجه تريليونات الاستثمارات العالمية؟ 3 قطاعات تقود المستقبل! 🌍🏗️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/AqvgVN0lz-s",
        "published": "2026-11-04T17:02:46+00:00",
-       "views": 2,
-       "likes": 1,
+       "views": 6,
+       "likes": 2,
        "comments": null
       },
       {
@@ -63,7 +63,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1193,
+       "views": 1192,
        "likes": 15,
        "comments": null
       },
@@ -909,7 +909,7 @@
       "followers": 4,
       "views": 231,
       "posts_count": 6,
-      "views_recent": 245,
+      "views_recent": 246,
       "likes_recent": 14,
       "comments_recent": 1
      },
@@ -937,7 +937,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 34,
+       "views": 35,
        "likes": 1,
        "comments": 0
       },
@@ -2049,7 +2049,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1578
+    "views_recent": 1581
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2088,7 +2088,7 @@
     "followers": 4,
     "views": 231,
     "posts_count": 6,
-    "views_recent": 245,
+    "views_recent": 246,
     "likes_recent": 14,
     "comments_recent": 1
    },
