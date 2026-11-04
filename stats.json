@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:27:19+03:00",
+ "generated_at": "2026-11-04T07:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -788,8 +788,8 @@
       "views": 209,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 231,
-      "likes_recent": 11,
+      "views_recent": 239,
+      "likes_recent": 12,
       "comments_recent": 1
      },
      "posts": [
@@ -798,8 +798,8 @@
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
        "published": "2026-11-04T02:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 8,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -997,7 +997,7 @@
       "views": 2062,
       "posts_count": 6,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2156,
+      "views_recent": 2158,
       "likes_recent": 32,
       "comments_recent": 0
      },
@@ -1016,7 +1016,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 833,
+       "views": 835,
        "likes": 7,
        "comments": 0
       },
@@ -1908,8 +1908,8 @@
     "views": 209,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 231,
-    "likes_recent": 11,
+    "views_recent": 239,
+    "likes_recent": 12,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -1933,7 +1933,7 @@
     "views": 2062,
     "posts_count": 6,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2156,
+    "views_recent": 2158,
     "likes_recent": 32,
     "comments_recent": 0
    }
