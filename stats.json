@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:27:22+03:00",
+ "generated_at": "2026-11-04T18:27:25+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1568
+      "views_recent": 1572
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/oMxE4jFJ2Dc",
        "published": "2026-11-03T17:02:41+00:00",
-       "views": 304,
+       "views": 308,
        "likes": 3,
        "comments": null
       },
@@ -900,7 +900,7 @@
       "followers": 4,
       "views": 231,
       "posts_count": 6,
-      "views_recent": 241,
+      "views_recent": 242,
       "likes_recent": 14,
       "comments_recent": 1
      },
@@ -928,7 +928,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 33,
+       "views": 34,
        "likes": 1,
        "comments": 0
       },
@@ -998,7 +998,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 1531
+      "views_recent": 1536
      },
      "posts": [
       {
@@ -1006,7 +1006,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1171,
+       "views": 1176,
        "likes": 22,
        "comments": null
       },
@@ -2040,7 +2040,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1568
+    "views_recent": 1572
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2079,7 +2079,7 @@
     "followers": 4,
     "views": 231,
     "posts_count": 6,
-    "views_recent": 241,
+    "views_recent": 242,
     "likes_recent": 14,
     "comments_recent": 1
    },
@@ -2087,7 +2087,7 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 1531
+    "views_recent": 1536
    },
    "AI/youtube": {
     "followers": 4,
