@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T02:27:23+03:00",
+ "generated_at": "2026-11-04T03:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 246
+      "views_recent": 247
      },
      "posts": [
       {
@@ -46,8 +46,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 32,
-       "reach": 27,
+       "views": 33,
+       "reach": 29,
        "saved": 0,
        "shares": 0
       },
@@ -900,7 +900,7 @@
       "views": 352,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 411,
+      "views_recent": 417,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -910,7 +910,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 37,
+       "views": 38,
        "likes": 2,
        "comments": 0
       },
@@ -919,7 +919,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 233,
+       "views": 238,
        "likes": 0,
        "comments": 0
       },
@@ -1867,7 +1867,7 @@
     "posts_count": 19,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 246
+    "views_recent": 247
    },
    "Pulse/threads": {
     "followers": null,
@@ -1915,7 +1915,7 @@
     "views": 352,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 411,
+    "views_recent": 417,
     "likes_recent": 5,
     "comments_recent": 0
    },
