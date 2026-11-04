@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T04:27:24+03:00",
+ "generated_at": "2026-11-04T05:27:27+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 251
+      "views_recent": 252
      },
      "posts": [
       {
@@ -46,8 +46,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 37,
-       "reach": 32,
+       "views": 38,
+       "reach": 33,
        "saved": 0,
        "shares": 0
       },
@@ -785,7 +785,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 204,
+      "views": 209,
       "posts_count": 5,
       "rss_error": "rss feed unavailable",
       "views_recent": 231,
@@ -1867,7 +1867,7 @@
     "posts_count": 19,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 251
+    "views_recent": 252
    },
    "Pulse/threads": {
     "followers": null,
@@ -1896,7 +1896,7 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 204,
+    "views": 209,
     "posts_count": 5,
     "rss_error": "rss feed unavailable",
     "views_recent": 231,
