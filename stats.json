@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:27:19+03:00",
+ "generated_at": "2026-11-04T15:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1564
+      "views_recent": 1568
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Build a 6-Month Financial Fortress Before You Invest! 🏰💰 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/X5Xx15E7TqE",
        "published": "2026-11-04T06:32:39+00:00",
-       "views": 4,
+       "views": 6,
        "likes": 1,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/oMxE4jFJ2Dc",
        "published": "2026-11-03T17:02:41+00:00",
-       "views": 303,
+       "views": 304,
        "likes": 3,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1192,
+       "views": 1193,
        "likes": 15,
        "comments": null
       },
@@ -900,7 +900,7 @@
       "followers": 4,
       "views": 231,
       "posts_count": 6,
-      "views_recent": 240,
+      "views_recent": 241,
       "likes_recent": 14,
       "comments_recent": 1
      },
@@ -910,7 +910,7 @@
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
        "published": "2026-11-04T02:32:10Z",
-       "views": 9,
+       "views": 10,
        "likes": 3,
        "comments": 0
       },
@@ -1065,7 +1065,7 @@
       "followers": 4,
       "views": 413,
       "posts_count": 8,
-      "views_recent": 431,
+      "views_recent": 440,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1075,7 +1075,7 @@
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 1,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -2040,7 +2040,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1564
+    "views_recent": 1568
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2079,7 +2079,7 @@
     "followers": 4,
     "views": 231,
     "posts_count": 6,
-    "views_recent": 240,
+    "views_recent": 241,
     "likes_recent": 14,
     "comments_recent": 1
    },
@@ -2093,7 +2093,7 @@
     "followers": 4,
     "views": 413,
     "posts_count": 8,
-    "views_recent": 431,
+    "views_recent": 440,
     "likes_recent": 5,
     "comments_recent": 0
    },
