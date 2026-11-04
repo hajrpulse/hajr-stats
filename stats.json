@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:27:24+03:00",
+ "generated_at": "2026-11-04T08:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 19,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 252
+      "views_recent": 254
      },
      "posts": [
       {
@@ -46,8 +46,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 38,
-       "reach": 34,
+       "views": 40,
+       "reach": 36,
        "saved": 0,
        "shares": 0
       },
@@ -786,10 +786,10 @@
      "totals": {
       "followers": 4,
       "views": 209,
-      "posts_count": 6,
+      "posts_count": 5,
       "rss_error": "rss feed unavailable",
-      "views_recent": 239,
-      "likes_recent": 12,
+      "views_recent": 231,
+      "likes_recent": 11,
       "comments_recent": 1
      },
      "posts": [
@@ -798,8 +798,8 @@
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
        "published": "2026-11-04T02:32:10Z",
-       "views": 8,
-       "likes": 1,
+       "views": 0,
+       "likes": 0,
        "comments": 0
       },
       {
@@ -909,7 +909,7 @@
       "views": 352,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 419,
+      "views_recent": 420,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -919,7 +919,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 40,
+       "views": 41,
        "likes": 2,
        "comments": 0
       },
@@ -995,13 +995,22 @@
      "totals": {
       "followers": 8,
       "views": 2062,
-      "posts_count": 6,
+      "posts_count": 7,
       "rss_error": "rss feed unavailable",
       "views_recent": 2158,
       "likes_recent": 32,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "WnRw5fosvKA",
+       "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
+       "url": "https://youtube.com/shorts/WnRw5fosvKA",
+       "published": "2026-11-04T04:32:05Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "76oSyElXr-k",
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
@@ -1876,7 +1885,7 @@
     "posts_count": 19,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 252
+    "views_recent": 254
    },
    "Pulse/threads": {
     "followers": null,
@@ -1906,10 +1915,10 @@
    "Sunnah/youtube": {
     "followers": 4,
     "views": 209,
-    "posts_count": 6,
+    "posts_count": 5,
     "rss_error": "rss feed unavailable",
-    "views_recent": 239,
-    "likes_recent": 12,
+    "views_recent": 231,
+    "likes_recent": 11,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -1924,14 +1933,14 @@
     "views": 352,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 419,
+    "views_recent": 420,
     "likes_recent": 5,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 8,
     "views": 2062,
-    "posts_count": 6,
+    "posts_count": 7,
     "rss_error": "rss feed unavailable",
     "views_recent": 2158,
     "likes_recent": 32,
