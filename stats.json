@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T05:27:27+03:00",
+ "generated_at": "2026-11-04T06:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -47,7 +47,7 @@
        "likes": 0,
        "comments": 0,
        "views": 38,
-       "reach": 33,
+       "reach": 34,
        "saved": 0,
        "shares": 0
       },
@@ -786,13 +786,22 @@
      "totals": {
       "followers": 4,
       "views": 209,
-      "posts_count": 5,
+      "posts_count": 6,
       "rss_error": "rss feed unavailable",
       "views_recent": 231,
       "likes_recent": 11,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "uKeTTQQZnK0",
+       "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
+       "url": "https://youtube.com/shorts/uKeTTQQZnK0",
+       "published": "2026-11-04T02:32:10Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "xravUT72xOY",
        "title": "Las obras dependen de las intenciones | Hadith Sahih Bujari y Muslim #Shorts",
@@ -900,7 +909,7 @@
       "views": 352,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 417,
+      "views_recent": 419,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -910,7 +919,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 38,
+       "views": 40,
        "likes": 2,
        "comments": 0
       },
@@ -1897,7 +1906,7 @@
    "Sunnah/youtube": {
     "followers": 4,
     "views": 209,
-    "posts_count": 5,
+    "posts_count": 6,
     "rss_error": "rss feed unavailable",
     "views_recent": 231,
     "likes_recent": 11,
@@ -1915,7 +1924,7 @@
     "views": 352,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 417,
+    "views_recent": 419,
     "likes_recent": 5,
     "comments_recent": 0
    },
