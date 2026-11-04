@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:27:21+03:00",
+ "generated_at": "2026-11-04T12:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1452
+      "views_recent": 1552
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Build a 6-Month Financial Fortress Before You Invest! 🏰💰 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/X5Xx15E7TqE",
        "published": "2026-11-04T06:32:39+00:00",
-       "views": 2,
+       "views": 4,
        "likes": 1,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1082,
+       "views": 1180,
        "likes": 15,
        "comments": null
       },
@@ -125,7 +125,7 @@
       "posts_count": 20,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 255
+      "views_recent": 257
      },
      "posts": [
       {
@@ -149,8 +149,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 41,
-       "reach": 37,
+       "views": 43,
+       "reach": 39,
        "saved": 0,
        "shares": 0
       },
@@ -898,7 +898,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 209,
+      "views": 231,
       "posts_count": 6,
       "views_recent": 240,
       "likes_recent": 14,
@@ -1065,7 +1065,7 @@
       "followers": 4,
       "views": 413,
       "posts_count": 7,
-      "views_recent": 423,
+      "views_recent": 425,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -1075,7 +1075,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 41,
+       "views": 42,
        "likes": 2,
        "comments": 0
       },
@@ -1084,7 +1084,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 241,
+       "views": 242,
        "likes": 0,
        "comments": 0
       },
@@ -1152,7 +1152,7 @@
       "followers": 9,
       "views": 2149,
       "posts_count": 7,
-      "views_recent": 2355,
+      "views_recent": 2357,
       "likes_recent": 40,
       "comments_recent": 2
      },
@@ -1162,7 +1162,7 @@
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/WnRw5fosvKA",
        "published": "2026-11-04T04:32:05Z",
-       "views": 195,
+       "views": 198,
        "likes": 8,
        "comments": 2
       },
@@ -1171,7 +1171,7 @@
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
        "published": "2026-11-03T04:32:26Z",
-       "views": 44,
+       "views": 43,
        "likes": 2,
        "comments": 0
       },
@@ -2031,7 +2031,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1452
+    "views_recent": 1552
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2039,7 +2039,7 @@
     "posts_count": 20,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 255
+    "views_recent": 257
    },
    "Pulse/threads": {
     "followers": null,
@@ -2068,7 +2068,7 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 209,
+    "views": 231,
     "posts_count": 6,
     "views_recent": 240,
     "likes_recent": 14,
@@ -2084,7 +2084,7 @@
     "followers": 4,
     "views": 413,
     "posts_count": 7,
-    "views_recent": 423,
+    "views_recent": 425,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2092,7 +2092,7 @@
     "followers": 9,
     "views": 2149,
     "posts_count": 7,
-    "views_recent": 2355,
+    "views_recent": 2357,
     "likes_recent": 40,
     "comments_recent": 2
    }
