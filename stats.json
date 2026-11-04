@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T00:27:19+03:00",
+ "generated_at": "2026-11-05T01:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -1007,7 +1007,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 1802
+      "views_recent": 1804
      },
      "posts": [
       {
@@ -1024,7 +1024,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 54,
+       "views": 55,
        "likes": 7,
        "comments": null
       },
@@ -1042,7 +1042,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 136,
+       "views": 137,
        "likes": 17,
        "comments": null
       },
@@ -2167,7 +2167,7 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 1802
+    "views_recent": 1804
    },
    "AI/youtube": {
     "followers": 4,
