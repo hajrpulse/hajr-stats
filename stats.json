@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T13:27:23+03:00",
+ "generated_at": "2026-11-04T14:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1454
+      "views_recent": 1564
      },
      "posts": [
       {
@@ -54,7 +54,7 @@
        "title": "قاعدة الـ 90 دقيقة للعمل العميق التي تضاعف إنجازك اليومي! ⏳🔥 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/Cjzn26pmrCo",
        "published": "2026-11-02T17:58:12+00:00",
-       "views": 1082,
+       "views": 1192,
        "likes": 15,
        "comments": null
       },
@@ -125,7 +125,7 @@
       "posts_count": 20,
       "likes_recent": 3,
       "comments_recent": 0,
-      "views_recent": 257
+      "views_recent": 258
      },
      "posts": [
       {
@@ -149,8 +149,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 43,
-       "reach": 39,
+       "views": 44,
+       "reach": 40,
        "saved": 0,
        "shares": 0
       },
@@ -1064,18 +1064,27 @@
      "totals": {
       "followers": 4,
       "views": 413,
-      "posts_count": 7,
-      "views_recent": 424,
+      "posts_count": 8,
+      "views_recent": 431,
       "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "vSU0HkPo5K0",
+       "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/vSU0HkPo5K0",
+       "published": "2026-11-04T10:31:44Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "eqNShkzw6QI",
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 41,
+       "views": 42,
        "likes": 2,
        "comments": 0
       },
@@ -1084,7 +1093,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 242,
+       "views": 245,
        "likes": 0,
        "comments": 0
       },
@@ -1093,7 +1102,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 42,
+       "views": 44,
        "likes": 0,
        "comments": 0
       },
@@ -2031,7 +2040,7 @@
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1454
+    "views_recent": 1564
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2039,7 +2048,7 @@
     "posts_count": 20,
     "likes_recent": 3,
     "comments_recent": 0,
-    "views_recent": 257
+    "views_recent": 258
    },
    "Pulse/threads": {
     "followers": null,
@@ -2083,8 +2092,8 @@
    "AI/youtube": {
     "followers": 4,
     "views": 413,
-    "posts_count": 7,
-    "views_recent": 424,
+    "posts_count": 8,
+    "views_recent": 431,
     "likes_recent": 5,
     "comments_recent": 0
    },
