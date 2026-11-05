@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T16:27:19+03:00",
+ "generated_at": "2026-11-05T17:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -143,7 +143,7 @@
       "posts_count": 22,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 271
+      "views_recent": 275
      },
      "posts": [
       {
@@ -154,8 +154,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 24,
-       "reach": 22,
+       "views": 28,
+       "reach": 24,
        "saved": 0,
        "shares": 0
       },
@@ -1025,7 +1025,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2257
+      "views_recent": 2266
      },
      "posts": [
       {
@@ -1033,7 +1033,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1882,
+       "views": 1891,
        "likes": 26,
        "comments": null
       },
@@ -2164,7 +2164,7 @@
     "posts_count": 22,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 271
+    "views_recent": 275
    },
    "Pulse/threads": {
     "followers": null,
@@ -2203,7 +2203,7 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2257
+    "views_recent": 2266
    },
    "AI/youtube": {
     "followers": 4,
