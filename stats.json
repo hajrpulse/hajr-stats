@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T12:27:20+03:00",
+ "generated_at": "2026-11-05T13:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -143,7 +143,7 @@
       "posts_count": 22,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 249
+      "views_recent": 251
      },
      "posts": [
       {
@@ -154,8 +154,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 2,
-       "reach": 2,
+       "views": 4,
+       "reach": 3,
        "saved": 0,
        "shares": 0
       },
@@ -1092,7 +1092,7 @@
       "followers": 4,
       "views": 491,
       "posts_count": 8,
-      "views_recent": 495,
+      "views_recent": 494,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -1111,7 +1111,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 43,
+       "views": 42,
        "likes": 2,
        "comments": 0
       },
@@ -1188,7 +1188,7 @@
       "followers": 9,
       "views": 2398,
       "posts_count": 8,
-      "views_recent": 2403,
+      "views_recent": 2404,
       "likes_recent": 41,
       "comments_recent": 2
      },
@@ -1225,7 +1225,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 840,
+       "views": 841,
        "likes": 8,
        "comments": 0
       },
@@ -2155,7 +2155,7 @@
     "posts_count": 22,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 249
+    "views_recent": 251
    },
    "Pulse/threads": {
     "followers": null,
@@ -2200,7 +2200,7 @@
     "followers": 4,
     "views": 491,
     "posts_count": 8,
-    "views_recent": 495,
+    "views_recent": 494,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2208,7 +2208,7 @@
     "followers": 9,
     "views": 2398,
     "posts_count": 8,
-    "views_recent": 2403,
+    "views_recent": 2404,
     "likes_recent": 41,
     "comments_recent": 2
    }
