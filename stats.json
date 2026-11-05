@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:27:20+03:00",
+ "generated_at": "2026-11-05T14:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -143,7 +143,7 @@
       "posts_count": 22,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 251
+      "views_recent": 266
      },
      "posts": [
       {
@@ -154,8 +154,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 4,
-       "reach": 3,
+       "views": 19,
+       "reach": 12,
        "saved": 0,
        "shares": 0
       },
@@ -1025,7 +1025,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2086
+      "views_recent": 2138
      },
      "posts": [
       {
@@ -1033,8 +1033,8 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1721,
-       "likes": 26,
+       "views": 1771,
+       "likes": 25,
        "comments": null
       },
       {
@@ -1043,7 +1043,7 @@
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
        "views": 55,
-       "likes": 7,
+       "likes": 6,
        "comments": null
       },
       {
@@ -1060,7 +1060,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 137,
+       "views": 139,
        "likes": 17,
        "comments": null
       },
@@ -1091,18 +1091,27 @@
      "totals": {
       "followers": 4,
       "views": 491,
-      "posts_count": 8,
-      "views_recent": 494,
+      "posts_count": 9,
+      "views_recent": 497,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "8Fh0Dg-XYls",
+       "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
+       "published": "2026-11-05T10:32:09Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "vSU0HkPo5K0",
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 58,
+       "views": 59,
        "likes": 1,
        "comments": 0
       },
@@ -1111,7 +1120,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 42,
+       "views": 43,
        "likes": 2,
        "comments": 0
       },
@@ -2155,7 +2164,7 @@
     "posts_count": 22,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 251
+    "views_recent": 266
    },
    "Pulse/threads": {
     "followers": null,
@@ -2194,13 +2203,13 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2086
+    "views_recent": 2138
    },
    "AI/youtube": {
     "followers": 4,
     "views": 491,
-    "posts_count": 8,
-    "views_recent": 494,
+    "posts_count": 9,
+    "views_recent": 497,
     "likes_recent": 6,
     "comments_recent": 0
    },
