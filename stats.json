@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:27:23+03:00",
+ "generated_at": "2026-11-05T23:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,10 +16,10 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 6,
+      "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1697
+      "views_recent": 2079
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 96,
-       "likes": 3,
+       "views": 477,
+       "likes": 5,
        "comments": null
       },
       {
@@ -45,7 +45,7 @@
        "title": "أين تتجه تريليونات الاستثمارات العالمية؟ 3 قطاعات تقود المستقبل! 🌍🏗️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/AqvgVN0lz-s",
        "published": "2026-11-04T17:02:46+00:00",
-       "views": 18,
+       "views": 19,
        "likes": 2,
        "comments": null
       },
@@ -152,7 +152,7 @@
       "posts_count": 23,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 284
+      "views_recent": 290
      },
      "posts": [
       {
@@ -163,8 +163,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 0,
-       "reach": 0,
+       "views": 1,
+       "reach": 1,
        "saved": 0,
        "shares": 0
       },
@@ -176,8 +176,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 39,
-       "reach": 36,
+       "views": 43,
+       "reach": 43,
        "saved": 0,
        "shares": 0
       },
@@ -228,8 +228,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 47,
-       "reach": 45,
+       "views": 48,
+       "reach": 46,
        "saved": 0,
        "shares": 0
       },
@@ -1034,7 +1034,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2499
+      "views_recent": 2500
      },
      "posts": [
       {
@@ -1060,7 +1060,7 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 43,
+       "views": 44,
        "likes": 5,
        "comments": null
       },
@@ -1101,7 +1101,7 @@
       "followers": 4,
       "views": 491,
       "posts_count": 9,
-      "views_recent": 514,
+      "views_recent": 515,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -1111,7 +1111,7 @@
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
        "published": "2026-11-05T10:32:09Z",
-       "views": 17,
+       "views": 18,
        "likes": 1,
        "comments": 0
       },
@@ -2162,10 +2162,10 @@
   },
   "2026-11-05": {
    "Pulse/youtube": {
-    "followers": 6,
+    "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1697
+    "views_recent": 2079
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2173,7 +2173,7 @@
     "posts_count": 23,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 284
+    "views_recent": 290
    },
    "Pulse/threads": {
     "followers": null,
@@ -2212,13 +2212,13 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2499
+    "views_recent": 2500
    },
    "AI/youtube": {
     "followers": 4,
     "views": 491,
     "posts_count": 9,
-    "views_recent": 514,
+    "views_recent": 515,
     "likes_recent": 7,
     "comments_recent": 0
    },
