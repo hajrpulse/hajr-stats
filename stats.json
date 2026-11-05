@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T07:27:16+03:00",
+ "generated_at": "2026-11-05T08:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -938,7 +938,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 431,
+      "views": 491,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
       "views_recent": 493,
@@ -1036,13 +1036,22 @@
      "totals": {
       "followers": 9,
       "views": 2398,
-      "posts_count": 7,
+      "posts_count": 8,
       "rss_error": "rss feed unavailable",
       "views_recent": 2398,
       "likes_recent": 40,
       "comments_recent": 2
      },
      "posts": [
+      {
+       "id": "SeHATu32YOQ",
+       "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/SeHATu32YOQ",
+       "published": "2026-11-05T04:32:23Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "WnRw5fosvKA",
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
@@ -2042,7 +2051,7 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 431,
+    "views": 491,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
     "views_recent": 493,
@@ -2052,7 +2061,7 @@
    "Shifa/youtube": {
     "followers": 9,
     "views": 2398,
-    "posts_count": 7,
+    "posts_count": 8,
     "rss_error": "rss feed unavailable",
     "views_recent": 2398,
     "likes_recent": 40,
