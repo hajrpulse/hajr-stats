@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T09:27:20+03:00",
+ "generated_at": "2026-11-05T10:27:17+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -32,12 +32,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 21,
+      "posts_count": 22,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 259
+      "views_recent": 247
      },
      "posts": [
+      {
+       "id": "17889772410485074",
+       "title": "Where Trillions in Global Capital Are Flowing: 3 Mega-Sectors! 🌍🏗️ | HAJR Pulse\n\n🌍🏗️ Where Trillions in Sovereign & Infr",
+       "url": "https://www.instagram.com/reel/DfWZU-ZFS12/",
+       "published": "2026-11-05T06:32:55+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 0,
+       "reach": 0,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "18083380769347902",
        "title": "أين تتجه تريليونات الاستثمارات العالمية؟ 3 قطاعات تقود المستقبل! 🌍🏗️ | هجر بلس\n\n🌍🏗️ أين تتجه تريليونات الاستثمارات السيا",
@@ -284,19 +297,6 @@
        "reach": 1,
        "saved": 0,
        "shares": 0
-      },
-      {
-       "id": "18215594887362471",
-       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse\n\n🪙📈 Why Central Banks Are Buying Record Physi",
-       "url": "https://www.instagram.com/reel/De8pYJtirdf/",
-       "published": "2026-10-26T06:32:56+0000",
-       "type": "VIDEO",
-       "likes": 0,
-       "comments": 0,
-       "views": 12,
-       "reach": 10,
-       "saved": 0,
-       "shares": 0
       }
      ]
     },
@@ -313,6 +313,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18342483985276984",
+       "title": "Where Trillions in Global Capital Are Flowing: 3 Mega-Sectors! 🌍🏗️ | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https://",
+       "url": "https://www.threads.com/@hajrpulse/post/DfWZZ2QCIoG",
+       "published": "2026-11-05T06:33:41+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17930569356183119",
        "title": "أين تتجه تريليونات الاستثمارات العالمية؟ 3 قطاعات تقود المستقبل! 🌍🏗️ | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://h",
@@ -498,16 +508,6 @@
        "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس\n\n📈💡 كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون التراكم 1",
        "url": "https://www.threads.com/@hajrpulse/post/De9xzVZlP6y",
        "published": "2026-10-26T17:05:51+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "18163050223495761",
-       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse\n\n🪙📈 Why Central Banks Are Buying Record Physi",
-       "url": "https://www.threads.com/@hajrpulse/post/De8pc3dAuAF",
-       "published": "2026-10-26T06:33:55+0000",
        "type": "VIDEO",
        "views": null,
        "likes": null,
@@ -941,7 +941,7 @@
       "views": 491,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 493,
+      "views_recent": 494,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -951,7 +951,7 @@
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 57,
+       "views": 58,
        "likes": 1,
        "comments": 0
       },
@@ -2003,10 +2003,10 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 21,
+    "posts_count": 22,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 259
+    "views_recent": 247
    },
    "Pulse/threads": {
     "followers": null,
@@ -2054,7 +2054,7 @@
     "views": 491,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 493,
+    "views_recent": 494,
     "likes_recent": 6,
     "comments_recent": 0
    },
