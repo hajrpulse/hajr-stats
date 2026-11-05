@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:27:25+03:00",
+ "generated_at": "2026-11-05T21:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 1601
+      "views_recent": 1639
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 0,
+       "views": 38,
        "likes": 0,
        "comments": null
       },
@@ -152,7 +152,7 @@
       "posts_count": 23,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 277
+      "views_recent": 280
      },
      "posts": [
       {
@@ -176,8 +176,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 32,
-       "reach": 30,
+       "views": 35,
+       "reach": 34,
        "saved": 0,
        "shares": 0
       },
@@ -1101,7 +1101,7 @@
       "followers": 4,
       "views": 491,
       "posts_count": 9,
-      "views_recent": 513,
+      "views_recent": 514,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -1111,7 +1111,7 @@
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
        "published": "2026-11-05T10:32:09Z",
-       "views": 16,
+       "views": 17,
        "likes": 1,
        "comments": 0
       },
@@ -2165,7 +2165,7 @@
     "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 1601
+    "views_recent": 1639
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2173,7 +2173,7 @@
     "posts_count": 23,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 277
+    "views_recent": 280
    },
    "Pulse/threads": {
     "followers": null,
@@ -2218,7 +2218,7 @@
     "followers": 4,
     "views": 491,
     "posts_count": 9,
-    "views_recent": 513,
+    "views_recent": 514,
     "likes_recent": 7,
     "comments_recent": 0
    },
