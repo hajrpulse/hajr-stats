@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:27:24+03:00",
+ "generated_at": "2026-11-05T18:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -155,7 +155,7 @@
        "likes": 0,
        "comments": 0,
        "views": 28,
-       "reach": 24,
+       "reach": 26,
        "saved": 0,
        "shares": 0
       },
@@ -1025,7 +1025,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2266
+      "views_recent": 2337
      },
      "posts": [
       {
@@ -1033,8 +1033,8 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1891,
-       "likes": 26,
+       "views": 1958,
+       "likes": 27,
        "comments": null
       },
       {
@@ -1042,7 +1042,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 57,
+       "views": 59,
        "likes": 6,
        "comments": null
       },
@@ -1060,7 +1060,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 139,
+       "views": 141,
        "likes": 17,
        "comments": null
       },
@@ -2203,7 +2203,7 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2266
+    "views_recent": 2337
    },
    "AI/youtube": {
     "followers": 4,
