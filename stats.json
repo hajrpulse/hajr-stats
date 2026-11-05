@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:27:19+03:00",
+ "generated_at": "2026-11-05T22:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 6,
       "views": null,
       "posts_count": null,
-      "views_recent": 1639
+      "views_recent": 1697
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 38,
-       "likes": 0,
+       "views": 96,
+       "likes": 3,
        "comments": null
       },
       {
@@ -152,7 +152,7 @@
       "posts_count": 23,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 280
+      "views_recent": 284
      },
      "posts": [
       {
@@ -176,8 +176,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 35,
-       "reach": 34,
+       "views": 39,
+       "reach": 36,
        "saved": 0,
        "shares": 0
       },
@@ -1034,7 +1034,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2413
+      "views_recent": 2499
      },
      "posts": [
       {
@@ -1042,8 +1042,8 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2031,
-       "likes": 27,
+       "views": 2117,
+       "likes": 28,
        "comments": null
       },
       {
@@ -1206,7 +1206,7 @@
       "followers": 9,
       "views": 2398,
       "posts_count": 8,
-      "views_recent": 2406,
+      "views_recent": 2412,
       "likes_recent": 42,
       "comments_recent": 2
      },
@@ -1225,7 +1225,7 @@
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/WnRw5fosvKA",
        "published": "2026-11-04T04:32:05Z",
-       "views": 237,
+       "views": 240,
        "likes": 8,
        "comments": 2
       },
@@ -1243,7 +1243,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 841,
+       "views": 843,
        "likes": 9,
        "comments": 0
       },
@@ -1261,7 +1261,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1111,
+       "views": 1112,
        "likes": 17,
        "comments": 0
       },
@@ -2165,7 +2165,7 @@
     "followers": 6,
     "views": null,
     "posts_count": null,
-    "views_recent": 1639
+    "views_recent": 1697
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2173,7 +2173,7 @@
     "posts_count": 23,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 280
+    "views_recent": 284
    },
    "Pulse/threads": {
     "followers": null,
@@ -2212,7 +2212,7 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2413
+    "views_recent": 2499
    },
    "AI/youtube": {
     "followers": 4,
@@ -2226,7 +2226,7 @@
     "followers": 9,
     "views": 2398,
     "posts_count": 8,
-    "views_recent": 2406,
+    "views_recent": 2412,
     "likes_recent": 42,
     "comments_recent": 2
    }
