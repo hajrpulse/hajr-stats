@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:27:21+03:00",
+ "generated_at": "2026-11-05T19:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -143,7 +143,7 @@
       "posts_count": 22,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 275
+      "views_recent": 277
      },
      "posts": [
       {
@@ -154,8 +154,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 28,
-       "reach": 26,
+       "views": 30,
+       "reach": 27,
        "saved": 0,
        "shares": 0
       },
@@ -1025,7 +1025,7 @@
       "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2337
+      "views_recent": 2408
      },
      "posts": [
       {
@@ -1033,7 +1033,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 1958,
+       "views": 2028,
        "likes": 27,
        "comments": null
       },
@@ -1051,7 +1051,7 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 42,
+       "views": 43,
        "likes": 5,
        "comments": null
       },
@@ -1092,7 +1092,7 @@
       "followers": 4,
       "views": 491,
       "posts_count": 9,
-      "views_recent": 508,
+      "views_recent": 509,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -1111,7 +1111,7 @@
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 59,
+       "views": 60,
        "likes": 1,
        "comments": 0
       },
@@ -2164,7 +2164,7 @@
     "posts_count": 22,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 275
+    "views_recent": 277
    },
    "Pulse/threads": {
     "followers": null,
@@ -2203,13 +2203,13 @@
     "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2337
+    "views_recent": 2408
    },
    "AI/youtube": {
     "followers": 4,
     "views": 491,
     "posts_count": 9,
-    "views_recent": 508,
+    "views_recent": 509,
     "likes_recent": 7,
     "comments_recent": 0
    },
