@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T18:27:24+03:00",
+ "generated_at": "2026-11-06T19:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2357
+      "views_recent": 2358
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 744,
+       "views": 745,
        "likes": 4,
        "comments": null
       },
@@ -943,7 +943,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 248,
+      "views": 268,
       "posts_count": 8,
       "views_recent": 268,
       "likes_recent": 18,
@@ -1128,7 +1128,7 @@
       "followers": 4,
       "views": 521,
       "posts_count": 10,
-      "views_recent": 532,
+      "views_recent": 670,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -1138,7 +1138,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 1,
+       "views": 139,
        "likes": 0,
        "comments": 0
       },
@@ -2281,7 +2281,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2357
+    "views_recent": 2358
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2318,7 +2318,7 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 248,
+    "views": 268,
     "posts_count": 8,
     "views_recent": 268,
     "likes_recent": 18,
@@ -2334,7 +2334,7 @@
     "followers": 4,
     "views": 521,
     "posts_count": 10,
-    "views_recent": 532,
+    "views_recent": 670,
     "likes_recent": 7,
     "comments_recent": 0
    },
