@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:27:22+03:00",
+ "generated_at": "2026-11-06T22:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2346
+      "views_recent": 2351
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المعايير الـ 3 الذهبية للاستثمار الحلال واختيار الأسهم النقية! ⚖️💼 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/ifjyEarNKmE",
        "published": "2026-11-06T17:02:23+00:00",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 745,
+       "views": 749,
        "likes": 4,
        "comments": null
       },
@@ -1126,10 +1126,10 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 521,
+      "views": 531,
       "posts_count": 10,
-      "views_recent": 727,
-      "likes_recent": 9,
+      "views_recent": 761,
+      "likes_recent": 11,
       "comments_recent": 0
      },
      "posts": [
@@ -1138,8 +1138,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 196,
-       "likes": 2,
+       "views": 230,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -2281,7 +2281,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2346
+    "views_recent": 2351
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2332,10 +2332,10 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 521,
+    "views": 531,
     "posts_count": 10,
-    "views_recent": 727,
-    "likes_recent": 9,
+    "views_recent": 761,
+    "likes_recent": 11,
     "comments_recent": 0
    },
    "Shifa/youtube": {
