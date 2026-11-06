@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T05:27:20+03:00",
+ "generated_at": "2026-11-06T06:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -808,20 +808,29 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 247,
-      "posts_count": 7,
+      "views": 248,
+      "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 248,
+      "views_recent": 249,
       "likes_recent": 14,
       "comments_recent": 1
      },
      "posts": [
       {
+       "id": "8m0BQmcNpkA",
+       "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
+       "url": "https://youtube.com/shorts/8m0BQmcNpkA",
+       "published": "2026-11-06T02:32:10Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "L7sNmfMFD_A",
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
        "published": "2026-11-05T02:31:56Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -941,7 +950,7 @@
       "views": 496,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 523,
+      "views_recent": 524,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -951,7 +960,7 @@
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
        "published": "2026-11-05T10:32:09Z",
-       "views": 24,
+       "views": 25,
        "likes": 1,
        "comments": 0
       },
@@ -2115,10 +2124,10 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 247,
-    "posts_count": 7,
+    "views": 248,
+    "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 248,
+    "views_recent": 249,
     "likes_recent": 14,
     "comments_recent": 1
    },
@@ -2134,7 +2143,7 @@
     "views": 496,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 523,
+    "views_recent": 524,
     "likes_recent": 7,
     "comments_recent": 0
    },
