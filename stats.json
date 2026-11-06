@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:27:20+03:00",
+ "generated_at": "2026-11-06T13:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -170,7 +170,7 @@
       "posts_count": 24,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 342
+      "views_recent": 347
      },
      "posts": [
       {
@@ -181,8 +181,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 46,
-       "reach": 41,
+       "views": 51,
+       "reach": 51,
        "saved": 0,
        "shares": 0
       },
@@ -1233,7 +1233,7 @@
       "followers": 9,
       "views": 2413,
       "posts_count": 9,
-      "views_recent": 2724,
+      "views_recent": 2760,
       "likes_recent": 55,
       "comments_recent": 2
      },
@@ -1243,7 +1243,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 309,
+       "views": 345,
        "likes": 12,
        "comments": 0
       },
@@ -2280,7 +2280,7 @@
     "posts_count": 24,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 342
+    "views_recent": 347
    },
    "Pulse/threads": {
     "followers": null,
@@ -2333,7 +2333,7 @@
     "followers": 9,
     "views": 2413,
     "posts_count": 9,
-    "views_recent": 2724,
+    "views_recent": 2760,
     "likes_recent": 55,
     "comments_recent": 2
    }
