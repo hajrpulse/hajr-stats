@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:27:25+03:00",
+ "generated_at": "2026-11-07T00:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2354
+      "views_recent": 2362
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المعايير الـ 3 الذهبية للاستثمار الحلال واختيار الأسهم النقية! ⚖️💼 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/ifjyEarNKmE",
        "published": "2026-11-06T17:02:23+00:00",
-       "views": 4,
+       "views": 12,
        "likes": 0,
        "comments": null
       },
@@ -1061,7 +1061,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2603
+      "views_recent": 2601
      },
      "posts": [
       {
@@ -1069,7 +1069,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2212,
+       "views": 2209,
        "likes": 28,
        "comments": null
       },
@@ -1078,7 +1078,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 61,
+       "views": 62,
        "likes": 6,
        "comments": null
       },
@@ -2329,6 +2329,77 @@
     "views": null,
     "posts_count": null,
     "views_recent": 2603
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 531,
+    "posts_count": 10,
+    "views_recent": 807,
+    "likes_recent": 12,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 9,
+    "views": 2818,
+    "posts_count": 9,
+    "views_recent": 2824,
+    "likes_recent": 56,
+    "comments_recent": 2
+   }
+  },
+  "2026-11-07": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2362
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 25,
+    "likes_recent": 1,
+    "comments_recent": 0,
+    "views_recent": 349
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 15,
+    "following": 0,
+    "posts_count": 11,
+    "likes_recent": 804,
+    "comments_recent": 1,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": 268,
+    "posts_count": 8,
+    "views_recent": 269,
+    "likes_recent": 18,
+    "comments_recent": 1
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 33,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2601
    },
    "AI/youtube": {
     "followers": 5,
