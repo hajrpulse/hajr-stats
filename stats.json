@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:27:22+03:00",
+ "generated_at": "2026-11-06T15:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2345
+      "views_recent": 2353
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "Parkinson's Law & The Eisenhower Matrix: Finish in Half the Time! ⚡📋 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/FSgnycxYDAY",
        "published": "2026-11-06T06:32:29+00:00",
-       "views": 1,
+       "views": 7,
        "likes": 1,
        "comments": null
       },
@@ -63,7 +63,7 @@
        "title": "أين تتجه تريليونات الاستثمارات العالمية؟ 3 قطاعات تقود المستقبل! 🌍🏗️ | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/AqvgVN0lz-s",
        "published": "2026-11-04T17:02:46+00:00",
-       "views": 21,
+       "views": 23,
        "likes": 2,
        "comments": null
       },
@@ -182,7 +182,7 @@
        "likes": 0,
        "comments": 0,
        "views": 53,
-       "reach": 52,
+       "reach": 53,
        "saved": 0,
        "shares": 0
       },
@@ -1061,7 +1061,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2577
+      "views_recent": 2594
      },
      "posts": [
       {
@@ -1069,7 +1069,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2190,
+       "views": 2207,
        "likes": 28,
        "comments": null
       },
@@ -1128,7 +1128,7 @@
       "followers": 4,
       "views": 521,
       "posts_count": 10,
-      "views_recent": 531,
+      "views_recent": 532,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -1138,7 +1138,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -2281,7 +2281,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2345
+    "views_recent": 2353
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2328,13 +2328,13 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2577
+    "views_recent": 2594
    },
    "AI/youtube": {
     "followers": 4,
     "views": 521,
     "posts_count": 10,
-    "views_recent": 531,
+    "views_recent": 532,
     "likes_recent": 7,
     "comments_recent": 0
    },
