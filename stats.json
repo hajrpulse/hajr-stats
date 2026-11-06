@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:27:24+03:00",
+ "generated_at": "2026-11-06T08:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,8 +811,8 @@
       "views": 248,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 249,
-      "likes_recent": 14,
+      "views_recent": 260,
+      "likes_recent": 17,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
        "published": "2026-11-06T02:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 10,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -830,7 +830,7 @@
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
        "published": "2026-11-05T02:31:56Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -947,7 +947,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 496,
+      "views": 521,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
       "views_recent": 524,
@@ -1053,14 +1053,23 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2403,
-      "posts_count": 8,
+      "views": 2413,
+      "posts_count": 9,
       "rss_error": "rss feed unavailable",
       "views_recent": 2414,
       "likes_recent": 43,
       "comments_recent": 2
      },
      "posts": [
+      {
+       "id": "ej74e0sJynQ",
+       "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
+       "url": "https://youtube.com/shorts/ej74e0sJynQ",
+       "published": "2026-11-06T04:32:34Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "SeHATu32YOQ",
        "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
@@ -2127,8 +2136,8 @@
     "views": 248,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 249,
-    "likes_recent": 14,
+    "views_recent": 260,
+    "likes_recent": 17,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -2140,7 +2149,7 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 496,
+    "views": 521,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
     "views_recent": 524,
@@ -2149,8 +2158,8 @@
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2403,
-    "posts_count": 8,
+    "views": 2413,
+    "posts_count": 9,
     "rss_error": "rss feed unavailable",
     "views_recent": 2414,
     "likes_recent": 43,
