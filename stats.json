@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:27:19+03:00",
+ "generated_at": "2026-11-06T23:27:25+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2351
+      "views_recent": 2354
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المعايير الـ 3 الذهبية للاستثمار الحلال واختيار الأسهم النقية! ⚖️💼 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/ifjyEarNKmE",
        "published": "2026-11-06T17:02:23+00:00",
-       "views": 1,
+       "views": 4,
        "likes": 0,
        "comments": null
       },
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 268,
       "posts_count": 8,
-      "views_recent": 268,
+      "views_recent": 269,
       "likes_recent": 18,
       "comments_recent": 1
      },
@@ -964,7 +964,7 @@
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
        "published": "2026-11-05T02:31:56Z",
-       "views": 4,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -1061,7 +1061,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2602
+      "views_recent": 2603
      },
      "posts": [
       {
@@ -1096,7 +1096,7 @@
        "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 142,
+       "views": 143,
        "likes": 17,
        "comments": null
       },
@@ -1125,11 +1125,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 4,
+      "followers": 5,
       "views": 531,
       "posts_count": 10,
-      "views_recent": 761,
-      "likes_recent": 11,
+      "views_recent": 807,
+      "likes_recent": 12,
       "comments_recent": 0
      },
      "posts": [
@@ -1138,8 +1138,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 230,
-       "likes": 4,
+       "views": 276,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -1240,7 +1240,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2413,
+      "views": 2818,
       "posts_count": 9,
       "views_recent": 2824,
       "likes_recent": 56,
@@ -2281,7 +2281,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2351
+    "views_recent": 2354
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2320,7 +2320,7 @@
     "followers": 4,
     "views": 268,
     "posts_count": 8,
-    "views_recent": 268,
+    "views_recent": 269,
     "likes_recent": 18,
     "comments_recent": 1
    },
@@ -2328,19 +2328,19 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2602
+    "views_recent": 2603
    },
    "AI/youtube": {
-    "followers": 4,
+    "followers": 5,
     "views": 531,
     "posts_count": 10,
-    "views_recent": 761,
-    "likes_recent": 11,
+    "views_recent": 807,
+    "likes_recent": 12,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2413,
+    "views": 2818,
     "posts_count": 9,
     "views_recent": 2824,
     "likes_recent": 56,
