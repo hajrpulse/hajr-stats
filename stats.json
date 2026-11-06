@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:27:23+03:00",
+ "generated_at": "2026-11-06T14:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2343
+      "views_recent": 2345
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 738,
+       "views": 740,
        "likes": 4,
        "comments": null
       },
@@ -170,7 +170,7 @@
       "posts_count": 24,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 347
+      "views_recent": 349
      },
      "posts": [
       {
@@ -181,8 +181,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 51,
-       "reach": 51,
+       "views": 53,
+       "reach": 52,
        "saved": 0,
        "shares": 0
       },
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 248,
       "posts_count": 8,
-      "views_recent": 264,
+      "views_recent": 268,
       "likes_recent": 18,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
        "published": "2026-11-06T02:32:10Z",
-       "views": 12,
+       "views": 16,
        "likes": 4,
        "comments": 0
       },
@@ -1127,18 +1127,27 @@
      "totals": {
       "followers": 4,
       "views": 521,
-      "posts_count": 9,
-      "views_recent": 527,
+      "posts_count": 10,
+      "views_recent": 531,
       "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "mCb2HMmzqbo",
+       "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/mCb2HMmzqbo",
+       "published": "2026-11-06T10:31:48Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "8Fh0Dg-XYls",
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
        "published": "2026-11-05T10:32:09Z",
-       "views": 28,
+       "views": 32,
        "likes": 1,
        "comments": 0
       },
@@ -1233,7 +1242,7 @@
       "followers": 9,
       "views": 2413,
       "posts_count": 9,
-      "views_recent": 2760,
+      "views_recent": 2818,
       "likes_recent": 55,
       "comments_recent": 2
      },
@@ -1243,7 +1252,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 345,
+       "views": 403,
        "likes": 12,
        "comments": 0
       },
@@ -2272,7 +2281,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2343
+    "views_recent": 2345
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2280,7 +2289,7 @@
     "posts_count": 24,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 347
+    "views_recent": 349
    },
    "Pulse/threads": {
     "followers": null,
@@ -2311,7 +2320,7 @@
     "followers": 4,
     "views": 248,
     "posts_count": 8,
-    "views_recent": 264,
+    "views_recent": 268,
     "likes_recent": 18,
     "comments_recent": 1
    },
@@ -2324,8 +2333,8 @@
    "AI/youtube": {
     "followers": 4,
     "views": 521,
-    "posts_count": 9,
-    "views_recent": 527,
+    "posts_count": 10,
+    "views_recent": 531,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2333,7 +2342,7 @@
     "followers": 9,
     "views": 2413,
     "posts_count": 9,
-    "views_recent": 2760,
+    "views_recent": 2818,
     "likes_recent": 55,
     "comments_recent": 2
    }
