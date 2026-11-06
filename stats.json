@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T09:27:20+03:00",
+ "generated_at": "2026-11-06T10:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -32,12 +32,25 @@
      "totals": {
       "followers": 6,
       "following": 5,
-      "posts_count": 23,
+      "posts_count": 24,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 297
+      "views_recent": 298
      },
      "posts": [
+      {
+       "id": "18098390087680482",
+       "title": "Parkinson's Law & The Eisenhower Matrix: Finish in Half the Time! ⚡📋 | HAJR Pulse\n\n⚡📋 Parkinson's Law & The Eisenhower M",
+       "url": "https://www.instagram.com/reel/DfY-Ju-FH3Y/",
+       "published": "2026-11-06T06:33:12+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": 2,
+       "reach": 2,
+       "saved": 0,
+       "shares": 0
+      },
       {
        "id": "17963868492250067",
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس\n\n⚡📋 قانون باركنسون ومصفوفة أيزنهاور لاتخاذ القر",
@@ -60,7 +73,7 @@
        "likes": 0,
        "comments": 0,
        "views": 50,
-       "reach": 47,
+       "reach": 50,
        "saved": 0,
        "shares": 0
       },
@@ -284,19 +297,6 @@
        "reach": 1,
        "saved": 0,
        "shares": 0
-      },
-      {
-       "id": "18122706244731388",
-       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse\n\n📈💡 How the 1% Compound Rule & Rule of 72 Mu",
-       "url": "https://www.instagram.com/reel/De_OKN_DuxF/",
-       "published": "2026-10-27T06:32:47+0000",
-       "type": "VIDEO",
-       "likes": 0,
-       "comments": 0,
-       "views": 1,
-       "reach": 1,
-       "saved": 0,
-       "shares": 0
       }
      ]
     },
@@ -313,6 +313,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18388894726238157",
+       "title": "Parkinson's Law & The Eisenhower Matrix: Finish in Half the Time! ⚡📋 | HAJR Pulse\n\nHAJR Store | متجر هجر\nGumroad: https:",
+       "url": "https://www.threads.com/@hajrpulse/post/DfY-OTxTHgf",
+       "published": "2026-11-06T06:33:54+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17888048163500857",
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس\n\nHAJR Store | متجر هجر\nGumroad: https://hajrsto",
@@ -499,16 +509,6 @@
        "url": "https://www.threads.com/@hajrpulse/post/DfA4N77DBMg",
        "published": "2026-10-27T21:59:11+0000",
        "type": "TEXT_POST",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "18080815316447676",
-       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse\n\n📈💡 How the 1% Compound Rule & Rule of 72 Mu",
-       "url": "https://www.threads.com/@hajrpulse/post/De_OOd7imRx",
-       "published": "2026-10-27T06:33:29+0000",
-       "type": "VIDEO",
        "views": null,
        "likes": null,
        "comments": null
@@ -811,8 +811,8 @@
       "views": 248,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 252,
-      "likes_recent": 14,
+      "views_recent": 264,
+      "likes_recent": 18,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
        "published": "2026-11-06T02:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 12,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -950,7 +950,7 @@
       "views": 521,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 524,
+      "views_recent": 527,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -960,7 +960,7 @@
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
        "published": "2026-11-05T10:32:09Z",
-       "views": 25,
+       "views": 28,
        "likes": 1,
        "comments": 0
       },
@@ -1056,8 +1056,8 @@
       "views": 2413,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2415,
-      "likes_recent": 43,
+      "views_recent": 2668,
+      "likes_recent": 53,
       "comments_recent": 2
      },
      "posts": [
@@ -1066,8 +1066,8 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 0,
-       "likes": 0,
+       "views": 253,
+       "likes": 10,
        "comments": 0
       },
       {
@@ -2101,10 +2101,10 @@
    "Pulse/instagram": {
     "followers": 6,
     "following": 5,
-    "posts_count": 23,
+    "posts_count": 24,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 297
+    "views_recent": 298
    },
    "Pulse/threads": {
     "followers": null,
@@ -2136,8 +2136,8 @@
     "views": 248,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 252,
-    "likes_recent": 14,
+    "views_recent": 264,
+    "likes_recent": 18,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -2152,7 +2152,7 @@
     "views": 521,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 524,
+    "views_recent": 527,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2161,8 +2161,8 @@
     "views": 2413,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2415,
-    "likes_recent": 43,
+    "views_recent": 2668,
+    "likes_recent": 53,
     "comments_recent": 2
    }
   }
