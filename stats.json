@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:27:23+03:00",
+ "generated_at": "2026-11-06T09:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 23,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 294
+      "views_recent": 297
      },
      "posts": [
       {
@@ -59,7 +59,7 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 47,
+       "views": 50,
        "reach": 47,
        "saved": 0,
        "shares": 0
@@ -811,8 +811,8 @@
       "views": 248,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 260,
-      "likes_recent": 17,
+      "views_recent": 252,
+      "likes_recent": 14,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
        "published": "2026-11-06T02:32:10Z",
-       "views": 10,
-       "likes": 3,
+       "views": 0,
+       "likes": 0,
        "comments": 0
       },
       {
@@ -830,7 +830,7 @@
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
        "published": "2026-11-05T02:31:56Z",
-       "views": 2,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -1056,7 +1056,7 @@
       "views": 2413,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2414,
+      "views_recent": 2415,
       "likes_recent": 43,
       "comments_recent": 2
      },
@@ -1075,7 +1075,7 @@
        "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/SeHATu32YOQ",
        "published": "2026-11-05T04:32:23Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -2104,7 +2104,7 @@
     "posts_count": 23,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 294
+    "views_recent": 297
    },
    "Pulse/threads": {
     "followers": null,
@@ -2136,8 +2136,8 @@
     "views": 248,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 260,
-    "likes_recent": 17,
+    "views_recent": 252,
+    "likes_recent": 14,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -2161,7 +2161,7 @@
     "views": 2413,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2414,
+    "views_recent": 2415,
     "likes_recent": 43,
     "comments_recent": 2
    }
