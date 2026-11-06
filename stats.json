@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:27:21+03:00",
+ "generated_at": "2026-11-06T21:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -1061,7 +1061,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2601
+      "views_recent": 2602
      },
      "posts": [
       {
@@ -1078,7 +1078,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 60,
+       "views": 61,
        "likes": 6,
        "comments": null
       },
@@ -1128,8 +1128,8 @@
       "followers": 4,
       "views": 521,
       "posts_count": 10,
-      "views_recent": 670,
-      "likes_recent": 7,
+      "views_recent": 727,
+      "likes_recent": 9,
       "comments_recent": 0
      },
      "posts": [
@@ -1138,8 +1138,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 139,
-       "likes": 0,
+       "views": 196,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1242,7 +1242,7 @@
       "followers": 9,
       "views": 2413,
       "posts_count": 9,
-      "views_recent": 2822,
+      "views_recent": 2824,
       "likes_recent": 56,
       "comments_recent": 2
      },
@@ -1252,7 +1252,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 407,
+       "views": 409,
        "likes": 13,
        "comments": 0
       },
@@ -2328,21 +2328,21 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2601
+    "views_recent": 2602
    },
    "AI/youtube": {
     "followers": 4,
     "views": 521,
     "posts_count": 10,
-    "views_recent": 670,
-    "likes_recent": 7,
+    "views_recent": 727,
+    "likes_recent": 9,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": 2413,
     "posts_count": 9,
-    "views_recent": 2822,
+    "views_recent": 2824,
     "likes_recent": 56,
     "comments_recent": 2
    }
