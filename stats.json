@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:27:21+03:00",
+ "generated_at": "2026-11-06T12:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -170,7 +170,7 @@
       "posts_count": 24,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 303
+      "views_recent": 342
      },
      "posts": [
       {
@@ -181,8 +181,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 7,
-       "reach": 4,
+       "views": 46,
+       "reach": 41,
        "saved": 0,
        "shares": 0
       },
@@ -1058,7 +1058,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 34,
+      "followers": 33,
       "views": null,
       "posts_count": null,
       "views_recent": 2577
@@ -2280,7 +2280,7 @@
     "posts_count": 24,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 303
+    "views_recent": 342
    },
    "Pulse/threads": {
     "followers": null,
@@ -2316,7 +2316,7 @@
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
-    "followers": 34,
+    "followers": 33,
     "views": null,
     "posts_count": null,
     "views_recent": 2577
