@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:27:24+03:00",
+ "generated_at": "2026-11-06T03:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,7 +16,7 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 6,
+      "followers": 7,
       "views": null,
       "posts_count": null,
       "rss_error": "rss feed unavailable",
@@ -35,7 +35,7 @@
       "posts_count": 23,
       "likes_recent": 2,
       "comments_recent": 0,
-      "views_recent": 292
+      "views_recent": 293
      },
      "posts": [
       {
@@ -59,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 45,
-       "reach": 44,
+       "views": 46,
+       "reach": 46,
        "saved": 0,
        "shares": 0
       },
@@ -811,7 +811,7 @@
       "views": 247,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 247,
+      "views_recent": 248,
       "likes_recent": 14,
       "comments_recent": 1
      },
@@ -830,7 +830,7 @@
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
        "published": "2026-11-04T02:32:10Z",
-       "views": 11,
+       "views": 12,
        "likes": 3,
        "comments": 0
       },
@@ -941,7 +941,7 @@
       "views": 496,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 520,
+      "views_recent": 522,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -960,7 +960,7 @@
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
        "published": "2026-11-04T10:31:44Z",
-       "views": 60,
+       "views": 62,
        "likes": 1,
        "comments": 0
       },
@@ -2074,7 +2074,7 @@
   },
   "2026-11-06": {
    "Pulse/youtube": {
-    "followers": 6,
+    "followers": 7,
     "views": null,
     "posts_count": null,
     "rss_error": "rss feed unavailable",
@@ -2086,7 +2086,7 @@
     "posts_count": 23,
     "likes_recent": 2,
     "comments_recent": 0,
-    "views_recent": 292
+    "views_recent": 293
    },
    "Pulse/threads": {
     "followers": null,
@@ -2118,7 +2118,7 @@
     "views": 247,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 247,
+    "views_recent": 248,
     "likes_recent": 14,
     "comments_recent": 1
    },
@@ -2134,7 +2134,7 @@
     "views": 496,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 520,
+    "views_recent": 522,
     "likes_recent": 7,
     "comments_recent": 0
    },
