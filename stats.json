@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T07:27:19+03:00",
+ "generated_at": "2026-11-07T08:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,8 +811,8 @@
       "views": 269,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 271,
-      "likes_recent": 18,
+      "views_recent": 284,
+      "likes_recent": 19,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 1,
-       "likes": 0,
+       "views": 12,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -830,7 +830,7 @@
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
        "published": "2026-11-06T02:32:10Z",
-       "views": 16,
+       "views": 17,
        "likes": 4,
        "comments": 0
       },
@@ -839,7 +839,7 @@
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
        "published": "2026-11-05T02:31:56Z",
-       "views": 5,
+       "views": 6,
        "likes": 0,
        "comments": 0
       },
@@ -956,7 +956,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 531,
+      "views": 911,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
       "views_recent": 935,
@@ -1071,20 +1071,29 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2818,
-      "posts_count": 9,
+      "views": 2831,
+      "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2831,
+      "views_recent": 2832,
       "likes_recent": 56,
       "comments_recent": 2
      },
      "posts": [
       {
+       "id": "t62f8lMu0rI",
+       "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
+       "url": "https://youtube.com/shorts/t62f8lMu0rI",
+       "published": "2026-11-07T04:32:07Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "ej74e0sJynQ",
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 415,
+       "views": 416,
        "likes": 13,
        "comments": 0
       },
@@ -2225,8 +2234,8 @@
     "views": 269,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 271,
-    "likes_recent": 18,
+    "views_recent": 284,
+    "likes_recent": 19,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -2238,7 +2247,7 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 531,
+    "views": 911,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
     "views_recent": 935,
@@ -2247,10 +2256,10 @@
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2818,
-    "posts_count": 9,
+    "views": 2831,
+    "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2831,
+    "views_recent": 2832,
     "likes_recent": 56,
     "comments_recent": 2
    }
