@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T20:27:22+03:00",
+ "generated_at": "2026-11-07T21:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2352
+      "views_recent": 2354
      },
      "posts": [
       {
@@ -54,7 +54,7 @@
        "title": "Parkinson's Law & The Eisenhower Matrix: Finish in Half the Time! ⚡📋 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/FSgnycxYDAY",
        "published": "2026-11-06T06:32:29+00:00",
-       "views": 7,
+       "views": 9,
        "likes": 1,
        "comments": null
       },
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 272,
       "posts_count": 9,
-      "views_recent": 295,
+      "views_recent": 296,
       "likes_recent": 22,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 23,
+       "views": 24,
        "likes": 4,
        "comments": 0
       },
@@ -1137,8 +1137,8 @@
       "followers": 4,
       "views": 938,
       "posts_count": 11,
-      "views_recent": 1185,
-      "likes_recent": 12,
+      "views_recent": 1238,
+      "likes_recent": 13,
       "comments_recent": 0
      },
      "posts": [
@@ -1156,8 +1156,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 590,
-       "likes": 5,
+       "views": 643,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -2379,7 +2379,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2352
+    "views_recent": 2354
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2418,7 +2418,7 @@
     "followers": 4,
     "views": 272,
     "posts_count": 9,
-    "views_recent": 295,
+    "views_recent": 296,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2432,8 +2432,8 @@
     "followers": 4,
     "views": 938,
     "posts_count": 11,
-    "views_recent": 1185,
-    "likes_recent": 12,
+    "views_recent": 1238,
+    "likes_recent": 13,
     "comments_recent": 0
    },
    "Shifa/youtube": {
