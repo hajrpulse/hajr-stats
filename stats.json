@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:27:23+03:00",
+ "generated_at": "2026-11-07T17:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -1070,7 +1070,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2602
+      "views_recent": 2603
      },
      "posts": [
       {
@@ -1096,7 +1096,7 @@
        "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 46,
+       "views": 47,
        "likes": 5,
        "comments": null
       },
@@ -1137,7 +1137,7 @@
       "followers": 4,
       "views": 911,
       "posts_count": 11,
-      "views_recent": 938,
+      "views_recent": 1018,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -1147,7 +1147,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 0,
+       "views": 50,
        "likes": 0,
        "comments": 0
       },
@@ -1156,7 +1156,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 405,
+       "views": 435,
        "likes": 4,
        "comments": 0
       },
@@ -1260,7 +1260,7 @@
       "followers": 9,
       "views": 2831,
       "posts_count": 10,
-      "views_recent": 2917,
+      "views_recent": 2929,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1270,7 +1270,7 @@
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
        "published": "2026-11-07T04:32:07Z",
-       "views": 81,
+       "views": 92,
        "likes": 4,
        "comments": 0
       },
@@ -1279,7 +1279,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 420,
+       "views": 421,
        "likes": 13,
        "comments": 0
       },
@@ -2426,13 +2426,13 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2602
+    "views_recent": 2603
    },
    "AI/youtube": {
     "followers": 4,
     "views": 911,
     "posts_count": 11,
-    "views_recent": 938,
+    "views_recent": 1018,
     "likes_recent": 11,
     "comments_recent": 0
    },
@@ -2440,7 +2440,7 @@
     "followers": 9,
     "views": 2831,
     "posts_count": 10,
-    "views_recent": 2917,
+    "views_recent": 2929,
     "likes_recent": 60,
     "comments_recent": 2
    }
