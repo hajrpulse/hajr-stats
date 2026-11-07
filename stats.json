@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T09:27:18+03:00",
+ "generated_at": "2026-11-07T10:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 25,
       "likes_recent": 1,
       "comments_recent": 0,
-      "views_recent": 350
+      "views_recent": 351
      },
      "posts": [
       {
@@ -59,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 55,
-       "reach": 55,
+       "views": 56,
+       "reach": 56,
        "saved": 0,
        "shares": 0
       },
@@ -811,8 +811,8 @@
       "views": 269,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 281,
-      "likes_recent": 19,
+      "views_recent": 287,
+      "likes_recent": 22,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 10,
-       "likes": 1,
+       "views": 16,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -936,10 +936,55 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "rss_error": "rss feed unavailable",
-      "views_recent": 0
+      "views_recent": 2602
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "uLKPXVYHdoE",
+       "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
+       "url": "https://youtube.com/shorts/uLKPXVYHdoE",
+       "published": "2026-11-02T11:45:06+00:00",
+       "views": 2209,
+       "likes": 28,
+       "comments": null
+      },
+      {
+       "id": "WVQYQ2I0Xv4",
+       "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
+       "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
+       "published": "2026-11-01T04:22:24+00:00",
+       "views": 62,
+       "likes": 6,
+       "comments": null
+      },
+      {
+       "id": "GbzvvFq84Fs",
+       "title": "البيت تجدّد! رهف رسمت عالحيط الجديد 😂🎨 | بيت أبو حمزة - الحلقة 2",
+       "url": "https://youtube.com/shorts/GbzvvFq84Fs",
+       "published": "2026-10-31T20:37:16+00:00",
+       "views": 46,
+       "likes": 5,
+       "comments": null
+      },
+      {
+       "id": "HBW_BB901X0",
+       "title": "انقطاع النت في بيت أبو حمزة! 😂🔌 | الحلقة 1",
+       "url": "https://youtube.com/shorts/HBW_BB901X0",
+       "published": "2026-10-24T23:06:13+00:00",
+       "views": 143,
+       "likes": 17,
+       "comments": null
+      },
+      {
+       "id": "IrN8NAUu0GM",
+       "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
+       "url": "https://youtube.com/shorts/IrN8NAUu0GM",
+       "published": "2026-10-24T20:28:27+00:00",
+       "views": 142,
+       "likes": 12,
+       "comments": null
+      }
+     ]
     }
    ]
   },
@@ -958,7 +1003,6 @@
       "followers": 4,
       "views": 911,
       "posts_count": 10,
-      "rss_error": "rss feed unavailable",
       "views_recent": 936,
       "likes_recent": 11,
       "comments_recent": 0
@@ -1074,8 +1118,8 @@
       "views": 2831,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2831,
-      "likes_recent": 56,
+      "views_recent": 2868,
+      "likes_recent": 58,
       "comments_recent": 2
      },
      "posts": [
@@ -1084,8 +1128,8 @@
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
        "published": "2026-11-07T04:32:07Z",
-       "views": 0,
-       "likes": 0,
+       "views": 37,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -2202,7 +2246,7 @@
     "posts_count": 25,
     "likes_recent": 1,
     "comments_recent": 0,
-    "views_recent": 350
+    "views_recent": 351
    },
    "Pulse/threads": {
     "followers": null,
@@ -2234,22 +2278,20 @@
     "views": 269,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 281,
-    "likes_recent": 19,
+    "views_recent": 287,
+    "likes_recent": 22,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "rss_error": "rss feed unavailable",
-    "views_recent": 0
+    "views_recent": 2602
    },
    "AI/youtube": {
     "followers": 4,
     "views": 911,
     "posts_count": 10,
-    "rss_error": "rss feed unavailable",
     "views_recent": 936,
     "likes_recent": 11,
     "comments_recent": 0
@@ -2259,8 +2301,8 @@
     "views": 2831,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2831,
-    "likes_recent": 56,
+    "views_recent": 2868,
+    "likes_recent": 58,
     "comments_recent": 2
    }
   }
