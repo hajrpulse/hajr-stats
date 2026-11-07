@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:27:24+03:00",
+ "generated_at": "2026-11-07T19:27:23+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2361
+      "views_recent": 2359
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 10,
+       "views": 8,
        "likes": 0,
        "comments": null
       },
@@ -943,9 +943,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 269,
+      "views": 272,
       "posts_count": 9,
-      "views_recent": 292,
+      "views_recent": 294,
       "likes_recent": 22,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 20,
+       "views": 22,
        "likes": 4,
        "comments": 0
       },
@@ -1137,8 +1137,8 @@
       "followers": 4,
       "views": 911,
       "posts_count": 11,
-      "views_recent": 1019,
-      "likes_recent": 11,
+      "views_recent": 1099,
+      "likes_recent": 12,
       "comments_recent": 0
      },
      "posts": [
@@ -1156,8 +1156,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 435,
-       "likes": 4,
+       "views": 513,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -1183,7 +1183,7 @@
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
        "published": "2026-11-03T10:32:30Z",
-       "views": 43,
+       "views": 44,
        "likes": 2,
        "comments": 0
       },
@@ -1192,7 +1192,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 251,
+       "views": 252,
        "likes": 0,
        "comments": 0
       },
@@ -1258,9 +1258,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2831,
+      "views": 2836,
       "posts_count": 10,
-      "views_recent": 2929,
+      "views_recent": 2930,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1333,7 +1333,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1112,
+       "views": 1113,
        "likes": 17,
        "comments": 0
       },
@@ -2379,7 +2379,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2361
+    "views_recent": 2359
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2416,9 +2416,9 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 269,
+    "views": 272,
     "posts_count": 9,
-    "views_recent": 292,
+    "views_recent": 294,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2432,15 +2432,15 @@
     "followers": 4,
     "views": 911,
     "posts_count": 11,
-    "views_recent": 1019,
-    "likes_recent": 11,
+    "views_recent": 1099,
+    "likes_recent": 12,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2831,
+    "views": 2836,
     "posts_count": 10,
-    "views_recent": 2929,
+    "views_recent": 2930,
     "likes_recent": 60,
     "comments_recent": 2
    }
