@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:27:23+03:00",
+ "generated_at": "2026-11-07T14:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 269,
       "posts_count": 9,
-      "views_recent": 288,
+      "views_recent": 291,
       "likes_recent": 22,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 16,
+       "views": 19,
        "likes": 4,
        "comments": 0
       },
@@ -1136,12 +1136,21 @@
      "totals": {
       "followers": 4,
       "views": 911,
-      "posts_count": 10,
+      "posts_count": 11,
       "views_recent": 937,
       "likes_recent": 11,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "2_Q8SMGyaZE",
+       "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
+       "published": "2026-11-07T10:32:03Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "mCb2HMmzqbo",
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
@@ -1251,8 +1260,8 @@
       "followers": 9,
       "views": 2831,
       "posts_count": 10,
-      "views_recent": 2891,
-      "likes_recent": 59,
+      "views_recent": 2917,
+      "likes_recent": 60,
       "comments_recent": 2
      },
      "posts": [
@@ -1261,8 +1270,8 @@
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
        "published": "2026-11-07T04:32:07Z",
-       "views": 56,
-       "likes": 3,
+       "views": 81,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -1270,7 +1279,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 419,
+       "views": 420,
        "likes": 13,
        "comments": 0
       },
@@ -2409,7 +2418,7 @@
     "followers": 4,
     "views": 269,
     "posts_count": 9,
-    "views_recent": 288,
+    "views_recent": 291,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2422,7 +2431,7 @@
    "AI/youtube": {
     "followers": 4,
     "views": 911,
-    "posts_count": 10,
+    "posts_count": 11,
     "views_recent": 937,
     "likes_recent": 11,
     "comments_recent": 0
@@ -2431,8 +2440,8 @@
     "followers": 9,
     "views": 2831,
     "posts_count": 10,
-    "views_recent": 2891,
-    "likes_recent": 59,
+    "views_recent": 2917,
+    "likes_recent": 60,
     "comments_recent": 2
    }
   }
