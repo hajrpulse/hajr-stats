@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:27:22+03:00",
+ "generated_at": "2026-11-07T06:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -35,7 +35,7 @@
       "posts_count": 25,
       "likes_recent": 1,
       "comments_recent": 0,
-      "views_recent": 349
+      "views_recent": 350
      },
      "posts": [
       {
@@ -59,8 +59,8 @@
        "type": "VIDEO",
        "likes": 0,
        "comments": 0,
-       "views": 54,
-       "reach": 54,
+       "views": 55,
+       "reach": 55,
        "saved": 0,
        "shares": 0
       },
@@ -808,14 +808,23 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 268,
-      "posts_count": 8,
+      "views": 269,
+      "posts_count": 9,
       "rss_error": "rss feed unavailable",
       "views_recent": 270,
       "likes_recent": 18,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "WHYJvKR_-78",
+       "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/WHYJvKR_-78",
+       "published": "2026-11-07T02:31:57Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "8m0BQmcNpkA",
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
@@ -857,7 +866,7 @@
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
        "published": "2026-11-02T02:32:02Z",
-       "views": 36,
+       "views": 35,
        "likes": 1,
        "comments": 0
       },
@@ -946,11 +955,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 5,
+      "followers": 4,
       "views": 531,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 915,
+      "views_recent": 935,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -960,7 +969,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 384,
+       "views": 403,
        "likes": 4,
        "comments": 0
       },
@@ -1005,7 +1014,7 @@
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
        "published": "2026-11-01T10:32:50Z",
-       "views": 44,
+       "views": 45,
        "likes": 0,
        "comments": 0
       },
@@ -2184,7 +2193,7 @@
     "posts_count": 25,
     "likes_recent": 1,
     "comments_recent": 0,
-    "views_recent": 349
+    "views_recent": 350
    },
    "Pulse/threads": {
     "followers": null,
@@ -2213,8 +2222,8 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 268,
-    "posts_count": 8,
+    "views": 269,
+    "posts_count": 9,
     "rss_error": "rss feed unavailable",
     "views_recent": 270,
     "likes_recent": 18,
@@ -2228,11 +2237,11 @@
     "views_recent": 0
    },
    "AI/youtube": {
-    "followers": 5,
+    "followers": 4,
     "views": 531,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 915,
+    "views_recent": 935,
     "likes_recent": 11,
     "comments_recent": 0
    },
