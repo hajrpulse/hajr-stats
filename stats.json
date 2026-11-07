@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:27:20+03:00",
+ "generated_at": "2026-11-08T00:27:20+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2385
+      "views_recent": 2407
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "قاعدة 50/30/20 الذهبية لإدارة الراتب وبناء الثروة من الصفر! 💰📊 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/GoOlPwnvzfc",
        "published": "2026-11-07T17:02:22+00:00",
-       "views": 30,
-       "likes": 1,
+       "views": 52,
+       "likes": 3,
        "comments": null
       },
       {
@@ -1137,7 +1137,7 @@
       "followers": 5,
       "views": 938,
       "posts_count": 11,
-      "views_recent": 1350,
+      "views_recent": 1357,
       "likes_recent": 13,
       "comments_recent": 0
      },
@@ -1147,7 +1147,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 60,
+       "views": 65,
        "likes": 0,
        "comments": 0
       },
@@ -1192,7 +1192,7 @@
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
        "published": "2026-11-02T11:06:54Z",
-       "views": 252,
+       "views": 254,
        "likes": 0,
        "comments": 0
       },
@@ -2433,6 +2433,77 @@
     "views": 938,
     "posts_count": 11,
     "views_recent": 1350,
+    "likes_recent": 13,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 9,
+    "views": 2836,
+    "posts_count": 10,
+    "views_recent": 2927,
+    "likes_recent": 60,
+    "comments_recent": 2
+   }
+  },
+  "2026-11-08": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2407
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 25,
+    "likes_recent": 1,
+    "comments_recent": 0,
+    "views_recent": 351
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 15,
+    "following": 0,
+    "posts_count": 11,
+    "likes_recent": 804,
+    "comments_recent": 1,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 11
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": 272,
+    "posts_count": 9,
+    "views_recent": 299,
+    "likes_recent": 22,
+    "comments_recent": 1
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 33,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2605
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 938,
+    "posts_count": 11,
+    "views_recent": 1357,
     "likes_recent": 13,
     "comments_recent": 0
    },
