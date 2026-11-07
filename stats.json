@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T19:27:23+03:00",
+ "generated_at": "2026-11-07T20:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,15 +19,24 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2359
+      "views_recent": 2352
      },
      "posts": [
+      {
+       "id": "GoOlPwnvzfc",
+       "title": "قاعدة 50/30/20 الذهبية لإدارة الراتب وبناء الثروة من الصفر! 💰📊 | هجر بلس #Shorts",
+       "url": "https://youtube.com/shorts/GoOlPwnvzfc",
+       "published": "2026-11-07T17:02:22+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "YFJyxnMuqG4",
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 8,
+       "views": 12,
        "likes": 0,
        "comments": null
       },
@@ -145,15 +154,6 @@
        "url": "https://youtube.com/shorts/TC-cIJk5gT8",
        "published": "2026-10-27T06:32:45+00:00",
        "views": 6,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "3uRgyusgjf4",
-       "title": "كيف تضاعف مهاراتك وأموالك بـ قاعدة 72 وقانون 1%؟ 📈💡 | هجر بلس #Shorts",
-       "url": "https://youtube.com/shorts/3uRgyusgjf4",
-       "published": "2026-10-26T17:02:59+00:00",
-       "views": 11,
        "likes": 1,
        "comments": null
       }
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 272,
       "posts_count": 9,
-      "views_recent": 294,
+      "views_recent": 295,
       "likes_recent": 22,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 22,
+       "views": 23,
        "likes": 4,
        "comments": 0
       },
@@ -1135,9 +1135,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 4,
-      "views": 911,
+      "views": 938,
       "posts_count": 11,
-      "views_recent": 1099,
+      "views_recent": 1185,
       "likes_recent": 12,
       "comments_recent": 0
      },
@@ -1147,7 +1147,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 51,
+       "views": 60,
        "likes": 0,
        "comments": 0
       },
@@ -1156,7 +1156,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 513,
+       "views": 590,
        "likes": 5,
        "comments": 0
       },
@@ -1260,7 +1260,7 @@
       "followers": 9,
       "views": 2836,
       "posts_count": 10,
-      "views_recent": 2930,
+      "views_recent": 2932,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1315,7 +1315,7 @@
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
        "published": "2026-11-02T04:32:53Z",
-       "views": 845,
+       "views": 847,
        "likes": 10,
        "comments": 0
       },
@@ -2379,7 +2379,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2359
+    "views_recent": 2352
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2418,7 +2418,7 @@
     "followers": 4,
     "views": 272,
     "posts_count": 9,
-    "views_recent": 294,
+    "views_recent": 295,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2430,9 +2430,9 @@
    },
    "AI/youtube": {
     "followers": 4,
-    "views": 911,
+    "views": 938,
     "posts_count": 11,
-    "views_recent": 1099,
+    "views_recent": 1185,
     "likes_recent": 12,
     "comments_recent": 0
    },
@@ -2440,7 +2440,7 @@
     "followers": 9,
     "views": 2836,
     "posts_count": 10,
-    "views_recent": 2930,
+    "views_recent": 2932,
     "likes_recent": 60,
     "comments_recent": 2
    }
