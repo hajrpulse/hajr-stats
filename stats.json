@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:27:23+03:00",
+ "generated_at": "2026-11-07T22:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -945,7 +945,7 @@
       "followers": 4,
       "views": 272,
       "posts_count": 9,
-      "views_recent": 296,
+      "views_recent": 299,
       "likes_recent": 22,
       "comments_recent": 1
      },
@@ -955,7 +955,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 24,
+       "views": 27,
        "likes": 4,
        "comments": 0
       },
@@ -1134,10 +1134,10 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 4,
+      "followers": 5,
       "views": 938,
       "posts_count": 11,
-      "views_recent": 1238,
+      "views_recent": 1291,
       "likes_recent": 13,
       "comments_recent": 0
      },
@@ -1156,7 +1156,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 643,
+       "views": 696,
        "likes": 6,
        "comments": 0
       },
@@ -2418,7 +2418,7 @@
     "followers": 4,
     "views": 272,
     "posts_count": 9,
-    "views_recent": 296,
+    "views_recent": 299,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2429,10 +2429,10 @@
     "views_recent": 2603
    },
    "AI/youtube": {
-    "followers": 4,
+    "followers": 5,
     "views": 938,
     "posts_count": 11,
-    "views_recent": 1238,
+    "views_recent": 1291,
     "likes_recent": 13,
     "comments_recent": 0
    },
