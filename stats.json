@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:27:24+03:00",
+ "generated_at": "2026-11-07T12:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2353
+      "views_recent": 2358
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 3,
+       "views": 8,
        "likes": 0,
        "comments": null
       },
@@ -1251,7 +1251,7 @@
       "followers": 9,
       "views": 2831,
       "posts_count": 10,
-      "views_recent": 2902,
+      "views_recent": 2889,
       "likes_recent": 59,
       "comments_recent": 2
      },
@@ -1261,7 +1261,7 @@
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
        "published": "2026-11-07T04:32:07Z",
-       "views": 69,
+       "views": 56,
        "likes": 3,
        "comments": 0
       },
@@ -2370,7 +2370,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2353
+    "views_recent": 2358
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2431,7 +2431,7 @@
     "followers": 9,
     "views": 2831,
     "posts_count": 10,
-    "views_recent": 2902,
+    "views_recent": 2889,
     "likes_recent": 59,
     "comments_recent": 2
    }
