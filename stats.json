@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:27:14+03:00",
+ "generated_at": "2026-11-09T02:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2445
+      "views_recent": 2446
      },
      "posts": [
       {
@@ -117,7 +117,7 @@
        "title": "حصن الطوارئ المالي لـ 6 أشهر: الخطوة الأولى قبل أي استثمار! 🏰💰 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/oMxE4jFJ2Dc",
        "published": "2026-11-03T17:02:41+00:00",
-       "views": 309,
+       "views": 310,
        "likes": 3,
        "comments": null
       },
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 340
+      "views_recent": 345
      },
      "posts": [
       {
@@ -731,7 +731,7 @@
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42+00:00",
-       "views": 29,
+       "views": 34,
        "likes": 3,
        "comments": null
       },
@@ -837,7 +837,7 @@
       "followers": 40,
       "views": null,
       "posts_count": null,
-      "views_recent": 4789
+      "views_recent": 4792
      },
      "posts": [
       {
@@ -863,7 +863,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 1 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2235,
+       "views": 2238,
        "likes": 28,
        "comments": null
       },
@@ -1047,7 +1047,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 3059
+      "views_recent": 3062
      },
      "posts": [
       {
@@ -1055,7 +1055,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16+00:00",
-       "views": 127,
+       "views": 130,
        "likes": 4,
        "comments": null
       },
@@ -2309,7 +2309,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2445
+    "views_recent": 2446
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2348,13 +2348,13 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 340
+    "views_recent": 345
    },
    "BaytAbuHamza/youtube": {
     "followers": 40,
     "views": null,
     "posts_count": null,
-    "views_recent": 4789
+    "views_recent": 4792
    },
    "AI/youtube": {
     "followers": 5,
@@ -2366,7 +2366,7 @@
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 3059
+    "views_recent": 3062
    }
   }
  }
