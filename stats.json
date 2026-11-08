@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T15:27:15+03:00",
+ "generated_at": "2026-11-08T16:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 325
+      "views_recent": 329
      },
      "posts": [
       {
@@ -731,7 +731,7 @@
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42+00:00",
-       "views": 21,
+       "views": 24,
        "likes": 3,
        "comments": null
       },
@@ -740,7 +740,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57+00:00",
-       "views": 32,
+       "views": 33,
        "likes": 4,
        "comments": null
       },
@@ -834,27 +834,36 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 34,
+      "followers": 35,
       "views": null,
       "posts_count": null,
-      "views_recent": 2619
+      "views_recent": 2666
      },
      "posts": [
       {
+       "id": "WhlqA0Uxb9M",
+       "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
+       "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
+       "published": "2026-11-08T13:00:11+00:00",
+       "views": 35,
+       "likes": 3,
+       "comments": null
+      },
+      {
        "id": "LWBsHc5WW1E",
-       "title": "بيت أبو حمزة 🏠  الحلقة 5 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
+       "title": "بيت أبو حمزة 🏠  الحلقة 4 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 4,
+       "views": 8,
        "likes": 2,
        "comments": null
       },
       {
        "id": "uLKPXVYHdoE",
-       "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
+       "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 1 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2216,
+       "views": 2224,
        "likes": 28,
        "comments": null
       },
@@ -915,7 +924,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1645
+      "views_recent": 1649
      },
      "posts": [
       {
@@ -932,7 +941,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48+00:00",
-       "views": 1040,
+       "views": 1044,
        "likes": 9,
        "comments": null
       },
@@ -1038,7 +1047,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 3041
+      "views_recent": 3052
      },
      "posts": [
       {
@@ -1046,7 +1055,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16+00:00",
-       "views": 113,
+       "views": 124,
        "likes": 4,
        "comments": null
       },
@@ -2274,25 +2283,25 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 325
+    "views_recent": 329
    },
    "BaytAbuHamza/youtube": {
-    "followers": 34,
+    "followers": 35,
     "views": null,
     "posts_count": null,
-    "views_recent": 2619
+    "views_recent": 2666
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1645
+    "views_recent": 1649
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 3041
+    "views_recent": 3052
    }
   }
  }
