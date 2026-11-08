@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:27:18+03:00",
+ "generated_at": "2026-11-08T19:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -834,10 +834,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 36,
+      "followers": 38,
       "views": null,
       "posts_count": null,
-      "views_recent": 2805
+      "views_recent": 3141
      },
      "posts": [
       {
@@ -845,8 +845,8 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 169,
-       "likes": 7,
+       "views": 499,
+       "likes": 11,
        "comments": null
       },
       {
@@ -854,7 +854,7 @@
        "title": "بيت أبو حمزة 🏠  الحلقة 4 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 9,
+       "views": 10,
        "likes": 2,
        "comments": null
       },
@@ -863,7 +863,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 1 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2224,
+       "views": 2229,
        "likes": 28,
        "comments": null
       },
@@ -2286,10 +2286,10 @@
     "views_recent": 329
    },
    "BaytAbuHamza/youtube": {
-    "followers": 36,
+    "followers": 38,
     "views": null,
     "posts_count": null,
-    "views_recent": 2805
+    "views_recent": 3141
    },
    "AI/youtube": {
     "followers": 5,
