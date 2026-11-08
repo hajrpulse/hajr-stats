@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T05:27:19+03:00",
+ "generated_at": "2026-11-08T06:27:21+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -808,14 +808,23 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 272,
-      "posts_count": 9,
+      "views": 300,
+      "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 300,
+      "views_recent": 301,
       "likes_recent": 22,
       "comments_recent": 1
      },
      "posts": [
+      {
+       "id": "90qUxRzdMQM",
+       "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
+       "url": "https://youtube.com/shorts/90qUxRzdMQM",
+       "published": "2026-11-08T02:31:42Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "WHYJvKR_-78",
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
@@ -959,7 +968,7 @@
       "views": 938,
       "posts_count": 11,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1566,
+      "views_recent": 1567,
       "likes_recent": 16,
       "comments_recent": 0
      },
@@ -969,7 +978,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 66,
+       "views": 67,
        "likes": 0,
        "comments": 0
       },
@@ -1083,7 +1092,7 @@
       "views": 2836,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2927,
+      "views_recent": 2926,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1156,7 +1165,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1114,
+       "views": 1113,
        "likes": 17,
        "comments": 0
       },
@@ -2311,10 +2320,10 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 272,
-    "posts_count": 9,
+    "views": 300,
+    "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 300,
+    "views_recent": 301,
     "likes_recent": 22,
     "comments_recent": 1
    },
@@ -2330,7 +2339,7 @@
     "views": 938,
     "posts_count": 11,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1566,
+    "views_recent": 1567,
     "likes_recent": 16,
     "comments_recent": 0
    },
@@ -2339,7 +2348,7 @@
     "views": 2836,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2927,
+    "views_recent": 2926,
     "likes_recent": 60,
     "comments_recent": 2
    }
