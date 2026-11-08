@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T00:27:17+03:00",
+ "generated_at": "2026-11-09T01:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 338
+      "views_recent": 340
      },
      "posts": [
       {
@@ -740,7 +740,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57+00:00",
-       "views": 36,
+       "views": 38,
        "likes": 4,
        "comments": null
       },
@@ -837,7 +837,7 @@
       "followers": 40,
       "views": null,
       "posts_count": null,
-      "views_recent": 4662
+      "views_recent": 4789
      },
      "posts": [
       {
@@ -845,7 +845,7 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 2011,
+       "views": 2131,
        "likes": 34,
        "comments": null
       },
@@ -854,7 +854,7 @@
        "title": "بيت أبو حمزة 🏠  الحلقة 4 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 12,
+       "views": 17,
        "likes": 2,
        "comments": null
       },
@@ -872,7 +872,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 64,
+       "views": 65,
        "likes": 6,
        "comments": null
       },
@@ -899,7 +899,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 146,
+       "views": 147,
        "likes": 12,
        "comments": null
       }
@@ -1047,7 +1047,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 3058
+      "views_recent": 3059
      },
      "posts": [
       {
@@ -1127,7 +1127,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32+00:00",
-       "views": 1115,
+       "views": 1116,
        "likes": 17,
        "comments": null
       },
@@ -2348,13 +2348,13 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 338
+    "views_recent": 340
    },
    "BaytAbuHamza/youtube": {
     "followers": 40,
     "views": null,
     "posts_count": null,
-    "views_recent": 4662
+    "views_recent": 4789
    },
    "AI/youtube": {
     "followers": 5,
@@ -2366,7 +2366,7 @@
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 3058
+    "views_recent": 3059
    }
   }
  }
