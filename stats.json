@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:27:16+03:00",
+ "generated_at": "2026-11-08T18:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2443
+      "views_recent": 2445
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
-       "views": 15,
+       "views": 16,
        "likes": 0,
        "comments": null
       },
@@ -81,7 +81,7 @@
        "title": "قانون باركنسون ومصفوفة أيزنهاور: كيف تنجز مهامك بنصف الوقت؟ ⚡📋 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/IADH652pSf4",
        "published": "2026-11-05T17:02:35+00:00",
-       "views": 747,
+       "views": 748,
        "likes": 4,
        "comments": null
       },
@@ -834,10 +834,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 35,
+      "followers": 36,
       "views": null,
       "posts_count": null,
-      "views_recent": 2739
+      "views_recent": 2805
      },
      "posts": [
       {
@@ -845,8 +845,8 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 104,
-       "likes": 4,
+       "views": 169,
+       "likes": 7,
        "comments": null
       },
       {
@@ -854,7 +854,7 @@
        "title": "بيت أبو حمزة 🏠  الحلقة 4 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 8,
+       "views": 9,
        "likes": 2,
        "comments": null
       },
@@ -924,7 +924,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1653
+      "views_recent": 1655
      },
      "posts": [
       {
@@ -932,7 +932,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03+00:00",
-       "views": 68,
+       "views": 70,
        "likes": 0,
        "comments": null
       },
@@ -2244,7 +2244,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2443
+    "views_recent": 2445
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2286,16 +2286,16 @@
     "views_recent": 329
    },
    "BaytAbuHamza/youtube": {
-    "followers": 35,
+    "followers": 36,
     "views": null,
     "posts_count": null,
-    "views_recent": 2739
+    "views_recent": 2805
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1653
+    "views_recent": 1655
    },
    "Shifa/youtube": {
     "followers": 9,
