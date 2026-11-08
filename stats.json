@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T14:27:18+03:00",
+ "generated_at": "2026-11-08T15:27:15+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2441
+      "views_recent": 2443
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
-       "views": 13,
+       "views": 15,
        "likes": 0,
        "comments": null
       },
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 326
+      "views_recent": 325
      },
      "posts": [
       {
@@ -731,7 +731,7 @@
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42+00:00",
-       "views": 22,
+       "views": 21,
        "likes": 3,
        "comments": null
       },
@@ -834,18 +834,27 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 33,
+      "followers": 34,
       "views": null,
       "posts_count": null,
-      "views_recent": 2609
+      "views_recent": 2619
      },
      "posts": [
+      {
+       "id": "LWBsHc5WW1E",
+       "title": "بيت أبو حمزة 🏠  الحلقة 5 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
+       "url": "https://youtube.com/shorts/LWBsHc5WW1E",
+       "published": "2026-11-08T11:53:31+00:00",
+       "views": 4,
+       "likes": 2,
+       "comments": null
+      },
       {
        "id": "uLKPXVYHdoE",
        "title": "رهف بالصف! | بيت أبو حمزة - الحلقة 4 #Shorts",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2210,
+       "views": 2216,
        "likes": 28,
        "comments": null
       },
@@ -2226,7 +2235,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2441
+    "views_recent": 2443
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2265,13 +2274,13 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 326
+    "views_recent": 325
    },
    "BaytAbuHamza/youtube": {
-    "followers": 33,
+    "followers": 34,
     "views": null,
     "posts_count": null,
-    "views_recent": 2609
+    "views_recent": 2619
    },
    "AI/youtube": {
     "followers": 5,
