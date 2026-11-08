@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:27:21+03:00",
+ "generated_at": "2026-11-08T07:27:17+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -968,7 +968,7 @@
       "views": 938,
       "posts_count": 11,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1567,
+      "views_recent": 1620,
       "likes_recent": 16,
       "comments_recent": 0
      },
@@ -978,7 +978,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 67,
+       "views": 66,
        "likes": 0,
        "comments": 0
       },
@@ -987,7 +987,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 963,
+       "views": 1017,
        "likes": 9,
        "comments": 0
       },
@@ -1089,10 +1089,10 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2836,
+      "views": 2926,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2926,
+      "views_recent": 2928,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1165,7 +1165,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1113,
+       "views": 1115,
        "likes": 17,
        "comments": 0
       },
@@ -2339,16 +2339,16 @@
     "views": 938,
     "posts_count": 11,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1567,
+    "views_recent": 1620,
     "likes_recent": 16,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2836,
+    "views": 2926,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2926,
+    "views_recent": 2928,
     "likes_recent": 60,
     "comments_recent": 2
    }
