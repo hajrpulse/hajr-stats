@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T13:27:18+03:00",
+ "generated_at": "2026-11-08T14:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2440
+      "views_recent": 2441
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 13,
+       "views": 14,
        "likes": 0,
        "comments": null
       },
@@ -837,7 +837,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2607
+      "views_recent": 2609
      },
      "posts": [
       {
@@ -881,7 +881,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 143,
+       "views": 145,
        "likes": 12,
        "comments": null
       }
@@ -906,7 +906,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1629
+      "views_recent": 1645
      },
      "posts": [
       {
@@ -923,7 +923,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48+00:00",
-       "views": 1024,
+       "views": 1040,
        "likes": 9,
        "comments": null
       },
@@ -2226,7 +2226,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2440
+    "views_recent": 2441
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2271,13 +2271,13 @@
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2607
+    "views_recent": 2609
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1629
+    "views_recent": 1645
    },
    "Shifa/youtube": {
     "followers": 9,
