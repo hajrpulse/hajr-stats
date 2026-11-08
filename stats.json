@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T11:27:19+03:00",
+ "generated_at": "2026-11-08T12:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2429
+      "views_recent": 2440
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
-       "views": 4,
+       "views": 13,
        "likes": 0,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "قاعدة 50/30/20 الذهبية لإدارة الراتب وبناء الثروة من الصفر! 💰📊 | هجر بلس #Shorts",
        "url": "https://youtube.com/shorts/GoOlPwnvzfc",
        "published": "2026-11-07T17:02:22+00:00",
-       "views": 71,
+       "views": 73,
        "likes": 2,
        "comments": null
       },
@@ -722,7 +722,7 @@
       "views": 300,
       "posts_count": 10,
       "views_recent": 323,
-      "likes_recent": 24,
+      "likes_recent": 25,
       "comments_recent": 1
      },
      "posts": [
@@ -732,7 +732,7 @@
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42Z",
        "views": 21,
-       "likes": 2,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -855,7 +855,7 @@
       "followers": 33,
       "views": null,
       "posts_count": null,
-      "views_recent": 2606
+      "views_recent": 2607
      },
      "posts": [
       {
@@ -899,7 +899,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 142,
+       "views": 143,
        "likes": 12,
        "comments": null
       }
@@ -922,7 +922,7 @@
       "followers": 5,
       "views": 1520,
       "posts_count": 11,
-      "views_recent": 1629,
+      "views_recent": 1632,
       "likes_recent": 16,
       "comments_recent": 0
      },
@@ -941,7 +941,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 1024,
+       "views": 1027,
        "likes": 9,
        "comments": 0
       },
@@ -1045,7 +1045,7 @@
       "followers": 9,
       "views": 2926,
       "posts_count": 11,
-      "views_recent": 2988,
+      "views_recent": 3020,
       "likes_recent": 64,
       "comments_recent": 2
      },
@@ -1055,7 +1055,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16Z",
-       "views": 60,
+       "views": 92,
        "likes": 4,
        "comments": 0
       },
@@ -2244,7 +2244,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2429
+    "views_recent": 2440
    },
    "Pulse/instagram": {
     "followers": 6,
@@ -2284,20 +2284,20 @@
     "views": 300,
     "posts_count": 10,
     "views_recent": 323,
-    "likes_recent": 24,
+    "likes_recent": 25,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
     "followers": 33,
     "views": null,
     "posts_count": null,
-    "views_recent": 2606
+    "views_recent": 2607
    },
    "AI/youtube": {
     "followers": 5,
     "views": 1520,
     "posts_count": 11,
-    "views_recent": 1629,
+    "views_recent": 1632,
     "likes_recent": 16,
     "comments_recent": 0
    },
@@ -2305,7 +2305,7 @@
     "followers": 9,
     "views": 2926,
     "posts_count": 11,
-    "views_recent": 2988,
+    "views_recent": 3020,
     "likes_recent": 64,
     "comments_recent": 2
    }
