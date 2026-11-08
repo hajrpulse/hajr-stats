@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:27:21+03:00",
+ "generated_at": "2026-11-08T03:27:24+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -810,7 +810,6 @@
       "followers": 4,
       "views": 272,
       "posts_count": 9,
-      "rss_error": "rss feed unavailable",
       "views_recent": 300,
       "likes_recent": 22,
       "comments_recent": 1
@@ -959,8 +958,8 @@
       "views": 938,
       "posts_count": 11,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1508,
-      "likes_recent": 13,
+      "views_recent": 1550,
+      "likes_recent": 15,
       "comments_recent": 0
      },
      "posts": [
@@ -978,8 +977,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 906,
-       "likes": 6,
+       "views": 948,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -1083,7 +1082,7 @@
       "views": 2836,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2927,
+      "views_recent": 2926,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1102,7 +1101,7 @@
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
        "published": "2026-11-06T04:32:34Z",
-       "views": 421,
+       "views": 420,
        "likes": 13,
        "comments": 0
       },
@@ -2313,7 +2312,6 @@
     "followers": 4,
     "views": 272,
     "posts_count": 9,
-    "rss_error": "rss feed unavailable",
     "views_recent": 300,
     "likes_recent": 22,
     "comments_recent": 1
@@ -2330,8 +2328,8 @@
     "views": 938,
     "posts_count": 11,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1508,
-    "likes_recent": 13,
+    "views_recent": 1550,
+    "likes_recent": 15,
     "comments_recent": 0
    },
    "Shifa/youtube": {
@@ -2339,7 +2337,7 @@
     "views": 2836,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2927,
+    "views_recent": 2926,
     "likes_recent": 60,
     "comments_recent": 2
    }
