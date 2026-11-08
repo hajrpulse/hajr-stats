@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:27:17+03:00",
+ "generated_at": "2026-11-08T08:27:19+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -811,8 +811,8 @@
       "views": 300,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 301,
-      "likes_recent": 22,
+      "views_recent": 309,
+      "likes_recent": 23,
       "comments_recent": 1
      },
      "posts": [
@@ -821,8 +821,8 @@
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42Z",
-       "views": 1,
-       "likes": 0,
+       "views": 7,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -830,7 +830,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57Z",
-       "views": 28,
+       "views": 30,
        "likes": 4,
        "comments": 0
       },
@@ -965,10 +965,10 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 938,
+      "views": 1520,
       "posts_count": 11,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1620,
+      "views_recent": 1618,
       "likes_recent": 16,
       "comments_recent": 0
      },
@@ -978,7 +978,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 66,
+       "views": 67,
        "likes": 0,
        "comments": 0
       },
@@ -987,7 +987,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 1017,
+       "views": 1014,
        "likes": 9,
        "comments": 0
       },
@@ -1090,13 +1090,22 @@
      "totals": {
       "followers": 9,
       "views": 2926,
-      "posts_count": 10,
+      "posts_count": 11,
       "rss_error": "rss feed unavailable",
       "views_recent": 2928,
       "likes_recent": 60,
       "comments_recent": 2
      },
      "posts": [
+      {
+       "id": "z38xIYfs4z4",
+       "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
+       "url": "https://youtube.com/shorts/z38xIYfs4z4",
+       "published": "2026-11-08T04:32:16Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "t62f8lMu0rI",
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
@@ -2323,8 +2332,8 @@
     "views": 300,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 301,
-    "likes_recent": 22,
+    "views_recent": 309,
+    "likes_recent": 23,
     "comments_recent": 1
    },
    "BaytAbuHamza/youtube": {
@@ -2336,17 +2345,17 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 938,
+    "views": 1520,
     "posts_count": 11,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1620,
+    "views_recent": 1618,
     "likes_recent": 16,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": 2926,
-    "posts_count": 10,
+    "posts_count": 11,
     "rss_error": "rss feed unavailable",
     "views_recent": 2928,
     "likes_recent": 60,
