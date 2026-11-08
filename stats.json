@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:27:17+03:00",
+ "generated_at": "2026-11-09T00:27:17+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2444
+      "views_recent": 2445
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 14,
+       "views": 15,
        "likes": 0,
        "comments": null
       },
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 336
+      "views_recent": 338
      },
      "posts": [
       {
@@ -740,7 +740,7 @@
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
        "published": "2026-11-07T02:31:57+00:00",
-       "views": 34,
+       "views": 36,
        "likes": 4,
        "comments": null
       },
@@ -837,7 +837,7 @@
       "followers": 40,
       "views": null,
       "posts_count": null,
-      "views_recent": 4278
+      "views_recent": 4662
      },
      "posts": [
       {
@@ -845,7 +845,7 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 1627,
+       "views": 2011,
        "likes": 34,
        "comments": null
       },
@@ -854,7 +854,7 @@
        "title": "بيت أبو حمزة 🏠  الحلقة 4 الرِّيموت المفقود! 😂📺  مسلسل كرتوني كوميدي.",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 11,
+       "views": 12,
        "likes": 2,
        "comments": null
       },
@@ -872,7 +872,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة - الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 65,
+       "views": 64,
        "likes": 6,
        "comments": null
       },
@@ -2290,6 +2290,71 @@
     "views": null,
     "posts_count": null,
     "views_recent": 4278
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1657
+   },
+   "Shifa/youtube": {
+    "followers": 9,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 3058
+   }
+  },
+  "2026-11-09": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2445
+   },
+   "Pulse/instagram": {
+    "followers": 6,
+    "following": 5,
+    "posts_count": 25,
+    "likes_recent": 1,
+    "comments_recent": 0,
+    "views_recent": 351
+   },
+   "Pulse/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 0,
+    "following": 0,
+    "posts_count": 0,
+    "likes_recent": 0,
+    "comments_recent": 0,
+    "views_recent": 0
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 0
+   },
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 338
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 40,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 4662
    },
    "AI/youtube": {
     "followers": 5,
