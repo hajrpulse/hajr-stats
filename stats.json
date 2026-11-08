@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T12:27:18+03:00",
+ "generated_at": "2026-11-08T13:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -714,125 +714,107 @@
      "platform": "youtube",
      "handle": "@HAJRSunnah",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 4,
-      "views": 300,
-      "posts_count": 10,
-      "views_recent": 323,
-      "likes_recent": 25,
-      "comments_recent": 1
+      "views": null,
+      "posts_count": null,
+      "views_recent": 326
      },
      "posts": [
       {
        "id": "90qUxRzdMQM",
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
-       "published": "2026-11-08T02:31:42Z",
-       "views": 21,
+       "published": "2026-11-08T02:31:42+00:00",
+       "views": 22,
        "likes": 3,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "WHYJvKR_-78",
        "title": "اسلام کے پانچ بنیادی ارکان | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WHYJvKR_-78",
-       "published": "2026-11-07T02:31:57Z",
-       "views": 30,
+       "published": "2026-11-07T02:31:57+00:00",
+       "views": 32,
        "likes": 4,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "8m0BQmcNpkA",
        "title": "Lima Rukun Islam | Hadits Shahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/8m0BQmcNpkA",
-       "published": "2026-11-06T02:32:10Z",
+       "published": "2026-11-06T02:32:10+00:00",
        "views": 17,
        "likes": 4,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "L7sNmfMFD_A",
        "title": "Дела оцениваются по намерениям | Сахих аль-Бухари и Муслим • Хадис #Shorts",
        "url": "https://youtube.com/shorts/L7sNmfMFD_A",
-       "published": "2026-11-05T02:31:56Z",
+       "published": "2026-11-05T02:31:56+00:00",
        "views": 6,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "uKeTTQQZnK0",
        "title": "Ameller Niyetlere Göredir | Sahih-i Buhârî ve Müslim • Hadis-i Şerif #Shorts",
        "url": "https://youtube.com/shorts/uKeTTQQZnK0",
-       "published": "2026-11-04T02:32:10Z",
+       "published": "2026-11-04T02:32:10+00:00",
        "views": 12,
        "likes": 3,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "xravUT72xOY",
        "title": "Las obras dependen de las intenciones | Hadith Sahih Bujari y Muslim #Shorts",
        "url": "https://youtube.com/shorts/xravUT72xOY",
-       "published": "2026-11-03T02:32:25Z",
+       "published": "2026-11-03T02:32:25+00:00",
        "views": 13,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "Kwnym8MRMH4",
        "title": "Les actes ne valent que par les intentions | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/Kwnym8MRMH4",
-       "published": "2026-11-02T02:32:02Z",
+       "published": "2026-11-02T02:32:02+00:00",
        "views": 36,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "rMrmvD00WVo",
        "title": "Hadith of Intentions | Actions Are by Intentions • Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/rMrmvD00WVo",
-       "published": "2026-10-27T02:32:10Z",
+       "published": "2026-10-27T02:32:10+00:00",
        "views": 20,
        "likes": 3,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "nKJSvQbU0Ek",
        "title": "The Five Pillars of Islam | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/nKJSvQbU0Ek",
-       "published": "2026-10-26T10:47:55Z",
+       "published": "2026-10-26T10:47:55+00:00",
        "views": 83,
        "likes": 4,
-       "comments": 0
-      },
-      {
-       "id": "QvoQCjQmq9E",
-       "title": "اعمال کا دارومدار نیتوں پر ہے | صحیح بخاری و مسلم • حدیث نبوی ﷺ #Shorts",
-       "url": "https://youtube.com/shorts/QvoQCjQmq9E",
-       "published": "2026-10-24T22:38:26Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
-      },
-      {
-       "id": "FMI2D4QKScg",
-       "title": "Hadits Niat | Setiap Amal Tergantung Niatnya • HR. Bukhari & Muslim #Shorts",
-       "url": "https://youtube.com/shorts/FMI2D4QKScg",
-       "published": "2026-10-24T22:38:24Z",
-       "views": 0,
-       "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "oIp0v9V1x9Y",
        "title": "حديث: إنما الأعمال بالنيات 🕌 | Hadith #1: Actions Are Judged by Intentions (Bukhari/Muslim) #shorts",
        "url": "https://youtube.com/shorts/oIp0v9V1x9Y",
-       "published": "2026-10-24T18:30:41Z",
+       "published": "2026-10-24T18:30:41+00:00",
        "views": 85,
        "likes": 3,
-       "comments": 1
+       "comments": null
       }
      ]
     }
@@ -915,116 +897,116 @@
      "platform": "youtube",
      "handle": "@HAJRAIOfficial",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 1520,
-      "posts_count": 11,
-      "views_recent": 1632,
-      "likes_recent": 16,
-      "comments_recent": 0
+      "views": null,
+      "posts_count": null,
+      "views_recent": 1629
      },
      "posts": [
       {
        "id": "2_Q8SMGyaZE",
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
-       "published": "2026-11-07T10:32:03Z",
+       "published": "2026-11-07T10:32:03+00:00",
        "views": 68,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "mCb2HMmzqbo",
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
-       "published": "2026-11-06T10:31:48Z",
-       "views": 1027,
+       "published": "2026-11-06T10:31:48+00:00",
+       "views": 1024,
        "likes": 9,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "8Fh0Dg-XYls",
        "title": "Automate Back-Office Operations Visually With Make.com | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/8Fh0Dg-XYls",
-       "published": "2026-11-05T10:32:09Z",
+       "published": "2026-11-05T10:32:09+00:00",
        "views": 33,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "vSU0HkPo5K0",
        "title": "أتمتة الفواتير وإدارة الأعمال مرئياً عبر Make.com | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/vSU0HkPo5K0",
-       "published": "2026-11-04T10:31:44Z",
+       "published": "2026-11-04T10:31:44+00:00",
        "views": 62,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "eqNShkzw6QI",
        "title": "Go Global in 29 Languages With ElevenLabs AI Audio | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/eqNShkzw6QI",
-       "published": "2026-11-03T10:32:30Z",
+       "published": "2026-11-03T10:32:30+00:00",
        "views": 44,
        "likes": 2,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "mS8tZEVvL_I",
        "title": "دبلجة المحتوى لـ 29 لغة عالمية بالذكاء الاصطناعي ElevenLabs | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mS8tZEVvL_I",
-       "published": "2026-11-02T11:06:54Z",
+       "published": "2026-11-02T11:06:54+00:00",
        "views": 254,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "E1cZdXUUjaM",
        "title": "Automate Your Entire Business With n8n AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/E1cZdXUUjaM",
-       "published": "2026-11-01T10:32:50Z",
+       "published": "2026-11-01T10:32:50+00:00",
        "views": 45,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "Iltdib_5iRY",
        "title": "أتمتة الأعمال بالكامل عبر وكلاء الذكاء الاصطناعي n8n | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Iltdib_5iRY",
-       "published": "2026-10-26T16:27:18Z",
+       "published": "2026-10-26T16:27:18+00:00",
        "views": 23,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "sfUG2WEcs1U",
        "title": "Cursor AI + Claude Code : Automatisation IA & Productivité | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/sfUG2WEcs1U",
-       "published": "2026-10-25T19:58:41Z",
+       "published": "2026-10-25T19:58:41+00:00",
        "views": 13,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "OpfjFCrnVlo",
        "title": "ابنِ تطبيقاتك أسرع 10 مرات بالذكاء الاصطناعي Cursor AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/OpfjFCrnVlo",
-       "published": "2026-10-25T18:01:55Z",
+       "published": "2026-10-25T18:01:55+00:00",
        "views": 24,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "qNxPKnzbfEw",
        "title": "Build Full Apps 10x Faster With Cursor AI Agents | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/qNxPKnzbfEw",
-       "published": "2026-10-25T09:01:55Z",
+       "published": "2026-10-25T09:01:55+00:00",
        "views": 39,
        "likes": 0,
-       "comments": 0
+       "comments": null
       }
      ]
     }
@@ -1038,116 +1020,116 @@
      "platform": "youtube",
      "handle": "@HAJRShifa",
      "status": "ok",
-     "missing": [],
-     "source": "public_page+rss+oauth",
+     "missing": [
+      "oauth_stats: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+     ],
+     "source": "public_page+rss",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 2926,
-      "posts_count": 11,
-      "views_recent": 3020,
-      "likes_recent": 64,
-      "comments_recent": 2
+      "views": null,
+      "posts_count": null,
+      "views_recent": 3041
      },
      "posts": [
       {
        "id": "z38xIYfs4z4",
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
-       "published": "2026-11-08T04:32:16Z",
-       "views": 92,
+       "published": "2026-11-08T04:32:16+00:00",
+       "views": 113,
        "likes": 4,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "t62f8lMu0rI",
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
-       "published": "2026-11-07T04:32:07Z",
+       "published": "2026-11-07T04:32:07+00:00",
        "views": 87,
        "likes": 4,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "ej74e0sJynQ",
        "title": "الصِّيامُ النَّبَوِيُّ وَالتَّجديدُ الخَلَوِيُّ (Autophagy) بين السنة الصحيحة وأبحاث PubMed | هجر شِ",
        "url": "https://youtube.com/shorts/ej74e0sJynQ",
-       "published": "2026-11-06T04:32:34Z",
+       "published": "2026-11-06T04:32:34+00:00",
        "views": 420,
        "likes": 13,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "SeHATu32YOQ",
        "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/SeHATu32YOQ",
-       "published": "2026-11-05T04:32:23Z",
+       "published": "2026-11-05T04:32:23+00:00",
        "views": 2,
        "likes": 0,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "WnRw5fosvKA",
        "title": "زَيتُ الزَّيتونِ المُبارَك بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/WnRw5fosvKA",
-       "published": "2026-11-04T04:32:05Z",
+       "published": "2026-11-04T04:32:05+00:00",
        "views": 241,
        "likes": 8,
-       "comments": 2
+       "comments": null
       },
       {
        "id": "76oSyElXr-k",
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
-       "published": "2026-11-03T04:32:26Z",
+       "published": "2026-11-03T04:32:26+00:00",
        "views": 46,
        "likes": 2,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "ka0oYigp5Cc",
        "title": "التَّلبينَةُ النَّبَوِيَّةُ (حَساءُ الشَّعير) بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/ka0oYigp5Cc",
-       "published": "2026-11-02T04:32:53Z",
+       "published": "2026-11-02T04:32:53+00:00",
        "views": 847,
        "likes": 10,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "Lv_6VE6DYF8",
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
-       "published": "2026-10-27T04:32:11Z",
+       "published": "2026-10-27T04:32:11+00:00",
        "views": 63,
        "likes": 1,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "miOLahzKqcg",
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
-       "published": "2026-10-26T10:44:32Z",
+       "published": "2026-10-26T10:44:32+00:00",
        "views": 1115,
        "likes": 17,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "vd6diXAg-4E",
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
-       "published": "2026-10-25T17:01:52Z",
+       "published": "2026-10-25T17:01:52+00:00",
        "views": 11,
        "likes": 2,
-       "comments": 0
+       "comments": null
       },
       {
        "id": "hormYm6L2iI",
        "title": "أسرار الحبة السوداء بين الحديث الصحيح وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/hormYm6L2iI",
-       "published": "2026-10-25T07:01:40Z",
+       "published": "2026-10-25T07:01:40+00:00",
        "views": 96,
        "likes": 3,
-       "comments": 0
+       "comments": null
       }
      ]
     }
@@ -2281,11 +2263,9 @@
    },
    "Sunnah/youtube": {
     "followers": 4,
-    "views": 300,
-    "posts_count": 10,
-    "views_recent": 323,
-    "likes_recent": 25,
-    "comments_recent": 1
+    "views": null,
+    "posts_count": null,
+    "views_recent": 326
    },
    "BaytAbuHamza/youtube": {
     "followers": 33,
@@ -2295,19 +2275,15 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 1520,
-    "posts_count": 11,
-    "views_recent": 1632,
-    "likes_recent": 16,
-    "comments_recent": 0
+    "views": null,
+    "posts_count": null,
+    "views_recent": 1629
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 2926,
-    "posts_count": 11,
-    "views_recent": 3020,
-    "likes_recent": 64,
-    "comments_recent": 2
+    "views": null,
+    "posts_count": null,
+    "views_recent": 3041
    }
   }
  }
