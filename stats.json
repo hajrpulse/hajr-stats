@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T20:27:16+03:00",
+ "generated_at": "2026-11-08T21:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -834,10 +834,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 37,
+      "followers": 38,
       "views": null,
       "posts_count": null,
-      "views_recent": 3442
+      "views_recent": 3682
      },
      "posts": [
       {
@@ -845,8 +845,8 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 799,
-       "likes": 18,
+       "views": 1039,
+       "likes": 22,
        "comments": null
       },
       {
@@ -1047,7 +1047,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 3059
+      "views_recent": 3060
      },
      "posts": [
       {
@@ -1082,7 +1082,7 @@
        "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/SeHATu32YOQ",
        "published": "2026-11-05T04:32:23+00:00",
-       "views": 2,
+       "views": 3,
        "likes": 0,
        "comments": null
       },
@@ -2286,10 +2286,10 @@
     "views_recent": 333
    },
    "BaytAbuHamza/youtube": {
-    "followers": 37,
+    "followers": 38,
     "views": null,
     "posts_count": null,
-    "views_recent": 3442
+    "views_recent": 3682
    },
    "AI/youtube": {
     "followers": 5,
@@ -2301,7 +2301,7 @@
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 3059
+    "views_recent": 3060
    }
   }
  }
