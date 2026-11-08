@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T03:27:24+03:00",
+ "generated_at": "2026-11-08T04:27:18+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -810,6 +810,7 @@
       "followers": 4,
       "views": 272,
       "posts_count": 9,
+      "rss_error": "rss feed unavailable",
       "views_recent": 300,
       "likes_recent": 22,
       "comments_recent": 1
@@ -958,8 +959,8 @@
       "views": 938,
       "posts_count": 11,
       "rss_error": "rss feed unavailable",
-      "views_recent": 1550,
-      "likes_recent": 15,
+      "views_recent": 1566,
+      "likes_recent": 16,
       "comments_recent": 0
      },
      "posts": [
@@ -968,7 +969,7 @@
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/2_Q8SMGyaZE",
        "published": "2026-11-07T10:32:03Z",
-       "views": 65,
+       "views": 66,
        "likes": 0,
        "comments": 0
       },
@@ -977,8 +978,8 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48Z",
-       "views": 948,
-       "likes": 8,
+       "views": 963,
+       "likes": 9,
        "comments": 0
       },
       {
@@ -1082,7 +1083,7 @@
       "views": 2836,
       "posts_count": 10,
       "rss_error": "rss feed unavailable",
-      "views_recent": 2926,
+      "views_recent": 2927,
       "likes_recent": 60,
       "comments_recent": 2
      },
@@ -1155,7 +1156,7 @@
        "title": "معجزة العسل الطبيعي للمعدة والمناعة بالأدلة العلمية | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/miOLahzKqcg",
        "published": "2026-10-26T10:44:32Z",
-       "views": 1113,
+       "views": 1114,
        "likes": 17,
        "comments": 0
       },
@@ -2312,6 +2313,7 @@
     "followers": 4,
     "views": 272,
     "posts_count": 9,
+    "rss_error": "rss feed unavailable",
     "views_recent": 300,
     "likes_recent": 22,
     "comments_recent": 1
@@ -2328,8 +2330,8 @@
     "views": 938,
     "posts_count": 11,
     "rss_error": "rss feed unavailable",
-    "views_recent": 1550,
-    "likes_recent": 15,
+    "views_recent": 1566,
+    "likes_recent": 16,
     "comments_recent": 0
    },
    "Shifa/youtube": {
@@ -2337,7 +2339,7 @@
     "views": 2836,
     "posts_count": 10,
     "rss_error": "rss feed unavailable",
-    "views_recent": 2926,
+    "views_recent": 2927,
     "likes_recent": 60,
     "comments_recent": 2
    }
