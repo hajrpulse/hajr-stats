@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:27:22+03:00",
+ "generated_at": "2026-11-08T20:27:16+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -723,7 +723,7 @@
       "followers": 4,
       "views": null,
       "posts_count": null,
-      "views_recent": 329
+      "views_recent": 333
      },
      "posts": [
       {
@@ -731,7 +731,7 @@
        "title": "Les Cinq Piliers de l'Islam | Hadith Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/90qUxRzdMQM",
        "published": "2026-11-08T02:31:42+00:00",
-       "views": 24,
+       "views": 28,
        "likes": 3,
        "comments": null
       },
@@ -834,10 +834,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 38,
+      "followers": 37,
       "views": null,
       "posts_count": null,
-      "views_recent": 3141
+      "views_recent": 3442
      },
      "posts": [
       {
@@ -845,8 +845,8 @@
        "title": "😂 الحلقة 2 محمود ورهف والكنبة السحرية! 🧸 | بيت أبو حمزة #Shorts",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 499,
-       "likes": 11,
+       "views": 799,
+       "likes": 18,
        "comments": null
       },
       {
@@ -899,7 +899,7 @@
        "title": "عائلة أبو حمزة | الحلقة التعريفية (الحلقة 0) — تعرّفوا على بيت أبو حمزة! 🎬❤️",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 145,
+       "views": 146,
        "likes": 12,
        "comments": null
       }
@@ -924,7 +924,7 @@
       "followers": 5,
       "views": null,
       "posts_count": null,
-      "views_recent": 1655
+      "views_recent": 1656
      },
      "posts": [
       {
@@ -941,7 +941,7 @@
        "title": "تقارير الأسواق الموثقة في 90 ثانية عبر Perplexity AI | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/mCb2HMmzqbo",
        "published": "2026-11-06T10:31:48+00:00",
-       "views": 1048,
+       "views": 1049,
        "likes": 9,
        "comments": null
       },
@@ -1047,7 +1047,7 @@
       "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 3054
+      "views_recent": 3059
      },
      "posts": [
       {
@@ -1055,7 +1055,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16+00:00",
-       "views": 124,
+       "views": 129,
        "likes": 4,
        "comments": null
       },
@@ -2283,25 +2283,25 @@
     "followers": 4,
     "views": null,
     "posts_count": null,
-    "views_recent": 329
+    "views_recent": 333
    },
    "BaytAbuHamza/youtube": {
-    "followers": 38,
+    "followers": 37,
     "views": null,
     "posts_count": null,
-    "views_recent": 3141
+    "views_recent": 3442
    },
    "AI/youtube": {
     "followers": 5,
     "views": null,
     "posts_count": null,
-    "views_recent": 1655
+    "views_recent": 1656
    },
    "Shifa/youtube": {
     "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 3054
+    "views_recent": 3059
    }
   }
  }
