@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:27:11+03:00",
+ "generated_at": "2026-11-15T22:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 509
+      "views_recent": 778
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 402,
-       "likes": 5,
+       "views": 671,
+       "likes": 8,
        "comments": null
       },
       {
@@ -159,8 +159,8 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 864,
-      "comments_recent": 3,
+      "likes_recent": 891,
+      "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
@@ -170,8 +170,8 @@
        "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
        "published": "2026-11-15T15:03:37+0000",
        "type": "VIDEO",
-       "likes": 102,
-       "comments": 0,
+       "likes": 129,
+       "comments": 2,
        "views": null
       },
       {
@@ -425,7 +425,7 @@
       "followers": 4,
       "views": 0,
       "posts_count": 1,
-      "views_recent": 243,
+      "views_recent": 244,
       "likes_recent": 13,
       "comments_recent": 0
      },
@@ -435,7 +435,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 243,
+       "views": 244,
        "likes": 13,
        "comments": 0
       }
@@ -554,8 +554,8 @@
       "followers": 5,
       "views": 239,
       "posts_count": 6,
-      "views_recent": 239,
-      "likes_recent": 3,
+      "views_recent": 241,
+      "likes_recent": 4,
       "comments_recent": 0
      },
      "posts": [
@@ -564,8 +564,8 @@
        "title": "إنتاج الفيديوهات التدريبية والتجارية بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/m_hFZvcxRUM",
        "published": "2026-11-15T10:31:44Z",
-       "views": 0,
-       "likes": 0,
+       "views": 2,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -1930,7 +1930,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 509
+    "views_recent": 778
    },
    "Quran/youtube": {
     "followers": null,
@@ -1943,8 +1943,8 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 864,
-    "comments_recent": 3,
+    "likes_recent": 891,
+    "comments_recent": 5,
     "views_recent": null
    },
    "Quran/threads": {
@@ -1957,7 +1957,7 @@
     "followers": 4,
     "views": 0,
     "posts_count": 1,
-    "views_recent": 243,
+    "views_recent": 244,
     "likes_recent": 13,
     "comments_recent": 0
    },
@@ -1971,8 +1971,8 @@
     "followers": 5,
     "views": 239,
     "posts_count": 6,
-    "views_recent": 239,
-    "likes_recent": 3,
+    "views_recent": 241,
+    "likes_recent": 4,
     "comments_recent": 0
    },
    "Shifa/youtube": {
