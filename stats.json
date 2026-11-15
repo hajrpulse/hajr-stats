@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:27:09+03:00",
+ "generated_at": "2026-11-16T00:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 790
+      "views_recent": 993
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 683,
-       "likes": 8,
+       "views": 884,
+       "likes": 7,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
-       "views": 19,
+       "views": 20,
        "likes": 1,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/YFJyxnMuqG4",
        "published": "2026-11-07T06:32:09+00:00",
-       "views": 17,
+       "views": 18,
        "likes": 1,
        "comments": null
       },
@@ -156,21 +156,31 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 15,
+      "followers": 16,
       "following": 0,
-      "posts_count": 11,
-      "likes_recent": 921,
+      "posts_count": 12,
+      "likes_recent": 929,
       "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18106451858555626",
+       "title": "سورة البقرة (6-10) بصوت سعود الشريم\n\nسورة البقرة — الآيات 6-10\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) وا",
+       "url": "https://www.instagram.com/reel/Dfxs5I4xKXZ/",
+       "published": "2026-11-15T21:03:39+0000",
+       "type": "VIDEO",
+       "likes": 4,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18108421556621650",
        "title": "سورة البقرة (1-5) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 1-5\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-u",
        "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
        "published": "2026-11-15T15:03:37+0000",
        "type": "VIDEO",
-       "likes": 156,
+       "likes": 159,
        "comments": 2,
        "views": null
       },
@@ -180,7 +190,7 @@
        "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
        "published": "2026-11-14T21:03:37+0000",
        "type": "VIDEO",
-       "likes": 228,
+       "likes": 229,
        "comments": 2,
        "views": null
       },
@@ -286,9 +296,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 11
+      "posts_count_recent": 12
      },
      "posts": [
+      {
+       "id": "18477101086142214",
+       "title": "سورة البقرة (6-10) بصوت سعود الشريم\n\nسورة البقرة — الآيات 6-10\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) وا",
+       "url": "https://www.threads.com/@hajrquran.official/post/DfxtHYsheDe",
+       "published": "2026-11-15T21:05:45+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18651249502000334",
        "title": "سورة البقرة (1-5) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 1-5\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-u",
@@ -632,7 +652,7 @@
       "followers": 9,
       "views": 359,
       "posts_count": 7,
-      "views_recent": 366,
+      "views_recent": 367,
       "likes_recent": 14,
       "comments_recent": 0
      },
@@ -642,7 +662,7 @@
        "title": "Ajwa & Medina Dates (Phoenix dactylifera): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/1iC_Zm_Q_nw",
        "published": "2026-11-15T05:54:21Z",
-       "views": 5,
+       "views": 6,
        "likes": 1,
        "comments": 0
       },
@@ -1980,6 +2000,65 @@
     "views": 359,
     "posts_count": 7,
     "views_recent": 366,
+    "likes_recent": 14,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-16": {
+   "Pulse/youtube": {
+    "followers": 8,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 993
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 16,
+    "following": 0,
+    "posts_count": 12,
+    "likes_recent": 929,
+    "comments_recent": 5,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 12
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 4,
+    "views": 0,
+    "posts_count": 1,
+    "views_recent": 244,
+    "likes_recent": 13,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9746
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 239,
+    "posts_count": 6,
+    "views_recent": 241,
+    "likes_recent": 4,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 9,
+    "views": 359,
+    "posts_count": 7,
+    "views_recent": 367,
     "likes_recent": 14,
     "comments_recent": 0
    }
