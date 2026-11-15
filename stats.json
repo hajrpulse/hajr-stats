@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:27:08+03:00",
+ "generated_at": "2026-11-15T23:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 778
+      "views_recent": 790
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 671,
+       "views": 683,
        "likes": 8,
        "comments": null
       },
@@ -159,7 +159,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 891,
+      "likes_recent": 921,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -170,7 +170,7 @@
        "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
        "published": "2026-11-15T15:03:37+0000",
        "type": "VIDEO",
-       "likes": 129,
+       "likes": 156,
        "comments": 2,
        "views": null
       },
@@ -180,7 +180,7 @@
        "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
        "published": "2026-11-14T21:03:37+0000",
        "type": "VIDEO",
-       "likes": 226,
+       "likes": 228,
        "comments": 2,
        "views": null
       },
@@ -200,7 +200,7 @@
        "url": "https://www.instagram.com/reel/DfsjKcQNf-E/",
        "published": "2026-11-13T21:02:10+0000",
        "type": "VIDEO",
-       "likes": 189,
+       "likes": 190,
        "comments": 1,
        "views": null
       },
@@ -1930,7 +1930,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 778
+    "views_recent": 790
    },
    "Quran/youtube": {
     "followers": null,
@@ -1943,7 +1943,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 891,
+    "likes_recent": 921,
     "comments_recent": 5,
     "views_recent": null
    },
