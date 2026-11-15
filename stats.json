@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T00:27:09+03:00",
+ "generated_at": "2026-11-16T01:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 993
+      "views_recent": 1003
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 884,
+       "views": 894,
        "likes": 7,
        "comments": null
       },
@@ -156,10 +156,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 16,
+      "followers": 17,
       "following": 0,
       "posts_count": 12,
-      "likes_recent": 929,
+      "likes_recent": 954,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -170,7 +170,7 @@
        "url": "https://www.instagram.com/reel/Dfxs5I4xKXZ/",
        "published": "2026-11-15T21:03:39+0000",
        "type": "VIDEO",
-       "likes": 4,
+       "likes": 28,
        "comments": 0,
        "views": null
       },
@@ -190,7 +190,7 @@
        "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
        "published": "2026-11-14T21:03:37+0000",
        "type": "VIDEO",
-       "likes": 229,
+       "likes": 230,
        "comments": 2,
        "views": null
       },
@@ -480,7 +480,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9746
+      "views_recent": 9748
      },
      "posts": [
       {
@@ -506,7 +506,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 50,
+       "views": 51,
        "likes": 6,
        "comments": null
       },
@@ -524,7 +524,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 84,
+       "views": 85,
        "likes": 10,
        "comments": null
       },
@@ -2009,7 +2009,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 993
+    "views_recent": 1003
    },
    "Quran/youtube": {
     "followers": null,
@@ -2019,10 +2019,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 16,
+    "followers": 17,
     "following": 0,
     "posts_count": 12,
-    "likes_recent": 929,
+    "likes_recent": 954,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2044,7 +2044,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9746
+    "views_recent": 9748
    },
    "AI/youtube": {
     "followers": 5,
