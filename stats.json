@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T19:27:10+03:00",
+ "generated_at": "2026-11-15T20:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,9 +19,18 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 107
+      "views_recent": 114
      },
      "posts": [
+      {
+       "id": "ClPbArAYBwg",
+       "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
+       "url": "https://youtube.com/shorts/ClPbArAYBwg",
+       "published": "2026-11-15T16:35:29+00:00",
+       "views": 7,
+       "likes": 1,
+       "comments": null
+      },
       {
        "id": "N1KS2oMQhz8",
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
@@ -150,7 +159,7 @@
       "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 808,
+      "likes_recent": 838,
       "comments_recent": 3,
       "views_recent": null
      },
@@ -161,7 +170,7 @@
        "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
        "published": "2026-11-15T15:03:37+0000",
        "type": "VIDEO",
-       "likes": 47,
+       "likes": 77,
        "comments": 0,
        "views": null
       },
@@ -451,7 +460,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9733
+      "views_recent": 9743
      },
      "posts": [
       {
@@ -477,7 +486,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 47,
+       "views": 50,
        "likes": 6,
        "comments": null
       },
@@ -495,7 +504,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 80,
+       "views": 84,
        "likes": 10,
        "comments": null
       },
@@ -504,7 +513,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 66,
+       "views": 67,
        "likes": 8,
        "comments": null
       },
@@ -513,7 +522,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 163,
+       "views": 164,
        "likes": 19,
        "comments": null
       },
@@ -522,7 +531,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 181,
+       "views": 182,
        "likes": 13,
        "comments": null
       }
@@ -621,7 +630,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 9,
-      "views": 357,
+      "views": 359,
       "posts_count": 7,
       "views_recent": 365,
       "likes_recent": 14,
@@ -1921,7 +1930,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 107
+    "views_recent": 114
    },
    "Quran/youtube": {
     "followers": null,
@@ -1934,7 +1943,7 @@
     "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 808,
+    "likes_recent": 838,
     "comments_recent": 3,
     "views_recent": null
    },
@@ -1956,7 +1965,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9733
+    "views_recent": 9743
    },
    "AI/youtube": {
     "followers": 5,
@@ -1968,7 +1977,7 @@
    },
    "Shifa/youtube": {
     "followers": 9,
-    "views": 357,
+    "views": 359,
     "posts_count": 7,
     "views_recent": 365,
     "likes_recent": 14,
