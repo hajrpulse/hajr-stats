@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:27:09+03:00",
+ "generated_at": "2026-11-15T19:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -147,10 +147,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 14,
+      "followers": 15,
       "following": 0,
       "posts_count": 11,
-      "likes_recent": 762,
+      "likes_recent": 808,
       "comments_recent": 3,
       "views_recent": null
      },
@@ -161,7 +161,7 @@
        "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
        "published": "2026-11-15T15:03:37+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 47,
        "comments": 0,
        "views": null
       },
@@ -623,7 +623,7 @@
       "followers": 9,
       "views": 357,
       "posts_count": 7,
-      "views_recent": 363,
+      "views_recent": 365,
       "likes_recent": 14,
       "comments_recent": 0
      },
@@ -687,7 +687,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52Z",
-       "views": 11,
+       "views": 13,
        "likes": 2,
        "comments": 0
       }
@@ -1931,10 +1931,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 14,
+    "followers": 15,
     "following": 0,
     "posts_count": 11,
-    "likes_recent": 762,
+    "likes_recent": 808,
     "comments_recent": 3,
     "views_recent": null
    },
@@ -1970,7 +1970,7 @@
     "followers": 9,
     "views": 357,
     "posts_count": 7,
-    "views_recent": 363,
+    "views_recent": 365,
     "likes_recent": 14,
     "comments_recent": 0
    }
