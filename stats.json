@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T15:27:09+03:00",
+ "generated_at": "2026-11-15T16:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -396,7 +396,7 @@
       "followers": 4,
       "views": 0,
       "posts_count": 1,
-      "views_recent": 227,
+      "views_recent": 243,
       "likes_recent": 13,
       "comments_recent": 0
      },
@@ -406,7 +406,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 227,
+       "views": 243,
        "likes": 13,
        "comments": 0
       }
@@ -431,7 +431,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9727
+      "views_recent": 9732
      },
      "posts": [
       {
@@ -448,7 +448,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6845,
+       "views": 6849,
        "likes": 127,
        "comments": null
       },
@@ -475,7 +475,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 79,
+       "views": 80,
        "likes": 8,
        "comments": null
       },
@@ -1928,7 +1928,7 @@
     "followers": 4,
     "views": 0,
     "posts_count": 1,
-    "views_recent": 227,
+    "views_recent": 243,
     "likes_recent": 13,
     "comments_recent": 0
    },
@@ -1936,7 +1936,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9727
+    "views_recent": 9732
    },
    "AI/youtube": {
     "followers": 5,
