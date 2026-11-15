@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:27:09+03:00",
+ "generated_at": "2026-11-15T13:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -150,7 +150,7 @@
       "followers": 14,
       "following": 0,
       "posts_count": 10,
-      "likes_recent": 758,
+      "likes_recent": 760,
       "comments_recent": 3,
       "views_recent": null
      },
@@ -161,7 +161,7 @@
        "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
        "published": "2026-11-14T21:03:37+0000",
        "type": "VIDEO",
-       "likes": 223,
+       "likes": 225,
        "comments": 2,
        "views": null
       },
@@ -396,8 +396,8 @@
       "followers": 4,
       "views": 0,
       "posts_count": 1,
-      "views_recent": 204,
-      "likes_recent": 11,
+      "views_recent": 227,
+      "likes_recent": 13,
       "comments_recent": 0
      },
      "posts": [
@@ -406,8 +406,8 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 204,
-       "likes": 11,
+       "views": 227,
+       "likes": 13,
        "comments": 0
       }
      ]
@@ -431,7 +431,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9726
+      "views_recent": 9727
      },
      "posts": [
       {
@@ -493,7 +493,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 161,
+       "views": 162,
        "likes": 18,
        "comments": null
       },
@@ -1905,7 +1905,7 @@
     "followers": 14,
     "following": 0,
     "posts_count": 10,
-    "likes_recent": 758,
+    "likes_recent": 760,
     "comments_recent": 3,
     "views_recent": null
    },
@@ -1919,15 +1919,15 @@
     "followers": 4,
     "views": 0,
     "posts_count": 1,
-    "views_recent": 204,
-    "likes_recent": 11,
+    "views_recent": 227,
+    "likes_recent": 13,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9726
+    "views_recent": 9727
    },
    "AI/youtube": {
     "followers": 5,
