@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T13:27:08+03:00",
+ "generated_at": "2026-11-15T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -524,12 +524,21 @@
      "totals": {
       "followers": 5,
       "views": 239,
-      "posts_count": 9,
+      "posts_count": 6,
       "views_recent": 239,
       "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "m_hFZvcxRUM",
+       "title": "إنتاج الفيديوهات التدريبية والتجارية بالذكاء الاصطناعي | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/m_hFZvcxRUM",
+       "published": "2026-11-15T10:31:44Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "2_Q8SMGyaZE",
        "title": "90-Second Cited Market Reports With Perplexity AI | HAJR AI #Shorts",
@@ -594,8 +603,8 @@
       "followers": 9,
       "views": 357,
       "posts_count": 7,
-      "views_recent": 361,
-      "likes_recent": 13,
+      "views_recent": 363,
+      "likes_recent": 14,
       "comments_recent": 0
      },
      "posts": [
@@ -604,8 +613,8 @@
        "title": "Ajwa & Medina Dates (Phoenix dactylifera): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/1iC_Zm_Q_nw",
        "published": "2026-11-15T05:54:21Z",
-       "views": 2,
-       "likes": 0,
+       "views": 4,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -1932,7 +1941,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 239,
-    "posts_count": 9,
+    "posts_count": 6,
     "views_recent": 239,
     "likes_recent": 3,
     "comments_recent": 0
@@ -1941,8 +1950,8 @@
     "followers": 9,
     "views": 357,
     "posts_count": 7,
-    "views_recent": 361,
-    "likes_recent": 13,
+    "views_recent": 363,
+    "likes_recent": 14,
     "comments_recent": 0
    }
   }
