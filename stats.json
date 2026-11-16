@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:28:11+03:00",
+ "generated_at": "2026-11-16T23:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1907
+      "views_recent": 2025
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 860,
-       "likes": 10,
+       "views": 974,
+       "likes": 9,
        "comments": null
       },
       {
@@ -36,8 +36,8 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 937,
-       "likes": 8,
+       "views": 941,
+       "likes": 7,
        "comments": null
       },
       {
@@ -168,7 +168,7 @@
       "followers": 18,
       "following": 0,
       "posts_count": 13,
-      "likes_recent": 1051,
+      "likes_recent": 1052,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 91,
+       "likes": 92,
        "comments": 0,
        "views": null
       },
@@ -515,10 +515,10 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 56,
+      "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9752
+      "views_recent": 9753
      },
      "posts": [
       {
@@ -553,7 +553,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2282,
+       "views": 2283,
        "likes": 29,
        "comments": null
       },
@@ -612,7 +612,7 @@
       "followers": 5,
       "views": 241,
       "posts_count": 7,
-      "views_recent": 246,
+      "views_recent": 245,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -622,7 +622,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 5,
+       "views": 4,
        "likes": 1,
        "comments": 0
       },
@@ -699,7 +699,7 @@
       "followers": 10,
       "views": 367,
       "posts_count": 8,
-      "views_recent": 979,
+      "views_recent": 984,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -709,7 +709,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 609,
+       "views": 611,
        "likes": 8,
        "comments": 0
       },
@@ -718,7 +718,7 @@
        "title": "Ajwa & Medina Dates (Phoenix dactylifera): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/1iC_Zm_Q_nw",
        "published": "2026-11-15T05:54:21Z",
-       "views": 8,
+       "views": 9,
        "likes": 1,
        "comments": 0
       },
@@ -763,7 +763,7 @@
        "title": "Raw Honey & Gut Healing: Quranic Proof & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/Lv_6VE6DYF8",
        "published": "2026-10-27T04:32:11Z",
-       "views": 63,
+       "views": 65,
        "likes": 1,
        "comments": 0
       },
@@ -2065,7 +2065,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1907
+    "views_recent": 2025
    },
    "Quran/youtube": {
     "followers": null,
@@ -2078,7 +2078,7 @@
     "followers": 18,
     "following": 0,
     "posts_count": 13,
-    "likes_recent": 1051,
+    "likes_recent": 1052,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2097,16 +2097,16 @@
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
-    "followers": 56,
+    "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9752
+    "views_recent": 9753
    },
    "AI/youtube": {
     "followers": 5,
     "views": 241,
     "posts_count": 7,
-    "views_recent": 246,
+    "views_recent": 245,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2114,7 +2114,7 @@
     "followers": 10,
     "views": 367,
     "posts_count": 8,
-    "views_recent": 979,
+    "views_recent": 984,
     "likes_recent": 22,
     "comments_recent": 0
    }
