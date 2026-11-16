@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:27:09+03:00",
+ "generated_at": "2026-11-16T07:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -343,12 +343,12 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 4,
+      "followers": 5,
       "views": 244,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 244,
-      "likes_recent": 13,
+      "views_recent": 283,
+      "likes_recent": 24,
       "comments_recent": 0
      },
      "posts": [
@@ -357,8 +357,8 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 0,
-       "likes": 0,
+       "views": 39,
+       "likes": 11,
        "comments": 0
       },
       {
@@ -493,7 +493,7 @@
       "views": 359,
       "posts_count": 7,
       "rss_error": "rss feed unavailable",
-      "views_recent": 367,
+      "views_recent": 369,
       "likes_recent": 14,
       "comments_recent": 0
      },
@@ -503,7 +503,7 @@
        "title": "Ajwa & Medina Dates (Phoenix dactylifera): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/1iC_Zm_Q_nw",
        "published": "2026-11-15T05:54:21Z",
-       "views": 6,
+       "views": 8,
        "likes": 1,
        "comments": 0
       },
@@ -1875,12 +1875,12 @@
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
-    "followers": 4,
+    "followers": 5,
     "views": 244,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 244,
-    "likes_recent": 13,
+    "views_recent": 283,
+    "likes_recent": 24,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -1904,7 +1904,7 @@
     "views": 359,
     "posts_count": 7,
     "rss_error": "rss feed unavailable",
-    "views_recent": 367,
+    "views_recent": 369,
     "likes_recent": 14,
     "comments_recent": 0
    }
