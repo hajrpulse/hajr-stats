@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T02:27:12+03:00",
+ "generated_at": "2026-11-16T03:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,109 +19,10 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 1003
+      "rss_error": "rss feed unavailable",
+      "views_recent": 0
      },
-     "posts": [
-      {
-       "id": "ClPbArAYBwg",
-       "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
-       "url": "https://youtube.com/shorts/ClPbArAYBwg",
-       "published": "2026-11-15T16:35:29+00:00",
-       "views": 894,
-       "likes": 7,
-       "comments": null
-      },
-      {
-       "id": "N1KS2oMQhz8",
-       "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/N1KS2oMQhz8",
-       "published": "2026-11-08T06:31:59+00:00",
-       "views": 20,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "YFJyxnMuqG4",
-       "title": "The 3 Golden Rules of Halal Investing & Clean Balance Sheets! ⚖️💼 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/YFJyxnMuqG4",
-       "published": "2026-11-07T06:32:09+00:00",
-       "views": 18,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "FSgnycxYDAY",
-       "title": "Parkinson's Law & The Eisenhower Matrix: Finish in Half the Time! ⚡📋 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/FSgnycxYDAY",
-       "published": "2026-11-06T06:32:29+00:00",
-       "views": 14,
-       "likes": 2,
-       "comments": null
-      },
-      {
-       "id": "eAHTF4PsgGQ",
-       "title": "استراتيجية الذهب والأسواق العالمية والتمويل الحلال في ٢٠٢٦ (دليل شامل للمستثمر الذكي) | هجر بلس",
-       "url": "https://youtube.com/shorts/eAHTF4PsgGQ",
-       "published": "2026-11-06T00:33:57+00:00",
-       "views": 1,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "J1IpljIYFfk",
-       "title": "Where Trillions in Global Capital Are Flowing: 3 Mega-Sectors! 🌍🏗️ | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/J1IpljIYFfk",
-       "published": "2026-11-05T06:32:40+00:00",
-       "views": 6,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "X5Xx15E7TqE",
-       "title": "Build a 6-Month Financial Fortress Before You Invest! 🏰💰 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/X5Xx15E7TqE",
-       "published": "2026-11-04T06:32:39+00:00",
-       "views": 9,
-       "likes": 2,
-       "comments": null
-      },
-      {
-       "id": "m739i-DYgBQ",
-       "title": "The 90-Minute Deep Work Protocol That Doubles Daily Output! ⏳🔥 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/m739i-DYgBQ",
-       "published": "2026-11-03T06:33:33+00:00",
-       "views": 8,
-       "likes": 3,
-       "comments": null
-      },
-      {
-       "id": "zXImt2qE2Uw",
-       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/zXImt2qE2Uw",
-       "published": "2026-11-02T06:32:33+00:00",
-       "views": 13,
-       "likes": 0,
-       "comments": null
-      },
-      {
-       "id": "TC-cIJk5gT8",
-       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/TC-cIJk5gT8",
-       "published": "2026-10-27T06:32:45+00:00",
-       "views": 6,
-       "likes": 1,
-       "comments": null
-      },
-      {
-       "id": "QXXpFiEH6fE",
-       "title": "Why Central Banks Are Buying Record Physical Gold in 2026! 🪙📈 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/QXXpFiEH6fE",
-       "published": "2026-10-26T06:32:43+00:00",
-       "views": 14,
-       "likes": 2,
-       "comments": null
-      }
-     ]
+     "posts": []
     }
    ]
   },
@@ -159,7 +60,7 @@
       "followers": 17,
       "following": 0,
       "posts_count": 12,
-      "likes_recent": 954,
+      "likes_recent": 955,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -170,7 +71,7 @@
        "url": "https://www.instagram.com/reel/Dfxs5I4xKXZ/",
        "published": "2026-11-15T21:03:39+0000",
        "type": "VIDEO",
-       "likes": 28,
+       "likes": 29,
        "comments": 0,
        "views": null
       },
@@ -574,6 +475,7 @@
       "followers": 5,
       "views": 239,
       "posts_count": 6,
+      "rss_error": "rss feed unavailable",
       "views_recent": 241,
       "likes_recent": 4,
       "comments_recent": 0
@@ -2009,7 +1911,8 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 1003
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
    },
    "Quran/youtube": {
     "followers": null,
@@ -2022,7 +1925,7 @@
     "followers": 17,
     "following": 0,
     "posts_count": 12,
-    "likes_recent": 954,
+    "likes_recent": 955,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2050,6 +1953,7 @@
     "followers": 5,
     "views": 239,
     "posts_count": 6,
+    "rss_error": "rss feed unavailable",
     "views_recent": 241,
     "likes_recent": 4,
     "comments_recent": 0
