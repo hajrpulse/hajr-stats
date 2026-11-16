@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:27:11+03:00",
+ "generated_at": "2026-11-17T00:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2025
+      "views_recent": 2211
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 974,
+       "views": 1159,
        "likes": 9,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 941,
+       "views": 942,
        "likes": 7,
        "comments": null
       },
@@ -167,12 +167,22 @@
      "totals": {
       "followers": 18,
       "following": 0,
-      "posts_count": 13,
-      "likes_recent": 1052,
+      "posts_count": 14,
+      "likes_recent": 1063,
       "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17974867593219624",
+       "title": "سورة البقرة (14-16) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 14-16\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
+       "published": "2026-11-16T21:03:22+0000",
+       "type": "VIDEO",
+       "likes": 11,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17921641053461862",
        "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
@@ -315,9 +325,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 13
+      "posts_count_recent": 14
      },
      "posts": [
+      {
+       "id": "18064056368541080",
+       "title": "سورة البقرة (14-16) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 14-16\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df0R2p7hNIA",
+       "published": "2026-11-16T21:05:15+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17919977403258722",
        "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
@@ -472,7 +492,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 244,
+      "views": 329,
       "posts_count": 2,
       "views_recent": 348,
       "likes_recent": 25,
@@ -612,7 +632,7 @@
       "followers": 5,
       "views": 241,
       "posts_count": 7,
-      "views_recent": 245,
+      "views_recent": 246,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -622,7 +642,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 4,
+       "views": 5,
        "likes": 1,
        "comments": 0
       },
@@ -699,7 +719,7 @@
       "followers": 10,
       "views": 367,
       "posts_count": 8,
-      "views_recent": 984,
+      "views_recent": 987,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -718,7 +738,7 @@
        "title": "Ajwa & Medina Dates (Phoenix dactylifera): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/1iC_Zm_Q_nw",
        "published": "2026-11-15T05:54:21Z",
-       "views": 9,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -727,7 +747,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16Z",
-       "views": 148,
+       "views": 150,
        "likes": 4,
        "comments": 0
       },
@@ -2115,6 +2135,65 @@
     "views": 367,
     "posts_count": 8,
     "views_recent": 984,
+    "likes_recent": 22,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-17": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2211
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 18,
+    "following": 0,
+    "posts_count": 14,
+    "likes_recent": 1063,
+    "comments_recent": 5,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 14
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 5,
+    "views": 329,
+    "posts_count": 2,
+    "views_recent": 348,
+    "likes_recent": 25,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9753
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 241,
+    "posts_count": 7,
+    "views_recent": 246,
+    "likes_recent": 5,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 367,
+    "posts_count": 8,
+    "views_recent": 987,
     "likes_recent": 22,
     "comments_recent": 0
    }
