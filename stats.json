@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:27:09+03:00",
+ "generated_at": "2026-11-16T15:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1031
+      "views_recent": 1032
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 922,
+       "views": 923,
        "likes": 7,
        "comments": null
       },
@@ -445,7 +445,7 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 329,
+      "views_recent": 323,
       "likes_recent": 24,
       "comments_recent": 0
      },
@@ -455,7 +455,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 80,
+       "views": 79,
        "likes": 11,
        "comments": 0
       },
@@ -464,7 +464,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 249,
+       "views": 244,
        "likes": 13,
        "comments": 0
       }
@@ -2036,7 +2036,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1031
+    "views_recent": 1032
    },
    "Quran/youtube": {
     "followers": null,
@@ -2063,7 +2063,7 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 329,
+    "views_recent": 323,
     "likes_recent": 24,
     "comments_recent": 0
    },
