@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:27:08+03:00",
+ "generated_at": "2026-11-16T09:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -347,8 +347,8 @@
       "views": 244,
       "posts_count": 2,
       "rss_error": "rss feed unavailable",
-      "views_recent": 292,
-      "likes_recent": 23,
+      "views_recent": 300,
+      "likes_recent": 24,
       "comments_recent": 0
      },
      "posts": [
@@ -357,8 +357,8 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 48,
-       "likes": 10,
+       "views": 56,
+       "likes": 11,
        "comments": 0
       },
       {
@@ -489,12 +489,12 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 9,
+      "followers": 10,
       "views": 367,
       "posts_count": 8,
       "rss_error": "rss feed unavailable",
-      "views_recent": 373,
-      "likes_recent": 15,
+      "views_recent": 507,
+      "likes_recent": 18,
       "comments_recent": 0
      },
      "posts": [
@@ -503,8 +503,8 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 4,
-       "likes": 1,
+       "views": 138,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -1888,8 +1888,8 @@
     "views": 244,
     "posts_count": 2,
     "rss_error": "rss feed unavailable",
-    "views_recent": 292,
-    "likes_recent": 23,
+    "views_recent": 300,
+    "likes_recent": 24,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -1909,12 +1909,12 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 9,
+    "followers": 10,
     "views": 367,
     "posts_count": 8,
     "rss_error": "rss feed unavailable",
-    "views_recent": 373,
-    "likes_recent": 15,
+    "views_recent": 507,
+    "likes_recent": 18,
     "comments_recent": 0
    }
   }
