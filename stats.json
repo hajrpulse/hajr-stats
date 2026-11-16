@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:27:11+03:00",
+ "generated_at": "2026-11-17T01:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2211
+      "views_recent": 2215
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1159,
+       "views": 1163,
        "likes": 9,
        "comments": null
       },
@@ -165,10 +165,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 18,
+      "followers": 21,
       "following": 0,
       "posts_count": 14,
-      "likes_recent": 1063,
+      "likes_recent": 1252,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 11,
+       "likes": 200,
        "comments": 0,
        "views": null
       },
@@ -538,7 +538,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9753
+      "views_recent": 9755
      },
      "posts": [
       {
@@ -609,7 +609,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 185,
+       "views": 187,
        "likes": 12,
        "comments": null
       }
@@ -717,9 +717,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 10,
-      "views": 367,
+      "views": 973,
       "posts_count": 8,
-      "views_recent": 987,
+      "views_recent": 992,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -729,7 +729,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 611,
+       "views": 612,
        "likes": 8,
        "comments": 0
       },
@@ -756,7 +756,7 @@
        "title": "Prophetic Intermittent Fasting & Autophagy: Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/t62f8lMu0rI",
        "published": "2026-11-07T04:32:07Z",
-       "views": 88,
+       "views": 89,
        "likes": 4,
        "comments": 0
       },
@@ -774,7 +774,7 @@
        "title": "Prophetic Talbinah (Barley Broth): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/76oSyElXr-k",
        "published": "2026-11-03T04:32:26Z",
-       "views": 46,
+       "views": 47,
        "likes": 2,
        "comments": 0
       },
@@ -792,7 +792,7 @@
        "title": "Black Seed (Nigella Sativa): Prophetic Hadith & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/vd6diXAg-4E",
        "published": "2026-10-25T17:01:52Z",
-       "views": 13,
+       "views": 15,
        "likes": 2,
        "comments": 0
       }
@@ -2144,7 +2144,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2211
+    "views_recent": 2215
    },
    "Quran/youtube": {
     "followers": null,
@@ -2154,10 +2154,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 18,
+    "followers": 21,
     "following": 0,
     "posts_count": 14,
-    "likes_recent": 1063,
+    "likes_recent": 1252,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2179,7 +2179,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9753
+    "views_recent": 9755
    },
    "AI/youtube": {
     "followers": 5,
@@ -2191,9 +2191,9 @@
    },
    "Shifa/youtube": {
     "followers": 10,
-    "views": 367,
+    "views": 973,
     "posts_count": 8,
-    "views_recent": 987,
+    "views_recent": 992,
     "likes_recent": 22,
     "comments_recent": 0
    }
