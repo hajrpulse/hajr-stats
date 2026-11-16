@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:27:09+03:00",
+ "generated_at": "2026-11-16T21:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1282
+      "views_recent": 1827
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 244,
-       "likes": 3,
+       "views": 789,
+       "likes": 11,
        "comments": null
       },
       {
@@ -168,7 +168,7 @@
       "followers": 18,
       "following": 0,
       "posts_count": 13,
-      "likes_recent": 1017,
+      "likes_recent": 1048,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 57,
+       "likes": 88,
        "comments": 0,
        "views": null
       },
@@ -474,7 +474,7 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 330,
+      "views_recent": 339,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -484,7 +484,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 80,
+       "views": 84,
        "likes": 11,
        "comments": 0
       },
@@ -493,7 +493,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 250,
+       "views": 255,
        "likes": 14,
        "comments": 0
       }
@@ -612,7 +612,7 @@
       "followers": 5,
       "views": 241,
       "posts_count": 7,
-      "views_recent": 245,
+      "views_recent": 242,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -622,7 +622,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 4,
+       "views": 1,
        "likes": 1,
        "comments": 0
       },
@@ -2065,7 +2065,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1282
+    "views_recent": 1827
    },
    "Quran/youtube": {
     "followers": null,
@@ -2078,7 +2078,7 @@
     "followers": 18,
     "following": 0,
     "posts_count": 13,
-    "likes_recent": 1017,
+    "likes_recent": 1048,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2092,7 +2092,7 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 330,
+    "views_recent": 339,
     "likes_recent": 25,
     "comments_recent": 0
    },
@@ -2106,7 +2106,7 @@
     "followers": 5,
     "views": 241,
     "posts_count": 7,
-    "views_recent": 245,
+    "views_recent": 242,
     "likes_recent": 5,
     "comments_recent": 0
    },
