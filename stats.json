@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:27:10+03:00",
+ "generated_at": "2026-11-16T16:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -159,7 +159,7 @@
       "followers": 17,
       "following": 0,
       "posts_count": 12,
-      "likes_recent": 956,
+      "likes_recent": 960,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -170,7 +170,7 @@
        "url": "https://www.instagram.com/reel/Dfxs5I4xKXZ/",
        "published": "2026-11-15T21:03:39+0000",
        "type": "VIDEO",
-       "likes": 29,
+       "likes": 30,
        "comments": 0,
        "views": null
       },
@@ -210,7 +210,7 @@
        "url": "https://www.instagram.com/reel/DfsjKcQNf-E/",
        "published": "2026-11-13T21:02:10+0000",
        "type": "VIDEO",
-       "likes": 190,
+       "likes": 191,
        "comments": 1,
        "views": null
       },
@@ -220,7 +220,7 @@
        "url": "https://www.instagram.com/reel/Dfr6JWFJfx9/",
        "published": "2026-11-13T15:04:09+0000",
        "type": "VIDEO",
-       "likes": 141,
+       "likes": 142,
        "comments": 0,
        "views": null
       },
@@ -270,7 +270,7 @@
        "url": "https://www.instagram.com/reel/DfiQJAaghii/",
        "published": "2026-11-09T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 2,
        "comments": 0,
        "views": null
       },
@@ -445,7 +445,7 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 323,
+      "views_recent": 329,
       "likes_recent": 24,
       "comments_recent": 0
      },
@@ -455,7 +455,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 79,
+       "views": 80,
        "likes": 11,
        "comments": 0
       },
@@ -464,7 +464,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 244,
+       "views": 249,
        "likes": 13,
        "comments": 0
       }
@@ -489,7 +489,7 @@
       "followers": 56,
       "views": null,
       "posts_count": null,
-      "views_recent": 9749
+      "views_recent": 9751
      },
      "posts": [
       {
@@ -560,7 +560,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 183,
+       "views": 185,
        "likes": 12,
        "comments": null
       }
@@ -583,8 +583,8 @@
       "followers": 5,
       "views": 241,
       "posts_count": 7,
-      "views_recent": 241,
-      "likes_recent": 4,
+      "views_recent": 242,
+      "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
@@ -593,8 +593,8 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 1,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -2049,7 +2049,7 @@
     "followers": 17,
     "following": 0,
     "posts_count": 12,
-    "likes_recent": 956,
+    "likes_recent": 960,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2063,7 +2063,7 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 323,
+    "views_recent": 329,
     "likes_recent": 24,
     "comments_recent": 0
    },
@@ -2071,14 +2071,14 @@
     "followers": 56,
     "views": null,
     "posts_count": null,
-    "views_recent": 9749
+    "views_recent": 9751
    },
    "AI/youtube": {
     "followers": 5,
     "views": 241,
     "posts_count": 7,
-    "views_recent": 241,
-    "likes_recent": 4,
+    "views_recent": 242,
+    "likes_recent": 5,
     "comments_recent": 0
    },
    "Shifa/youtube": {
