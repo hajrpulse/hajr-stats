@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:27:11+03:00",
+ "generated_at": "2026-11-16T19:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,15 +19,24 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1038
+      "views_recent": 1047
      },
      "posts": [
+      {
+       "id": "rN47PHJIXTQ",
+       "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
+       "url": "https://youtube.com/shorts/rN47PHJIXTQ",
+       "published": "2026-11-16T16:00:32+00:00",
+       "views": 10,
+       "likes": 1,
+       "comments": null
+      },
       {
        "id": "ClPbArAYBwg",
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 929,
+       "views": 928,
        "likes": 7,
        "comments": null
       },
@@ -37,7 +46,7 @@
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
        "views": 20,
-       "likes": 1,
+       "likes": 2,
        "comments": null
       },
       {
@@ -159,7 +168,7 @@
       "followers": 17,
       "following": 0,
       "posts_count": 13,
-      "likes_recent": 961,
+      "likes_recent": 980,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -170,7 +179,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 20,
        "comments": 0,
        "views": null
       },
@@ -465,8 +474,8 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 329,
-      "likes_recent": 24,
+      "views_recent": 330,
+      "likes_recent": 25,
       "comments_recent": 0
      },
      "posts": [
@@ -484,8 +493,8 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 249,
-       "likes": 13,
+       "views": 250,
+       "likes": 14,
        "comments": 0
       }
      ]
@@ -2056,7 +2065,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1038
+    "views_recent": 1047
    },
    "Quran/youtube": {
     "followers": null,
@@ -2069,7 +2078,7 @@
     "followers": 17,
     "following": 0,
     "posts_count": 13,
-    "likes_recent": 961,
+    "likes_recent": 980,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2083,8 +2092,8 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 329,
-    "likes_recent": 24,
+    "views_recent": 330,
+    "likes_recent": 25,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
