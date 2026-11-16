@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:27:10+03:00",
+ "generated_at": "2026-11-16T13:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -445,7 +445,7 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 311,
+      "views_recent": 323,
       "likes_recent": 24,
       "comments_recent": 0
      },
@@ -455,7 +455,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 67,
+       "views": 79,
        "likes": 11,
        "comments": 0
       },
@@ -661,8 +661,8 @@
       "followers": 10,
       "views": 367,
       "posts_count": 8,
-      "views_recent": 855,
-      "likes_recent": 23,
+      "views_recent": 965,
+      "likes_recent": 22,
       "comments_recent": 0
      },
      "posts": [
@@ -671,8 +671,8 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 486,
-       "likes": 9,
+       "views": 596,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -2054,7 +2054,7 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 311,
+    "views_recent": 323,
     "likes_recent": 24,
     "comments_recent": 0
    },
@@ -2076,8 +2076,8 @@
     "followers": 10,
     "views": 367,
     "posts_count": 8,
-    "views_recent": 855,
-    "likes_recent": 23,
+    "views_recent": 965,
+    "likes_recent": 22,
     "comments_recent": 0
    }
   }
