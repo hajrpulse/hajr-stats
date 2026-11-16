@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:27:11+03:00",
+ "generated_at": "2026-11-16T22:28:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1827
+      "views_recent": 1907
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 789,
-       "likes": 11,
+       "views": 860,
+       "likes": 10,
        "comments": null
       },
       {
@@ -36,8 +36,8 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 929,
-       "likes": 7,
+       "views": 937,
+       "likes": 8,
        "comments": null
       },
       {
@@ -45,7 +45,7 @@
        "title": "The 50/30/20 Golden Rule to Master Your Salary & Build Wealth! 💰📊 | HAJR Pulse #Shorts",
        "url": "https://youtube.com/shorts/N1KS2oMQhz8",
        "published": "2026-11-08T06:31:59+00:00",
-       "views": 20,
+       "views": 21,
        "likes": 2,
        "comments": null
       },
@@ -168,7 +168,7 @@
       "followers": 18,
       "following": 0,
       "posts_count": 13,
-      "likes_recent": 1048,
+      "likes_recent": 1051,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 88,
+       "likes": 91,
        "comments": 0,
        "views": null
       },
@@ -474,7 +474,7 @@
       "followers": 5,
       "views": 244,
       "posts_count": 2,
-      "views_recent": 339,
+      "views_recent": 348,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -484,7 +484,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 84,
+       "views": 93,
        "likes": 11,
        "comments": 0
       },
@@ -518,7 +518,7 @@
       "followers": 56,
       "views": null,
       "posts_count": null,
-      "views_recent": 9751
+      "views_recent": 9752
      },
      "posts": [
       {
@@ -553,7 +553,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2281,
+       "views": 2282,
        "likes": 29,
        "comments": null
       },
@@ -612,7 +612,7 @@
       "followers": 5,
       "views": 241,
       "posts_count": 7,
-      "views_recent": 242,
+      "views_recent": 246,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -622,7 +622,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 1,
+       "views": 5,
        "likes": 1,
        "comments": 0
       },
@@ -699,7 +699,7 @@
       "followers": 10,
       "views": 367,
       "posts_count": 8,
-      "views_recent": 978,
+      "views_recent": 979,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -745,7 +745,7 @@
        "title": "Blessed Olive Oil (Olea europaea): Prophetic Wisdom & PubMed Science | HAJR Shifa #Shorts",
        "url": "https://youtube.com/shorts/SeHATu32YOQ",
        "published": "2026-11-05T04:32:23Z",
-       "views": 3,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -2065,7 +2065,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1827
+    "views_recent": 1907
    },
    "Quran/youtube": {
     "followers": null,
@@ -2078,7 +2078,7 @@
     "followers": 18,
     "following": 0,
     "posts_count": 13,
-    "likes_recent": 1048,
+    "likes_recent": 1051,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2092,7 +2092,7 @@
     "followers": 5,
     "views": 244,
     "posts_count": 2,
-    "views_recent": 339,
+    "views_recent": 348,
     "likes_recent": 25,
     "comments_recent": 0
    },
@@ -2100,13 +2100,13 @@
     "followers": 56,
     "views": null,
     "posts_count": null,
-    "views_recent": 9751
+    "views_recent": 9752
    },
    "AI/youtube": {
     "followers": 5,
     "views": 241,
     "posts_count": 7,
-    "views_recent": 242,
+    "views_recent": 246,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2114,7 +2114,7 @@
     "followers": 10,
     "views": 367,
     "posts_count": 8,
-    "views_recent": 978,
+    "views_recent": 979,
     "likes_recent": 22,
     "comments_recent": 0
    }
