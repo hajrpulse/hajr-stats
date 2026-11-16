@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:27:09+03:00",
+ "generated_at": "2026-11-16T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 1032
+      "views_recent": 1038
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 923,
+       "views": 929,
        "likes": 7,
        "comments": null
       },
@@ -158,12 +158,22 @@
      "totals": {
       "followers": 17,
       "following": 0,
-      "posts_count": 12,
-      "likes_recent": 960,
+      "posts_count": 13,
+      "likes_recent": 961,
       "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17921641053461862",
+       "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
+       "published": "2026-11-16T15:03:41+0000",
+       "type": "VIDEO",
+       "likes": 1,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18106451858555626",
        "title": "سورة البقرة (6-10) بصوت سعود الشريم\n\nسورة البقرة — الآيات 6-10\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) وا",
@@ -296,9 +306,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 12
+      "posts_count_recent": 13
      },
      "posts": [
+      {
+       "id": "17919977403258722",
+       "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.threads.com/@hajrquran.official/post/DfzotgyhYoe",
+       "published": "2026-11-16T15:05:45+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18477101086142214",
        "title": "سورة البقرة (6-10) بصوت سعود الشريم\n\nسورة البقرة — الآيات 6-10\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) وا",
@@ -2036,7 +2056,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 1032
+    "views_recent": 1038
    },
    "Quran/youtube": {
     "followers": null,
@@ -2048,15 +2068,15 @@
    "Quran/instagram": {
     "followers": 17,
     "following": 0,
-    "posts_count": 12,
-    "likes_recent": 960,
+    "posts_count": 13,
+    "likes_recent": 961,
     "comments_recent": 5,
     "views_recent": null
    },
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 12
+    "posts_count_recent": 13
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
