@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:27:11+03:00",
+ "generated_at": "2026-11-18T00:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,19 +167,29 @@
      "totals": {
       "followers": 22,
       "following": 0,
-      "posts_count": 15,
-      "likes_recent": 1307,
+      "posts_count": 16,
+      "likes_recent": 1323,
       "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17981189019149712",
+       "title": "سورة البقرة (20) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 20\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.instagram.com/reel/Df22eg-gZFG/",
+       "published": "2026-11-17T21:03:20+0000",
+       "type": "VIDEO",
+       "likes": 2,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18133152784881450",
        "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 41,
+       "likes": 55,
        "comments": 0,
        "views": null
       },
@@ -335,9 +345,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 15
+      "posts_count_recent": 16
      },
      "posts": [
+      {
+       "id": "18126069409928207",
+       "title": "سورة البقرة (20) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 20\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df22rJbtVBj",
+       "published": "2026-11-17T21:05:04+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18087435212323922",
        "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
@@ -2203,6 +2223,65 @@
     "followers": null,
     "views": null,
     "posts_count_recent": 15
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 5,
+    "views": 445,
+    "posts_count": 3,
+    "views_recent": 446,
+    "likes_recent": 31,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9767
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 249,
+    "posts_count": 8,
+    "views_recent": 253,
+    "likes_recent": 5,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 1000,
+    "posts_count": 7,
+    "views_recent": 1000,
+    "likes_recent": 22,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-18": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2250
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 22,
+    "following": 0,
+    "posts_count": 16,
+    "likes_recent": 1323,
+    "comments_recent": 5,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 16
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
