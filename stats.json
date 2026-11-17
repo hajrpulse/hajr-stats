@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:27:10+03:00",
+ "generated_at": "2026-11-17T14:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 21,
       "following": 0,
       "posts_count": 14,
-      "likes_recent": 1261,
+      "likes_recent": 1262,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 208,
+       "likes": 209,
        "comments": 0,
        "views": null
       },
@@ -640,12 +640,21 @@
      "totals": {
       "followers": 5,
       "views": 246,
-      "posts_count": 7,
+      "posts_count": 8,
       "views_recent": 248,
       "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "zYCYHUqhAGA",
+       "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/zYCYHUqhAGA",
+       "published": "2026-11-17T10:34:31Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "pSXBSsTYhOA",
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
@@ -2166,7 +2175,7 @@
     "followers": 21,
     "following": 0,
     "posts_count": 14,
-    "likes_recent": 1261,
+    "likes_recent": 1262,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2193,7 +2202,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 246,
-    "posts_count": 7,
+    "posts_count": 8,
     "views_recent": 248,
     "likes_recent": 5,
     "comments_recent": 0
