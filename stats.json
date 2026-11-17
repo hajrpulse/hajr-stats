@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:27:09+03:00",
+ "generated_at": "2026-11-17T11:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 21,
       "following": 0,
       "posts_count": 14,
-      "likes_recent": 1258,
+      "likes_recent": 1260,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 206,
+       "likes": 207,
        "comments": 0,
        "views": null
       },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 92,
+       "likes": 93,
        "comments": 0,
        "views": null
       },
@@ -494,7 +494,7 @@
       "followers": 5,
       "views": 348,
       "posts_count": 3,
-      "views_recent": 419,
+      "views_recent": 439,
       "likes_recent": 31,
       "comments_recent": 0
      },
@@ -504,7 +504,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 71,
+       "views": 91,
        "likes": 6,
        "comments": 0
       },
@@ -641,7 +641,7 @@
       "followers": 5,
       "views": 246,
       "posts_count": 7,
-      "views_recent": 246,
+      "views_recent": 248,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -651,7 +651,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 5,
+       "views": 7,
        "likes": 1,
        "comments": 0
       },
@@ -2166,7 +2166,7 @@
     "followers": 21,
     "following": 0,
     "posts_count": 14,
-    "likes_recent": 1258,
+    "likes_recent": 1260,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2180,7 +2180,7 @@
     "followers": 5,
     "views": 348,
     "posts_count": 3,
-    "views_recent": 419,
+    "views_recent": 439,
     "likes_recent": 31,
     "comments_recent": 0
    },
@@ -2194,7 +2194,7 @@
     "followers": 5,
     "views": 246,
     "posts_count": 7,
-    "views_recent": 246,
+    "views_recent": 248,
     "likes_recent": 5,
     "comments_recent": 0
    },
