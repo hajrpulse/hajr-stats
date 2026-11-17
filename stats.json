@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:27:09+03:00",
+ "generated_at": "2026-11-17T17:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -547,7 +547,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9760
+      "views_recent": 9761
      },
      "posts": [
       {
@@ -618,7 +618,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 191,
+       "views": 192,
        "likes": 12,
        "comments": null
       }
@@ -641,7 +641,7 @@
       "followers": 5,
       "views": 246,
       "posts_count": 8,
-      "views_recent": 249,
+      "views_recent": 250,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -651,7 +651,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -2197,13 +2197,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9760
+    "views_recent": 9761
    },
    "AI/youtube": {
     "followers": 5,
     "views": 246,
     "posts_count": 8,
-    "views_recent": 249,
+    "views_recent": 250,
     "likes_recent": 5,
     "comments_recent": 0
    },
