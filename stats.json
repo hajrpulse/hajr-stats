@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T04:27:10+03:00",
+ "generated_at": "2026-11-17T05:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2227
+      "views_recent": 2231
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1163,
+       "views": 1167,
        "likes": 9,
        "comments": null
       },
@@ -538,7 +538,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9755
+      "views_recent": 9757
      },
      "posts": [
       {
@@ -609,7 +609,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 187,
+       "views": 189,
        "likes": 12,
        "comments": null
       }
@@ -719,7 +719,7 @@
       "followers": 10,
       "views": 973,
       "posts_count": 8,
-      "views_recent": 995,
+      "views_recent": 997,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -747,7 +747,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16Z",
-       "views": 150,
+       "views": 152,
        "likes": 4,
        "comments": 0
       },
@@ -2144,7 +2144,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2227
+    "views_recent": 2231
    },
    "Quran/youtube": {
     "followers": null,
@@ -2179,7 +2179,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9755
+    "views_recent": 9757
    },
    "AI/youtube": {
     "followers": 5,
@@ -2193,7 +2193,7 @@
     "followers": 10,
     "views": 973,
     "posts_count": 8,
-    "views_recent": 995,
+    "views_recent": 997,
     "likes_recent": 22,
     "comments_recent": 0
    }
