@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:27:10+03:00",
+ "generated_at": "2026-11-17T19:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -165,10 +165,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 21,
+      "followers": 22,
       "following": 0,
       "posts_count": 15,
-      "likes_recent": 1263,
+      "likes_recent": 1290,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 27,
        "comments": 0,
        "views": null
       },
@@ -661,7 +661,7 @@
       "followers": 5,
       "views": 246,
       "posts_count": 8,
-      "views_recent": 250,
+      "views_recent": 251,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -680,7 +680,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 8,
+       "views": 9,
        "likes": 1,
        "comments": 0
       },
@@ -758,7 +758,7 @@
       "views": 997,
       "posts_count": 7,
       "views_recent": 1000,
-      "likes_recent": 22,
+      "likes_recent": 14,
       "comments_recent": 0
      },
      "posts": [
@@ -768,7 +768,7 @@
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
        "views": 617,
-       "likes": 8,
+       "likes": 0,
        "comments": 0
       },
       {
@@ -2192,10 +2192,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 21,
+    "followers": 22,
     "following": 0,
     "posts_count": 15,
-    "likes_recent": 1263,
+    "likes_recent": 1290,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2223,7 +2223,7 @@
     "followers": 5,
     "views": 246,
     "posts_count": 8,
-    "views_recent": 250,
+    "views_recent": 251,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2232,7 +2232,7 @@
     "views": 997,
     "posts_count": 7,
     "views_recent": 1000,
-    "likes_recent": 22,
+    "likes_recent": 14,
     "comments_recent": 0
    }
   }
