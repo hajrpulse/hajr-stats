@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:27:10+03:00",
+ "generated_at": "2026-11-17T20:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2239
+      "views_recent": 2242
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "هل تعلم؟ جيشٌ سقط من العطش | حطين ١١٨٧ #Shorts",
        "url": "https://youtube.com/shorts/ClPbArAYBwg",
        "published": "2026-11-15T16:35:29+00:00",
-       "views": 961,
+       "views": 964,
        "likes": 7,
        "comments": null
       },
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 15,
-      "likes_recent": 1290,
+      "likes_recent": 1298,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 27,
+       "likes": 35,
        "comments": 0,
        "views": null
       },
@@ -659,7 +659,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 246,
+      "views": 249,
       "posts_count": 8,
       "views_recent": 251,
       "likes_recent": 5,
@@ -755,7 +755,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 10,
-      "views": 997,
+      "views": 1000,
       "posts_count": 7,
       "views_recent": 1000,
       "likes_recent": 14,
@@ -2182,7 +2182,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2239
+    "views_recent": 2242
    },
    "Quran/youtube": {
     "followers": null,
@@ -2195,7 +2195,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 15,
-    "likes_recent": 1290,
+    "likes_recent": 1298,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2221,7 +2221,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 246,
+    "views": 249,
     "posts_count": 8,
     "views_recent": 251,
     "likes_recent": 5,
@@ -2229,7 +2229,7 @@
    },
    "Shifa/youtube": {
     "followers": 10,
-    "views": 997,
+    "views": 1000,
     "posts_count": 7,
     "views_recent": 1000,
     "likes_recent": 14,
