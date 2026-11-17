@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:27:10+03:00",
+ "generated_at": "2026-11-17T23:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 15,
-      "likes_recent": 1302,
+      "likes_recent": 1307,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 38,
+       "likes": 41,
        "comments": 0,
        "views": null
       },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 211,
+       "likes": 213,
        "comments": 0,
        "views": null
       },
@@ -661,7 +661,7 @@
       "followers": 5,
       "views": 249,
       "posts_count": 8,
-      "views_recent": 251,
+      "views_recent": 253,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -671,7 +671,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -680,7 +680,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 9,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -2195,7 +2195,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 15,
-    "likes_recent": 1302,
+    "likes_recent": 1307,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2223,7 +2223,7 @@
     "followers": 5,
     "views": 249,
     "posts_count": 8,
-    "views_recent": 251,
+    "views_recent": 253,
     "likes_recent": 5,
     "comments_recent": 0
    },
