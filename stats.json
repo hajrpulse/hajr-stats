@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:27:11+03:00",
+ "generated_at": "2026-11-17T21:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2242
+      "views_recent": 2243
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1167,
+       "views": 1168,
        "likes": 9,
        "comments": null
       },
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 15,
-      "likes_recent": 1298,
+      "likes_recent": 1301,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 35,
+       "likes": 38,
        "comments": 0,
        "views": null
       },
@@ -512,9 +512,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 348,
+      "views": 445,
       "posts_count": 3,
-      "views_recent": 445,
+      "views_recent": 446,
       "likes_recent": 31,
       "comments_recent": 0
      },
@@ -542,7 +542,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 255,
+       "views": 256,
        "likes": 14,
        "comments": 0
       }
@@ -758,7 +758,7 @@
       "views": 1000,
       "posts_count": 7,
       "views_recent": 1000,
-      "likes_recent": 14,
+      "likes_recent": 22,
       "comments_recent": 0
      },
      "posts": [
@@ -768,7 +768,7 @@
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
        "views": 617,
-       "likes": 0,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -2182,7 +2182,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2242
+    "views_recent": 2243
    },
    "Quran/youtube": {
     "followers": null,
@@ -2195,7 +2195,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 15,
-    "likes_recent": 1298,
+    "likes_recent": 1301,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2207,9 +2207,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 5,
-    "views": 348,
+    "views": 445,
     "posts_count": 3,
-    "views_recent": 445,
+    "views_recent": 446,
     "likes_recent": 31,
     "comments_recent": 0
    },
@@ -2232,7 +2232,7 @@
     "views": 1000,
     "posts_count": 7,
     "views_recent": 1000,
-    "likes_recent": 14,
+    "likes_recent": 22,
     "comments_recent": 0
    }
   }
