@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:27:11+03:00",
+ "generated_at": "2026-11-17T15:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -494,7 +494,7 @@
       "followers": 5,
       "views": 348,
       "posts_count": 3,
-      "views_recent": 439,
+      "views_recent": 445,
       "likes_recent": 31,
       "comments_recent": 0
      },
@@ -504,7 +504,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 91,
+       "views": 97,
        "likes": 6,
        "comments": 0
       },
@@ -547,7 +547,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9757
+      "views_recent": 9759
      },
      "posts": [
       {
@@ -618,7 +618,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 189,
+       "views": 191,
        "likes": 12,
        "comments": null
       }
@@ -641,7 +641,7 @@
       "followers": 5,
       "views": 246,
       "posts_count": 8,
-      "views_recent": 248,
+      "views_recent": 249,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -660,7 +660,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 7,
+       "views": 8,
        "likes": 1,
        "comments": 0
       },
@@ -737,7 +737,7 @@
       "followers": 10,
       "views": 997,
       "posts_count": 7,
-      "views_recent": 999,
+      "views_recent": 1000,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -747,7 +747,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 616,
+       "views": 617,
        "likes": 8,
        "comments": 0
       },
@@ -2189,7 +2189,7 @@
     "followers": 5,
     "views": 348,
     "posts_count": 3,
-    "views_recent": 439,
+    "views_recent": 445,
     "likes_recent": 31,
     "comments_recent": 0
    },
@@ -2197,13 +2197,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9757
+    "views_recent": 9759
    },
    "AI/youtube": {
     "followers": 5,
     "views": 246,
     "posts_count": 8,
-    "views_recent": 248,
+    "views_recent": 249,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2211,7 +2211,7 @@
     "followers": 10,
     "views": 997,
     "posts_count": 7,
-    "views_recent": 999,
+    "views_recent": 1000,
     "likes_recent": 22,
     "comments_recent": 0
    }
