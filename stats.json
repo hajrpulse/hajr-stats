@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:27:10+03:00",
+ "generated_at": "2026-11-17T18:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,12 +167,22 @@
      "totals": {
       "followers": 21,
       "following": 0,
-      "posts_count": 14,
+      "posts_count": 15,
       "likes_recent": 1263,
       "comments_recent": 5,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18133152784881450",
+       "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
+       "published": "2026-11-17T15:05:02+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17974867593219624",
        "title": "سورة البقرة (14-16) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 14-16\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
@@ -325,9 +335,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 14
+      "posts_count_recent": 15
      },
      "posts": [
+      {
+       "id": "18087435212323922",
+       "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df2NrtLMmRw",
+       "published": "2026-11-17T15:07:16+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18064056368541080",
        "title": "سورة البقرة (14-16) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 14-16\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
@@ -547,7 +567,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9761
+      "views_recent": 9766
      },
      "posts": [
       {
@@ -564,7 +584,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6850,
+       "views": 6854,
        "likes": 127,
        "comments": null
       },
@@ -582,7 +602,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2283,
+       "views": 2284,
        "likes": 29,
        "comments": null
       },
@@ -2174,7 +2194,7 @@
    "Quran/instagram": {
     "followers": 21,
     "following": 0,
-    "posts_count": 14,
+    "posts_count": 15,
     "likes_recent": 1263,
     "comments_recent": 5,
     "views_recent": null
@@ -2182,7 +2202,7 @@
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 14
+    "posts_count_recent": 15
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
@@ -2197,7 +2217,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9761
+    "views_recent": 9766
    },
    "AI/youtube": {
     "followers": 5,
