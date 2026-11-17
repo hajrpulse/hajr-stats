@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:27:11+03:00",
+ "generated_at": "2026-11-17T13:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2231
+      "views_recent": 2232
      },
      "posts": [
       {
@@ -72,7 +72,7 @@
        "title": "استراتيجية الذهب والأسواق العالمية والتمويل الحلال في ٢٠٢٦ (دليل شامل للمستثمر الذكي) | هجر بلس",
        "url": "https://youtube.com/shorts/eAHTF4PsgGQ",
        "published": "2026-11-06T00:33:57+00:00",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": null
       },
@@ -168,7 +168,7 @@
       "followers": 21,
       "following": 0,
       "posts_count": 14,
-      "likes_recent": 1260,
+      "likes_recent": 1261,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 207,
+       "likes": 208,
        "comments": 0,
        "views": null
       },
@@ -641,7 +641,7 @@
       "followers": 5,
       "views": 246,
       "posts_count": 7,
-      "views_recent": 246,
+      "views_recent": 248,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -651,7 +651,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 5,
+       "views": 7,
        "likes": 1,
        "comments": 0
       },
@@ -2153,7 +2153,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2231
+    "views_recent": 2232
    },
    "Quran/youtube": {
     "followers": null,
@@ -2166,7 +2166,7 @@
     "followers": 21,
     "following": 0,
     "posts_count": 14,
-    "likes_recent": 1260,
+    "likes_recent": 1261,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2194,7 +2194,7 @@
     "followers": 5,
     "views": 246,
     "posts_count": 7,
-    "views_recent": 246,
+    "views_recent": 248,
     "likes_recent": 5,
     "comments_recent": 0
    },
