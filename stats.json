@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:27:11+03:00",
+ "generated_at": "2026-11-18T01:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1323,
+      "likes_recent": 1346,
       "comments_recent": 5,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df22eg-gZFG/",
        "published": "2026-11-17T21:03:20+0000",
        "type": "VIDEO",
-       "likes": 2,
+       "likes": 19,
        "comments": 0,
        "views": null
       },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 55,
+       "likes": 60,
        "comments": 0,
        "views": null
       },
@@ -199,7 +199,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 213,
+       "likes": 214,
        "comments": 0,
        "views": null
       },
@@ -587,7 +587,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9767
+      "views_recent": 9774
      },
      "posts": [
       {
@@ -604,7 +604,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6854,
+       "views": 6856,
        "likes": 127,
        "comments": null
       },
@@ -613,7 +613,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 51,
+       "views": 52,
        "likes": 6,
        "comments": null
       },
@@ -622,7 +622,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2284,
+       "views": 2285,
        "likes": 29,
        "comments": null
       },
@@ -649,7 +649,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 165,
+       "views": 166,
        "likes": 18,
        "comments": null
       },
@@ -658,7 +658,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 192,
+       "views": 194,
        "likes": 12,
        "comments": null
       }
@@ -2274,7 +2274,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1323,
+    "likes_recent": 1346,
     "comments_recent": 5,
     "views_recent": null
    },
@@ -2296,7 +2296,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9767
+    "views_recent": 9774
    },
    "AI/youtube": {
     "followers": 5,
