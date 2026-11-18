@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:27:09+03:00",
+ "generated_at": "2026-11-18T15:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -534,7 +534,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 496,
+      "views_recent": 500,
       "likes_recent": 36,
       "comments_recent": 0
      },
@@ -544,7 +544,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 52,
+       "views": 56,
        "likes": 5,
        "comments": 0
       },
@@ -795,7 +795,7 @@
       "followers": 10,
       "views": 1001,
       "posts_count": 8,
-      "views_recent": 1002,
+      "views_recent": 1003,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -805,7 +805,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 619,
+       "views": 620,
        "likes": 8,
        "comments": 0
       },
@@ -2306,7 +2306,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 496,
+    "views_recent": 500,
     "likes_recent": 36,
     "comments_recent": 0
    },
@@ -2328,7 +2328,7 @@
     "followers": 10,
     "views": 1001,
     "posts_count": 8,
-    "views_recent": 1002,
+    "views_recent": 1003,
     "likes_recent": 22,
     "comments_recent": 0
    }
