@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:27:10+03:00",
+ "generated_at": "2026-11-18T07:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1394,
+      "likes_recent": 1402,
       "comments_recent": 9,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 107,
+       "likes": 115,
        "comments": 4,
        "views": null
       },
@@ -534,8 +534,8 @@
       "followers": 5,
       "views": 445,
       "posts_count": 4,
-      "views_recent": 446,
-      "likes_recent": 31,
+      "views_recent": 470,
+      "likes_recent": 32,
       "comments_recent": 0
      },
      "posts": [
@@ -544,8 +544,8 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 0,
-       "likes": 0,
+       "views": 22,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -571,7 +571,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 256,
+       "views": 258,
        "likes": 14,
        "comments": 0
       }
@@ -2283,7 +2283,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1394,
+    "likes_recent": 1402,
     "comments_recent": 9,
     "views_recent": null
    },
@@ -2297,8 +2297,8 @@
     "followers": 5,
     "views": 445,
     "posts_count": 4,
-    "views_recent": 446,
-    "likes_recent": 31,
+    "views_recent": 470,
+    "likes_recent": 32,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
