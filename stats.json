@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:27:23+03:00",
+ "generated_at": "2026-11-18T21:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 17,
-      "likes_recent": 1499,
+      "likes_recent": 1509,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 32,
+       "likes": 42,
        "comments": 0,
        "views": null
       },
@@ -554,7 +554,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 504,
+      "views_recent": 509,
       "likes_recent": 30,
       "comments_recent": 0
      },
@@ -564,7 +564,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 60,
+       "views": 65,
        "likes": 5,
        "comments": 0
       },
@@ -710,9 +710,8 @@
       "followers": 5,
       "views": 253,
       "posts_count": 9,
-      "rss_error": "rss feed unavailable",
       "views_recent": 257,
-      "likes_recent": 5,
+      "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
@@ -749,7 +748,7 @@
        "url": "https://youtube.com/shorts/m_hFZvcxRUM",
        "published": "2026-11-15T10:31:44Z",
        "views": 2,
-       "likes": 0,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -816,7 +815,6 @@
       "followers": 10,
       "views": 1001,
       "posts_count": 8,
-      "rss_error": "rss feed unavailable",
       "views_recent": 1004,
       "likes_recent": 22,
       "comments_recent": 0
@@ -2314,7 +2312,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 17,
-    "likes_recent": 1499,
+    "likes_recent": 1509,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2328,7 +2326,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 504,
+    "views_recent": 509,
     "likes_recent": 30,
     "comments_recent": 0
    },
@@ -2342,16 +2340,14 @@
     "followers": 5,
     "views": 253,
     "posts_count": 9,
-    "rss_error": "rss feed unavailable",
     "views_recent": 257,
-    "likes_recent": 5,
+    "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 10,
     "views": 1001,
     "posts_count": 8,
-    "rss_error": "rss feed unavailable",
     "views_recent": 1004,
     "likes_recent": 22,
     "comments_recent": 0
