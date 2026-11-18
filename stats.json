@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:27:08+03:00",
+ "generated_at": "2026-11-18T09:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,8 +168,8 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1414,
-      "comments_recent": 10,
+      "likes_recent": 1436,
+      "comments_recent": 14,
       "views_recent": null
      },
      "posts": [
@@ -189,8 +189,8 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 127,
-       "comments": 5,
+       "likes": 149,
+       "comments": 9,
        "views": null
       },
       {
@@ -534,8 +534,8 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 473,
-      "likes_recent": 32,
+      "views_recent": 484,
+      "likes_recent": 35,
       "comments_recent": 0
      },
      "posts": [
@@ -544,8 +544,8 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 24,
-       "likes": 1,
+       "views": 35,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -2283,8 +2283,8 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1414,
-    "comments_recent": 10,
+    "likes_recent": 1436,
+    "comments_recent": 14,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2297,8 +2297,8 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 473,
-    "likes_recent": 32,
+    "views_recent": 484,
+    "likes_recent": 35,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
