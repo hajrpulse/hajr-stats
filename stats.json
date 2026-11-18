@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:27:09+03:00",
+ "generated_at": "2026-11-19T00:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,19 +167,29 @@
      "totals": {
       "followers": 23,
       "following": 0,
-      "posts_count": 17,
-      "likes_recent": 1533,
+      "posts_count": 18,
+      "likes_recent": 1548,
       "comments_recent": 14,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18355975225284379",
+       "title": "سورة البقرة (23-24) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 23-24\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
+       "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
+       "published": "2026-11-18T21:02:31+0000",
+       "type": "VIDEO",
+       "likes": 3,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18114316604182142",
        "title": "سورة البقرة (21-22) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 21-22\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 66,
+       "likes": 78,
        "comments": 0,
        "views": null
       },
@@ -355,9 +365,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 17
+      "posts_count_recent": 18
      },
      "posts": [
+      {
+       "id": "18199721008395246",
+       "title": "سورة البقرة (23-24) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 23-24\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df5bVuWhnIz",
+       "published": "2026-11-18T21:03:55+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18148269982595745",
        "title": "سورة البقرة (21-22) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 21-22\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
@@ -616,7 +636,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9798
+      "views_recent": 9805
      },
      "posts": [
       {
@@ -633,7 +653,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6860,
+       "views": 6861,
        "likes": 127,
        "comments": null
       },
@@ -642,7 +662,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 60,
+       "views": 62,
        "likes": 7,
        "comments": null
       },
@@ -660,7 +680,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 86,
+       "views": 87,
        "likes": 10,
        "comments": null
       },
@@ -678,7 +698,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 171,
+       "views": 172,
        "likes": 18,
        "comments": null
       },
@@ -687,7 +707,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 195,
+       "views": 197,
        "likes": 12,
        "comments": null
       }
@@ -2335,6 +2355,65 @@
     "views": null,
     "posts_count": null,
     "views_recent": 9798
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 253,
+    "posts_count": 9,
+    "views_recent": 257,
+    "likes_recent": 6,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 1001,
+    "posts_count": 8,
+    "views_recent": 1004,
+    "likes_recent": 22,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-19": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 2251
+   },
+   "Quran/youtube": {
+    "followers": null,
+    "views": null,
+    "posts_count": null,
+    "rss_error": "rss feed unavailable",
+    "views_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 23,
+    "following": 0,
+    "posts_count": 18,
+    "likes_recent": 1548,
+    "comments_recent": 14,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 18
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 5,
+    "views": 446,
+    "posts_count": 4,
+    "views_recent": 512,
+    "likes_recent": 38,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9805
    },
    "AI/youtube": {
     "followers": 5,
