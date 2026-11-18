@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:27:09+03:00",
+ "generated_at": "2026-11-18T12:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1460,
+      "likes_recent": 1461,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 173,
+       "likes": 174,
        "comments": 9,
        "views": null
       },
@@ -690,7 +690,7 @@
       "followers": 5,
       "views": 253,
       "posts_count": 8,
-      "views_recent": 256,
+      "views_recent": 255,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -709,7 +709,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 11,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -2283,7 +2283,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1460,
+    "likes_recent": 1461,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2311,7 +2311,7 @@
     "followers": 5,
     "views": 253,
     "posts_count": 8,
-    "views_recent": 256,
+    "views_recent": 255,
     "likes_recent": 6,
     "comments_recent": 0
    },
