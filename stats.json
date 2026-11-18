@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:27:10+03:00",
+ "generated_at": "2026-11-18T10:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1436,
+      "likes_recent": 1450,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 149,
+       "likes": 163,
        "comments": 9,
        "views": null
       },
@@ -534,8 +534,8 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 484,
-      "likes_recent": 35,
+      "views_recent": 492,
+      "likes_recent": 36,
       "comments_recent": 0
      },
      "posts": [
@@ -544,8 +544,8 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 35,
-       "likes": 4,
+       "views": 43,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -690,8 +690,8 @@
       "followers": 5,
       "views": 253,
       "posts_count": 8,
-      "views_recent": 253,
-      "likes_recent": 5,
+      "views_recent": 255,
+      "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
@@ -700,8 +700,8 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 2,
-       "likes": 0,
+       "views": 4,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -784,9 +784,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 10,
-      "views": 1000,
+      "views": 1001,
       "posts_count": 7,
-      "views_recent": 1001,
+      "views_recent": 1002,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -796,7 +796,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 618,
+       "views": 619,
        "likes": 8,
        "comments": 0
       },
@@ -2283,7 +2283,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1436,
+    "likes_recent": 1450,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2297,8 +2297,8 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 484,
-    "likes_recent": 35,
+    "views_recent": 492,
+    "likes_recent": 36,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2311,15 +2311,15 @@
     "followers": 5,
     "views": 253,
     "posts_count": 8,
-    "views_recent": 253,
-    "likes_recent": 5,
+    "views_recent": 255,
+    "likes_recent": 6,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 10,
-    "views": 1000,
+    "views": 1001,
     "posts_count": 7,
-    "views_recent": 1001,
+    "views_recent": 1002,
     "likes_recent": 22,
     "comments_recent": 0
    }
