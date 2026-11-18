@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:27:10+03:00",
+ "generated_at": "2026-11-19T01:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -165,10 +165,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 23,
+      "followers": 24,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1548,
+      "likes_recent": 1602,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 3,
+       "likes": 41,
        "comments": 0,
        "views": null
       },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 78,
+       "likes": 94,
        "comments": 0,
        "views": null
       },
@@ -574,7 +574,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 512,
+      "views_recent": 519,
       "likes_recent": 38,
       "comments_recent": 0
      },
@@ -584,7 +584,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 66,
+       "views": 73,
        "likes": 6,
        "comments": 0
       },
@@ -636,7 +636,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9805
+      "views_recent": 9809
      },
      "posts": [
       {
@@ -653,7 +653,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6861,
+       "views": 6865,
        "likes": 127,
        "comments": null
       },
@@ -2388,10 +2388,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 23,
+    "followers": 24,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1548,
+    "likes_recent": 1602,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2405,7 +2405,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 512,
+    "views_recent": 519,
     "likes_recent": 38,
     "comments_recent": 0
    },
@@ -2413,7 +2413,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9805
+    "views_recent": 9809
    },
    "AI/youtube": {
     "followers": 5,
