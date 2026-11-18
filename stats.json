@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:27:08+03:00",
+ "generated_at": "2026-11-18T08:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,8 +168,8 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1402,
-      "comments_recent": 9,
+      "likes_recent": 1414,
+      "comments_recent": 10,
       "views_recent": null
      },
      "posts": [
@@ -189,8 +189,8 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 115,
-       "comments": 4,
+       "likes": 127,
+       "comments": 5,
        "views": null
       },
       {
@@ -532,9 +532,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 445,
+      "views": 446,
       "posts_count": 4,
-      "views_recent": 470,
+      "views_recent": 473,
       "likes_recent": 32,
       "comments_recent": 0
      },
@@ -544,7 +544,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 22,
+       "views": 24,
        "likes": 1,
        "comments": 0
       },
@@ -571,7 +571,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 258,
+       "views": 259,
        "likes": 14,
        "comments": 0
       }
@@ -688,7 +688,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 249,
+      "views": 253,
       "posts_count": 8,
       "views_recent": 253,
       "likes_recent": 5,
@@ -2283,8 +2283,8 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1402,
-    "comments_recent": 9,
+    "likes_recent": 1414,
+    "comments_recent": 10,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2295,9 +2295,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 5,
-    "views": 445,
+    "views": 446,
     "posts_count": 4,
-    "views_recent": 470,
+    "views_recent": 473,
     "likes_recent": 32,
     "comments_recent": 0
    },
@@ -2309,7 +2309,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 249,
+    "views": 253,
     "posts_count": 8,
     "views_recent": 253,
     "likes_recent": 5,
