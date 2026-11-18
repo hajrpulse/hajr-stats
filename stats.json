@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:27:11+03:00",
+ "generated_at": "2026-11-19T02:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,8 +168,8 @@
       "followers": 24,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1602,
-      "comments_recent": 14,
+      "likes_recent": 1683,
+      "comments_recent": 17,
       "views_recent": null
      },
      "posts": [
@@ -179,8 +179,8 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 41,
-       "comments": 0,
+       "likes": 112,
+       "comments": 3,
        "views": null
       },
       {
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 94,
+       "likes": 104,
        "comments": 0,
        "views": null
       },
@@ -2391,8 +2391,8 @@
     "followers": 24,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1602,
-    "comments_recent": 14,
+    "likes_recent": 1683,
+    "comments_recent": 17,
     "views_recent": null
    },
    "Quran/threads": {
