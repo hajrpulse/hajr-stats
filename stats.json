@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:27:09+03:00",
+ "generated_at": "2026-11-18T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1462,
+      "likes_recent": 1463,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 175,
+       "likes": 177,
        "comments": 9,
        "views": null
       },
@@ -199,7 +199,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 214,
+       "likes": 213,
        "comments": 0,
        "views": null
       },
@@ -534,7 +534,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 501,
+      "views_recent": 496,
       "likes_recent": 36,
       "comments_recent": 0
      },
@@ -571,7 +571,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 259,
+       "views": 254,
        "likes": 14,
        "comments": 0
       }
@@ -689,12 +689,21 @@
      "totals": {
       "followers": 5,
       "views": 253,
-      "posts_count": 8,
+      "posts_count": 9,
       "views_recent": 256,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "ucCS6vk3DLw",
+       "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/ucCS6vk3DLw",
+       "published": "2026-11-18T10:32:06Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "zYCYHUqhAGA",
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
@@ -2283,7 +2292,7 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1462,
+    "likes_recent": 1463,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2297,7 +2306,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 501,
+    "views_recent": 496,
     "likes_recent": 36,
     "comments_recent": 0
    },
@@ -2310,7 +2319,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 253,
-    "posts_count": 8,
+    "posts_count": 9,
     "views_recent": 256,
     "likes_recent": 6,
     "comments_recent": 0
