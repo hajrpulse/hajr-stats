@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:27:10+03:00",
+ "generated_at": "2026-11-18T23:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 23,
       "following": 0,
       "posts_count": 17,
-      "likes_recent": 1521,
+      "likes_recent": 1533,
       "comments_recent": 14,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 54,
+       "likes": 66,
        "comments": 0,
        "views": null
       },
@@ -554,7 +554,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 511,
+      "views_recent": 512,
       "likes_recent": 38,
       "comments_recent": 0
      },
@@ -573,7 +573,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 98,
+       "views": 99,
        "likes": 7,
        "comments": 0
       },
@@ -616,7 +616,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9794
+      "views_recent": 9798
      },
      "posts": [
       {
@@ -642,7 +642,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 58,
+       "views": 60,
        "likes": 7,
        "comments": null
       },
@@ -669,7 +669,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 70,
+       "views": 71,
        "likes": 9,
        "comments": null
       },
@@ -678,7 +678,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 170,
+       "views": 171,
        "likes": 18,
        "comments": null
       },
@@ -2312,7 +2312,7 @@
     "followers": 23,
     "following": 0,
     "posts_count": 17,
-    "likes_recent": 1521,
+    "likes_recent": 1533,
     "comments_recent": 14,
     "views_recent": null
    },
@@ -2326,7 +2326,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 511,
+    "views_recent": 512,
     "likes_recent": 38,
     "comments_recent": 0
    },
@@ -2334,7 +2334,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9794
+    "views_recent": 9798
    },
    "AI/youtube": {
     "followers": 5,
