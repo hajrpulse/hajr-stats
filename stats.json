@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:27:09+03:00",
+ "generated_at": "2026-11-18T04:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,8 +168,8 @@
       "followers": 22,
       "following": 0,
       "posts_count": 16,
-      "likes_recent": 1369,
-      "comments_recent": 8,
+      "likes_recent": 1384,
+      "comments_recent": 9,
       "views_recent": null
      },
      "posts": [
@@ -189,8 +189,8 @@
        "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
        "published": "2026-11-17T15:05:02+0000",
        "type": "VIDEO",
-       "likes": 83,
-       "comments": 3,
+       "likes": 98,
+       "comments": 4,
        "views": null
       },
       {
@@ -777,7 +777,7 @@
       "followers": 10,
       "views": 1000,
       "posts_count": 7,
-      "views_recent": 1000,
+      "views_recent": 1001,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -787,7 +787,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 617,
+       "views": 618,
        "likes": 8,
        "comments": 0
       },
@@ -2274,8 +2274,8 @@
     "followers": 22,
     "following": 0,
     "posts_count": 16,
-    "likes_recent": 1369,
-    "comments_recent": 8,
+    "likes_recent": 1384,
+    "comments_recent": 9,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2310,7 +2310,7 @@
     "followers": 10,
     "views": 1000,
     "posts_count": 7,
-    "views_recent": 1000,
+    "views_recent": 1001,
     "likes_recent": 22,
     "comments_recent": 0
    }
