@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:27:10+03:00",
+ "generated_at": "2026-11-19T20:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2257
+      "views_recent": 2543
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 8,
-       "likes": 1,
+       "views": 294,
+       "likes": 3,
        "comments": null
       },
       {
@@ -177,7 +177,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 19,
-      "likes_recent": 1902,
+      "likes_recent": 1913,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -188,7 +188,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 53,
+       "likes": 65,
        "comments": 0,
        "views": null
       },
@@ -248,7 +248,7 @@
        "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
        "published": "2026-11-16T15:03:41+0000",
        "type": "VIDEO",
-       "likes": 94,
+       "likes": 93,
        "comments": 0,
        "views": null
       },
@@ -674,7 +674,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9813
+      "views_recent": 9814
      },
      "posts": [
       {
@@ -700,7 +700,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 64,
+       "views": 65,
        "likes": 7,
        "comments": null
       },
@@ -768,7 +768,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 10,
-      "views_recent": 405,
+      "views_recent": 414,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -778,7 +778,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 143,
+       "views": 150,
        "likes": 1,
        "comments": 0
       },
@@ -796,7 +796,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 8,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -2425,7 +2425,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2257
+    "views_recent": 2543
    },
    "Quran/youtube": {
     "followers": null,
@@ -2438,7 +2438,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 19,
-    "likes_recent": 1902,
+    "likes_recent": 1913,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2460,13 +2460,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9813
+    "views_recent": 9814
    },
    "AI/youtube": {
     "followers": 5,
     "views": 260,
     "posts_count": 10,
-    "views_recent": 405,
+    "views_recent": 414,
     "likes_recent": 7,
     "comments_recent": 0
    },
