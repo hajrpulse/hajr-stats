@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:27:09+03:00",
+ "generated_at": "2026-11-19T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1844,
+      "likes_recent": 1845,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 221,
+       "likes": 222,
        "comments": 3,
        "views": null
       },
@@ -645,7 +645,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9809
+      "views_recent": 9810
      },
      "posts": [
       {
@@ -716,7 +716,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 197,
+       "views": 198,
        "likes": 12,
        "comments": null
       }
@@ -738,12 +738,21 @@
      "totals": {
       "followers": 5,
       "views": 260,
-      "posts_count": 9,
-      "views_recent": 262,
+      "posts_count": 10,
+      "views_recent": 263,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "B6qZ0gXGEuw",
+       "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
+       "published": "2026-11-19T10:34:11Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "ucCS6vk3DLw",
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
@@ -2400,7 +2409,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1844,
+    "likes_recent": 1845,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2422,13 +2431,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9809
+    "views_recent": 9810
    },
    "AI/youtube": {
     "followers": 5,
     "views": 260,
-    "posts_count": 9,
-    "views_recent": 262,
+    "posts_count": 10,
+    "views_recent": 263,
     "likes_recent": 6,
     "comments_recent": 0
    },
