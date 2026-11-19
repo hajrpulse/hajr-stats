@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:27:10+03:00",
+ "generated_at": "2026-11-20T01:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -158,7 +158,7 @@
       "followers": 0,
       "views": 0,
       "posts_count": 1,
-      "views_recent": 0,
+      "views_recent": 1,
       "likes_recent": 0,
       "comments_recent": 0
      },
@@ -168,7 +168,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       }
@@ -185,7 +185,7 @@
       "followers": 30,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2098,
+      "likes_recent": 2137,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 3,
+       "likes": 40,
        "comments": 0,
        "views": null
       },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 245,
+       "likes": 247,
        "comments": 0,
        "views": null
       },
@@ -631,7 +631,7 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 597,
+      "views_recent": 598,
       "likes_recent": 46,
       "comments_recent": 0
      },
@@ -650,7 +650,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 78,
+       "views": 79,
        "likes": 7,
        "comments": 0
       },
@@ -2517,7 +2517,7 @@
     "followers": 0,
     "views": 0,
     "posts_count": 1,
-    "views_recent": 0,
+    "views_recent": 1,
     "likes_recent": 0,
     "comments_recent": 0
    },
@@ -2525,7 +2525,7 @@
     "followers": 30,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2098,
+    "likes_recent": 2137,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2539,7 +2539,7 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 597,
+    "views_recent": 598,
     "likes_recent": 46,
     "comments_recent": 0
    },
