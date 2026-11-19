@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:27:10+03:00",
+ "generated_at": "2026-11-20T00:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3433
+      "views_recent": 3509
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1188,
+       "views": 1264,
        "likes": 11,
        "comments": null
       },
@@ -157,10 +157,22 @@
      "totals": {
       "followers": 0,
       "views": 0,
-      "posts_count": 0,
-      "views_recent": 0
+      "posts_count": 1,
+      "views_recent": 0,
+      "likes_recent": 0,
+      "comments_recent": 0
      },
-     "posts": []
+     "posts": [
+      {
+       "id": "zSuSj5CnWtU",
+       "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
+       "url": "https://youtube.com/shorts/zSuSj5CnWtU",
+       "published": "2026-11-19T21:03:01Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      }
+     ]
     },
     {
      "platform": "instagram",
@@ -172,19 +184,29 @@
      "totals": {
       "followers": 30,
       "following": 0,
-      "posts_count": 19,
-      "likes_recent": 2061,
+      "posts_count": 20,
+      "likes_recent": 2098,
       "comments_recent": 17,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18353125111271753",
+       "title": "سورة البقرة (26-27) بصوت سعود الشريم\n\nسورة البقرة — الآيات 26-27\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
+       "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
+       "published": "2026-11-19T21:04:40+0000",
+       "type": "VIDEO",
+       "likes": 3,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18389187532231992",
        "title": "سورة البقرة (25) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 25\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 211,
+       "likes": 245,
        "comments": 0,
        "views": null
       },
@@ -380,9 +402,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 19
+      "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18112647005234152",
+       "title": "سورة البقرة (26-27) بصوت سعود الشريم\n\nسورة البقرة — الآيات 26-27\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df8AZhCQVaO",
+       "published": "2026-11-19T21:06:14+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17932409793423988",
        "title": "سورة البقرة (25) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 25\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
@@ -609,7 +641,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 73,
+       "views": 75,
        "likes": 7,
        "comments": 0
       },
@@ -627,7 +659,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 100,
+       "views": 98,
        "likes": 7,
        "comments": 0
       },
@@ -2441,6 +2473,66 @@
     "followers": null,
     "views": null,
     "posts_count_recent": 19
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 5,
+    "views": 519,
+    "posts_count": 5,
+    "views_recent": 597,
+    "likes_recent": 46,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9816
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 260,
+    "posts_count": 10,
+    "views_recent": 420,
+    "likes_recent": 7,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 1004,
+    "posts_count": 6,
+    "views_recent": 1002,
+    "likes_recent": 22,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-20": {
+   "Pulse/youtube": {
+    "followers": 7,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 3509
+   },
+   "Quran/youtube": {
+    "followers": 0,
+    "views": 0,
+    "posts_count": 1,
+    "views_recent": 0,
+    "likes_recent": 0,
+    "comments_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 30,
+    "following": 0,
+    "posts_count": 20,
+    "likes_recent": 2098,
+    "comments_recent": 17,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
