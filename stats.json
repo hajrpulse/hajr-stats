@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:27:10+03:00",
+ "generated_at": "2026-11-19T21:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 2543
+      "views_recent": 3031
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 294,
-       "likes": 3,
+       "views": 782,
+       "likes": 8,
        "comments": null
       },
       {
@@ -177,7 +177,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 19,
-      "likes_recent": 1913,
+      "likes_recent": 1964,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -188,7 +188,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 65,
+       "likes": 115,
        "comments": 0,
        "views": null
       },
@@ -208,7 +208,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 156,
+       "likes": 157,
        "comments": 0,
        "views": null
       },
@@ -603,7 +603,7 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 591,
+      "views_recent": 593,
       "likes_recent": 46,
       "comments_recent": 0
      },
@@ -622,7 +622,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 76,
+       "views": 78,
        "likes": 7,
        "comments": 0
       },
@@ -674,7 +674,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9814
+      "views_recent": 9816
      },
      "posts": [
       {
@@ -691,7 +691,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6866,
+       "views": 6868,
        "likes": 127,
        "comments": null
       },
@@ -2425,7 +2425,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 2543
+    "views_recent": 3031
    },
    "Quran/youtube": {
     "followers": null,
@@ -2438,7 +2438,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 19,
-    "likes_recent": 1913,
+    "likes_recent": 1964,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2452,7 +2452,7 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 591,
+    "views_recent": 593,
     "likes_recent": 46,
     "comments_recent": 0
    },
@@ -2460,7 +2460,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9814
+    "views_recent": 9816
    },
    "AI/youtube": {
     "followers": 5,
