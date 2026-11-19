@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:27:09+03:00",
+ "generated_at": "2026-11-19T18:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,12 +167,22 @@
      "totals": {
       "followers": 29,
       "following": 0,
-      "posts_count": 18,
-      "likes_recent": 1849,
+      "posts_count": 19,
+      "likes_recent": 1851,
       "comments_recent": 17,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18389187532231992",
+       "title": "سورة البقرة (25) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 25\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
+       "published": "2026-11-19T15:03:42+0000",
+       "type": "VIDEO",
+       "likes": 2,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18355975225284379",
        "title": "سورة البقرة (23-24) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 23-24\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
@@ -365,9 +375,19 @@
      "totals": {
       "followers": null,
       "views": null,
-      "posts_count_recent": 18
+      "posts_count_recent": 19
      },
      "posts": [
+      {
+       "id": "17932409793423988",
+       "title": "سورة البقرة (25) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 25\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df7XEWAM7xU",
+       "published": "2026-11-19T15:05:05+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18199721008395246",
        "title": "سورة البقرة (23-24) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 23-24\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
@@ -2408,15 +2428,15 @@
    "Quran/instagram": {
     "followers": 29,
     "following": 0,
-    "posts_count": 18,
-    "likes_recent": 1849,
+    "posts_count": 19,
+    "likes_recent": 1851,
     "comments_recent": 17,
     "views_recent": null
    },
    "Quran/threads": {
     "followers": null,
     "views": null,
-    "posts_count_recent": 18
+    "posts_count_recent": 19
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
