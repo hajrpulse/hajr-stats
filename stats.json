@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:27:08+03:00",
+ "generated_at": "2026-11-19T10:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1842,
+      "likes_recent": 1843,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 155,
+       "likes": 156,
        "comments": 0,
        "views": null
       },
@@ -574,8 +574,8 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 556,
-      "likes_recent": 43,
+      "views_recent": 557,
+      "likes_recent": 44,
       "comments_recent": 0
      },
      "posts": [
@@ -584,8 +584,8 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 38,
-       "likes": 5,
+       "views": 39,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -2400,7 +2400,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1842,
+    "likes_recent": 1843,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2414,8 +2414,8 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 556,
-    "likes_recent": 43,
+    "views_recent": 557,
+    "likes_recent": 44,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
