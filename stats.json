@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T07:27:09+03:00",
+ "generated_at": "2026-11-19T08:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1835,
+      "likes_recent": 1840,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 148,
+       "likes": 153,
        "comments": 0,
        "views": null
       },
@@ -574,7 +574,7 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 551,
+      "views_recent": 554,
       "likes_recent": 42,
       "comments_recent": 0
      },
@@ -584,7 +584,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 30,
+       "views": 36,
        "likes": 4,
        "comments": 0
       },
@@ -611,7 +611,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 94,
+       "views": 91,
        "likes": 11,
        "comments": 0
       },
@@ -737,7 +737,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 253,
+      "views": 260,
       "posts_count": 9,
       "views_recent": 261,
       "likes_recent": 6,
@@ -2400,7 +2400,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1835,
+    "likes_recent": 1840,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2414,7 +2414,7 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 551,
+    "views_recent": 554,
     "likes_recent": 42,
     "comments_recent": 0
    },
@@ -2426,7 +2426,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 253,
+    "views": 260,
     "posts_count": 9,
     "views_recent": 261,
     "likes_recent": 6,
