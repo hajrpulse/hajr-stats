@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:27:09+03:00",
+ "generated_at": "2026-11-19T16:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1847,
+      "likes_recent": 1848,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -199,7 +199,7 @@
        "url": "https://www.instagram.com/reel/Df22eg-gZFG/",
        "published": "2026-11-17T21:03:20+0000",
        "type": "VIDEO",
-       "likes": 22,
+       "likes": 23,
        "comments": 0,
        "views": null
       },
@@ -574,7 +574,7 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 571,
+      "views_recent": 580,
       "likes_recent": 46,
       "comments_recent": 0
      },
@@ -584,7 +584,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 51,
+       "views": 60,
        "likes": 7,
        "comments": 0
       },
@@ -739,7 +739,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 10,
-      "views_recent": 369,
+      "views_recent": 404,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -749,7 +749,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 107,
+       "views": 142,
        "likes": 1,
        "comments": 0
       },
@@ -2409,7 +2409,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1847,
+    "likes_recent": 1848,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2423,7 +2423,7 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 571,
+    "views_recent": 580,
     "likes_recent": 46,
     "comments_recent": 0
    },
@@ -2437,7 +2437,7 @@
     "followers": 5,
     "views": 260,
     "posts_count": 10,
-    "views_recent": 369,
+    "views_recent": 404,
     "likes_recent": 7,
     "comments_recent": 0
    },
