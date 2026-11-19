@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:27:12+03:00",
+ "generated_at": "2026-11-19T03:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -165,10 +165,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 24,
+      "followers": 27,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1683,
+      "likes_recent": 1805,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 112,
+       "likes": 219,
        "comments": 3,
        "views": null
       },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 104,
+       "likes": 119,
        "comments": 0,
        "views": null
       },
@@ -730,7 +730,7 @@
       "followers": 5,
       "views": 253,
       "posts_count": 9,
-      "views_recent": 257,
+      "views_recent": 260,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -749,7 +749,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 5,
+       "views": 8,
        "likes": 1,
        "comments": 0
       },
@@ -2388,10 +2388,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 24,
+    "followers": 27,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1683,
+    "likes_recent": 1805,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2419,7 +2419,7 @@
     "followers": 5,
     "views": 253,
     "posts_count": 9,
-    "views_recent": 257,
+    "views_recent": 260,
     "likes_recent": 6,
     "comments_recent": 0
    },
