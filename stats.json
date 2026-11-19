@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:27:09+03:00",
+ "generated_at": "2026-11-19T12:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 29,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1843,
+      "likes_recent": 1844,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -179,7 +179,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 220,
+       "likes": 221,
        "comments": 3,
        "views": null
       },
@@ -574,8 +574,8 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 558,
-      "likes_recent": 44,
+      "views_recent": 570,
+      "likes_recent": 45,
       "comments_recent": 0
      },
      "posts": [
@@ -584,8 +584,8 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 40,
-       "likes": 6,
+       "views": 51,
+       "likes": 7,
        "comments": 0
       },
       {
@@ -602,7 +602,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 99,
+       "views": 100,
        "likes": 7,
        "comments": 0
       },
@@ -739,7 +739,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 9,
-      "views_recent": 261,
+      "views_recent": 262,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -749,7 +749,7 @@
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/ucCS6vk3DLw",
        "published": "2026-11-18T10:32:06Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -2400,7 +2400,7 @@
     "followers": 29,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1843,
+    "likes_recent": 1844,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2414,8 +2414,8 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 558,
-    "likes_recent": 44,
+    "views_recent": 570,
+    "likes_recent": 45,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2428,7 +2428,7 @@
     "followers": 5,
     "views": 260,
     "posts_count": 9,
-    "views_recent": 261,
+    "views_recent": 262,
     "likes_recent": 6,
     "comments_recent": 0
    },
