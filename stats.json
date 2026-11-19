@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:27:12+03:00",
+ "generated_at": "2026-11-20T02:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -185,7 +185,7 @@
       "followers": 30,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2137,
+      "likes_recent": 2221,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 40,
+       "likes": 122,
        "comments": 0,
        "views": null
       },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 247,
+       "likes": 248,
        "comments": 0,
        "views": null
       },
@@ -256,7 +256,7 @@
        "url": "https://www.instagram.com/reel/Df0Ro8yOdWr/",
        "published": "2026-11-16T21:03:22+0000",
        "type": "VIDEO",
-       "likes": 214,
+       "likes": 215,
        "comments": 0,
        "views": null
       },
@@ -796,7 +796,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 10,
-      "views_recent": 420,
+      "views_recent": 425,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -806,7 +806,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 155,
+       "views": 160,
        "likes": 1,
        "comments": 0
       },
@@ -2525,7 +2525,7 @@
     "followers": 30,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2137,
+    "likes_recent": 2221,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2553,7 +2553,7 @@
     "followers": 5,
     "views": 260,
     "posts_count": 10,
-    "views_recent": 420,
+    "views_recent": 425,
     "likes_recent": 7,
     "comments_recent": 0
    },
