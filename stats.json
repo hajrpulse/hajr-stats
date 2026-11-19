@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:27:10+03:00",
+ "generated_at": "2026-11-19T22:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3031
+      "views_recent": 3157
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 782,
-       "likes": 8,
+       "views": 912,
+       "likes": 13,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1169,
+       "views": 1165,
        "likes": 9,
        "comments": null
       },
@@ -174,10 +174,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 29,
+      "followers": 30,
       "following": 0,
       "posts_count": 19,
-      "likes_recent": 1964,
+      "likes_recent": 2010,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -188,7 +188,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 115,
+       "likes": 160,
        "comments": 0,
        "views": null
       },
@@ -298,7 +298,7 @@
        "url": "https://www.instagram.com/reel/DfsjKcQNf-E/",
        "published": "2026-11-13T21:02:10+0000",
        "type": "VIDEO",
-       "likes": 191,
+       "likes": 192,
        "comments": 1,
        "views": null
       },
@@ -881,7 +881,7 @@
      "totals": {
       "followers": 10,
       "views": 1004,
-      "posts_count": 8,
+      "posts_count": 6,
       "views_recent": 1000,
       "likes_recent": 22,
       "comments_recent": 0
@@ -2425,7 +2425,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 3031
+    "views_recent": 3157
    },
    "Quran/youtube": {
     "followers": null,
@@ -2435,10 +2435,10 @@
     "views_recent": 0
    },
    "Quran/instagram": {
-    "followers": 29,
+    "followers": 30,
     "following": 0,
     "posts_count": 19,
-    "likes_recent": 1964,
+    "likes_recent": 2010,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2473,7 +2473,7 @@
    "Shifa/youtube": {
     "followers": 10,
     "views": 1004,
-    "posts_count": 8,
+    "posts_count": 6,
     "views_recent": 1000,
     "likes_recent": 22,
     "comments_recent": 0
