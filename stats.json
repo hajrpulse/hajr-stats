@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:27:10+03:00",
+ "generated_at": "2026-11-19T05:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -168,7 +168,7 @@
       "followers": 28,
       "following": 0,
       "posts_count": 18,
-      "likes_recent": 1810,
+      "likes_recent": 1817,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -189,7 +189,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 123,
+       "likes": 130,
        "comments": 0,
        "views": null
       },
@@ -574,7 +574,7 @@
       "followers": 5,
       "views": 446,
       "posts_count": 4,
-      "views_recent": 519,
+      "views_recent": 520,
       "likes_recent": 38,
       "comments_recent": 0
      },
@@ -602,7 +602,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 93,
+       "views": 94,
        "likes": 11,
        "comments": 0
       },
@@ -730,7 +730,7 @@
       "followers": 5,
       "views": 253,
       "posts_count": 9,
-      "views_recent": 260,
+      "views_recent": 261,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -740,7 +740,7 @@
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/ucCS6vk3DLw",
        "published": "2026-11-18T10:32:06Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -835,7 +835,7 @@
       "followers": 10,
       "views": 1001,
       "posts_count": 8,
-      "views_recent": 1004,
+      "views_recent": 1005,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -845,7 +845,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 621,
+       "views": 622,
        "likes": 8,
        "comments": 0
       },
@@ -2391,7 +2391,7 @@
     "followers": 28,
     "following": 0,
     "posts_count": 18,
-    "likes_recent": 1810,
+    "likes_recent": 1817,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2405,7 +2405,7 @@
     "followers": 5,
     "views": 446,
     "posts_count": 4,
-    "views_recent": 519,
+    "views_recent": 520,
     "likes_recent": 38,
     "comments_recent": 0
    },
@@ -2419,7 +2419,7 @@
     "followers": 5,
     "views": 253,
     "posts_count": 9,
-    "views_recent": 260,
+    "views_recent": 261,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2427,7 +2427,7 @@
     "followers": 10,
     "views": 1001,
     "posts_count": 8,
-    "views_recent": 1004,
+    "views_recent": 1005,
     "likes_recent": 22,
     "comments_recent": 0
    }
