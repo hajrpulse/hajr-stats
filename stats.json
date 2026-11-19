@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:27:10+03:00",
+ "generated_at": "2026-11-19T23:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3157
+      "views_recent": 3433
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 912,
-       "likes": 13,
+       "views": 1188,
+       "likes": 11,
        "comments": null
       },
       {
@@ -149,19 +149,15 @@
    "platforms": [
     {
      "platform": "youtube",
-     "handle": "@HAJRQuran",
+     "handle": "@HAJRTilawat",
      "status": "ok",
-     "missing": [
-      "oauth_stats: token.json has upload-only scope",
-      "subscribers (hidden/unparsed)"
-     ],
-     "source": "public_page+rss",
-     "channel_id": "UCgzhXCxn3RtZI7IsMb2NL8A",
+     "missing": [],
+     "source": "public_page+rss+oauth",
+     "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
-      "followers": null,
-      "views": null,
-      "posts_count": null,
-      "rss_error": "rss feed unavailable",
+      "followers": 0,
+      "views": 0,
+      "posts_count": 0,
       "views_recent": 0
      },
      "posts": []
@@ -177,7 +173,7 @@
       "followers": 30,
       "following": 0,
       "posts_count": 19,
-      "likes_recent": 2010,
+      "likes_recent": 2061,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -188,7 +184,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 160,
+       "likes": 211,
        "comments": 0,
        "views": null
       },
@@ -603,7 +599,7 @@
       "followers": 5,
       "views": 519,
       "posts_count": 5,
-      "views_recent": 593,
+      "views_recent": 597,
       "likes_recent": 46,
       "comments_recent": 0
      },
@@ -613,7 +609,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 69,
+       "views": 73,
        "likes": 7,
        "comments": 0
       },
@@ -768,7 +764,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 10,
-      "views_recent": 414,
+      "views_recent": 420,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -778,7 +774,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 150,
+       "views": 155,
        "likes": 1,
        "comments": 0
       },
@@ -796,7 +792,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 10,
+       "views": 11,
        "likes": 1,
        "comments": 0
       },
@@ -882,7 +878,7 @@
       "followers": 10,
       "views": 1004,
       "posts_count": 6,
-      "views_recent": 1000,
+      "views_recent": 1002,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -892,7 +888,7 @@
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
        "url": "https://youtube.com/shorts/PfXwvXgVlBU",
        "published": "2026-11-16T04:34:15Z",
-       "views": 617,
+       "views": 619,
        "likes": 8,
        "comments": 0
       },
@@ -2425,20 +2421,19 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 3157
+    "views_recent": 3433
    },
    "Quran/youtube": {
-    "followers": null,
-    "views": null,
-    "posts_count": null,
-    "rss_error": "rss feed unavailable",
+    "followers": 0,
+    "views": 0,
+    "posts_count": 0,
     "views_recent": 0
    },
    "Quran/instagram": {
     "followers": 30,
     "following": 0,
     "posts_count": 19,
-    "likes_recent": 2010,
+    "likes_recent": 2061,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2452,7 +2447,7 @@
     "followers": 5,
     "views": 519,
     "posts_count": 5,
-    "views_recent": 593,
+    "views_recent": 597,
     "likes_recent": 46,
     "comments_recent": 0
    },
@@ -2466,7 +2461,7 @@
     "followers": 5,
     "views": 260,
     "posts_count": 10,
-    "views_recent": 414,
+    "views_recent": 420,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2474,7 +2469,7 @@
     "followers": 10,
     "views": 1004,
     "posts_count": 6,
-    "views_recent": 1000,
+    "views_recent": 1002,
     "likes_recent": 22,
     "comments_recent": 0
    }
