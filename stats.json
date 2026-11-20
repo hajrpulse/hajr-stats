@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:27:09+03:00",
+ "generated_at": "2026-11-21T00:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4635
+      "views_recent": 4676
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1114,
+       "views": 1154,
        "likes": 12,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1276,
+       "views": 1277,
        "likes": 11,
        "comments": null
       },
@@ -166,19 +166,28 @@
      "totals": {
       "followers": 0,
       "views": 0,
-      "posts_count": 2,
-      "views_recent": 16,
-      "likes_recent": 0,
+      "posts_count": 3,
+      "views_recent": 22,
+      "likes_recent": 2,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "2Gw_pSeU36k",
+       "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
+       "url": "https://youtube.com/shorts/2Gw_pSeU36k",
+       "published": "2026-11-20T21:02:08Z",
+       "views": 5,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "iJTEr_yBDQE",
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 2,
-       "likes": 0,
+       "views": 3,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -202,19 +211,29 @@
      "totals": {
       "followers": 33,
       "following": 0,
-      "posts_count": 21,
-      "likes_recent": 2272,
+      "posts_count": 22,
+      "likes_recent": 2275,
       "comments_recent": 17,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17960969394255956",
+       "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 30\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
+       "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
+       "published": "2026-11-20T21:03:28+0000",
+       "type": "VIDEO",
+       "likes": 2,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17947072212086503",
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 28-29\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 20,
+       "likes": 23,
        "comments": 0,
        "views": null
       },
@@ -397,16 +416,6 @@
        "likes": 16,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18034311770852480",
-       "title": "سورة البقرة (1-7) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 1-7\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani) ",
-       "url": "https://www.instagram.com/reel/DfiQJAaghii/",
-       "published": "2026-11-09T21:03:48+0000",
-       "type": "VIDEO",
-       "likes": 2,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -423,6 +432,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18130902044310368",
+       "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 30\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df-lBiEpm4N",
+       "published": "2026-11-20T21:04:44+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18214650811366208",
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 28-29\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
@@ -608,16 +627,6 @@
        "title": "سورة البقرة (8-12) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 8-12\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran",
        "url": "https://www.threads.com/@hajrquran.official/post/DfkMDJbofQi",
        "published": "2026-11-10T15:06:24+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "18118191506045814",
-       "title": "سورة البقرة (1-7) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 1-7\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani) ",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfiQXXUAk0_",
-       "published": "2026-11-09T21:05:31+0000",
        "type": "VIDEO",
        "views": null,
        "likes": null,
@@ -823,7 +832,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 11,
-      "views_recent": 440,
+      "views_recent": 439,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -842,7 +851,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 165,
+       "views": 164,
        "likes": 1,
        "comments": 0
       },
@@ -946,8 +955,8 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1006,
-      "likes_recent": 22,
+      "views_recent": 1038,
+      "likes_recent": 24,
       "comments_recent": 0
      },
      "posts": [
@@ -956,8 +965,8 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 4,
-       "likes": 0,
+       "views": 36,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -2608,6 +2617,66 @@
     "posts_count": 3,
     "views_recent": 1006,
     "likes_recent": 22,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-21": {
+   "Pulse/youtube": {
+    "followers": 8,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 4676
+   },
+   "Quran/youtube": {
+    "followers": 0,
+    "views": 0,
+    "posts_count": 3,
+    "views_recent": 22,
+    "likes_recent": 2,
+    "comments_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 33,
+    "following": 0,
+    "posts_count": 22,
+    "likes_recent": 2275,
+    "comments_recent": 17,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 5,
+    "views": 598,
+    "posts_count": 6,
+    "views_recent": 663,
+    "likes_recent": 53,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9843
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 425,
+    "posts_count": 11,
+    "views_recent": 439,
+    "likes_recent": 7,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 771,
+    "posts_count": 3,
+    "views_recent": 1038,
+    "likes_recent": 24,
     "comments_recent": 0
    }
   }
