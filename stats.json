@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:27:10+03:00",
+ "generated_at": "2026-11-20T20:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,10 +16,10 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 7,
+      "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 3522
+      "views_recent": 3875
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 5,
-       "likes": 0,
+       "views": 356,
+       "likes": 3,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1273,
+       "views": 1275,
        "likes": 11,
        "comments": null
       },
@@ -167,7 +167,7 @@
       "followers": 0,
       "views": 0,
       "posts_count": 2,
-      "views_recent": 12,
+      "views_recent": 13,
       "likes_recent": 0,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 11,
+       "views": 12,
        "likes": 0,
        "comments": 0
       }
@@ -203,7 +203,7 @@
       "followers": 33,
       "following": 0,
       "posts_count": 21,
-      "likes_recent": 2265,
+      "likes_recent": 2268,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -214,7 +214,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 17,
+       "likes": 19,
        "comments": 0,
        "views": null
       },
@@ -224,7 +224,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 156,
+       "likes": 157,
        "comments": 0,
        "views": null
       },
@@ -729,7 +729,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9840
+      "views_recent": 9843
      },
      "posts": [
       {
@@ -746,7 +746,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6872,
+       "views": 6875,
        "likes": 127,
        "comments": null
       },
@@ -2553,16 +2553,16 @@
   },
   "2026-11-20": {
    "Pulse/youtube": {
-    "followers": 7,
+    "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 3522
+    "views_recent": 3875
    },
    "Quran/youtube": {
     "followers": 0,
     "views": 0,
     "posts_count": 2,
-    "views_recent": 12,
+    "views_recent": 13,
     "likes_recent": 0,
     "comments_recent": 0
    },
@@ -2570,7 +2570,7 @@
     "followers": 33,
     "following": 0,
     "posts_count": 21,
-    "likes_recent": 2265,
+    "likes_recent": 2268,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2592,7 +2592,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9840
+    "views_recent": 9843
    },
    "AI/youtube": {
     "followers": 5,
