@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:27:12+03:00",
+ "generated_at": "2026-11-21T01:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4676
+      "views_recent": 4745
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1154,
+       "views": 1223,
        "likes": 12,
        "comments": null
       },
@@ -164,10 +164,10 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
-      "followers": 0,
+      "followers": 1,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 22,
+      "views_recent": 24,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -177,7 +177,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 5,
+       "views": 6,
        "likes": 1,
        "comments": 0
       },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 3,
+       "views": 4,
        "likes": 1,
        "comments": 0
       },
@@ -212,7 +212,7 @@
       "followers": 33,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2275,
+      "likes_recent": 2371,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -223,7 +223,7 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 2,
+       "likes": 96,
        "comments": 0,
        "views": null
       },
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 23,
+       "likes": 24,
        "comments": 0,
        "views": null
       },
@@ -243,7 +243,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 160,
+       "likes": 161,
        "comments": 0,
        "views": null
       },
@@ -832,7 +832,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 11,
-      "views_recent": 439,
+      "views_recent": 441,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -842,7 +842,7 @@
        "title": "Master 50 PDFs in Minutes With NotebookLM | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/CVFT43_vFGo",
        "published": "2026-11-20T10:31:51Z",
-       "views": 7,
+       "views": 8,
        "likes": 0,
        "comments": 0
       },
@@ -851,7 +851,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 164,
+       "views": 165,
        "likes": 1,
        "comments": 0
       },
@@ -955,7 +955,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1038,
+      "views_recent": 1039,
       "likes_recent": 24,
       "comments_recent": 0
      },
@@ -965,7 +965,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 36,
+       "views": 37,
        "likes": 2,
        "comments": 0
       },
@@ -2625,13 +2625,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4676
+    "views_recent": 4745
    },
    "Quran/youtube": {
-    "followers": 0,
+    "followers": 1,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 22,
+    "views_recent": 24,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2639,7 +2639,7 @@
     "followers": 33,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2275,
+    "likes_recent": 2371,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2667,7 +2667,7 @@
     "followers": 5,
     "views": 425,
     "posts_count": 11,
-    "views_recent": 439,
+    "views_recent": 441,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2675,7 +2675,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1038,
+    "views_recent": 1039,
     "likes_recent": 24,
     "comments_recent": 0
    }
