@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:27:10+03:00",
+ "generated_at": "2026-11-20T07:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -631,8 +631,8 @@
       "followers": 5,
       "views": 519,
       "posts_count": 6,
-      "views_recent": 600,
-      "likes_recent": 47,
+      "views_recent": 623,
+      "likes_recent": 52,
       "comments_recent": 0
      },
      "posts": [
@@ -641,8 +641,8 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 1,
-       "likes": 1,
+       "views": 24,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -805,7 +805,7 @@
       "followers": 5,
       "views": 260,
       "posts_count": 10,
-      "views_recent": 425,
+      "views_recent": 427,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -833,7 +833,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 11,
+       "views": 13,
        "likes": 1,
        "comments": 0
       },
@@ -917,7 +917,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 10,
-      "views": 1004,
+      "views": 771,
       "posts_count": 6,
       "views_recent": 1002,
       "likes_recent": 22,
@@ -2557,8 +2557,8 @@
     "followers": 5,
     "views": 519,
     "posts_count": 6,
-    "views_recent": 600,
-    "likes_recent": 47,
+    "views_recent": 623,
+    "likes_recent": 52,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2571,13 +2571,13 @@
     "followers": 5,
     "views": 260,
     "posts_count": 10,
-    "views_recent": 425,
+    "views_recent": 427,
     "likes_recent": 7,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 10,
-    "views": 1004,
+    "views": 771,
     "posts_count": 6,
     "views_recent": 1002,
     "likes_recent": 22,
