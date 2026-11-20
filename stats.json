@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:27:11+03:00",
+ "generated_at": "2026-11-20T08:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -629,10 +629,10 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 519,
+      "views": 598,
       "posts_count": 6,
-      "views_recent": 623,
-      "likes_recent": 52,
+      "views_recent": 628,
+      "likes_recent": 54,
       "comments_recent": 0
      },
      "posts": [
@@ -641,8 +641,8 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 24,
-       "likes": 6,
+       "views": 29,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -803,7 +803,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 260,
+      "views": 425,
       "posts_count": 10,
       "views_recent": 427,
       "likes_recent": 7,
@@ -2555,10 +2555,10 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 5,
-    "views": 519,
+    "views": 598,
     "posts_count": 6,
-    "views_recent": 623,
-    "likes_recent": 52,
+    "views_recent": 628,
+    "likes_recent": 54,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2569,7 +2569,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 260,
+    "views": 425,
     "posts_count": 10,
     "views_recent": 427,
     "likes_recent": 7,
