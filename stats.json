@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:27:09+03:00",
+ "generated_at": "2026-11-20T23:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4389
+      "views_recent": 4635
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 868,
-       "likes": 13,
+       "views": 1114,
+       "likes": 12,
        "comments": null
       },
       {
@@ -203,7 +203,7 @@
       "followers": 33,
       "following": 0,
       "posts_count": 21,
-      "likes_recent": 2270,
+      "likes_recent": 2272,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -224,7 +224,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 158,
+       "likes": 160,
        "comments": 0,
        "views": null
       },
@@ -823,7 +823,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 11,
-      "views_recent": 439,
+      "views_recent": 440,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -842,7 +842,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 164,
+       "views": 165,
        "likes": 1,
        "comments": 0
       },
@@ -2556,7 +2556,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4389
+    "views_recent": 4635
    },
    "Quran/youtube": {
     "followers": 0,
@@ -2570,7 +2570,7 @@
     "followers": 33,
     "following": 0,
     "posts_count": 21,
-    "likes_recent": 2270,
+    "likes_recent": 2272,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2598,7 +2598,7 @@
     "followers": 5,
     "views": 425,
     "posts_count": 11,
-    "views_recent": 439,
+    "views_recent": 440,
     "likes_recent": 7,
     "comments_recent": 0
    },
