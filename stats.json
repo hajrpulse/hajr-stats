@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:27:10+03:00",
+ "generated_at": "2026-11-20T21:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 3875
+      "views_recent": 4345
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 356,
-       "likes": 3,
+       "views": 826,
+       "likes": 11,
        "comments": null
       },
       {
@@ -203,7 +203,7 @@
       "followers": 33,
       "following": 0,
       "posts_count": 21,
-      "likes_recent": 2268,
+      "likes_recent": 2270,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -214,7 +214,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 19,
+       "likes": 20,
        "comments": 0,
        "views": null
       },
@@ -224,7 +224,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 157,
+       "likes": 158,
        "comments": 0,
        "views": null
       },
@@ -823,7 +823,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 11,
-      "views_recent": 432,
+      "views_recent": 437,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -833,7 +833,7 @@
        "title": "Master 50 PDFs in Minutes With NotebookLM | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/CVFT43_vFGo",
        "published": "2026-11-20T10:31:51Z",
-       "views": 1,
+       "views": 6,
        "likes": 0,
        "comments": 0
       },
@@ -945,8 +945,8 @@
      "totals": {
       "followers": 10,
       "views": 771,
-      "posts_count": 6,
-      "views_recent": 1002,
+      "posts_count": 3,
+      "views_recent": 1006,
       "likes_recent": 22,
       "comments_recent": 0
      },
@@ -955,8 +955,8 @@
        "id": "yVyxd58khtQ",
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
-       "published": "2026-11-19T23:52:11Z",
-       "views": 0,
+       "published": "2026-11-20T18:00:03Z",
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -2556,7 +2556,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 3875
+    "views_recent": 4345
    },
    "Quran/youtube": {
     "followers": 0,
@@ -2570,7 +2570,7 @@
     "followers": 33,
     "following": 0,
     "posts_count": 21,
-    "likes_recent": 2268,
+    "likes_recent": 2270,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2598,15 +2598,15 @@
     "followers": 5,
     "views": 425,
     "posts_count": 11,
-    "views_recent": 432,
+    "views_recent": 437,
     "likes_recent": 7,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 10,
     "views": 771,
-    "posts_count": 6,
-    "views_recent": 1002,
+    "posts_count": 3,
+    "views_recent": 1006,
     "likes_recent": 22,
     "comments_recent": 0
    }
