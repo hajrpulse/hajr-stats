@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:27:11+03:00",
+ "generated_at": "2026-11-20T14:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -158,7 +158,7 @@
       "followers": 0,
       "views": 0,
       "posts_count": 1,
-      "views_recent": 3,
+      "views_recent": 6,
       "likes_recent": 0,
       "comments_recent": 0
      },
@@ -168,7 +168,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 3,
+       "views": 6,
        "likes": 0,
        "comments": 0
       }
@@ -185,7 +185,7 @@
       "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2255,
+      "likes_recent": 2258,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 152,
+       "likes": 153,
        "comments": 0,
        "views": null
       },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 252,
+       "likes": 253,
        "comments": 0,
        "views": null
       },
@@ -216,7 +216,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 224,
+       "likes": 225,
        "comments": 3,
        "views": null
       },
@@ -631,7 +631,7 @@
       "followers": 5,
       "views": 598,
       "posts_count": 6,
-      "views_recent": 655,
+      "views_recent": 656,
       "likes_recent": 53,
       "comments_recent": 0
      },
@@ -650,7 +650,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 82,
+       "views": 83,
        "likes": 7,
        "comments": 0
       },
@@ -711,7 +711,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9824
+      "views_recent": 9832
      },
      "posts": [
       {
@@ -728,7 +728,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6869,
+       "views": 6871,
        "likes": 127,
        "comments": null
       },
@@ -737,7 +737,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 66,
+       "views": 68,
        "likes": 7,
        "comments": null
       },
@@ -764,7 +764,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 71,
+       "views": 73,
        "likes": 9,
        "comments": null
       },
@@ -782,7 +782,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 199,
+       "views": 201,
        "likes": 12,
        "comments": null
       }
@@ -804,18 +804,27 @@
      "totals": {
       "followers": 5,
       "views": 425,
-      "posts_count": 10,
-      "views_recent": 429,
+      "posts_count": 11,
+      "views_recent": 432,
       "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "CVFT43_vFGo",
+       "title": "Master 50 PDFs in Minutes With NotebookLM | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/CVFT43_vFGo",
+       "published": "2026-11-20T10:31:51Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "B6qZ0gXGEuw",
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 162,
+       "views": 163,
        "likes": 1,
        "comments": 0
       },
@@ -833,7 +842,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 13,
+       "views": 14,
        "likes": 1,
        "comments": 0
       },
@@ -2535,7 +2544,7 @@
     "followers": 0,
     "views": 0,
     "posts_count": 1,
-    "views_recent": 3,
+    "views_recent": 6,
     "likes_recent": 0,
     "comments_recent": 0
    },
@@ -2543,7 +2552,7 @@
     "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2255,
+    "likes_recent": 2258,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2557,7 +2566,7 @@
     "followers": 5,
     "views": 598,
     "posts_count": 6,
-    "views_recent": 655,
+    "views_recent": 656,
     "likes_recent": 53,
     "comments_recent": 0
    },
@@ -2565,13 +2574,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9824
+    "views_recent": 9832
    },
    "AI/youtube": {
     "followers": 5,
     "views": 425,
-    "posts_count": 10,
-    "views_recent": 429,
+    "posts_count": 11,
+    "views_recent": 432,
     "likes_recent": 7,
     "comments_recent": 0
    },
