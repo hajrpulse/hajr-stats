@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:27:11+03:00",
+ "generated_at": "2026-11-20T11:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3517
+      "views_recent": 3516
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1165,
+       "views": 1164,
        "likes": 9,
        "comments": null
       },
@@ -185,7 +185,7 @@
       "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2252,
+      "likes_recent": 2253,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 250,
+       "likes": 251,
        "comments": 0,
        "views": null
       },
@@ -631,8 +631,8 @@
       "followers": 5,
       "views": 598,
       "posts_count": 6,
-      "views_recent": 628,
-      "likes_recent": 54,
+      "views_recent": 640,
+      "likes_recent": 53,
       "comments_recent": 0
      },
      "posts": [
@@ -641,8 +641,8 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 29,
-       "likes": 8,
+       "views": 41,
+       "likes": 7,
        "comments": 0
       },
       {
@@ -2529,7 +2529,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 3517
+    "views_recent": 3516
    },
    "Quran/youtube": {
     "followers": 0,
@@ -2543,7 +2543,7 @@
     "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2252,
+    "likes_recent": 2253,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2557,8 +2557,8 @@
     "followers": 5,
     "views": 598,
     "posts_count": 6,
-    "views_recent": 628,
-    "likes_recent": 54,
+    "views_recent": 640,
+    "likes_recent": 53,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
