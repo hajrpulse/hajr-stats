@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:27:11+03:00",
+ "generated_at": "2026-11-20T06:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -630,18 +630,27 @@
      "totals": {
       "followers": 5,
       "views": 519,
-      "posts_count": 5,
-      "views_recent": 598,
-      "likes_recent": 46,
+      "posts_count": 6,
+      "views_recent": 600,
+      "likes_recent": 47,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "QKEf2ghHlRY",
+       "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/QKEf2ghHlRY",
+       "published": "2026-11-20T02:33:27Z",
+       "views": 1,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "4Vs8MXOM_DY",
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 75,
+       "views": 78,
        "likes": 7,
        "comments": 0
       },
@@ -650,7 +659,7 @@
        "title": "Two Words Beloved to the Most Merciful | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/aOTK7vokHI0",
        "published": "2026-11-18T02:33:41Z",
-       "views": 79,
+       "views": 77,
        "likes": 7,
        "comments": 0
       },
@@ -702,7 +711,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9816
+      "views_recent": 9817
      },
      "posts": [
       {
@@ -719,7 +728,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6868,
+       "views": 6869,
        "likes": 127,
        "comments": null
       },
@@ -2547,16 +2556,16 @@
    "Sunnah/youtube": {
     "followers": 5,
     "views": 519,
-    "posts_count": 5,
-    "views_recent": 598,
-    "likes_recent": 46,
+    "posts_count": 6,
+    "views_recent": 600,
+    "likes_recent": 47,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9816
+    "views_recent": 9817
    },
    "AI/youtube": {
     "followers": 5,
