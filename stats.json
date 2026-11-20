@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:27:11+03:00",
+ "generated_at": "2026-11-20T15:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -185,7 +185,7 @@
       "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2258,
+      "likes_recent": 2260,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 153,
+       "likes": 154,
        "comments": 0,
        "views": null
       },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 253,
+       "likes": 254,
        "comments": 0,
        "views": null
       },
@@ -641,7 +641,7 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 52,
+       "views": 53,
        "likes": 7,
        "comments": 0
       },
@@ -650,7 +650,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 83,
+       "views": 82,
        "likes": 7,
        "comments": 0
       },
@@ -711,7 +711,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9832
+      "views_recent": 9833
      },
      "posts": [
       {
@@ -764,7 +764,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 73,
+       "views": 74,
        "likes": 9,
        "comments": null
       },
@@ -2552,7 +2552,7 @@
     "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2258,
+    "likes_recent": 2260,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2574,7 +2574,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9832
+    "views_recent": 9833
    },
    "AI/youtube": {
     "followers": 5,
