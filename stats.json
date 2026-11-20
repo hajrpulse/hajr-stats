@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:27:09+03:00",
+ "generated_at": "2026-11-21T02:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4745
+      "views_recent": 4746
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1223,
+       "views": 1224,
        "likes": 12,
        "comments": null
       },
@@ -167,7 +167,7 @@
       "followers": 1,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 24,
+      "views_recent": 25,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 14,
+       "views": 15,
        "likes": 0,
        "comments": 0
       }
@@ -209,11 +209,11 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 33,
+      "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2371,
-      "comments_recent": 17,
+      "likes_recent": 2466,
+      "comments_recent": 18,
       "views_recent": null
      },
      "posts": [
@@ -223,8 +223,8 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 96,
-       "comments": 0,
+       "likes": 187,
+       "comments": 1,
        "views": null
       },
       {
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 24,
+       "likes": 28,
        "comments": 0,
        "views": null
       },
@@ -955,8 +955,8 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1039,
-      "likes_recent": 24,
+      "views_recent": 1051,
+      "likes_recent": 25,
       "comments_recent": 0
      },
      "posts": [
@@ -965,8 +965,8 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 37,
-       "likes": 2,
+       "views": 49,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -2625,22 +2625,22 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4745
+    "views_recent": 4746
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 24,
+    "views_recent": 25,
     "likes_recent": 2,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 33,
+    "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2371,
-    "comments_recent": 17,
+    "likes_recent": 2466,
+    "comments_recent": 18,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2675,8 +2675,8 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1039,
-    "likes_recent": 24,
+    "views_recent": 1051,
+    "likes_recent": 25,
     "comments_recent": 0
    }
   }
