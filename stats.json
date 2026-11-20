@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:27:10+03:00",
+ "generated_at": "2026-11-20T13:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -185,7 +185,7 @@
       "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2254,
+      "likes_recent": 2255,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -206,7 +206,7 @@
        "url": "https://www.instagram.com/reel/Df7W1MTh0qf/",
        "published": "2026-11-19T15:03:42+0000",
        "type": "VIDEO",
-       "likes": 251,
+       "likes": 252,
        "comments": 0,
        "views": null
       },
@@ -631,7 +631,7 @@
       "followers": 5,
       "views": 598,
       "posts_count": 6,
-      "views_recent": 648,
+      "views_recent": 655,
       "likes_recent": 53,
       "comments_recent": 0
      },
@@ -641,7 +641,7 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 49,
+       "views": 52,
        "likes": 7,
        "comments": 0
       },
@@ -650,7 +650,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 78,
+       "views": 82,
        "likes": 7,
        "comments": 0
       },
@@ -711,7 +711,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9817
+      "views_recent": 9824
      },
      "posts": [
       {
@@ -719,7 +719,7 @@
        "title": "أبو واصف وخصم الـ100% | بيت أبو حمزة — شورت 03",
        "url": "https://youtube.com/shorts/DwqPvrWsM4Y",
        "published": "2026-11-09T19:12:06+00:00",
-       "views": 69,
+       "views": 71,
        "likes": 5,
        "comments": null
       },
@@ -737,7 +737,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 65,
+       "views": 66,
        "likes": 7,
        "comments": null
       },
@@ -746,7 +746,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2286,
+       "views": 2287,
        "likes": 29,
        "comments": null
       },
@@ -755,7 +755,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 87,
+       "views": 88,
        "likes": 10,
        "comments": null
       },
@@ -773,7 +773,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 172,
+       "views": 173,
        "likes": 18,
        "comments": null
       },
@@ -782,7 +782,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 198,
+       "views": 199,
        "likes": 12,
        "comments": null
       }
@@ -805,7 +805,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 10,
-      "views_recent": 428,
+      "views_recent": 429,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -815,7 +815,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 161,
+       "views": 162,
        "likes": 1,
        "comments": 0
       },
@@ -2543,7 +2543,7 @@
     "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2254,
+    "likes_recent": 2255,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2557,7 +2557,7 @@
     "followers": 5,
     "views": 598,
     "posts_count": 6,
-    "views_recent": 648,
+    "views_recent": 655,
     "likes_recent": 53,
     "comments_recent": 0
    },
@@ -2565,13 +2565,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9817
+    "views_recent": 9824
    },
    "AI/youtube": {
     "followers": 5,
     "views": 425,
     "posts_count": 10,
-    "views_recent": 428,
+    "views_recent": 429,
     "likes_recent": 7,
     "comments_recent": 0
    },
