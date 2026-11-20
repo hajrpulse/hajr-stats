@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:27:12+03:00",
+ "generated_at": "2026-11-20T18:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -157,12 +157,21 @@
      "totals": {
       "followers": 0,
       "views": 0,
-      "posts_count": 1,
-      "views_recent": 11,
+      "posts_count": 2,
+      "views_recent": 12,
       "likes_recent": 0,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "iJTEr_yBDQE",
+       "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
+       "url": "https://youtube.com/shorts/iJTEr_yBDQE",
+       "published": "2026-11-20T15:02:59Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "zSuSj5CnWtU",
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
@@ -184,12 +193,22 @@
      "totals": {
       "followers": 32,
       "following": 0,
-      "posts_count": 20,
-      "likes_recent": 2263,
+      "posts_count": 21,
+      "likes_recent": 2247,
       "comments_recent": 17,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17947072212086503",
+       "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 28-29\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
+       "published": "2026-11-20T15:04:28+0000",
+       "type": "VIDEO",
+       "likes": 1,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18353125111271753",
        "title": "سورة البقرة (26-27) بصوت سعود الشريم\n\nسورة البقرة — الآيات 26-27\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -379,16 +398,6 @@
        "likes": 2,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18096849467673720",
-       "title": "سورة الفاتحة (1-7) بصوت محمد صديق المنشاوي\n\nسورة الفاتحة — الآيات 1-7\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (qur",
-       "url": "https://www.instagram.com/reel/Dfhm3rKDWri/",
-       "published": "2026-11-09T15:02:55+0000",
-       "type": "VIDEO",
-       "likes": 17,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -405,6 +414,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18214650811366208",
+       "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 28-29\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.threads.com/@hajrquran.official/post/Df97-iSCuFf",
+       "published": "2026-11-20T15:06:27+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18112647005234152",
        "title": "سورة البقرة (26-27) بصوت سعود الشريم\n\nسورة البقرة — الآيات 26-27\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -594,16 +613,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "18115981883135498",
-       "title": "سورة الفاتحة (1-7) بصوت محمد صديق المنشاوي\n\nسورة الفاتحة — الآيات 1-7\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (qur",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfhnCbrhNwd",
-       "published": "2026-11-09T15:04:21+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -711,7 +720,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9835
+      "views_recent": 9838
      },
      "posts": [
       {
@@ -719,7 +728,7 @@
        "title": "أبو واصف وخصم الـ100% | بيت أبو حمزة — شورت 03",
        "url": "https://youtube.com/shorts/DwqPvrWsM4Y",
        "published": "2026-11-09T19:12:06+00:00",
-       "views": 71,
+       "views": 73,
        "likes": 5,
        "comments": null
       },
@@ -728,7 +737,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6871,
+       "views": 6872,
        "likes": 127,
        "comments": null
       },
@@ -2543,16 +2552,16 @@
    "Quran/youtube": {
     "followers": 0,
     "views": 0,
-    "posts_count": 1,
-    "views_recent": 11,
+    "posts_count": 2,
+    "views_recent": 12,
     "likes_recent": 0,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 32,
     "following": 0,
-    "posts_count": 20,
-    "likes_recent": 2263,
+    "posts_count": 21,
+    "likes_recent": 2247,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2574,7 +2583,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9835
+    "views_recent": 9838
    },
    "AI/youtube": {
     "followers": 5,
