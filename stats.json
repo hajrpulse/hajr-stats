@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:27:10+03:00",
+ "generated_at": "2026-11-20T12:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -185,7 +185,7 @@
       "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2253,
+      "likes_recent": 2254,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 151,
+       "likes": 152,
        "comments": 0,
        "views": null
       },
@@ -631,7 +631,7 @@
       "followers": 5,
       "views": 598,
       "posts_count": 6,
-      "views_recent": 640,
+      "views_recent": 648,
       "likes_recent": 53,
       "comments_recent": 0
      },
@@ -641,7 +641,7 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 41,
+       "views": 49,
        "likes": 7,
        "comments": 0
       },
@@ -805,7 +805,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 10,
-      "views_recent": 427,
+      "views_recent": 428,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -815,7 +815,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 160,
+       "views": 161,
        "likes": 1,
        "comments": 0
       },
@@ -2543,7 +2543,7 @@
     "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2253,
+    "likes_recent": 2254,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2557,7 +2557,7 @@
     "followers": 5,
     "views": 598,
     "posts_count": 6,
-    "views_recent": 640,
+    "views_recent": 648,
     "likes_recent": 53,
     "comments_recent": 0
    },
@@ -2571,7 +2571,7 @@
     "followers": 5,
     "views": 425,
     "posts_count": 10,
-    "views_recent": 427,
+    "views_recent": 428,
     "likes_recent": 7,
     "comments_recent": 0
    },
