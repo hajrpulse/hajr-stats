@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:27:10+03:00",
+ "generated_at": "2026-11-20T19:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,9 +19,18 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3517
+      "views_recent": 3522
      },
      "posts": [
+      {
+       "id": "LLt0wVTrbek",
+       "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
+       "url": "https://youtube.com/shorts/LLt0wVTrbek",
+       "published": "2026-11-20T16:00:29+00:00",
+       "views": 5,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "B6rNgWWoEqw",
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
@@ -191,10 +200,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 32,
+      "followers": 33,
       "following": 0,
       "posts_count": 21,
-      "likes_recent": 2247,
+      "likes_recent": 2265,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -205,7 +214,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 17,
        "comments": 0,
        "views": null
       },
@@ -215,7 +224,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 154,
+       "likes": 156,
        "comments": 0,
        "views": null
       },
@@ -640,7 +649,7 @@
       "followers": 5,
       "views": 598,
       "posts_count": 6,
-      "views_recent": 660,
+      "views_recent": 663,
       "likes_recent": 53,
       "comments_recent": 0
      },
@@ -659,7 +668,7 @@
        "title": "Injustice is Darkness on the Day of Judgment | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/4Vs8MXOM_DY",
        "published": "2026-11-19T02:34:15Z",
-       "views": 83,
+       "views": 86,
        "likes": 7,
        "comments": 0
       },
@@ -720,7 +729,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9838
+      "views_recent": 9840
      },
      "posts": [
       {
@@ -728,7 +737,7 @@
        "title": "أبو واصف وخصم الـ100% | بيت أبو حمزة — شورت 03",
        "url": "https://youtube.com/shorts/DwqPvrWsM4Y",
        "published": "2026-11-09T19:12:06+00:00",
-       "views": 73,
+       "views": 74,
        "likes": 5,
        "comments": null
       },
@@ -755,7 +764,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2287,
+       "views": 2288,
        "likes": 29,
        "comments": null
       },
@@ -2547,7 +2556,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 3517
+    "views_recent": 3522
    },
    "Quran/youtube": {
     "followers": 0,
@@ -2558,10 +2567,10 @@
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 32,
+    "followers": 33,
     "following": 0,
     "posts_count": 21,
-    "likes_recent": 2247,
+    "likes_recent": 2265,
     "comments_recent": 17,
     "views_recent": null
    },
@@ -2575,7 +2584,7 @@
     "followers": 5,
     "views": 598,
     "posts_count": 6,
-    "views_recent": 660,
+    "views_recent": 663,
     "likes_recent": 53,
     "comments_recent": 0
    },
@@ -2583,7 +2592,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9838
+    "views_recent": 9840
    },
    "AI/youtube": {
     "followers": 5,
