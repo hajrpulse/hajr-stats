@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:27:13+03:00",
+ "generated_at": "2026-11-20T03:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 7,
       "views": null,
       "posts_count": null,
-      "views_recent": 3509
+      "views_recent": 3516
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1264,
+       "views": 1271,
        "likes": 11,
        "comments": null
       },
@@ -182,10 +182,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 30,
+      "followers": 32,
       "following": 0,
       "posts_count": 20,
-      "likes_recent": 2221,
+      "likes_recent": 2249,
       "comments_recent": 17,
       "views_recent": null
      },
@@ -196,7 +196,7 @@
        "url": "https://www.instagram.com/reel/Df8ALA_JiyU/",
        "published": "2026-11-19T21:04:40+0000",
        "type": "VIDEO",
-       "likes": 122,
+       "likes": 150,
        "comments": 0,
        "views": null
       },
@@ -915,6 +915,15 @@
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "yVyxd58khtQ",
+       "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
+       "url": "https://youtube.com/shorts/yVyxd58khtQ",
+       "published": "2026-11-19T23:52:11Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "PfXwvXgVlBU",
        "title": "ليش الحجامة من السنّة؟ وما الذي يقوله البحث؟ | Why is Hijama from the Sunnah?",
@@ -2511,7 +2520,7 @@
     "followers": 7,
     "views": null,
     "posts_count": null,
-    "views_recent": 3509
+    "views_recent": 3516
    },
    "Quran/youtube": {
     "followers": 0,
@@ -2522,10 +2531,10 @@
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 30,
+    "followers": 32,
     "following": 0,
     "posts_count": 20,
-    "likes_recent": 2221,
+    "likes_recent": 2249,
     "comments_recent": 17,
     "views_recent": null
    },
