@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:27:10+03:00",
+ "generated_at": "2026-11-20T22:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4345
+      "views_recent": 4389
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 826,
-       "likes": 11,
+       "views": 868,
+       "likes": 13,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1275,
+       "views": 1276,
        "likes": 11,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "هل تعلم؟ أول هزيمة كبرى للمغول | عين جالوت ١٢٦٠ #Shorts",
        "url": "https://youtube.com/shorts/rN47PHJIXTQ",
        "published": "2026-11-16T16:00:32+00:00",
-       "views": 1164,
+       "views": 1165,
        "likes": 9,
        "comments": null
       },
@@ -167,7 +167,7 @@
       "followers": 0,
       "views": 0,
       "posts_count": 2,
-      "views_recent": 13,
+      "views_recent": 16,
       "likes_recent": 0,
       "comments_recent": 0
      },
@@ -177,7 +177,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 12,
+       "views": 14,
        "likes": 0,
        "comments": 0
       }
@@ -823,7 +823,7 @@
       "followers": 5,
       "views": 425,
       "posts_count": 11,
-      "views_recent": 437,
+      "views_recent": 439,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -833,7 +833,7 @@
        "title": "Master 50 PDFs in Minutes With NotebookLM | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/CVFT43_vFGo",
        "published": "2026-11-20T10:31:51Z",
-       "views": 6,
+       "views": 7,
        "likes": 0,
        "comments": 0
       },
@@ -842,7 +842,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 163,
+       "views": 164,
        "likes": 1,
        "comments": 0
       },
@@ -2556,13 +2556,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4345
+    "views_recent": 4389
    },
    "Quran/youtube": {
     "followers": 0,
     "views": 0,
     "posts_count": 2,
-    "views_recent": 13,
+    "views_recent": 16,
     "likes_recent": 0,
     "comments_recent": 0
    },
@@ -2598,7 +2598,7 @@
     "followers": 5,
     "views": 425,
     "posts_count": 11,
-    "views_recent": 437,
+    "views_recent": 439,
     "likes_recent": 7,
     "comments_recent": 0
    },
