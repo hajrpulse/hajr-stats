@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:27:09+03:00",
+ "generated_at": "2026-11-22T02:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4905
+      "views_recent": 4906
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1278,
+       "views": 1279,
        "likes": 11,
        "comments": null
       },
@@ -176,8 +176,8 @@
       "followers": 1,
       "views": 26,
       "posts_count": 5,
-      "views_recent": 81,
-      "likes_recent": 2,
+      "views_recent": 92,
+      "likes_recent": 3,
       "comments_recent": 0
      },
      "posts": [
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 1,
+       "views": 8,
        "likes": 0,
        "comments": 0
       },
@@ -204,8 +204,8 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 36,
-       "likes": 1,
+       "views": 39,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 11,
+       "views": 12,
        "likes": 1,
        "comments": 0
       },
@@ -239,7 +239,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 24,
-      "likes_recent": 2683,
+      "likes_recent": 2741,
       "comments_recent": 20,
       "views_recent": null
      },
@@ -250,7 +250,7 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 57,
+       "likes": 115,
        "comments": 1,
        "views": null
       },
@@ -868,7 +868,7 @@
       "followers": 5,
       "views": 436,
       "posts_count": 12,
-      "views_recent": 456,
+      "views_recent": 455,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -896,7 +896,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 178,
+       "views": 177,
        "likes": 1,
        "comments": 0
       },
@@ -2730,21 +2730,21 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4905
+    "views_recent": 4906
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 26,
     "posts_count": 5,
-    "views_recent": 81,
-    "likes_recent": 2,
+    "views_recent": 92,
+    "likes_recent": 3,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 34,
     "following": 0,
     "posts_count": 24,
-    "likes_recent": 2683,
+    "likes_recent": 2741,
     "comments_recent": 20,
     "views_recent": null
    },
@@ -2772,7 +2772,7 @@
     "followers": 5,
     "views": 436,
     "posts_count": 12,
-    "views_recent": 456,
+    "views_recent": 455,
     "likes_recent": 7,
     "comments_recent": 0
    },
