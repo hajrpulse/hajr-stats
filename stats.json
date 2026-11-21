@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:27:08+03:00",
+ "generated_at": "2026-11-22T01:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4903
+      "views_recent": 4905
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
        "url": "https://youtube.com/shorts/xjDp1T_NBWA",
        "published": "2026-11-21T16:00:27+00:00",
-       "views": 181,
+       "views": 184,
        "likes": 0,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1279,
+       "views": 1278,
        "likes": 11,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 26,
       "posts_count": 5,
-      "views_recent": 78,
+      "views_recent": 81,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 33,
+       "views": 36,
        "likes": 1,
        "comments": 0
       },
@@ -239,8 +239,8 @@
       "followers": 34,
       "following": 0,
       "posts_count": 24,
-      "likes_recent": 2627,
-      "comments_recent": 19,
+      "likes_recent": 2683,
+      "comments_recent": 20,
       "views_recent": null
      },
      "posts": [
@@ -250,8 +250,8 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 1,
-       "comments": 0,
+       "likes": 57,
+       "comments": 1,
        "views": null
       },
       {
@@ -685,7 +685,7 @@
       "followers": 5,
       "views": 608,
       "posts_count": 7,
-      "views_recent": 693,
+      "views_recent": 694,
       "likes_recent": 56,
       "comments_recent": 0
      },
@@ -695,7 +695,7 @@
        "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/5mWdJBbvITE",
        "published": "2026-11-21T02:33:39Z",
-       "views": 22,
+       "views": 23,
        "likes": 3,
        "comments": 0
       },
@@ -868,7 +868,7 @@
       "followers": 5,
       "views": 436,
       "posts_count": 12,
-      "views_recent": 453,
+      "views_recent": 456,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -896,7 +896,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 175,
+       "views": 178,
        "likes": 1,
        "comments": 0
       },
@@ -2730,13 +2730,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4903
+    "views_recent": 4905
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 26,
     "posts_count": 5,
-    "views_recent": 78,
+    "views_recent": 81,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2744,8 +2744,8 @@
     "followers": 34,
     "following": 0,
     "posts_count": 24,
-    "likes_recent": 2627,
-    "comments_recent": 19,
+    "likes_recent": 2683,
+    "comments_recent": 20,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2758,7 +2758,7 @@
     "followers": 5,
     "views": 608,
     "posts_count": 7,
-    "views_recent": 693,
+    "views_recent": 694,
     "likes_recent": 56,
     "comments_recent": 0
    },
@@ -2772,7 +2772,7 @@
     "followers": 5,
     "views": 436,
     "posts_count": 12,
-    "views_recent": 453,
+    "views_recent": 456,
     "likes_recent": 7,
     "comments_recent": 0
    },
