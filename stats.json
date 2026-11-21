@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:27:08+03:00",
+ "generated_at": "2026-11-21T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,7 +167,7 @@
       "followers": 1,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 52,
+      "views_recent": 53,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 24,
+       "views": 25,
        "likes": 0,
        "comments": 0
       }
@@ -212,7 +212,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2522,
+      "likes_recent": 2523,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 41,
+       "likes": 42,
        "comments": 0,
        "views": null
       },
@@ -658,7 +658,7 @@
       "followers": 5,
       "views": 608,
       "posts_count": 7,
-      "views_recent": 677,
+      "views_recent": 681,
       "likes_recent": 55,
       "comments_recent": 0
      },
@@ -668,7 +668,7 @@
        "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/5mWdJBbvITE",
        "published": "2026-11-21T02:33:39Z",
-       "views": 14,
+       "views": 18,
        "likes": 2,
        "comments": 0
       },
@@ -840,12 +840,21 @@
      "totals": {
       "followers": 5,
       "views": 434,
-      "posts_count": 11,
-      "views_recent": 443,
+      "posts_count": 12,
+      "views_recent": 444,
       "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "U0e3yu4IEbY",
+       "title": "مراقبة الأسعار والأسواق تلقائياً عبر Crawl4AI | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/U0e3yu4IEbY",
+       "published": "2026-11-21T10:34:19Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "CVFT43_vFGo",
        "title": "Master 50 PDFs in Minutes With NotebookLM | HAJR AI #Shorts",
@@ -878,7 +887,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 14,
+       "views": 15,
        "likes": 1,
        "comments": 0
       },
@@ -2640,7 +2649,7 @@
     "followers": 1,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 52,
+    "views_recent": 53,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2648,7 +2657,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2522,
+    "likes_recent": 2523,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2662,7 +2671,7 @@
     "followers": 5,
     "views": 608,
     "posts_count": 7,
-    "views_recent": 677,
+    "views_recent": 681,
     "likes_recent": 55,
     "comments_recent": 0
    },
@@ -2675,8 +2684,8 @@
    "AI/youtube": {
     "followers": 5,
     "views": 434,
-    "posts_count": 11,
-    "views_recent": 443,
+    "posts_count": 12,
+    "views_recent": 444,
     "likes_recent": 7,
     "comments_recent": 0
    },
