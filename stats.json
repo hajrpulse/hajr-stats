@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:27:10+03:00",
+ "generated_at": "2026-11-21T18:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -165,13 +165,22 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 0,
-      "posts_count": 3,
+      "views": 26,
+      "posts_count": 4,
       "views_recent": 58,
       "likes_recent": 2,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "gX38Sv8-dkA",
+       "title": "سورة البقرة (31-32) بصوت أحمد بن علي العجمي #Shorts",
+       "url": "https://youtube.com/shorts/gX38Sv8-dkA",
+       "published": "2026-11-21T15:02:19Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "2Gw_pSeU36k",
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
@@ -211,19 +220,29 @@
      "totals": {
       "followers": 34,
       "following": 0,
-      "posts_count": 22,
-      "likes_recent": 2525,
+      "posts_count": 23,
+      "likes_recent": 2510,
       "comments_recent": 19,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18225284701353087",
+       "title": "سورة البقرة (31-32) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 31-32\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/DgAgchBBrB8/",
+       "published": "2026-11-21T15:03:30+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17960969394255956",
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 30\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 233,
+       "likes": 234,
        "comments": 2,
        "views": null
       },
@@ -406,16 +425,6 @@
        "likes": 14,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18108198815199100",
-       "title": "سورة البقرة (8-12) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 8-12\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran",
-       "url": "https://www.instagram.com/reel/DfkL1Q1sA42/",
-       "published": "2026-11-10T15:04:39+0000",
-       "type": "VIDEO",
-       "likes": 16,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -432,6 +441,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "17918810721508113",
+       "title": "سورة البقرة (31-32) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 31-32\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgAgocpsZee",
+       "published": "2026-11-21T15:04:52+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18130902044310368",
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 30\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (quran-u",
@@ -621,16 +640,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "17999136003051165",
-       "title": "سورة البقرة (8-12) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 8-12\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfkMDJbofQi",
-       "published": "2026-11-10T15:06:24+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -658,7 +667,7 @@
       "followers": 5,
       "views": 608,
       "posts_count": 7,
-      "views_recent": 691,
+      "views_recent": 688,
       "likes_recent": 56,
       "comments_recent": 0
      },
@@ -668,7 +677,7 @@
        "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/5mWdJBbvITE",
        "published": "2026-11-21T02:33:39Z",
-       "views": 22,
+       "views": 21,
        "likes": 3,
        "comments": 0
       },
@@ -677,7 +686,7 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 60,
+       "views": 58,
        "likes": 7,
        "comments": 0
       },
@@ -747,7 +756,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9845
+      "views_recent": 9844
      },
      "posts": [
       {
@@ -818,7 +827,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 204,
+       "views": 203,
        "likes": 12,
        "comments": null
       }
@@ -841,7 +850,7 @@
       "followers": 5,
       "views": 434,
       "posts_count": 12,
-      "views_recent": 445,
+      "views_recent": 448,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -869,7 +878,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 168,
+       "views": 171,
        "likes": 1,
        "comments": 0
       },
@@ -973,7 +982,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1073,
+      "views_recent": 1081,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -983,7 +992,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 71,
+       "views": 79,
        "likes": 3,
        "comments": 0
       },
@@ -2647,8 +2656,8 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 0,
-    "posts_count": 3,
+    "views": 26,
+    "posts_count": 4,
     "views_recent": 58,
     "likes_recent": 2,
     "comments_recent": 0
@@ -2656,8 +2665,8 @@
    "Quran/instagram": {
     "followers": 34,
     "following": 0,
-    "posts_count": 22,
-    "likes_recent": 2525,
+    "posts_count": 23,
+    "likes_recent": 2510,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2671,7 +2680,7 @@
     "followers": 5,
     "views": 608,
     "posts_count": 7,
-    "views_recent": 691,
+    "views_recent": 688,
     "likes_recent": 56,
     "comments_recent": 0
    },
@@ -2679,13 +2688,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9845
+    "views_recent": 9844
    },
    "AI/youtube": {
     "followers": 5,
     "views": 434,
     "posts_count": 12,
-    "views_recent": 445,
+    "views_recent": 448,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2693,7 +2702,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1073,
+    "views_recent": 1081,
     "likes_recent": 25,
     "comments_recent": 0
    }
