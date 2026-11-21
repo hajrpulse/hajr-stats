@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:27:09+03:00",
+ "generated_at": "2026-11-21T06:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -212,7 +212,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2503,
+      "likes_recent": 2504,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 31,
+       "likes": 32,
        "comments": 0,
        "views": null
       },
@@ -657,12 +657,21 @@
      "totals": {
       "followers": 5,
       "views": 604,
-      "posts_count": 6,
+      "posts_count": 7,
       "views_recent": 663,
       "likes_recent": 53,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "5mWdJBbvITE",
+       "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
+       "url": "https://youtube.com/shorts/5mWdJBbvITE",
+       "published": "2026-11-21T02:33:39Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "QKEf2ghHlRY",
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
@@ -832,7 +841,7 @@
       "followers": 5,
       "views": 431,
       "posts_count": 11,
-      "views_recent": 442,
+      "views_recent": 443,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -851,7 +860,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 166,
+       "views": 167,
        "likes": 1,
        "comments": 0
       },
@@ -955,7 +964,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1062,
+      "views_recent": 1064,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -965,7 +974,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 60,
+       "views": 62,
        "likes": 3,
        "comments": 0
       },
@@ -2639,7 +2648,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2503,
+    "likes_recent": 2504,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2652,7 +2661,7 @@
    "Sunnah/youtube": {
     "followers": 5,
     "views": 604,
-    "posts_count": 6,
+    "posts_count": 7,
     "views_recent": 663,
     "likes_recent": 53,
     "comments_recent": 0
@@ -2667,7 +2676,7 @@
     "followers": 5,
     "views": 431,
     "posts_count": 11,
-    "views_recent": 442,
+    "views_recent": 443,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2675,7 +2684,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1062,
+    "views_recent": 1064,
     "likes_recent": 25,
     "comments_recent": 0
    }
