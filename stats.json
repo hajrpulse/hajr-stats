@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:27:09+03:00",
+ "generated_at": "2026-11-21T19:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,9 +19,18 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4758
+      "views_recent": 4759
      },
      "posts": [
+      {
+       "id": "xjDp1T_NBWA",
+       "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
+       "url": "https://youtube.com/shorts/xjDp1T_NBWA",
+       "published": "2026-11-21T16:00:27+00:00",
+       "views": 1,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "LLt0wVTrbek",
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
@@ -221,7 +230,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 23,
-      "likes_recent": 2510,
+      "likes_recent": 2549,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -232,7 +241,7 @@
        "url": "https://www.instagram.com/reel/DgAgchBBrB8/",
        "published": "2026-11-21T15:03:30+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 39,
        "comments": 0,
        "views": null
       },
@@ -848,7 +857,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 434,
+      "views": 436,
       "posts_count": 12,
       "views_recent": 448,
       "likes_recent": 7,
@@ -2652,7 +2661,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4758
+    "views_recent": 4759
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2666,7 +2675,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 23,
-    "likes_recent": 2510,
+    "likes_recent": 2549,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2692,7 +2701,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 434,
+    "views": 436,
     "posts_count": 12,
     "views_recent": 448,
     "likes_recent": 7,
