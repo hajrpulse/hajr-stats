@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:27:08+03:00",
+ "generated_at": "2026-11-21T05:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -212,7 +212,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2502,
+      "likes_recent": 2503,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -223,7 +223,7 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 221,
+       "likes": 222,
        "comments": 2,
        "views": null
       },
@@ -830,9 +830,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 425,
+      "views": 431,
       "posts_count": 11,
-      "views_recent": 443,
+      "views_recent": 442,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -851,7 +851,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 167,
+       "views": 166,
        "likes": 1,
        "comments": 0
       },
@@ -955,7 +955,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1051,
+      "views_recent": 1062,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -965,7 +965,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 49,
+       "views": 60,
        "likes": 3,
        "comments": 0
       },
@@ -2639,7 +2639,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2502,
+    "likes_recent": 2503,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2665,9 +2665,9 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 425,
+    "views": 431,
     "posts_count": 11,
-    "views_recent": 443,
+    "views_recent": 442,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2675,7 +2675,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1051,
+    "views_recent": 1062,
     "likes_recent": 25,
     "comments_recent": 0
    }
