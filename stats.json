@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:27:11+03:00",
+ "generated_at": "2026-11-21T20:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 4759
+      "views_recent": 4911
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
        "url": "https://youtube.com/shorts/xjDp1T_NBWA",
        "published": "2026-11-21T16:00:27+00:00",
-       "views": 1,
+       "views": 153,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 26,
       "posts_count": 4,
-      "views_recent": 58,
+      "views_recent": 61,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 23,
+       "views": 25,
        "likes": 1,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 26,
+       "views": 27,
        "likes": 0,
        "comments": 0
       }
@@ -230,7 +230,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 23,
-      "likes_recent": 2549,
+      "likes_recent": 2584,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -241,7 +241,7 @@
        "url": "https://www.instagram.com/reel/DgAgchBBrB8/",
        "published": "2026-11-21T15:03:30+0000",
        "type": "VIDEO",
-       "likes": 39,
+       "likes": 74,
        "comments": 0,
        "views": null
       },
@@ -676,7 +676,7 @@
       "followers": 5,
       "views": 608,
       "posts_count": 7,
-      "views_recent": 688,
+      "views_recent": 692,
       "likes_recent": 56,
       "comments_recent": 0
      },
@@ -695,7 +695,7 @@
        "title": "Charity & A Kind Word | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/QKEf2ghHlRY",
        "published": "2026-11-20T02:33:27Z",
-       "views": 58,
+       "views": 62,
        "likes": 7,
        "comments": 0
       },
@@ -765,7 +765,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9844
+      "views_recent": 9845
      },
      "posts": [
       {
@@ -809,7 +809,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 88,
+       "views": 89,
        "likes": 10,
        "comments": null
       },
@@ -991,7 +991,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1081,
+      "views_recent": 1078,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -1001,7 +1001,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 79,
+       "views": 76,
        "likes": 3,
        "comments": 0
       },
@@ -2661,13 +2661,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 4759
+    "views_recent": 4911
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 26,
     "posts_count": 4,
-    "views_recent": 58,
+    "views_recent": 61,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2675,7 +2675,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 23,
-    "likes_recent": 2549,
+    "likes_recent": 2584,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2689,7 +2689,7 @@
     "followers": 5,
     "views": 608,
     "posts_count": 7,
-    "views_recent": 688,
+    "views_recent": 692,
     "likes_recent": 56,
     "comments_recent": 0
    },
@@ -2697,7 +2697,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9844
+    "views_recent": 9845
    },
    "AI/youtube": {
     "followers": 5,
@@ -2711,7 +2711,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1081,
+    "views_recent": 1078,
     "likes_recent": 25,
     "comments_recent": 0
    }
