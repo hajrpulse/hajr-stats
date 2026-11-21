@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:27:08+03:00",
+ "generated_at": "2026-11-21T08:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -212,7 +212,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2505,
+      "likes_recent": 2507,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 33,
+       "likes": 35,
        "comments": 0,
        "views": null
       },
@@ -747,7 +747,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9843
+      "views_recent": 9844
      },
      "posts": [
       {
@@ -755,7 +755,7 @@
        "title": "أبو واصف وخصم الـ100% | بيت أبو حمزة — شورت 03",
        "url": "https://youtube.com/shorts/DwqPvrWsM4Y",
        "published": "2026-11-09T19:12:06+00:00",
-       "views": 74,
+       "views": 75,
        "likes": 5,
        "comments": null
       },
@@ -839,7 +839,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 431,
+      "views": 434,
       "posts_count": 11,
       "views_recent": 443,
       "likes_recent": 7,
@@ -964,7 +964,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1066,
+      "views_recent": 1067,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -974,7 +974,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 64,
+       "views": 65,
        "likes": 3,
        "comments": 0
       },
@@ -2648,7 +2648,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2505,
+    "likes_recent": 2507,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2670,11 +2670,11 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9843
+    "views_recent": 9844
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 431,
+    "views": 434,
     "posts_count": 11,
     "views_recent": 443,
     "likes_recent": 7,
@@ -2684,7 +2684,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1066,
+    "views_recent": 1067,
     "likes_recent": 25,
     "comments_recent": 0
    }
