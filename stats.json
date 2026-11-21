@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:27:11+03:00",
+ "generated_at": "2026-11-21T03:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,7 +167,7 @@
       "followers": 1,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 25,
+      "views_recent": 30,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -177,7 +177,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 6,
+       "views": 11,
        "likes": 1,
        "comments": 0
       },
@@ -212,8 +212,8 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2466,
-      "comments_recent": 18,
+      "likes_recent": 2501,
+      "comments_recent": 19,
       "views_recent": null
      },
      "posts": [
@@ -223,8 +223,8 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 187,
-       "comments": 1,
+       "likes": 220,
+       "comments": 2,
        "views": null
       },
       {
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 28,
+       "likes": 31,
        "comments": 0,
        "views": null
       },
@@ -343,7 +343,7 @@
        "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
        "published": "2026-11-14T21:03:37+0000",
        "type": "VIDEO",
-       "likes": 230,
+       "likes": 229,
        "comments": 2,
        "views": null
       },
@@ -2631,7 +2631,7 @@
     "followers": 1,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 25,
+    "views_recent": 30,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2639,8 +2639,8 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2466,
-    "comments_recent": 18,
+    "likes_recent": 2501,
+    "comments_recent": 19,
     "views_recent": null
    },
    "Quran/threads": {
