@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:27:08+03:00",
+ "generated_at": "2026-11-21T07:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -167,7 +167,7 @@
       "followers": 1,
       "views": 0,
       "posts_count": 3,
-      "views_recent": 37,
+      "views_recent": 41,
       "likes_recent": 2,
       "comments_recent": 0
      },
@@ -177,7 +177,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 13,
+       "views": 17,
        "likes": 1,
        "comments": 0
       },
@@ -212,7 +212,7 @@
       "followers": 34,
       "following": 0,
       "posts_count": 22,
-      "likes_recent": 2504,
+      "likes_recent": 2505,
       "comments_recent": 19,
       "views_recent": null
      },
@@ -233,7 +233,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 32,
+       "likes": 33,
        "comments": 0,
        "views": null
       },
@@ -656,7 +656,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 5,
-      "views": 604,
+      "views": 608,
       "posts_count": 7,
       "views_recent": 663,
       "likes_recent": 53,
@@ -964,7 +964,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1064,
+      "views_recent": 1066,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -974,7 +974,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 62,
+       "views": 64,
        "likes": 3,
        "comments": 0
       },
@@ -2640,7 +2640,7 @@
     "followers": 1,
     "views": 0,
     "posts_count": 3,
-    "views_recent": 37,
+    "views_recent": 41,
     "likes_recent": 2,
     "comments_recent": 0
    },
@@ -2648,7 +2648,7 @@
     "followers": 34,
     "following": 0,
     "posts_count": 22,
-    "likes_recent": 2504,
+    "likes_recent": 2505,
     "comments_recent": 19,
     "views_recent": null
    },
@@ -2660,7 +2660,7 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 5,
-    "views": 604,
+    "views": 608,
     "posts_count": 7,
     "views_recent": 663,
     "likes_recent": 53,
@@ -2684,7 +2684,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1064,
+    "views_recent": 1066,
     "likes_recent": 25,
     "comments_recent": 0
    }
