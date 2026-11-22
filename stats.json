@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:27:14+03:00",
+ "generated_at": "2026-11-23T01:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6011
+      "views_recent": 6013
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1117,
+       "views": 1120,
        "likes": 9,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1280,
+       "views": 1279,
        "likes": 11,
        "comments": null
       },
@@ -254,10 +254,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 38,
+      "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2747,
+      "likes_recent": 2865,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -268,7 +268,7 @@
        "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
        "published": "2026-11-22T21:04:17+0000",
        "type": "VIDEO",
-       "likes": 5,
+       "likes": 123,
        "comments": 0,
        "views": null
       },
@@ -278,7 +278,7 @@
        "url": "https://www.instagram.com/reel/DgDFiZJBLtS/",
        "published": "2026-11-22T15:06:15+0000",
        "type": "VIDEO",
-       "likes": 116,
+       "likes": 117,
        "comments": 0,
        "views": null
       },
@@ -308,7 +308,7 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 236,
+       "likes": 235,
        "comments": 2,
        "views": null
       },
@@ -801,7 +801,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9869
+      "views_recent": 9872
      },
      "posts": [
       {
@@ -836,7 +836,7 @@
        "title": "رهف بالصف! | بيت أبو حمزة — شورت 01",
        "url": "https://youtube.com/shorts/uLKPXVYHdoE",
        "published": "2026-11-02T11:45:06+00:00",
-       "views": 2288,
+       "views": 2291,
        "likes": 29,
        "comments": null
       },
@@ -895,8 +895,8 @@
       "followers": 5,
       "views": 464,
       "posts_count": 13,
-      "views_recent": 467,
-      "likes_recent": 8,
+      "views_recent": 469,
+      "likes_recent": 9,
       "comments_recent": 0
      },
      "posts": [
@@ -905,8 +905,8 @@
        "title": "Automate Live Market & Price Alerts With Crawl4AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/M1BCY0bJIgI",
        "published": "2026-11-22T10:32:39Z",
-       "views": 0,
-       "likes": 0,
+       "views": 2,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -2826,7 +2826,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6011
+    "views_recent": 6013
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2837,10 +2837,10 @@
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 38,
+    "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2747,
+    "likes_recent": 2865,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2862,14 +2862,14 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9869
+    "views_recent": 9872
    },
    "AI/youtube": {
     "followers": 5,
     "views": 464,
     "posts_count": 13,
-    "views_recent": 467,
-    "likes_recent": 8,
+    "views_recent": 469,
+    "likes_recent": 9,
     "comments_recent": 0
    },
    "Shifa/youtube": {
