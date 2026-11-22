@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:27:09+03:00",
+ "generated_at": "2026-11-22T06:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 26,
       "posts_count": 5,
-      "views_recent": 95,
+      "views_recent": 101,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 10,
+       "views": 15,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 40,
+       "views": 41,
        "likes": 2,
        "comments": 0
       },
@@ -684,12 +684,21 @@
      "totals": {
       "followers": 5,
       "views": 608,
-      "posts_count": 7,
+      "posts_count": 8,
       "views_recent": 694,
       "likes_recent": 56,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "T-8XpalkOq0",
+       "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/T-8XpalkOq0",
+       "published": "2026-11-22T02:33:14Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "5mWdJBbvITE",
        "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
@@ -1000,7 +1009,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1098,
+      "views_recent": 1102,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -1010,7 +1019,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 96,
+       "views": 100,
        "likes": 3,
        "comments": 0
       },
@@ -2736,7 +2745,7 @@
     "followers": 1,
     "views": 26,
     "posts_count": 5,
-    "views_recent": 95,
+    "views_recent": 101,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -2757,7 +2766,7 @@
    "Sunnah/youtube": {
     "followers": 5,
     "views": 608,
-    "posts_count": 7,
+    "posts_count": 8,
     "views_recent": 694,
     "likes_recent": 56,
     "comments_recent": 0
@@ -2780,7 +2789,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1098,
+    "views_recent": 1102,
     "likes_recent": 25,
     "comments_recent": 0
    }
