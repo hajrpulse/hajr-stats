@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:27:10+03:00",
+ "generated_at": "2026-11-22T09:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 26,
+      "views": 33,
       "posts_count": 5,
-      "views_recent": 103,
+      "views_recent": 106,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 41,
+       "views": 44,
        "likes": 2,
        "comments": 0
       },
@@ -685,8 +685,8 @@
       "followers": 5,
       "views": 608,
       "posts_count": 8,
-      "views_recent": 732,
-      "likes_recent": 60,
+      "views_recent": 764,
+      "likes_recent": 63,
       "comments_recent": 0
      },
      "posts": [
@@ -695,8 +695,8 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 38,
-       "likes": 4,
+       "views": 70,
+       "likes": 7,
        "comments": 0
       },
       {
@@ -2743,9 +2743,9 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 26,
+    "views": 33,
     "posts_count": 5,
-    "views_recent": 103,
+    "views_recent": 106,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -2767,8 +2767,8 @@
     "followers": 5,
     "views": 608,
     "posts_count": 8,
-    "views_recent": 732,
-    "likes_recent": 60,
+    "views_recent": 764,
+    "likes_recent": 63,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
