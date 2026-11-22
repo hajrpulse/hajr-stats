@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:27:13+03:00",
+ "generated_at": "2026-11-22T03:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 26,
       "posts_count": 5,
-      "views_recent": 92,
+      "views_recent": 95,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 8,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 39,
+       "views": 40,
        "likes": 2,
        "comments": 0
       },
@@ -236,11 +236,11 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 34,
+      "followers": 35,
       "following": 0,
       "posts_count": 24,
-      "likes_recent": 2741,
-      "comments_recent": 20,
+      "likes_recent": 2761,
+      "comments_recent": 23,
       "views_recent": null
      },
      "posts": [
@@ -250,8 +250,8 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 115,
-       "comments": 1,
+       "likes": 134,
+       "comments": 4,
        "views": null
       },
       {
@@ -260,7 +260,7 @@
        "url": "https://www.instagram.com/reel/DgAgchBBrB8/",
        "published": "2026-11-21T15:03:30+0000",
        "type": "VIDEO",
-       "likes": 127,
+       "likes": 128,
        "comments": 0,
        "views": null
       },
@@ -774,7 +774,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9845
+      "views_recent": 9846
      },
      "posts": [
       {
@@ -791,7 +791,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6875,
+       "views": 6876,
        "likes": 127,
        "comments": null
       },
@@ -1000,7 +1000,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1091,
+      "views_recent": 1098,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -1010,7 +1010,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 89,
+       "views": 96,
        "likes": 3,
        "comments": 0
       },
@@ -2736,16 +2736,16 @@
     "followers": 1,
     "views": 26,
     "posts_count": 5,
-    "views_recent": 92,
+    "views_recent": 95,
     "likes_recent": 3,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 34,
+    "followers": 35,
     "following": 0,
     "posts_count": 24,
-    "likes_recent": 2741,
-    "comments_recent": 20,
+    "likes_recent": 2761,
+    "comments_recent": 23,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2766,7 +2766,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9845
+    "views_recent": 9846
    },
    "AI/youtube": {
     "followers": 5,
@@ -2780,7 +2780,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1091,
+    "views_recent": 1098,
     "likes_recent": 25,
     "comments_recent": 0
    }
