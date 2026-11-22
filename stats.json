@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:27:12+03:00",
+ "generated_at": "2026-11-22T16:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -685,7 +685,7 @@
       "followers": 6,
       "views": 609,
       "posts_count": 8,
-      "views_recent": 821,
+      "views_recent": 822,
       "likes_recent": 66,
       "comments_recent": 0
      },
@@ -695,7 +695,7 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 127,
+       "views": 128,
        "likes": 10,
        "comments": 0
       },
@@ -783,7 +783,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9860
+      "views_recent": 9861
      },
      "posts": [
       {
@@ -800,7 +800,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6876,
+       "views": 6877,
        "likes": 127,
        "comments": null
       },
@@ -877,7 +877,7 @@
       "followers": 5,
       "views": 449,
       "posts_count": 13,
-      "views_recent": 461,
+      "views_recent": 465,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -914,7 +914,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 182,
+       "views": 185,
        "likes": 1,
        "comments": 0
       },
@@ -923,7 +923,7 @@
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/ucCS6vk3DLw",
        "published": "2026-11-18T10:32:06Z",
-       "views": 4,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -2776,7 +2776,7 @@
     "followers": 6,
     "views": 609,
     "posts_count": 8,
-    "views_recent": 821,
+    "views_recent": 822,
     "likes_recent": 66,
     "comments_recent": 0
    },
@@ -2784,13 +2784,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9860
+    "views_recent": 9861
    },
    "AI/youtube": {
     "followers": 5,
     "views": 449,
     "posts_count": 13,
-    "views_recent": 461,
+    "views_recent": 465,
     "likes_recent": 7,
     "comments_recent": 0
    },
