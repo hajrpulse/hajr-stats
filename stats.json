@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:27:12+03:00",
+ "generated_at": "2026-11-22T15:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 33,
       "posts_count": 5,
-      "views_recent": 127,
+      "views_recent": 134,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 32,
+       "views": 37,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 49,
+       "views": 50,
        "likes": 2,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 13,
+       "views": 14,
        "likes": 1,
        "comments": 0
       },
@@ -685,7 +685,7 @@
       "followers": 6,
       "views": 609,
       "posts_count": 8,
-      "views_recent": 807,
+      "views_recent": 821,
       "likes_recent": 66,
       "comments_recent": 0
      },
@@ -695,7 +695,7 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 113,
+       "views": 127,
        "likes": 10,
        "comments": 0
       },
@@ -783,7 +783,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9858
+      "views_recent": 9860
      },
      "posts": [
       {
@@ -836,7 +836,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 75,
+       "views": 77,
        "likes": 9,
        "comments": null
       },
@@ -877,7 +877,7 @@
       "followers": 5,
       "views": 449,
       "posts_count": 13,
-      "views_recent": 464,
+      "views_recent": 461,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -914,7 +914,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 185,
+       "views": 182,
        "likes": 1,
        "comments": 0
       },
@@ -2754,7 +2754,7 @@
     "followers": 1,
     "views": 33,
     "posts_count": 5,
-    "views_recent": 127,
+    "views_recent": 134,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -2776,7 +2776,7 @@
     "followers": 6,
     "views": 609,
     "posts_count": 8,
-    "views_recent": 807,
+    "views_recent": 821,
     "likes_recent": 66,
     "comments_recent": 0
    },
@@ -2784,13 +2784,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9858
+    "views_recent": 9860
    },
    "AI/youtube": {
     "followers": 5,
     "views": 449,
     "posts_count": 13,
-    "views_recent": 464,
+    "views_recent": 461,
     "likes_recent": 7,
     "comments_recent": 0
    },
