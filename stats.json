@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T04:27:09+03:00",
+ "generated_at": "2026-11-22T05:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -239,7 +239,7 @@
       "followers": 35,
       "following": 0,
       "posts_count": 24,
-      "likes_recent": 2763,
+      "likes_recent": 2765,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -250,7 +250,7 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 136,
+       "likes": 138,
        "comments": 4,
        "views": null
       },
@@ -868,7 +868,7 @@
       "followers": 5,
       "views": 436,
       "posts_count": 12,
-      "views_recent": 458,
+      "views_recent": 459,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -896,7 +896,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 180,
+       "views": 181,
        "likes": 1,
        "comments": 0
       },
@@ -1000,7 +1000,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1099,
+      "views_recent": 1098,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -1010,7 +1010,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 97,
+       "views": 96,
        "likes": 3,
        "comments": 0
       },
@@ -2744,7 +2744,7 @@
     "followers": 35,
     "following": 0,
     "posts_count": 24,
-    "likes_recent": 2763,
+    "likes_recent": 2765,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2772,7 +2772,7 @@
     "followers": 5,
     "views": 436,
     "posts_count": 12,
-    "views_recent": 458,
+    "views_recent": 459,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2780,7 +2780,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1099,
+    "views_recent": 1098,
     "likes_recent": 25,
     "comments_recent": 0
    }
