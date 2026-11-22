@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:27:10+03:00",
+ "generated_at": "2026-11-22T13:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -239,7 +239,7 @@
       "followers": 35,
       "following": 0,
       "posts_count": 24,
-      "likes_recent": 2766,
+      "likes_recent": 2767,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -250,7 +250,7 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 139,
+       "likes": 140,
        "comments": 4,
        "views": null
       },
@@ -685,8 +685,8 @@
       "followers": 6,
       "views": 609,
       "posts_count": 8,
-      "views_recent": 800,
-      "likes_recent": 65,
+      "views_recent": 807,
+      "likes_recent": 66,
       "comments_recent": 0
      },
      "posts": [
@@ -695,8 +695,8 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 106,
-       "likes": 9,
+       "views": 113,
+       "likes": 10,
        "comments": 0
       },
       {
@@ -783,7 +783,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9857
+      "views_recent": 9858
      },
      "posts": [
       {
@@ -854,7 +854,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 207,
+       "views": 208,
        "likes": 12,
        "comments": null
       }
@@ -1009,7 +1009,7 @@
       "followers": 10,
       "views": 771,
       "posts_count": 3,
-      "views_recent": 1104,
+      "views_recent": 1107,
       "likes_recent": 25,
       "comments_recent": 0
      },
@@ -1019,7 +1019,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 102,
+       "views": 105,
        "likes": 3,
        "comments": 0
       },
@@ -2753,7 +2753,7 @@
     "followers": 35,
     "following": 0,
     "posts_count": 24,
-    "likes_recent": 2766,
+    "likes_recent": 2767,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2767,15 +2767,15 @@
     "followers": 6,
     "views": 609,
     "posts_count": 8,
-    "views_recent": 800,
-    "likes_recent": 65,
+    "views_recent": 807,
+    "likes_recent": 66,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9857
+    "views_recent": 9858
    },
    "AI/youtube": {
     "followers": 5,
@@ -2789,7 +2789,7 @@
     "followers": 10,
     "views": 771,
     "posts_count": 3,
-    "views_recent": 1104,
+    "views_recent": 1107,
     "likes_recent": 25,
     "comments_recent": 0
    }
