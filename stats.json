@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:27:10+03:00",
+ "generated_at": "2026-11-22T11:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 33,
       "posts_count": 5,
-      "views_recent": 111,
+      "views_recent": 110,
       "likes_recent": 3,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 21,
+       "views": 20,
        "likes": 0,
        "comments": 0
       },
@@ -783,7 +783,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9851
+      "views_recent": 9853
      },
      "posts": [
       {
@@ -854,7 +854,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 203,
+       "views": 205,
        "likes": 12,
        "comments": null
       }
@@ -875,7 +875,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 436,
+      "views": 449,
       "posts_count": 12,
       "views_recent": 459,
       "likes_recent": 7,
@@ -2745,7 +2745,7 @@
     "followers": 1,
     "views": 33,
     "posts_count": 5,
-    "views_recent": 111,
+    "views_recent": 110,
     "likes_recent": 3,
     "comments_recent": 0
    },
@@ -2775,11 +2775,11 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9851
+    "views_recent": 9853
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 436,
+    "views": 449,
     "posts_count": 12,
     "views_recent": 459,
     "likes_recent": 7,
