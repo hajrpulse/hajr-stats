@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:27:09+03:00",
+ "generated_at": "2026-11-23T00:27:14+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 5715
+      "views_recent": 6011
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 822,
-       "likes": 10,
+       "views": 1117,
+       "likes": 9,
        "comments": null
       },
       {
@@ -54,7 +54,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1279,
+       "views": 1280,
        "likes": 11,
        "comments": null
       },
@@ -175,12 +175,21 @@
      "totals": {
       "followers": 1,
       "views": 97,
-      "posts_count": 6,
-      "views_recent": 167,
-      "likes_recent": 4,
+      "posts_count": 7,
+      "views_recent": 169,
+      "likes_recent": 5,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "aEPBj7CMU48",
+       "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
+       "url": "https://youtube.com/shorts/aEPBj7CMU48",
+       "published": "2026-11-22T21:02:52Z",
+       "views": 1,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "G8I7vC4WfOc",
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
@@ -195,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 60,
+       "views": 61,
        "likes": 0,
        "comments": 0
       },
@@ -247,19 +256,29 @@
      "totals": {
       "followers": 38,
       "following": 0,
-      "posts_count": 25,
-      "likes_recent": 2864,
+      "posts_count": 26,
+      "likes_recent": 2747,
       "comments_recent": 23,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18137652340738820",
+       "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 36-38\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
+       "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
+       "published": "2026-11-22T21:04:17+0000",
+       "type": "VIDEO",
+       "likes": 5,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17966483337230427",
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 34-35\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
        "url": "https://www.instagram.com/reel/DgDFiZJBLtS/",
        "published": "2026-11-22T15:06:15+0000",
        "type": "VIDEO",
-       "likes": 112,
+       "likes": 116,
        "comments": 0,
        "views": null
       },
@@ -442,16 +461,6 @@
        "likes": 142,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18444815440176190",
-       "title": "سورة البقرة (20-21) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 20-21\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
-       "url": "https://www.instagram.com/reel/DfnZv3qM6og/",
-       "published": "2026-11-11T21:03:40+0000",
-       "type": "VIDEO",
-       "likes": 126,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -468,6 +477,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "17957569410277127",
+       "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 36-38\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthma",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgDuuwXx7PY",
+       "published": "2026-11-22T21:05:45+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18109948244308306",
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 34-35\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
@@ -657,16 +676,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "18645440494055914",
-       "title": "سورة البقرة (20-21) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 20-21\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfnZ660KkVE",
-       "published": "2026-11-11T21:05:19+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -792,7 +801,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9866
+      "views_recent": 9869
      },
      "posts": [
       {
@@ -809,7 +818,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6877,
+       "views": 6880,
        "likes": 127,
        "comments": null
       },
@@ -2794,6 +2803,66 @@
     "views": null,
     "posts_count": null,
     "views_recent": 9866
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 464,
+    "posts_count": 13,
+    "views_recent": 467,
+    "likes_recent": 8,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 10,
+    "views": 876,
+    "posts_count": 3,
+    "views_recent": 1110,
+    "likes_recent": 25,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-23": {
+   "Pulse/youtube": {
+    "followers": 8,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 6011
+   },
+   "Quran/youtube": {
+    "followers": 1,
+    "views": 97,
+    "posts_count": 7,
+    "views_recent": 169,
+    "likes_recent": 5,
+    "comments_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 38,
+    "following": 0,
+    "posts_count": 26,
+    "likes_recent": 2747,
+    "comments_recent": 23,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 6,
+    "views": 671,
+    "posts_count": 8,
+    "views_recent": 824,
+    "likes_recent": 66,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9869
    },
    "AI/youtube": {
     "followers": 5,
