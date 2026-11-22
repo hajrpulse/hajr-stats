@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:27:13+03:00",
+ "generated_at": "2026-11-22T22:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 5283
+      "views_recent": 5668
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 390,
-       "likes": 4,
+       "views": 775,
+       "likes": 10,
        "comments": null
       },
       {
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 33,
+      "views": 97,
       "posts_count": 6,
-      "views_recent": 163,
+      "views_recent": 166,
       "likes_recent": 4,
       "comments_recent": 0
      },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 53,
+       "views": 54,
        "likes": 2,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 15,
+       "views": 16,
        "likes": 1,
        "comments": 0
       },
@@ -231,7 +231,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 33,
+       "views": 34,
        "likes": 0,
        "comments": 0
       }
@@ -245,10 +245,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 37,
+      "followers": 38,
       "following": 0,
       "posts_count": 25,
-      "likes_recent": 2846,
+      "likes_recent": 2862,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -259,7 +259,7 @@
        "url": "https://www.instagram.com/reel/DgDFiZJBLtS/",
        "published": "2026-11-22T15:06:15+0000",
        "type": "VIDEO",
-       "likes": 94,
+       "likes": 110,
        "comments": 0,
        "views": null
       },
@@ -692,9 +692,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 6,
-      "views": 609,
+      "views": 671,
       "posts_count": 8,
-      "views_recent": 820,
+      "views_recent": 824,
       "likes_recent": 66,
       "comments_recent": 0
      },
@@ -704,7 +704,7 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 126,
+       "views": 129,
        "likes": 10,
        "comments": 0
       },
@@ -758,7 +758,7 @@
        "title": "Love for Your Brother What You Love for Yourself | Sahih Bukhari & Muslim #Shorts",
        "url": "https://youtube.com/shorts/mhAa-KvDONk",
        "published": "2026-11-16T02:33:08Z",
-       "views": 91,
+       "views": 92,
        "likes": 11,
        "comments": 0
       },
@@ -884,7 +884,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 449,
+      "views": 464,
       "posts_count": 13,
       "views_recent": 467,
       "likes_recent": 8,
@@ -2757,21 +2757,21 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 5283
+    "views_recent": 5668
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 33,
+    "views": 97,
     "posts_count": 6,
-    "views_recent": 163,
+    "views_recent": 166,
     "likes_recent": 4,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 37,
+    "followers": 38,
     "following": 0,
     "posts_count": 25,
-    "likes_recent": 2846,
+    "likes_recent": 2862,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2783,9 +2783,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 6,
-    "views": 609,
+    "views": 671,
     "posts_count": 8,
-    "views_recent": 820,
+    "views_recent": 824,
     "likes_recent": 66,
     "comments_recent": 0
    },
@@ -2797,7 +2797,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 449,
+    "views": 464,
     "posts_count": 13,
     "views_recent": 467,
     "likes_recent": 8,
