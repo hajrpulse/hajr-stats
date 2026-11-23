@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:27:09+03:00",
+ "generated_at": "2026-11-23T06:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -702,12 +702,21 @@
      "totals": {
       "followers": 6,
       "views": 671,
-      "posts_count": 8,
+      "posts_count": 9,
       "views_recent": 824,
       "likes_recent": 66,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "ISceyd0j0gU",
+       "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/ISceyd0j0gU",
+       "published": "2026-11-23T02:32:10Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "T-8XpalkOq0",
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
@@ -801,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9872
+      "views_recent": 9875
      },
      "posts": [
       {
@@ -845,7 +854,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 91,
+       "views": 94,
        "likes": 10,
        "comments": null
       },
@@ -893,7 +902,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 464,
+      "views": 469,
       "posts_count": 13,
       "views_recent": 474,
       "likes_recent": 9,
@@ -2853,7 +2862,7 @@
    "Sunnah/youtube": {
     "followers": 6,
     "views": 671,
-    "posts_count": 8,
+    "posts_count": 9,
     "views_recent": 824,
     "likes_recent": 66,
     "comments_recent": 0
@@ -2862,11 +2871,11 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9872
+    "views_recent": 9875
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 464,
+    "views": 469,
     "posts_count": 13,
     "views_recent": 474,
     "likes_recent": 9,
