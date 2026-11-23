@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:27:10+03:00",
+ "generated_at": "2026-11-23T09:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 181,
+      "views_recent": 182,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 3,
+       "views": 4,
        "likes": 1,
        "comments": 0
       },
@@ -257,7 +257,7 @@
       "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2956,
+      "likes_recent": 2957,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -268,7 +268,7 @@
        "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
        "published": "2026-11-22T21:04:17+0000",
        "type": "VIDEO",
-       "likes": 215,
+       "likes": 216,
        "comments": 0,
        "views": null
       },
@@ -701,10 +701,10 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 6,
-      "views": 671,
+      "views": 672,
       "posts_count": 9,
-      "views_recent": 844,
-      "likes_recent": 71,
+      "views_recent": 848,
+      "likes_recent": 70,
       "comments_recent": 0
      },
      "posts": [
@@ -713,8 +713,8 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 20,
-       "likes": 5,
+       "views": 24,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -810,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9876
+      "views_recent": 9877
      },
      "posts": [
       {
@@ -854,7 +854,7 @@
        "title": "سيدي وستي جايين! | بيت أبو حمزة — الحلقة 3",
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
-       "views": 94,
+       "views": 95,
        "likes": 11,
        "comments": null
       },
@@ -1042,11 +1042,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 10,
+      "followers": 12,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1110,
-      "likes_recent": 26,
+      "views_recent": 1222,
+      "likes_recent": 37,
       "comments_recent": 0
      },
      "posts": [
@@ -1055,8 +1055,8 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 0,
-       "likes": 1,
+       "views": 112,
+       "likes": 12,
        "comments": 0
       },
       {
@@ -2850,7 +2850,7 @@
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 181,
+    "views_recent": 182,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2858,7 +2858,7 @@
     "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2956,
+    "likes_recent": 2957,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2870,17 +2870,17 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 6,
-    "views": 671,
+    "views": 672,
     "posts_count": 9,
-    "views_recent": 844,
-    "likes_recent": 71,
+    "views_recent": 848,
+    "likes_recent": 70,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9876
+    "views_recent": 9877
    },
    "AI/youtube": {
     "followers": 5,
@@ -2891,11 +2891,11 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 10,
+    "followers": 12,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1110,
-    "likes_recent": 26,
+    "views_recent": 1222,
+    "likes_recent": 37,
     "comments_recent": 0
    }
   }
