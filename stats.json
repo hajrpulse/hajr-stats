@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:27:12+03:00",
+ "generated_at": "2026-11-23T17:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6031
+      "views_recent": 6034
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
        "url": "https://youtube.com/shorts/xjDp1T_NBWA",
        "published": "2026-11-21T16:00:27+00:00",
-       "views": 186,
+       "views": 189,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 197,
+      "views_recent": 200,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 9,
+       "views": 12,
        "likes": 2,
        "comments": 0
       },
@@ -257,7 +257,7 @@
       "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2959,
+      "likes_recent": 2961,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -278,7 +278,7 @@
        "url": "https://www.instagram.com/reel/DgDFiZJBLtS/",
        "published": "2026-11-22T15:06:15+0000",
        "type": "VIDEO",
-       "likes": 117,
+       "likes": 118,
        "comments": 0,
        "views": null
       },
@@ -308,7 +308,7 @@
        "url": "https://www.instagram.com/reel/Df-k4WRBfy-/",
        "published": "2026-11-20T21:03:28+0000",
        "type": "VIDEO",
-       "likes": 235,
+       "likes": 236,
        "comments": 2,
        "views": null
       },
@@ -703,7 +703,7 @@
       "followers": 6,
       "views": 672,
       "posts_count": 9,
-      "views_recent": 861,
+      "views_recent": 868,
       "likes_recent": 72,
       "comments_recent": 0
      },
@@ -713,7 +713,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 36,
+       "views": 41,
        "likes": 6,
        "comments": 0
       },
@@ -722,7 +722,7 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 129,
+       "views": 131,
        "likes": 10,
        "comments": 0
       },
@@ -2853,13 +2853,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6031
+    "views_recent": 6034
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 197,
+    "views_recent": 200,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2867,7 +2867,7 @@
     "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2959,
+    "likes_recent": 2961,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2881,7 +2881,7 @@
     "followers": 6,
     "views": 672,
     "posts_count": 9,
-    "views_recent": 861,
+    "views_recent": 868,
     "likes_recent": 72,
     "comments_recent": 0
    },
