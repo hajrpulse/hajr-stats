@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:27:09+03:00",
+ "generated_at": "2026-11-23T23:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6916
+      "views_recent": 7261
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 881,
-       "likes": 9,
+       "views": 1226,
+       "likes": 7,
        "comments": null
       },
       {
@@ -174,7 +174,7 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 106,
+      "views": 181,
       "posts_count": 8,
       "views_recent": 218,
       "likes_recent": 6,
@@ -710,7 +710,7 @@
       "followers": 6,
       "views": 672,
       "posts_count": 9,
-      "views_recent": 866,
+      "views_recent": 867,
       "likes_recent": 72,
       "comments_recent": 0
      },
@@ -720,7 +720,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 39,
+       "views": 40,
        "likes": 6,
        "comments": 0
       },
@@ -1061,7 +1061,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1427,
+      "views_recent": 1430,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1071,7 +1071,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 316,
+       "views": 319,
        "likes": 18,
        "comments": 0
       },
@@ -2860,11 +2860,11 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6916
+    "views_recent": 7261
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 106,
+    "views": 181,
     "posts_count": 8,
     "views_recent": 218,
     "likes_recent": 6,
@@ -2888,7 +2888,7 @@
     "followers": 6,
     "views": 672,
     "posts_count": 9,
-    "views_recent": 866,
+    "views_recent": 867,
     "likes_recent": 72,
     "comments_recent": 0
    },
@@ -2910,7 +2910,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1427,
+    "views_recent": 1430,
     "likes_recent": 43,
     "comments_recent": 0
    }
