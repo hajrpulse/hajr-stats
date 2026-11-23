@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:27:09+03:00",
+ "generated_at": "2026-11-23T13:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6024
+      "views_recent": 6027
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1129,
+       "views": 1131,
        "likes": 9,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
        "url": "https://youtube.com/shorts/xjDp1T_NBWA",
        "published": "2026-11-21T16:00:27+00:00",
-       "views": 185,
+       "views": 186,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 186,
+      "views_recent": 188,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 4,
+       "views": 5,
        "likes": 1,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 67,
+       "views": 68,
        "likes": 0,
        "comments": 0
       },
@@ -810,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9881
+      "views_recent": 9882
      },
      "posts": [
       {
@@ -827,7 +827,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6881,
+       "views": 6882,
        "likes": 127,
        "comments": null
       },
@@ -904,7 +904,7 @@
       "followers": 5,
       "views": 469,
       "posts_count": 11,
-      "views_recent": 475,
+      "views_recent": 480,
       "likes_recent": 9,
       "comments_recent": 0
      },
@@ -914,7 +914,7 @@
        "title": "Automate Live Market & Price Alerts With Crawl4AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/M1BCY0bJIgI",
        "published": "2026-11-22T10:32:39Z",
-       "views": 2,
+       "views": 5,
        "likes": 1,
        "comments": 0
       },
@@ -941,7 +941,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 188,
+       "views": 190,
        "likes": 1,
        "comments": 0
       },
@@ -1045,7 +1045,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1362,
+      "views_recent": 1397,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1055,7 +1055,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 252,
+       "views": 287,
        "likes": 18,
        "comments": 0
       },
@@ -2844,13 +2844,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6024
+    "views_recent": 6027
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 186,
+    "views_recent": 188,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2880,13 +2880,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9881
+    "views_recent": 9882
    },
    "AI/youtube": {
     "followers": 5,
     "views": 469,
     "posts_count": 11,
-    "views_recent": 475,
+    "views_recent": 480,
     "likes_recent": 9,
     "comments_recent": 0
    },
@@ -2894,7 +2894,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1362,
+    "views_recent": 1397,
     "likes_recent": 43,
     "comments_recent": 0
    }
