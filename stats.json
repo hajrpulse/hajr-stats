@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:27:09+03:00",
+ "generated_at": "2026-11-23T19:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,15 +19,24 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6035
+      "views_recent": 6030
      },
      "posts": [
+      {
+       "id": "ax4zeBtRu6k",
+       "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
+       "url": "https://youtube.com/shorts/ax4zeBtRu6k",
+       "published": "2026-11-23T16:00:24+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "ix0HEYurw-M",
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1135,
+       "views": 1136,
        "likes": 9,
        "comments": null
       },
@@ -147,15 +156,6 @@
        "views": 13,
        "likes": 0,
        "comments": null
-      },
-      {
-       "id": "TC-cIJk5gT8",
-       "title": "How the 1% Rule & Rule of 72 Multiply Your Skills & Wealth! 📈💡 | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/TC-cIJk5gT8",
-       "published": "2026-10-27T06:32:45+00:00",
-       "views": 6,
-       "likes": 1,
-       "comments": null
       }
      ]
     }
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 8,
-      "views_recent": 204,
+      "views_recent": 207,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 12,
+       "views": 13,
        "likes": 2,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 77,
+       "views": 79,
        "likes": 0,
        "comments": 0
       },
@@ -263,7 +263,7 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 39,
+      "followers": 38,
       "following": 0,
       "posts_count": 27,
       "likes_recent": 2819,
@@ -817,7 +817,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9883
+      "views_recent": 9884
      },
      "posts": [
       {
@@ -888,7 +888,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 212,
+       "views": 213,
        "likes": 13,
        "comments": null
       }
@@ -911,7 +911,7 @@
       "followers": 5,
       "views": 469,
       "posts_count": 14,
-      "views_recent": 482,
+      "views_recent": 483,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -975,7 +975,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 16,
+       "views": 17,
        "likes": 1,
        "comments": 0
       },
@@ -2860,18 +2860,18 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6035
+    "views_recent": 6030
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 8,
-    "views_recent": 204,
+    "views_recent": 207,
     "likes_recent": 6,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 39,
+    "followers": 38,
     "following": 0,
     "posts_count": 27,
     "likes_recent": 2819,
@@ -2896,13 +2896,13 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9883
+    "views_recent": 9884
    },
    "AI/youtube": {
     "followers": 5,
     "views": 469,
     "posts_count": 14,
-    "views_recent": 482,
+    "views_recent": 483,
     "likes_recent": 10,
     "comments_recent": 0
    },
