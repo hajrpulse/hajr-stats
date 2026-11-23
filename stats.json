@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:27:09+03:00",
+ "generated_at": "2026-11-23T20:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6030
+      "views_recent": 6351
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 0,
-       "likes": 0,
+       "views": 321,
+       "likes": 4,
        "comments": null
       },
       {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 8,
-      "views_recent": 207,
+      "views_recent": 209,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 0,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -2860,13 +2860,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6030
+    "views_recent": 6351
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 8,
-    "views_recent": 207,
+    "views_recent": 209,
     "likes_recent": 6,
     "comments_recent": 0
    },
