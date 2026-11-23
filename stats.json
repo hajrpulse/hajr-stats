@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:27:09+03:00",
+ "generated_at": "2026-11-23T07:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6018
+      "views_recent": 6019
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1124,
+       "views": 1125,
        "likes": 9,
        "comments": null
       },
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 97,
+      "views": 106,
       "posts_count": 7,
-      "views_recent": 176,
+      "views_recent": 180,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 2,
+       "views": 3,
        "likes": 1,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 64,
+       "views": 67,
        "likes": 0,
        "comments": 0
       },
@@ -703,8 +703,8 @@
       "followers": 6,
       "views": 671,
       "posts_count": 9,
-      "views_recent": 824,
-      "likes_recent": 66,
+      "views_recent": 840,
+      "likes_recent": 69,
       "comments_recent": 0
      },
      "posts": [
@@ -713,8 +713,8 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 0,
-       "likes": 0,
+       "views": 16,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -810,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9875
+      "views_recent": 9876
      },
      "posts": [
       {
@@ -827,7 +827,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6880,
+       "views": 6881,
        "likes": 127,
        "comments": null
       },
@@ -837,7 +837,7 @@
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
        "views": 69,
-       "likes": 7,
+       "likes": 8,
        "comments": null
       },
       {
@@ -855,7 +855,7 @@
        "url": "https://youtube.com/shorts/WVQYQ2I0Xv4",
        "published": "2026-11-01T04:22:24+00:00",
        "views": 94,
-       "likes": 10,
+       "likes": 11,
        "comments": null
       },
       {
@@ -864,7 +864,7 @@
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
        "views": 78,
-       "likes": 9,
+       "likes": 10,
        "comments": null
       },
       {
@@ -2835,13 +2835,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6018
+    "views_recent": 6019
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 97,
+    "views": 106,
     "posts_count": 7,
-    "views_recent": 176,
+    "views_recent": 180,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2863,15 +2863,15 @@
     "followers": 6,
     "views": 671,
     "posts_count": 9,
-    "views_recent": 824,
-    "likes_recent": 66,
+    "views_recent": 840,
+    "likes_recent": 69,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9875
+    "views_recent": 9876
    },
    "AI/youtube": {
     "followers": 5,
