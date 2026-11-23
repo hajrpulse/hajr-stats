@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:27:10+03:00",
+ "generated_at": "2026-11-23T08:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 180,
+      "views_recent": 181,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 56,
+       "views": 57,
        "likes": 2,
        "comments": 0
       },
@@ -703,8 +703,8 @@
       "followers": 6,
       "views": 671,
       "posts_count": 9,
-      "views_recent": 840,
-      "likes_recent": 69,
+      "views_recent": 844,
+      "likes_recent": 71,
       "comments_recent": 0
      },
      "posts": [
@@ -713,8 +713,8 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 16,
-       "likes": 3,
+       "views": 20,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -1043,13 +1043,22 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 10,
-      "views": 876,
-      "posts_count": 3,
+      "views": 879,
+      "posts_count": 4,
       "views_recent": 1110,
-      "likes_recent": 25,
+      "likes_recent": 26,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "R9Dh1mhutJY",
+       "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
+       "url": "https://youtube.com/shorts/R9Dh1mhutJY",
+       "published": "2026-11-23T04:32:32Z",
+       "views": 0,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "yVyxd58khtQ",
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
@@ -2841,7 +2850,7 @@
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 180,
+    "views_recent": 181,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2863,8 +2872,8 @@
     "followers": 6,
     "views": 671,
     "posts_count": 9,
-    "views_recent": 840,
-    "likes_recent": 69,
+    "views_recent": 844,
+    "likes_recent": 71,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2883,10 +2892,10 @@
    },
    "Shifa/youtube": {
     "followers": 10,
-    "views": 876,
-    "posts_count": 3,
+    "views": 879,
+    "posts_count": 4,
     "views_recent": 1110,
-    "likes_recent": 25,
+    "likes_recent": 26,
     "comments_recent": 0
    }
   }
