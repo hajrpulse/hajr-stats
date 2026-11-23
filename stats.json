@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:27:13+03:00",
+ "generated_at": "2026-11-23T22:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6912
+      "views_recent": 6916
      },
      "posts": [
       {
@@ -28,7 +28,7 @@
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
        "views": 881,
-       "likes": 10,
+       "likes": 9,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1137,
+       "views": 1140,
        "likes": 9,
        "comments": null
       },
@@ -117,8 +117,8 @@
        "title": "استراتيجية الذهب والأسواق العالمية والتمويل الحلال في ٢٠٢٦ (دليل شامل للمستثمر الذكي) | هجر بلس",
        "url": "https://youtube.com/shorts/eAHTF4PsgGQ",
        "published": "2026-11-06T00:33:57+00:00",
-       "views": 2,
-       "likes": 0,
+       "views": 3,
+       "likes": 1,
        "comments": null
       },
       {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 8,
-      "views_recent": 209,
+      "views_recent": 218,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 13,
+       "views": 15,
        "likes": 2,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 7,
+       "views": 9,
        "likes": 1,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 79,
+       "views": 84,
        "likes": 0,
        "comments": 0
       },
@@ -266,7 +266,7 @@
       "followers": 38,
       "following": 0,
       "posts_count": 27,
-      "likes_recent": 2819,
+      "likes_recent": 2820,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -277,7 +277,7 @@
        "url": "https://www.instagram.com/reel/DgFqLNxxCWc/",
        "published": "2026-11-23T15:04:51+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 1,
        "comments": 0,
        "views": null
       },
@@ -817,7 +817,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9884
+      "views_recent": 9885
      },
      "posts": [
       {
@@ -888,7 +888,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 213,
+       "views": 214,
        "likes": 13,
        "comments": null
       }
@@ -2860,13 +2860,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6912
+    "views_recent": 6916
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 8,
-    "views_recent": 209,
+    "views_recent": 218,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2874,7 +2874,7 @@
     "followers": 38,
     "following": 0,
     "posts_count": 27,
-    "likes_recent": 2819,
+    "likes_recent": 2820,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2896,7 +2896,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9884
+    "views_recent": 9885
    },
    "AI/youtube": {
     "followers": 5,
