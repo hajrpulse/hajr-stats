@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:27:09+03:00",
+ "generated_at": "2026-11-23T04:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6014
+      "views_recent": 6018
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1120,
+       "views": 1124,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 97,
       "posts_count": 7,
-      "views_recent": 172,
+      "views_recent": 174,
       "likes_recent": 5,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 62,
+       "views": 64,
        "likes": 0,
        "comments": 0
       },
@@ -257,7 +257,7 @@
       "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2954,
+      "likes_recent": 2956,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -268,7 +268,7 @@
        "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
        "published": "2026-11-22T21:04:17+0000",
        "type": "VIDEO",
-       "likes": 213,
+       "likes": 215,
        "comments": 0,
        "views": null
       },
@@ -2826,13 +2826,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6014
+    "views_recent": 6018
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 97,
     "posts_count": 7,
-    "views_recent": 172,
+    "views_recent": 174,
     "likes_recent": 5,
     "comments_recent": 0
    },
@@ -2840,7 +2840,7 @@
     "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2954,
+    "likes_recent": 2956,
     "comments_recent": 23,
     "views_recent": null
    },
