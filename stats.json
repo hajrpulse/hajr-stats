@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:27:09+03:00",
+ "generated_at": "2026-11-24T00:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7261
+      "views_recent": 7277
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1226,
+       "views": 1242,
        "likes": 7,
        "comments": null
       },
@@ -175,12 +175,21 @@
      "totals": {
       "followers": 1,
       "views": 181,
-      "posts_count": 8,
-      "views_recent": 218,
+      "posts_count": 9,
+      "views_recent": 219,
       "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "FSrcyU2ypqw",
+       "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
+       "url": "https://youtube.com/shorts/FSrcyU2ypqw",
+       "published": "2026-11-23T21:03:14Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "NjYYBMviKx4",
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
@@ -231,7 +240,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 57,
+       "views": 58,
        "likes": 2,
        "comments": 0
       },
@@ -265,12 +274,22 @@
      "totals": {
       "followers": 38,
       "following": 0,
-      "posts_count": 27,
-      "likes_recent": 2820,
-      "comments_recent": 23,
+      "posts_count": 28,
+      "likes_recent": 2628,
+      "comments_recent": 22,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "17925617919452120",
+       "title": "سورة البقرة (43-48) بصوت سعود الشريم\n\nسورة البقرة — الآيات 43-48\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
+       "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
+       "published": "2026-11-23T21:05:51+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18486687310113485",
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 39-42\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (qur",
@@ -460,16 +479,6 @@
        "likes": 14,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18098682521441331",
-       "title": "سورة البقرة (24) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 24\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
-       "url": "https://www.instagram.com/reel/DfsjKcQNf-E/",
-       "published": "2026-11-13T21:02:10+0000",
-       "type": "VIDEO",
-       "likes": 192,
-       "comments": 1,
-       "views": null
       }
      ]
     },
@@ -486,6 +495,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18140259472648197",
+       "title": "سورة البقرة (43-48) بصوت سعود الشريم\n\nسورة البقرة — الآيات 43-48\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgGTuobhc05",
+       "published": "2026-11-23T21:07:32+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18184672045431989",
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 39-42\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (qur",
@@ -675,16 +694,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "18122005324749238",
-       "title": "سورة البقرة (24) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 24\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfsjUaHBGyF",
-       "published": "2026-11-13T21:03:31+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -708,7 +717,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 6,
-      "views": 672,
+      "views": 696,
       "posts_count": 9,
       "views_recent": 867,
       "likes_recent": 72,
@@ -817,7 +826,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9885
+      "views_recent": 9887
      },
      "posts": [
       {
@@ -879,7 +888,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 175,
+       "views": 176,
        "likes": 18,
        "comments": null
       },
@@ -888,7 +897,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 214,
+       "views": 215,
        "likes": 13,
        "comments": null
       }
@@ -909,7 +918,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 469,
+      "views": 475,
       "posts_count": 14,
       "views_recent": 483,
       "likes_recent": 10,
@@ -2901,6 +2910,66 @@
    "AI/youtube": {
     "followers": 5,
     "views": 469,
+    "posts_count": 14,
+    "views_recent": 483,
+    "likes_recent": 10,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 13,
+    "views": 879,
+    "posts_count": 4,
+    "views_recent": 1430,
+    "likes_recent": 43,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-24": {
+   "Pulse/youtube": {
+    "followers": 8,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 7277
+   },
+   "Quran/youtube": {
+    "followers": 1,
+    "views": 181,
+    "posts_count": 9,
+    "views_recent": 219,
+    "likes_recent": 6,
+    "comments_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 38,
+    "following": 0,
+    "posts_count": 28,
+    "likes_recent": 2628,
+    "comments_recent": 22,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 6,
+    "views": 696,
+    "posts_count": 9,
+    "views_recent": 867,
+    "likes_recent": 72,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9887
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 475,
     "posts_count": 14,
     "views_recent": 483,
     "likes_recent": 10,
