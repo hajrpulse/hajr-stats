@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:27:09+03:00",
+ "generated_at": "2026-11-23T16:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 193,
+      "views_recent": 197,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 5,
+       "views": 6,
        "likes": 1,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 71,
+       "views": 74,
        "likes": 0,
        "comments": 0
       },
@@ -257,7 +257,7 @@
       "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2958,
+      "likes_recent": 2959,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -268,7 +268,7 @@
        "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
        "published": "2026-11-22T21:04:17+0000",
        "type": "VIDEO",
-       "likes": 216,
+       "likes": 217,
        "comments": 0,
        "views": null
       },
@@ -2859,7 +2859,7 @@
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 193,
+    "views_recent": 197,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2867,7 +2867,7 @@
     "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2958,
+    "likes_recent": 2959,
     "comments_recent": 23,
     "views_recent": null
    },
