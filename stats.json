@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:27:09+03:00",
+ "generated_at": "2026-11-24T01:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7277
+      "views_recent": 7282
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1242,
+       "views": 1247,
        "likes": 7,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 181,
       "posts_count": 9,
-      "views_recent": 219,
+      "views_recent": 228,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 84,
+       "views": 92,
        "likes": 0,
        "comments": 0
       },
@@ -275,7 +275,7 @@
       "followers": 38,
       "following": 0,
       "posts_count": 28,
-      "likes_recent": 2628,
+      "likes_recent": 2669,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -286,7 +286,7 @@
        "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
        "published": "2026-11-23T21:05:51+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 41,
        "comments": 0,
        "views": null
       },
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 696,
       "posts_count": 9,
-      "views_recent": 867,
+      "views_recent": 866,
       "likes_recent": 72,
       "comments_recent": 0
      },
@@ -747,7 +747,7 @@
        "title": "Loving the Prophet ﷺ Above All | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/5mWdJBbvITE",
        "published": "2026-11-21T02:33:39Z",
-       "views": 23,
+       "views": 22,
        "likes": 3,
        "comments": 0
       },
@@ -1070,7 +1070,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1430,
+      "views_recent": 1431,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1080,7 +1080,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 319,
+       "views": 320,
        "likes": 18,
        "comments": 0
       },
@@ -2929,13 +2929,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7277
+    "views_recent": 7282
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 181,
     "posts_count": 9,
-    "views_recent": 219,
+    "views_recent": 228,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2943,7 +2943,7 @@
     "followers": 38,
     "following": 0,
     "posts_count": 28,
-    "likes_recent": 2628,
+    "likes_recent": 2669,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -2957,7 +2957,7 @@
     "followers": 6,
     "views": 696,
     "posts_count": 9,
-    "views_recent": 867,
+    "views_recent": 866,
     "likes_recent": 72,
     "comments_recent": 0
    },
@@ -2979,7 +2979,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1430,
+    "views_recent": 1431,
     "likes_recent": 43,
     "comments_recent": 0
    }
