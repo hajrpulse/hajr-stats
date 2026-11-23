@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:27:09+03:00",
+ "generated_at": "2026-11-23T15:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6027
+      "views_recent": 6031
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1131,
+       "views": 1135,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 189,
+      "views_recent": 193,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 68,
+       "views": 71,
        "likes": 0,
        "comments": 0
       },
@@ -231,7 +231,7 @@
        "title": "سورة البقرة (28-29) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/iJTEr_yBDQE",
        "published": "2026-11-20T15:02:59Z",
-       "views": 16,
+       "views": 17,
        "likes": 1,
        "comments": 0
       },
@@ -905,7 +905,7 @@
       "views": 469,
       "posts_count": 14,
       "views_recent": 480,
-      "likes_recent": 9,
+      "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
@@ -978,7 +978,7 @@
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
        "views": 12,
-       "likes": 1,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -2853,13 +2853,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6027
+    "views_recent": 6031
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 189,
+    "views_recent": 193,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2896,7 +2896,7 @@
     "views": 469,
     "posts_count": 14,
     "views_recent": 480,
-    "likes_recent": 9,
+    "likes_recent": 10,
     "comments_recent": 0
    },
    "Shifa/youtube": {
