@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:27:10+03:00",
+ "generated_at": "2026-11-23T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 188,
+      "views_recent": 189,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 8,
+       "views": 9,
        "likes": 2,
        "comments": 0
       },
@@ -257,7 +257,7 @@
       "followers": 39,
       "following": 0,
       "posts_count": 26,
-      "likes_recent": 2957,
+      "likes_recent": 2958,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -288,7 +288,7 @@
        "url": "https://www.instagram.com/reel/DgBJwSfBZ4o/",
        "published": "2026-11-21T21:04:31+0000",
        "type": "VIDEO",
-       "likes": 141,
+       "likes": 142,
        "comments": 4,
        "views": null
       },
@@ -703,8 +703,8 @@
       "followers": 6,
       "views": 672,
       "posts_count": 9,
-      "views_recent": 854,
-      "likes_recent": 71,
+      "views_recent": 861,
+      "likes_recent": 72,
       "comments_recent": 0
      },
      "posts": [
@@ -713,8 +713,8 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 30,
-       "likes": 5,
+       "views": 36,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -785,7 +785,7 @@
        "title": "Speak Good or Remain Silent | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/MuOGmvxvOuk",
        "published": "2026-11-15T05:52:38Z",
-       "views": 255,
+       "views": 256,
        "likes": 14,
        "comments": 0
       }
@@ -903,12 +903,21 @@
      "totals": {
       "followers": 5,
       "views": 469,
-      "posts_count": 11,
+      "posts_count": 14,
       "views_recent": 480,
       "likes_recent": 9,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "_VjbqD2_s6g",
+       "title": "تصميم العروض التقديمية وملفات PDF بالذكاء الاصطناعي Gamma | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/_VjbqD2_s6g",
+       "published": "2026-11-23T10:31:55Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "M1BCY0bJIgI",
        "title": "Automate Live Market & Price Alerts With Crawl4AI | HAJR AI #Shorts",
@@ -1045,7 +1054,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1397,
+      "views_recent": 1423,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1055,7 +1064,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 287,
+       "views": 313,
        "likes": 18,
        "comments": 0
       },
@@ -2850,7 +2859,7 @@
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 188,
+    "views_recent": 189,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2858,7 +2867,7 @@
     "followers": 39,
     "following": 0,
     "posts_count": 26,
-    "likes_recent": 2957,
+    "likes_recent": 2958,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2872,8 +2881,8 @@
     "followers": 6,
     "views": 672,
     "posts_count": 9,
-    "views_recent": 854,
-    "likes_recent": 71,
+    "views_recent": 861,
+    "likes_recent": 72,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2885,7 +2894,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 469,
-    "posts_count": 11,
+    "posts_count": 14,
     "views_recent": 480,
     "likes_recent": 9,
     "comments_recent": 0
@@ -2894,7 +2903,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1397,
+    "views_recent": 1423,
     "likes_recent": 43,
     "comments_recent": 0
    }
