@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:27:10+03:00",
+ "generated_at": "2026-11-23T11:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6019
+      "views_recent": 6022
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1125,
+       "views": 1128,
        "likes": 9,
        "comments": null
       },
@@ -703,8 +703,8 @@
       "followers": 6,
       "views": 672,
       "posts_count": 9,
-      "views_recent": 848,
-      "likes_recent": 70,
+      "views_recent": 854,
+      "likes_recent": 71,
       "comments_recent": 0
      },
      "posts": [
@@ -713,8 +713,8 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 24,
-       "likes": 4,
+       "views": 30,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -810,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9879
+      "views_recent": 9880
      },
      "posts": [
       {
@@ -881,8 +881,8 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 210,
-       "likes": 12,
+       "views": 211,
+       "likes": 13,
        "comments": null
       }
      ]
@@ -904,7 +904,7 @@
       "followers": 5,
       "views": 469,
       "posts_count": 11,
-      "views_recent": 474,
+      "views_recent": 475,
       "likes_recent": 9,
       "comments_recent": 0
      },
@@ -968,7 +968,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 11,
+       "views": 12,
        "likes": 1,
        "comments": 0
       },
@@ -1042,11 +1042,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 13,
+      "followers": 14,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1286,
-      "likes_recent": 40,
+      "views_recent": 1362,
+      "likes_recent": 45,
       "comments_recent": 0
      },
      "posts": [
@@ -1055,8 +1055,8 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 176,
-       "likes": 15,
+       "views": 252,
+       "likes": 20,
        "comments": 0
       },
       {
@@ -2844,7 +2844,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6019
+    "views_recent": 6022
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2872,30 +2872,30 @@
     "followers": 6,
     "views": 672,
     "posts_count": 9,
-    "views_recent": 848,
-    "likes_recent": 70,
+    "views_recent": 854,
+    "likes_recent": 71,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9879
+    "views_recent": 9880
    },
    "AI/youtube": {
     "followers": 5,
     "views": 469,
     "posts_count": 11,
-    "views_recent": 474,
+    "views_recent": 475,
     "likes_recent": 9,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 13,
+    "followers": 14,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1286,
-    "likes_recent": 40,
+    "views_recent": 1362,
+    "likes_recent": 45,
     "comments_recent": 0
    }
   }
