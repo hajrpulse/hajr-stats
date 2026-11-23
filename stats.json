@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:27:09+03:00",
+ "generated_at": "2026-11-23T12:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 6022
+      "views_recent": 6024
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1128,
+       "views": 1129,
        "likes": 9,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1198,
+       "views": 1199,
        "likes": 12,
        "comments": null
       },
@@ -176,8 +176,8 @@
       "followers": 1,
       "views": 106,
       "posts_count": 7,
-      "views_recent": 182,
-      "likes_recent": 5,
+      "views_recent": 186,
+      "likes_recent": 6,
       "comments_recent": 0
      },
      "posts": [
@@ -186,8 +186,8 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 4,
-       "likes": 1,
+       "views": 8,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -810,7 +810,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9880
+      "views_recent": 9881
      },
      "posts": [
       {
@@ -836,7 +836,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 69,
+       "views": 70,
        "likes": 8,
        "comments": null
       },
@@ -1042,11 +1042,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 14,
+      "followers": 13,
       "views": 879,
       "posts_count": 4,
       "views_recent": 1362,
-      "likes_recent": 45,
+      "likes_recent": 43,
       "comments_recent": 0
      },
      "posts": [
@@ -1056,7 +1056,7 @@
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
        "views": 252,
-       "likes": 20,
+       "likes": 18,
        "comments": 0
       },
       {
@@ -2844,14 +2844,14 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 6022
+    "views_recent": 6024
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 106,
     "posts_count": 7,
-    "views_recent": 182,
-    "likes_recent": 5,
+    "views_recent": 186,
+    "likes_recent": 6,
     "comments_recent": 0
    },
    "Quran/instagram": {
@@ -2880,7 +2880,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9880
+    "views_recent": 9881
    },
    "AI/youtube": {
     "followers": 5,
@@ -2891,11 +2891,11 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 14,
+    "followers": 13,
     "views": 879,
     "posts_count": 4,
     "views_recent": 1362,
-    "likes_recent": 45,
+    "likes_recent": 43,
     "comments_recent": 0
    }
   }
