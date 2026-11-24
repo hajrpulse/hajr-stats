@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:27:11+03:00",
+ "generated_at": "2026-11-24T06:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 181,
       "posts_count": 9,
-      "views_recent": 237,
+      "views_recent": 241,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 6,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -718,18 +718,27 @@
      "totals": {
       "followers": 6,
       "views": 696,
-      "posts_count": 9,
-      "views_recent": 868,
+      "posts_count": 10,
+      "views_recent": 871,
       "likes_recent": 72,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "9Udqg2_meC4",
+       "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/9Udqg2_meC4",
+       "published": "2026-11-24T02:33:36Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "ISceyd0j0gU",
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 40,
+       "views": 42,
        "likes": 6,
        "comments": 0
       },
@@ -783,7 +792,7 @@
        "title": "The True Muslim & Muhajir | Sahih al-Bukhari & Muslim Hadith #Shorts",
        "url": "https://youtube.com/shorts/iJ21drdKDwU",
        "published": "2026-11-17T02:33:48Z",
-       "views": 98,
+       "views": 99,
        "likes": 7,
        "comments": 0
       },
@@ -918,9 +927,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 475,
+      "views": 484,
       "posts_count": 14,
-      "views_recent": 486,
+      "views_recent": 487,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -939,7 +948,7 @@
        "title": "Automate Live Market & Price Alerts With Crawl4AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/M1BCY0bJIgI",
        "published": "2026-11-22T10:32:39Z",
-       "views": 5,
+       "views": 6,
        "likes": 1,
        "comments": 0
       },
@@ -1070,7 +1079,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1435,
+      "views_recent": 1437,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1080,7 +1089,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 323,
+       "views": 325,
        "likes": 18,
        "comments": 0
       },
@@ -2935,7 +2944,7 @@
     "followers": 1,
     "views": 181,
     "posts_count": 9,
-    "views_recent": 237,
+    "views_recent": 241,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2956,8 +2965,8 @@
    "Sunnah/youtube": {
     "followers": 6,
     "views": 696,
-    "posts_count": 9,
-    "views_recent": 868,
+    "posts_count": 10,
+    "views_recent": 871,
     "likes_recent": 72,
     "comments_recent": 0
    },
@@ -2969,9 +2978,9 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 475,
+    "views": 484,
     "posts_count": 14,
-    "views_recent": 486,
+    "views_recent": 487,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -2979,7 +2988,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1435,
+    "views_recent": 1437,
     "likes_recent": 43,
     "comments_recent": 0
    }
