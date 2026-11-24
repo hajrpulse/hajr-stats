@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:27:08+03:00",
+ "generated_at": "2026-11-24T04:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 181,
       "posts_count": 9,
-      "views_recent": 233,
+      "views_recent": 237,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (36-38) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/aEPBj7CMU48",
        "published": "2026-11-22T21:02:52Z",
-       "views": 15,
+       "views": 16,
        "likes": 2,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 92,
+       "views": 95,
        "likes": 0,
        "comments": 0
       },
@@ -275,7 +275,7 @@
       "followers": 40,
       "following": 0,
       "posts_count": 28,
-      "likes_recent": 2801,
+      "likes_recent": 2803,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -286,7 +286,7 @@
        "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
        "published": "2026-11-23T21:05:51+0000",
        "type": "VIDEO",
-       "likes": 173,
+       "likes": 175,
        "comments": 1,
        "views": null
       },
@@ -2935,7 +2935,7 @@
     "followers": 1,
     "views": 181,
     "posts_count": 9,
-    "views_recent": 233,
+    "views_recent": 237,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2943,7 +2943,7 @@
     "followers": 40,
     "following": 0,
     "posts_count": 28,
-    "likes_recent": 2801,
+    "likes_recent": 2803,
     "comments_recent": 23,
     "views_recent": null
    },
