@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:27:14+03:00",
+ "generated_at": "2026-11-24T10:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7289
+      "views_recent": 7290
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1143,
+       "views": 1144,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 229,
       "posts_count": 9,
-      "views_recent": 245,
+      "views_recent": 246,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 9,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -275,7 +275,7 @@
       "followers": 40,
       "following": 0,
       "posts_count": 28,
-      "likes_recent": 2803,
+      "likes_recent": 2804,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -286,7 +286,7 @@
        "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
        "published": "2026-11-23T21:05:51+0000",
        "type": "VIDEO",
-       "likes": 175,
+       "likes": 176,
        "comments": 1,
        "views": null
       },
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 868,
       "posts_count": 10,
-      "views_recent": 892,
+      "views_recent": 893,
       "likes_recent": 74,
       "comments_recent": 0
      },
@@ -738,7 +738,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 42,
+       "views": 43,
        "likes": 6,
        "comments": 0
       },
@@ -1079,7 +1079,7 @@
       "followers": 13,
       "views": 1204,
       "posts_count": 5,
-      "views_recent": 1448,
+      "views_recent": 1456,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1089,7 +1089,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 10,
+       "views": 18,
        "likes": 0,
        "comments": 0
       },
@@ -2947,13 +2947,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7289
+    "views_recent": 7290
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 229,
     "posts_count": 9,
-    "views_recent": 245,
+    "views_recent": 246,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2961,7 +2961,7 @@
     "followers": 40,
     "following": 0,
     "posts_count": 28,
-    "likes_recent": 2803,
+    "likes_recent": 2804,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2975,7 +2975,7 @@
     "followers": 6,
     "views": 868,
     "posts_count": 10,
-    "views_recent": 892,
+    "views_recent": 893,
     "likes_recent": 74,
     "comments_recent": 0
    },
@@ -2997,7 +2997,7 @@
     "followers": 13,
     "views": 1204,
     "posts_count": 5,
-    "views_recent": 1448,
+    "views_recent": 1456,
     "likes_recent": 43,
     "comments_recent": 0
    }
