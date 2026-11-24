@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:27:10+03:00",
+ "generated_at": "2026-11-24T14:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7350
+      "views_recent": 7352
      },
      "posts": [
       {
@@ -54,7 +54,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1200,
+       "views": 1202,
        "likes": 12,
        "comments": null
       },
@@ -176,8 +176,8 @@
       "followers": 1,
       "views": 229,
       "posts_count": 9,
-      "views_recent": 248,
-      "likes_recent": 6,
+      "views_recent": 255,
+      "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
@@ -186,8 +186,8 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 3,
-       "likes": 0,
+       "views": 7,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 11,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 10,
+       "views": 12,
        "likes": 1,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 99,
+       "views": 101,
        "likes": 0,
        "comments": 0
       },
@@ -928,12 +928,21 @@
      "totals": {
       "followers": 5,
       "views": 484,
-      "posts_count": 14,
+      "posts_count": 15,
       "views_recent": 491,
       "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "4GceiV7N_Ow",
+       "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
+       "url": "https://youtube.com/shorts/4GceiV7N_Ow",
+       "published": "2026-11-24T10:31:13Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "_VjbqD2_s6g",
        "title": "تصميم العروض التقديمية وملفات PDF بالذكاء الاصطناعي Gamma | هجر AI #Shorts",
@@ -1079,7 +1088,7 @@
       "followers": 13,
       "views": 1204,
       "posts_count": 5,
-      "views_recent": 1466,
+      "views_recent": 1470,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1089,7 +1098,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 28,
+       "views": 30,
        "likes": 0,
        "comments": 0
       },
@@ -1098,7 +1107,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 326,
+       "views": 328,
        "likes": 18,
        "comments": 0
       },
@@ -2947,14 +2956,14 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7350
+    "views_recent": 7352
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 229,
     "posts_count": 9,
-    "views_recent": 248,
-    "likes_recent": 6,
+    "views_recent": 255,
+    "likes_recent": 7,
     "comments_recent": 0
    },
    "Quran/instagram": {
@@ -2988,7 +2997,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 484,
-    "posts_count": 14,
+    "posts_count": 15,
     "views_recent": 491,
     "likes_recent": 10,
     "comments_recent": 0
@@ -2997,7 +3006,7 @@
     "followers": 13,
     "views": 1204,
     "posts_count": 5,
-    "views_recent": 1466,
+    "views_recent": 1470,
     "likes_recent": 43,
     "comments_recent": 0
    }
