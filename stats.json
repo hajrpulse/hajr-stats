@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:27:10+03:00",
+ "generated_at": "2026-11-25T02:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,8 +176,8 @@
       "followers": 1,
       "views": 263,
       "posts_count": 11,
-      "views_recent": 299,
-      "likes_recent": 9,
+      "views_recent": 301,
+      "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 4,
+       "views": 7,
        "likes": 2,
        "comments": 0
       },
@@ -258,8 +258,8 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 57,
-       "likes": 2,
+       "views": 56,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -293,8 +293,8 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2670,
-      "comments_recent": 21,
+      "likes_recent": 2755,
+      "comments_recent": 22,
       "views_recent": null
      },
      "posts": [
@@ -304,8 +304,8 @@
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 71,
-       "comments": 0,
+       "likes": 153,
+       "comments": 1,
        "views": null
       },
       {
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 29,
+       "likes": 32,
        "comments": 0,
        "views": null
       },
@@ -947,7 +947,7 @@
       "followers": 5,
       "views": 491,
       "posts_count": 15,
-      "views_recent": 499,
+      "views_recent": 500,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -966,7 +966,7 @@
        "title": "تصميم العروض التقديمية وملفات PDF بالذكاء الاصطناعي Gamma | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/_VjbqD2_s6g",
        "published": "2026-11-23T10:31:55Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -3040,16 +3040,16 @@
     "followers": 1,
     "views": 263,
     "posts_count": 11,
-    "views_recent": 299,
-    "likes_recent": 9,
+    "views_recent": 301,
+    "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2670,
-    "comments_recent": 21,
+    "likes_recent": 2755,
+    "comments_recent": 22,
     "views_recent": null
    },
    "Quran/threads": {
@@ -3076,7 +3076,7 @@
     "followers": 5,
     "views": 491,
     "posts_count": 15,
-    "views_recent": 499,
+    "views_recent": 500,
     "likes_recent": 10,
     "comments_recent": 0
    },
