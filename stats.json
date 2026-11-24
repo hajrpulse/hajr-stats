@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:27:10+03:00",
+ "generated_at": "2026-11-25T00:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,10 +16,10 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 9,
+      "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8305
+      "views_recent": 8467
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 958,
+       "views": 1120,
        "likes": 9,
        "comments": null
       },
@@ -175,12 +175,21 @@
      "totals": {
       "followers": 1,
       "views": 263,
-      "posts_count": 10,
-      "views_recent": 289,
-      "likes_recent": 7,
+      "posts_count": 11,
+      "views_recent": 292,
+      "likes_recent": 8,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "WtdPog17jNQ",
+       "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
+       "url": "https://youtube.com/shorts/WtdPog17jNQ",
+       "published": "2026-11-24T21:02:21Z",
+       "views": 0,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "22P7NhUyQfY",
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
@@ -195,7 +204,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 17,
+       "views": 18,
        "likes": 1,
        "comments": 0
       },
@@ -231,7 +240,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 105,
+       "views": 107,
        "likes": 0,
        "comments": 0
       },
@@ -283,19 +292,29 @@
      "totals": {
       "followers": 40,
       "following": 0,
-      "posts_count": 29,
-      "likes_recent": 2818,
-      "comments_recent": 23,
+      "posts_count": 30,
+      "likes_recent": 2596,
+      "comments_recent": 21,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18198355663351608",
+       "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 51-53\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
+       "published": "2026-11-24T21:04:34+0000",
+       "type": "VIDEO",
+       "likes": 1,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18123178580280912",
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 49-50\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 23,
+       "likes": 25,
        "comments": 0,
        "views": null
       },
@@ -325,7 +344,7 @@
        "url": "https://www.instagram.com/reel/DgDugxOhHxC/",
        "published": "2026-11-22T21:04:17+0000",
        "type": "VIDEO",
-       "likes": 217,
+       "likes": 218,
        "comments": 0,
        "views": null
       },
@@ -375,7 +394,7 @@
        "url": "https://www.instagram.com/reel/Df97vo5O_cp/",
        "published": "2026-11-20T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 43,
+       "likes": 44,
        "comments": 0,
        "views": null
       },
@@ -415,7 +434,7 @@
        "url": "https://www.instagram.com/reel/Df4yH3IzRh8/",
        "published": "2026-11-18T15:03:53+0000",
        "type": "VIDEO",
-       "likes": 157,
+       "likes": 158,
        "comments": 0,
        "views": null
       },
@@ -478,16 +497,6 @@
        "likes": 161,
        "comments": 2,
        "views": null
-      },
-      {
-       "id": "18077888360769897",
-       "title": "سورة الفاتحة (1-7) بصوت ماهر المعيقلي\n\nسورة الفاتحة — الآيات 1-7\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani",
-       "url": "https://www.instagram.com/reel/DfvIFbUh9mN/",
-       "published": "2026-11-14T21:03:37+0000",
-       "type": "VIDEO",
-       "likes": 228,
-       "comments": 2,
-       "views": null
       }
      ]
     },
@@ -504,6 +513,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "17912511417578483",
+       "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 51-53\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgI4V06ugKT",
+       "published": "2026-11-24T21:05:57+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18184913176428882",
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 49-50\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
@@ -689,16 +708,6 @@
        "title": "سورة البقرة (1-5) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 1-5\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-u",
        "url": "https://www.threads.com/@hajrquran.official/post/DfxD6-6BI6_",
        "published": "2026-11-15T15:05:47+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "18126336637935933",
-       "title": "سورة الفاتحة (1-7) بصوت ماهر المعيقلي\n\nسورة الفاتحة — الآيات 1-7\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfvIRl1OV19",
-       "published": "2026-11-14T21:04:57+0000",
        "type": "VIDEO",
        "views": null,
        "likes": null,
@@ -938,7 +947,7 @@
       "followers": 5,
       "views": 491,
       "posts_count": 15,
-      "views_recent": 498,
+      "views_recent": 499,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -948,7 +957,7 @@
        "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/4GceiV7N_Ow",
        "published": "2026-11-24T10:31:13Z",
-       "views": 3,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -3008,6 +3017,66 @@
     "views": 491,
     "posts_count": 15,
     "views_recent": 498,
+    "likes_recent": 10,
+    "comments_recent": 0
+   },
+   "Shifa/youtube": {
+    "followers": 13,
+    "views": 1239,
+    "posts_count": 5,
+    "views_recent": 1477,
+    "likes_recent": 43,
+    "comments_recent": 0
+   }
+  },
+  "2026-11-25": {
+   "Pulse/youtube": {
+    "followers": 8,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 8467
+   },
+   "Quran/youtube": {
+    "followers": 1,
+    "views": 263,
+    "posts_count": 11,
+    "views_recent": 292,
+    "likes_recent": 8,
+    "comments_recent": 0
+   },
+   "Quran/instagram": {
+    "followers": 40,
+    "following": 0,
+    "posts_count": 30,
+    "likes_recent": 2596,
+    "comments_recent": 21,
+    "views_recent": null
+   },
+   "Quran/threads": {
+    "followers": null,
+    "views": null,
+    "posts_count_recent": 20
+   },
+   "Quran/tiktok": {},
+   "Sunnah/youtube": {
+    "followers": 6,
+    "views": 904,
+    "posts_count": 10,
+    "views_recent": 904,
+    "likes_recent": 74,
+    "comments_recent": 0
+   },
+   "BaytAbuHamza/youtube": {
+    "followers": 57,
+    "views": null,
+    "posts_count": null,
+    "views_recent": 9895
+   },
+   "AI/youtube": {
+    "followers": 5,
+    "views": 491,
+    "posts_count": 15,
+    "views_recent": 499,
     "likes_recent": 10,
     "comments_recent": 0
    },
