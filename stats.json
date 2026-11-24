@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:27:09+03:00",
+ "generated_at": "2026-11-24T08:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7289
+      "views_recent": 7290
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1143,
+       "views": 1144,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 229,
       "posts_count": 9,
-      "views_recent": 241,
+      "views_recent": 244,
       "likes_recent": 6,
       "comments_recent": 0
      },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 95,
+       "views": 98,
        "likes": 0,
        "comments": 0
       },
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 868,
       "posts_count": 10,
-      "views_recent": 888,
+      "views_recent": 885,
       "likes_recent": 74,
       "comments_recent": 0
      },
@@ -729,7 +729,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 17,
+       "views": 14,
        "likes": 2,
        "comments": 0
       },
@@ -1078,12 +1078,21 @@
      "totals": {
       "followers": 13,
       "views": 1204,
-      "posts_count": 4,
-      "views_recent": 1438,
+      "posts_count": 5,
+      "views_recent": 1439,
       "likes_recent": 43,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "bx09EdWjnwo",
+       "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
+       "url": "https://youtube.com/shorts/bx09EdWjnwo",
+       "published": "2026-11-24T04:34:45Z",
+       "views": 1,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "R9Dh1mhutJY",
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
@@ -2938,13 +2947,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7289
+    "views_recent": 7290
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 229,
     "posts_count": 9,
-    "views_recent": 241,
+    "views_recent": 244,
     "likes_recent": 6,
     "comments_recent": 0
    },
@@ -2966,7 +2975,7 @@
     "followers": 6,
     "views": 868,
     "posts_count": 10,
-    "views_recent": 888,
+    "views_recent": 885,
     "likes_recent": 74,
     "comments_recent": 0
    },
@@ -2987,8 +2996,8 @@
    "Shifa/youtube": {
     "followers": 13,
     "views": 1204,
-    "posts_count": 4,
-    "views_recent": 1438,
+    "posts_count": 5,
+    "views_recent": 1439,
     "likes_recent": 43,
     "comments_recent": 0
    }
