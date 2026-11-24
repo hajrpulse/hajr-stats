@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:27:12+03:00",
+ "generated_at": "2026-11-24T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -174,13 +174,22 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 229,
-      "posts_count": 9,
-      "views_recent": 267,
+      "views": 263,
+      "posts_count": 10,
+      "views_recent": 275,
       "likes_recent": 7,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "22P7NhUyQfY",
+       "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
+       "url": "https://youtube.com/shorts/22P7NhUyQfY",
+       "published": "2026-11-24T15:02:47Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "FSrcyU2ypqw",
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
@@ -195,7 +204,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 17,
+       "views": 23,
        "likes": 0,
        "comments": 0
       },
@@ -222,7 +231,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 101,
+       "views": 104,
        "likes": 0,
        "comments": 0
       },
@@ -240,7 +249,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 58,
+       "views": 57,
        "likes": 2,
        "comments": 0
       },
@@ -274,12 +283,22 @@
      "totals": {
       "followers": 40,
       "following": 0,
-      "posts_count": 28,
-      "likes_recent": 2809,
+      "posts_count": 29,
+      "likes_recent": 2794,
       "comments_recent": 23,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18123178580280912",
+       "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 49-50\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
+       "published": "2026-11-24T15:04:28+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17925617919452120",
        "title": "سورة البقرة (43-48) بصوت سعود الشريم\n\nسورة البقرة — الآيات 43-48\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -336,7 +355,7 @@
        "url": "https://www.instagram.com/reel/DgAgchBBrB8/",
        "published": "2026-11-21T15:03:30+0000",
        "type": "VIDEO",
-       "likes": 129,
+       "likes": 128,
        "comments": 0,
        "views": null
       },
@@ -469,16 +488,6 @@
        "likes": 228,
        "comments": 2,
        "views": null
-      },
-      {
-       "id": "18098830685673279",
-       "title": "سورة البقرة (25) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 25\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (quran-u",
-       "url": "https://www.instagram.com/reel/Dfue_R7hA-f/",
-       "published": "2026-11-14T15:04:34+0000",
-       "type": "VIDEO",
-       "likes": 14,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -495,6 +504,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18184913176428882",
+       "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 49-50\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgIPKODqXIT",
+       "published": "2026-11-24T15:06:33+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18140259472648197",
        "title": "سورة البقرة (43-48) بصوت سعود الشريم\n\nسورة البقرة — الآيات 43-48\nالقارئ: سعود الشريم\n\nالمصدر: نص المصحف (quran-uthmani) ",
@@ -680,16 +699,6 @@
        "title": "سورة الفاتحة (1-7) بصوت ماهر المعيقلي\n\nسورة الفاتحة — الآيات 1-7\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani",
        "url": "https://www.threads.com/@hajrquran.official/post/DfvIRl1OV19",
        "published": "2026-11-14T21:04:57+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "17963090574240153",
-       "title": "سورة البقرة (25) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 25\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (quran-u",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfufN0sBv3I",
-       "published": "2026-11-14T15:06:33+0000",
        "type": "VIDEO",
        "views": null,
        "likes": null,
@@ -2960,17 +2969,17 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 229,
-    "posts_count": 9,
-    "views_recent": 267,
+    "views": 263,
+    "posts_count": 10,
+    "views_recent": 275,
     "likes_recent": 7,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 40,
     "following": 0,
-    "posts_count": 28,
-    "likes_recent": 2809,
+    "posts_count": 29,
+    "likes_recent": 2794,
     "comments_recent": 23,
     "views_recent": null
    },
