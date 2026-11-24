@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:27:11+03:00",
+ "generated_at": "2026-11-24T19:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,15 +19,24 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7358
+      "views_recent": 7351
      },
      "posts": [
+      {
+       "id": "ZirVRspFnOQ",
+       "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
+       "url": "https://youtube.com/shorts/ZirVRspFnOQ",
+       "published": "2026-11-24T16:01:20+00:00",
+       "views": 4,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "ax4zeBtRu6k",
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1256,
+       "views": 1259,
        "likes": 7,
        "comments": null
       },
@@ -36,7 +45,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1202,
+       "views": 1201,
        "likes": 9,
        "comments": null
       },
@@ -147,15 +156,6 @@
        "views": 8,
        "likes": 3,
        "comments": null
-      },
-      {
-       "id": "zXImt2qE2Uw",
-       "title": "The 1% Institutional Risk Rule That Protects Your Capital! 📊🛡️ | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/zXImt2qE2Uw",
-       "published": "2026-11-02T06:32:33+00:00",
-       "views": 13,
-       "likes": 0,
-       "comments": null
       }
      ]
     }
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/22P7NhUyQfY",
        "published": "2026-11-24T15:02:47Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 12,
+       "views": 11,
        "likes": 1,
        "comments": 0
       },
@@ -284,7 +284,7 @@
       "followers": 40,
       "following": 0,
       "posts_count": 29,
-      "likes_recent": 2794,
+      "likes_recent": 2805,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -295,7 +295,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 0,
+       "likes": 11,
        "comments": 0,
        "views": null
       },
@@ -936,7 +936,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 484,
+      "views": 491,
       "posts_count": 15,
       "views_recent": 495,
       "likes_recent": 10,
@@ -1095,9 +1095,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 13,
-      "views": 1204,
+      "views": 1239,
       "posts_count": 5,
-      "views_recent": 1471,
+      "views_recent": 1473,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1116,7 +1116,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 329,
+       "views": 331,
        "likes": 18,
        "comments": 0
       },
@@ -2965,7 +2965,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7358
+    "views_recent": 7351
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2979,7 +2979,7 @@
     "followers": 40,
     "following": 0,
     "posts_count": 29,
-    "likes_recent": 2794,
+    "likes_recent": 2805,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -3005,7 +3005,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 484,
+    "views": 491,
     "posts_count": 15,
     "views_recent": 495,
     "likes_recent": 10,
@@ -3013,9 +3013,9 @@
    },
    "Shifa/youtube": {
     "followers": 13,
-    "views": 1204,
+    "views": 1239,
     "posts_count": 5,
-    "views_recent": 1471,
+    "views_recent": 1473,
     "likes_recent": 43,
     "comments_recent": 0
    }
