@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:27:10+03:00",
+ "generated_at": "2026-11-24T07:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -174,7 +174,7 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 181,
+      "views": 229,
       "posts_count": 9,
       "views_recent": 241,
       "likes_recent": 6,
@@ -717,10 +717,10 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 6,
-      "views": 696,
+      "views": 868,
       "posts_count": 10,
-      "views_recent": 871,
-      "likes_recent": 72,
+      "views_recent": 888,
+      "likes_recent": 74,
       "comments_recent": 0
      },
      "posts": [
@@ -729,8 +729,8 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 0,
-       "likes": 0,
+       "views": 17,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -929,7 +929,7 @@
       "followers": 5,
       "views": 484,
       "posts_count": 14,
-      "views_recent": 487,
+      "views_recent": 490,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -984,7 +984,7 @@
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/ucCS6vk3DLw",
        "published": "2026-11-18T10:32:06Z",
-       "views": 7,
+       "views": 8,
        "likes": 0,
        "comments": 0
       },
@@ -993,7 +993,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 17,
+       "views": 19,
        "likes": 1,
        "comments": 0
       },
@@ -1077,9 +1077,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 13,
-      "views": 879,
+      "views": 1204,
       "posts_count": 4,
-      "views_recent": 1437,
+      "views_recent": 1438,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1089,7 +1089,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 325,
+       "views": 326,
        "likes": 18,
        "comments": 0
       },
@@ -2942,7 +2942,7 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 181,
+    "views": 229,
     "posts_count": 9,
     "views_recent": 241,
     "likes_recent": 6,
@@ -2964,10 +2964,10 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 6,
-    "views": 696,
+    "views": 868,
     "posts_count": 10,
-    "views_recent": 871,
-    "likes_recent": 72,
+    "views_recent": 888,
+    "likes_recent": 74,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -2980,15 +2980,15 @@
     "followers": 5,
     "views": 484,
     "posts_count": 14,
-    "views_recent": 487,
+    "views_recent": 490,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 13,
-    "views": 879,
+    "views": 1204,
     "posts_count": 4,
-    "views_recent": 1437,
+    "views_recent": 1438,
     "likes_recent": 43,
     "comments_recent": 0
    }
