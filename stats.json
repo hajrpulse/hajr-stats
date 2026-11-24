@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:27:09+03:00",
+ "generated_at": "2026-11-24T15:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7352
+      "views_recent": 7358
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1252,
+       "views": 1256,
        "likes": 7,
        "comments": null
       },
@@ -63,7 +63,7 @@
        "title": "سقوط غرناطة ١٤٩٢: نهاية الأندلس #Shorts",
        "url": "https://youtube.com/shorts/B6rNgWWoEqw",
        "published": "2026-11-19T16:00:31+00:00",
-       "views": 1281,
+       "views": 1283,
        "likes": 11,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 229,
       "posts_count": 9,
-      "views_recent": 255,
+      "views_recent": 262,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 10,
+       "views": 17,
        "likes": 0,
        "comments": 0
       },
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 868,
       "posts_count": 10,
-      "views_recent": 900,
+      "views_recent": 904,
       "likes_recent": 74,
       "comments_recent": 0
      },
@@ -729,7 +729,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 28,
+       "views": 32,
        "likes": 2,
        "comments": 0
       },
@@ -929,7 +929,7 @@
       "followers": 5,
       "views": 484,
       "posts_count": 15,
-      "views_recent": 491,
+      "views_recent": 493,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1011,7 +1011,7 @@
        "title": "4K Business Video Automation Without Cameras | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/pSXBSsTYhOA",
        "published": "2026-11-16T10:32:10Z",
-       "views": 13,
+       "views": 15,
        "likes": 2,
        "comments": 0
       },
@@ -2956,13 +2956,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7352
+    "views_recent": 7358
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 229,
     "posts_count": 9,
-    "views_recent": 255,
+    "views_recent": 262,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2984,7 +2984,7 @@
     "followers": 6,
     "views": 868,
     "posts_count": 10,
-    "views_recent": 900,
+    "views_recent": 904,
     "likes_recent": 74,
     "comments_recent": 0
    },
@@ -2998,7 +2998,7 @@
     "followers": 5,
     "views": 484,
     "posts_count": 15,
-    "views_recent": 491,
+    "views_recent": 493,
     "likes_recent": 10,
     "comments_recent": 0
    },
