@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:27:09+03:00",
+ "generated_at": "2026-11-25T01:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8467
+      "views_recent": 8468
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1202,
+       "views": 1203,
        "likes": 9,
        "comments": null
       },
@@ -176,8 +176,8 @@
       "followers": 1,
       "views": 263,
       "posts_count": 11,
-      "views_recent": 292,
-      "likes_recent": 8,
+      "views_recent": 299,
+      "likes_recent": 9,
       "comments_recent": 0
      },
      "posts": [
@@ -186,8 +186,8 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 0,
-       "likes": 1,
+       "views": 4,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/22P7NhUyQfY",
        "published": "2026-11-24T15:02:47Z",
-       "views": 5,
+       "views": 6,
        "likes": 0,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 25,
+       "views": 27,
        "likes": 0,
        "comments": 0
       },
@@ -290,10 +290,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 40,
+      "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2596,
+      "likes_recent": 2670,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -304,7 +304,7 @@
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 1,
+       "likes": 71,
        "comments": 0,
        "views": null
       },
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 25,
+       "likes": 29,
        "comments": 0,
        "views": null
       },
@@ -1106,7 +1106,7 @@
       "followers": 13,
       "views": 1239,
       "posts_count": 5,
-      "views_recent": 1477,
+      "views_recent": 1478,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1125,7 +1125,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 333,
+       "views": 334,
        "likes": 18,
        "comments": 0
       },
@@ -3034,21 +3034,21 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 8467
+    "views_recent": 8468
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 263,
     "posts_count": 11,
-    "views_recent": 292,
-    "likes_recent": 8,
+    "views_recent": 299,
+    "likes_recent": 9,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 40,
+    "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2596,
+    "likes_recent": 2670,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3084,7 +3084,7 @@
     "followers": 13,
     "views": 1239,
     "posts_count": 5,
-    "views_recent": 1477,
+    "views_recent": 1478,
     "likes_recent": 43,
     "comments_recent": 0
    }
