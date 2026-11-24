@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:27:11+03:00",
+ "generated_at": "2026-11-24T22:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -16,10 +16,10 @@
      "source": "public_page+rss",
      "channel_id": "UCX_wN2ElzJe_Y_xCi7hxo-Q",
      "totals": {
-      "followers": 8,
+      "followers": 9,
       "views": null,
       "posts_count": null,
-      "views_recent": 7963
+      "views_recent": 8166
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 616,
-       "likes": 5,
+       "views": 820,
+       "likes": 9,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1259,
+       "views": 1258,
        "likes": 7,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 263,
       "posts_count": 10,
-      "views_recent": 288,
+      "views_recent": 289,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 16,
+       "views": 17,
        "likes": 1,
        "comments": 0
       },
@@ -284,7 +284,7 @@
       "followers": 40,
       "following": 0,
       "posts_count": 29,
-      "likes_recent": 2810,
+      "likes_recent": 2813,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -295,7 +295,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 16,
+       "likes": 18,
        "comments": 0,
        "views": null
       },
@@ -305,7 +305,7 @@
        "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
        "published": "2026-11-23T21:05:51+0000",
        "type": "VIDEO",
-       "likes": 178,
+       "likes": 179,
        "comments": 1,
        "views": null
       },
@@ -1097,7 +1097,7 @@
       "followers": 13,
       "views": 1239,
       "posts_count": 5,
-      "views_recent": 1473,
+      "views_recent": 1476,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1116,7 +1116,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 331,
+       "views": 332,
        "likes": 18,
        "comments": 0
       },
@@ -1125,7 +1125,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 110,
+       "views": 112,
        "likes": 3,
        "comments": 0
       },
@@ -2962,16 +2962,16 @@
   },
   "2026-11-24": {
    "Pulse/youtube": {
-    "followers": 8,
+    "followers": 9,
     "views": null,
     "posts_count": null,
-    "views_recent": 7963
+    "views_recent": 8166
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 263,
     "posts_count": 10,
-    "views_recent": 288,
+    "views_recent": 289,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2979,7 +2979,7 @@
     "followers": 40,
     "following": 0,
     "posts_count": 29,
-    "likes_recent": 2810,
+    "likes_recent": 2813,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -3015,7 +3015,7 @@
     "followers": 13,
     "views": 1239,
     "posts_count": 5,
-    "views_recent": 1473,
+    "views_recent": 1476,
     "likes_recent": 43,
     "comments_recent": 0
    }
