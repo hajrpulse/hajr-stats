@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:27:09+03:00",
+ "generated_at": "2026-11-24T12:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7290
+      "views_recent": 7350
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1250,
+       "views": 1252,
        "likes": 7,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1144,
+       "views": 1202,
        "likes": 9,
        "comments": null
       },
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 868,
       "posts_count": 10,
-      "views_recent": 897,
+      "views_recent": 900,
       "likes_recent": 74,
       "comments_recent": 0
      },
@@ -729,7 +729,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 26,
+       "views": 28,
        "likes": 2,
        "comments": 0
       },
@@ -738,7 +738,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 42,
+       "views": 43,
        "likes": 6,
        "comments": 0
       },
@@ -929,7 +929,7 @@
       "followers": 5,
       "views": 484,
       "posts_count": 14,
-      "views_recent": 490,
+      "views_recent": 491,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -993,7 +993,7 @@
        "title": "بناء وإطلاق مشروع رقمي SaaS في يومين بالذكاء الاصطناعي | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/zYCYHUqhAGA",
        "published": "2026-11-17T10:34:31Z",
-       "views": 19,
+       "views": 20,
        "likes": 1,
        "comments": 0
       },
@@ -2947,7 +2947,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7290
+    "views_recent": 7350
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2975,7 +2975,7 @@
     "followers": 6,
     "views": 868,
     "posts_count": 10,
-    "views_recent": 897,
+    "views_recent": 900,
     "likes_recent": 74,
     "comments_recent": 0
    },
@@ -2989,7 +2989,7 @@
     "followers": 5,
     "views": 484,
     "posts_count": 14,
-    "views_recent": 490,
+    "views_recent": 491,
     "likes_recent": 10,
     "comments_recent": 0
    },
