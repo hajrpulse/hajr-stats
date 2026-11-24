@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:27:09+03:00",
+ "generated_at": "2026-11-24T03:27:08+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7285
+      "views_recent": 7288
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "سقوط بغداد ١٢٥٨: يوم سقوط دار السلام #Shorts",
        "url": "https://youtube.com/shorts/ix0HEYurw-M",
        "published": "2026-11-22T16:00:34+00:00",
-       "views": 1141,
+       "views": 1143,
        "likes": 9,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "اليرموك ٦٣٦: يومٌ غيّر الشام #Shorts",
        "url": "https://youtube.com/shorts/LLt0wVTrbek",
        "published": "2026-11-20T16:00:29+00:00",
-       "views": 1199,
+       "views": 1200,
        "likes": 12,
        "comments": null
       },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 93,
+       "views": 92,
        "likes": 0,
        "comments": 0
       },
@@ -272,11 +272,11 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 39,
+      "followers": 40,
       "following": 0,
       "posts_count": 28,
-      "likes_recent": 2718,
-      "comments_recent": 22,
+      "likes_recent": 2801,
+      "comments_recent": 23,
       "views_recent": null
      },
      "posts": [
@@ -286,8 +286,8 @@
        "url": "https://www.instagram.com/reel/DgGTf5OBSHj/",
        "published": "2026-11-23T21:05:51+0000",
        "type": "VIDEO",
-       "likes": 90,
-       "comments": 0,
+       "likes": 173,
+       "comments": 1,
        "views": null
       },
       {
@@ -719,7 +719,7 @@
       "followers": 6,
       "views": 696,
       "posts_count": 9,
-      "views_recent": 866,
+      "views_recent": 870,
       "likes_recent": 72,
       "comments_recent": 0
      },
@@ -729,7 +729,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 40,
+       "views": 42,
        "likes": 6,
        "comments": 0
       },
@@ -738,7 +738,7 @@
        "title": "Mercy to People Brings Allah's Mercy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/T-8XpalkOq0",
        "published": "2026-11-22T02:33:14Z",
-       "views": 131,
+       "views": 133,
        "likes": 10,
        "comments": 0
       },
@@ -1070,7 +1070,7 @@
       "followers": 13,
       "views": 879,
       "posts_count": 4,
-      "views_recent": 1433,
+      "views_recent": 1435,
       "likes_recent": 43,
       "comments_recent": 0
      },
@@ -1080,7 +1080,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 322,
+       "views": 323,
        "likes": 18,
        "comments": 0
       },
@@ -1089,7 +1089,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 109,
+       "views": 110,
        "likes": 3,
        "comments": 0
       },
@@ -2929,7 +2929,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7285
+    "views_recent": 7288
    },
    "Quran/youtube": {
     "followers": 1,
@@ -2940,11 +2940,11 @@
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 39,
+    "followers": 40,
     "following": 0,
     "posts_count": 28,
-    "likes_recent": 2718,
-    "comments_recent": 22,
+    "likes_recent": 2801,
+    "comments_recent": 23,
     "views_recent": null
    },
    "Quran/threads": {
@@ -2957,7 +2957,7 @@
     "followers": 6,
     "views": 696,
     "posts_count": 9,
-    "views_recent": 866,
+    "views_recent": 870,
     "likes_recent": 72,
     "comments_recent": 0
    },
@@ -2979,7 +2979,7 @@
     "followers": 13,
     "views": 879,
     "posts_count": 4,
-    "views_recent": 1433,
+    "views_recent": 1435,
     "likes_recent": 43,
     "comments_recent": 0
    }
