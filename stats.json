@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:27:12+03:00",
+ "generated_at": "2026-11-24T20:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 7351
+      "views_recent": 7543
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 4,
+       "views": 196,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 263,
       "posts_count": 10,
-      "views_recent": 275,
+      "views_recent": 279,
       "likes_recent": 7,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 11,
+       "views": 15,
        "likes": 1,
        "comments": 0
       },
@@ -284,7 +284,7 @@
       "followers": 40,
       "following": 0,
       "posts_count": 29,
-      "likes_recent": 2805,
+      "likes_recent": 2808,
       "comments_recent": 23,
       "views_recent": null
      },
@@ -295,7 +295,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 11,
+       "likes": 14,
        "comments": 0,
        "views": null
       },
@@ -726,7 +726,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 6,
-      "views": 868,
+      "views": 904,
       "posts_count": 10,
       "views_recent": 904,
       "likes_recent": 74,
@@ -936,7 +936,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 491,
+      "views": 484,
       "posts_count": 15,
       "views_recent": 495,
       "likes_recent": 10,
@@ -2965,13 +2965,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 7351
+    "views_recent": 7543
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 263,
     "posts_count": 10,
-    "views_recent": 275,
+    "views_recent": 279,
     "likes_recent": 7,
     "comments_recent": 0
    },
@@ -2979,7 +2979,7 @@
     "followers": 40,
     "following": 0,
     "posts_count": 29,
-    "likes_recent": 2805,
+    "likes_recent": 2808,
     "comments_recent": 23,
     "views_recent": null
    },
@@ -2991,7 +2991,7 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 6,
-    "views": 868,
+    "views": 904,
     "posts_count": 10,
     "views_recent": 904,
     "likes_recent": 74,
@@ -3005,7 +3005,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 491,
+    "views": 484,
     "posts_count": 15,
     "views_recent": 495,
     "likes_recent": 10,
