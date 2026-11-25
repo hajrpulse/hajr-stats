@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:27:10+03:00",
+ "generated_at": "2026-11-25T18:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -175,18 +175,27 @@
      "totals": {
       "followers": 1,
       "views": 300,
-      "posts_count": 11,
-      "views_recent": 353,
+      "posts_count": 12,
+      "views_recent": 355,
       "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "XlVTknI72vQ",
+       "title": "سورة البقرة (54-56) بصوت أحمد بن علي العجمي #Shorts",
+       "url": "https://youtube.com/shorts/XlVTknI72vQ",
+       "published": "2026-11-25T15:03:06Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "WtdPog17jNQ",
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 30,
+       "views": 31,
        "likes": 2,
        "comments": 0
       },
@@ -240,7 +249,7 @@
        "title": "سورة البقرة (33) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/7vSA1_kuMCU",
        "published": "2026-11-21T21:02:52Z",
-       "views": 109,
+       "views": 110,
        "likes": 0,
        "comments": 0
       },
@@ -292,19 +301,29 @@
      "totals": {
       "followers": 41,
       "following": 0,
-      "posts_count": 30,
-      "likes_recent": 2769,
-      "comments_recent": 22,
+      "posts_count": 31,
+      "likes_recent": 2610,
+      "comments_recent": 20,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18142927141750544",
+       "title": "سورة البقرة (54-56) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 54-56\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
+       "published": "2026-11-25T15:04:44+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18198355663351608",
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 51-53\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 157,
+       "likes": 158,
        "comments": 1,
        "views": null
       },
@@ -314,7 +333,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 40,
+       "likes": 41,
        "comments": 0,
        "views": null
       },
@@ -487,16 +506,6 @@
        "likes": 30,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18108421556621650",
-       "title": "سورة البقرة (1-5) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 1-5\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-u",
-       "url": "https://www.instagram.com/reel/DfxDrGPykmt/",
-       "published": "2026-11-15T15:03:37+0000",
-       "type": "VIDEO",
-       "likes": 161,
-       "comments": 2,
-       "views": null
       }
      ]
     },
@@ -513,6 +522,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18134183822480321",
+       "title": "سورة البقرة (54-56) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 54-56\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgKz_bezSi0",
+       "published": "2026-11-25T15:06:49+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "17912511417578483",
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 51-53\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
@@ -702,16 +721,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "18651249502000334",
-       "title": "سورة البقرة (1-5) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 1-5\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-u",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfxD6-6BI6_",
-       "published": "2026-11-15T15:05:47+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -737,7 +746,7 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 965,
+      "views_recent": 973,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -747,7 +756,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 42,
+       "views": 48,
        "likes": 8,
        "comments": 0
       },
@@ -756,7 +765,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 48,
+       "views": 50,
        "likes": 3,
        "comments": 0
       },
@@ -3066,17 +3075,17 @@
    "Quran/youtube": {
     "followers": 1,
     "views": 300,
-    "posts_count": 11,
-    "views_recent": 353,
+    "posts_count": 12,
+    "views_recent": 355,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 41,
     "following": 0,
-    "posts_count": 30,
-    "likes_recent": 2769,
-    "comments_recent": 22,
+    "posts_count": 31,
+    "likes_recent": 2610,
+    "comments_recent": 20,
     "views_recent": null
    },
    "Quran/threads": {
@@ -3089,7 +3098,7 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 965,
+    "views_recent": 973,
     "likes_recent": 83,
     "comments_recent": 0
    },
