@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:27:10+03:00",
+ "generated_at": "2026-11-25T15:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8482
+      "views_recent": 8484
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 1134,
+       "views": 1136,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 11,
-      "views_recent": 341,
+      "views_recent": 342,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 18,
+       "views": 19,
        "likes": 1,
        "comments": 0
       },
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2765,
+      "likes_recent": 2767,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -304,7 +304,7 @@
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 156,
+       "likes": 157,
        "comments": 1,
        "views": null
       },
@@ -334,7 +334,7 @@
        "url": "https://www.instagram.com/reel/DgFqLNxxCWc/",
        "published": "2026-11-23T15:04:51+0000",
        "type": "VIDEO",
-       "likes": 3,
+       "likes": 4,
        "comments": 0,
        "views": null
       },
@@ -737,8 +737,8 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 958,
-      "likes_recent": 82,
+      "views_recent": 963,
+      "likes_recent": 83,
       "comments_recent": 0
      },
      "posts": [
@@ -747,8 +747,8 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 35,
-       "likes": 7,
+       "views": 40,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -1124,8 +1124,8 @@
       "followers": 14,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1884,
-      "likes_recent": 48,
+      "views_recent": 1933,
+      "likes_recent": 49,
       "comments_recent": 0
      },
      "posts": [
@@ -1134,8 +1134,8 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 401,
-       "likes": 4,
+       "views": 449,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -1143,7 +1143,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 32,
+       "views": 33,
        "likes": 0,
        "comments": 0
       },
@@ -3061,13 +3061,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 8482
+    "views_recent": 8484
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 300,
     "posts_count": 11,
-    "views_recent": 341,
+    "views_recent": 342,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3075,7 +3075,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2765,
+    "likes_recent": 2767,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3089,8 +3089,8 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 958,
-    "likes_recent": 82,
+    "views_recent": 963,
+    "likes_recent": 83,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3111,8 +3111,8 @@
     "followers": 14,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1884,
-    "likes_recent": 48,
+    "views_recent": 1933,
+    "likes_recent": 49,
     "comments_recent": 0
    }
   }
