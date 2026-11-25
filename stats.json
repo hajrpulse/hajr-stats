@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:27:12+03:00",
+ "generated_at": "2026-11-25T21:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8778
+      "views_recent": 9246
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 301,
-       "likes": 5,
+       "views": 771,
+       "likes": 8,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 1136,
+       "views": 1134,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 12,
-      "views_recent": 360,
+      "views_recent": 361,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 29,
+       "views": 30,
        "likes": 0,
        "comments": 0
       },
@@ -302,7 +302,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 31,
-      "likes_recent": 2670,
+      "likes_recent": 2694,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -313,7 +313,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 58,
+       "likes": 82,
        "comments": 1,
        "views": null
       },
@@ -746,7 +746,7 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 973,
+      "views_recent": 978,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -756,7 +756,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 48,
+       "views": 53,
        "likes": 8,
        "comments": 0
       },
@@ -1152,7 +1152,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 33,
+       "views": 34,
        "likes": 0,
        "comments": 0
       },
@@ -1161,7 +1161,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 338,
+       "views": 337,
        "likes": 19,
        "comments": 0
       },
@@ -3070,13 +3070,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 8778
+    "views_recent": 9246
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 300,
     "posts_count": 12,
-    "views_recent": 360,
+    "views_recent": 361,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3084,7 +3084,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 31,
-    "likes_recent": 2670,
+    "likes_recent": 2694,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3098,7 +3098,7 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 973,
+    "views_recent": 978,
     "likes_recent": 83,
     "comments_recent": 0
    },
