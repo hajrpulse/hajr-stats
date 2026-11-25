@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:27:10+03:00",
+ "generated_at": "2026-11-25T16:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8484
+      "views_recent": 8485
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1258,
+       "views": 1259,
        "likes": 7,
        "comments": null
       },
@@ -1124,7 +1124,7 @@
       "followers": 14,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1933,
+      "views_recent": 1935,
       "likes_recent": 49,
       "comments_recent": 0
      },
@@ -1152,7 +1152,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 336,
+       "views": 338,
        "likes": 19,
        "comments": 0
       },
@@ -3061,7 +3061,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 8484
+    "views_recent": 8485
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3111,7 +3111,7 @@
     "followers": 14,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1933,
+    "views_recent": 1935,
     "likes_recent": 49,
     "comments_recent": 0
    }
