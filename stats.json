@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:27:13+03:00",
+ "generated_at": "2026-11-25T22:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9246
+      "views_recent": 9260
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 771,
-       "likes": 8,
+       "views": 785,
+       "likes": 7,
        "comments": null
       },
       {
@@ -174,7 +174,7 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 300,
+      "views": 348,
       "posts_count": 12,
       "views_recent": 361,
       "likes_recent": 10,
@@ -302,7 +302,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 31,
-      "likes_recent": 2694,
+      "likes_recent": 2725,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -313,7 +313,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 82,
+       "likes": 113,
        "comments": 1,
        "views": null
       },
@@ -1133,8 +1133,8 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 1970,
-      "likes_recent": 49,
+      "views_recent": 1985,
+      "likes_recent": 50,
       "comments_recent": 0
      },
      "posts": [
@@ -1143,7 +1143,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 484,
+       "views": 498,
        "likes": 5,
        "comments": 0
       },
@@ -1153,7 +1153,7 @@
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
        "views": 34,
-       "likes": 0,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -1161,7 +1161,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 337,
+       "views": 338,
        "likes": 19,
        "comments": 0
       },
@@ -3070,11 +3070,11 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9246
+    "views_recent": 9260
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 300,
+    "views": 348,
     "posts_count": 12,
     "views_recent": 361,
     "likes_recent": 10,
@@ -3084,7 +3084,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 31,
-    "likes_recent": 2694,
+    "likes_recent": 2725,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3120,8 +3120,8 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 1970,
-    "likes_recent": 49,
+    "views_recent": 1985,
+    "likes_recent": 50,
     "comments_recent": 0
    }
   }
