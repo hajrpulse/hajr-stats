@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:27:11+03:00",
+ "generated_at": "2026-11-26T01:27:22+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9545
+      "views_recent": 9540
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1070,
+       "views": 1065,
        "likes": 7,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 348,
       "posts_count": 13,
-      "views_recent": 377,
+      "views_recent": 378,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 19,
+       "views": 20,
        "likes": 1,
        "comments": 0
       },
@@ -308,10 +308,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 41,
+      "followers": 42,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2747,
+      "likes_recent": 2780,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 5,
+       "likes": 36,
        "comments": 0,
        "views": null
       },
@@ -332,7 +332,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 160,
+       "likes": 162,
        "comments": 1,
        "views": null
       },
@@ -755,7 +755,7 @@
       "followers": 7,
       "views": 963,
       "posts_count": 11,
-      "views_recent": 978,
+      "views_recent": 981,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -765,7 +765,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 53,
+       "views": 56,
        "likes": 8,
        "comments": 0
       },
@@ -880,7 +880,7 @@
       "followers": 57,
       "views": null,
       "posts_count": null,
-      "views_recent": 9896
+      "views_recent": 9899
      },
      "posts": [
       {
@@ -906,7 +906,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 73,
+       "views": 74,
        "likes": 8,
        "comments": null
       },
@@ -942,7 +942,7 @@
        "title": "انقطع النت في بيت أبو حمزة! | بيت أبو حمزة — الحلقة 1",
        "url": "https://youtube.com/shorts/HBW_BB901X0",
        "published": "2026-10-24T23:06:13+00:00",
-       "views": 176,
+       "views": 178,
        "likes": 18,
        "comments": null
       },
@@ -1142,7 +1142,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 1985,
+      "views_recent": 2006,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1152,7 +1152,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 498,
+       "views": 519,
        "likes": 5,
        "comments": 0
       },
@@ -3139,21 +3139,21 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9545
+    "views_recent": 9540
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 348,
     "posts_count": 13,
-    "views_recent": 377,
+    "views_recent": 378,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 41,
+    "followers": 42,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2747,
+    "likes_recent": 2780,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3167,7 +3167,7 @@
     "followers": 7,
     "views": 963,
     "posts_count": 11,
-    "views_recent": 978,
+    "views_recent": 981,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3175,7 +3175,7 @@
     "followers": 57,
     "views": null,
     "posts_count": null,
-    "views_recent": 9896
+    "views_recent": 9899
    },
    "AI/youtube": {
     "followers": 5,
@@ -3189,7 +3189,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 1985,
+    "views_recent": 2006,
     "likes_recent": 50,
     "comments_recent": 0
    }
