@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:27:09+03:00",
+ "generated_at": "2026-11-25T08:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -174,7 +174,7 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 263,
+      "views": 300,
       "posts_count": 11,
       "views_recent": 314,
       "likes_recent": 10,
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2757,
+      "likes_recent": 2759,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 33,
+       "likes": 35,
        "comments": 0,
        "views": null
       },
@@ -737,8 +737,8 @@
       "followers": 7,
       "views": 904,
       "posts_count": 11,
-      "views_recent": 919,
-      "likes_recent": 75,
+      "views_recent": 932,
+      "likes_recent": 79,
       "comments_recent": 0
      },
      "posts": [
@@ -747,8 +747,8 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 12,
-       "likes": 1,
+       "views": 23,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -756,8 +756,8 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 32,
-       "likes": 2,
+       "views": 34,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -1114,12 +1114,21 @@
      "totals": {
       "followers": 13,
       "views": 1247,
-      "posts_count": 5,
-      "views_recent": 1478,
+      "posts_count": 6,
+      "views_recent": 1484,
       "likes_recent": 43,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "8aZfiTgmWNI",
+       "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
+       "url": "https://youtube.com/shorts/8aZfiTgmWNI",
+       "published": "2026-11-25T04:34:36Z",
+       "views": 4,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "bx09EdWjnwo",
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
@@ -1134,7 +1143,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 334,
+       "views": 336,
        "likes": 18,
        "comments": 0
       },
@@ -3047,7 +3056,7 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 263,
+    "views": 300,
     "posts_count": 11,
     "views_recent": 314,
     "likes_recent": 10,
@@ -3057,7 +3066,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2757,
+    "likes_recent": 2759,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3071,8 +3080,8 @@
     "followers": 7,
     "views": 904,
     "posts_count": 11,
-    "views_recent": 919,
-    "likes_recent": 75,
+    "views_recent": 932,
+    "likes_recent": 79,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3092,8 +3101,8 @@
    "Shifa/youtube": {
     "followers": 13,
     "views": 1247,
-    "posts_count": 5,
-    "views_recent": 1478,
+    "posts_count": 6,
+    "views_recent": 1484,
     "likes_recent": 43,
     "comments_recent": 0
    }
