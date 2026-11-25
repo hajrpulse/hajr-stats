@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:27:09+03:00",
+ "generated_at": "2026-11-25T13:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2762,
+      "likes_recent": 2763,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -304,7 +304,7 @@
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 155,
+       "likes": 156,
        "comments": 1,
        "views": null
       },
@@ -737,8 +737,8 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 946,
-      "likes_recent": 80,
+      "views_recent": 956,
+      "likes_recent": 82,
       "comments_recent": 0
      },
      "posts": [
@@ -747,8 +747,8 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 24,
-       "likes": 5,
+       "views": 33,
+       "likes": 7,
        "comments": 0
       },
       {
@@ -756,7 +756,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 47,
+       "views": 48,
        "likes": 3,
        "comments": 0
       },
@@ -1115,7 +1115,7 @@
       "followers": 14,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1777,
+      "views_recent": 1824,
       "likes_recent": 48,
       "comments_recent": 0
      },
@@ -1125,7 +1125,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 297,
+       "views": 342,
        "likes": 4,
        "comments": 0
       },
@@ -1134,7 +1134,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 30,
+       "views": 32,
        "likes": 0,
        "comments": 0
       },
@@ -3066,7 +3066,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2762,
+    "likes_recent": 2763,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3080,8 +3080,8 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 946,
-    "likes_recent": 80,
+    "views_recent": 956,
+    "likes_recent": 82,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3102,7 +3102,7 @@
     "followers": 14,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1777,
+    "views_recent": 1824,
     "likes_recent": 48,
     "comments_recent": 0
    }
