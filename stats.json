@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:27:09+03:00",
+ "generated_at": "2026-11-25T07:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -734,11 +734,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 6,
+      "followers": 7,
       "views": 904,
       "posts_count": 11,
-      "views_recent": 907,
-      "likes_recent": 74,
+      "views_recent": 919,
+      "likes_recent": 75,
       "comments_recent": 0
      },
      "posts": [
@@ -747,8 +747,8 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 0,
-       "likes": 0,
+       "views": 12,
+       "likes": 1,
        "comments": 0
       },
       {
@@ -1113,7 +1113,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 13,
-      "views": 1239,
+      "views": 1247,
       "posts_count": 5,
       "views_recent": 1478,
       "likes_recent": 43,
@@ -3068,11 +3068,11 @@
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
-    "followers": 6,
+    "followers": 7,
     "views": 904,
     "posts_count": 11,
-    "views_recent": 907,
-    "likes_recent": 74,
+    "views_recent": 919,
+    "likes_recent": 75,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3091,7 +3091,7 @@
    },
    "Shifa/youtube": {
     "followers": 13,
-    "views": 1239,
+    "views": 1247,
     "posts_count": 5,
     "views_recent": 1478,
     "likes_recent": 43,
