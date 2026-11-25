@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:27:10+03:00",
+ "generated_at": "2026-11-25T17:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 11,
-      "views_recent": 342,
+      "views_recent": 353,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 24,
+       "views": 30,
        "likes": 2,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/22P7NhUyQfY",
        "published": "2026-11-24T15:02:47Z",
-       "views": 22,
+       "views": 27,
        "likes": 0,
        "comments": 0
       },
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2767,
+      "likes_recent": 2769,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 38,
+       "likes": 40,
        "comments": 0,
        "views": null
       },
@@ -737,7 +737,7 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 963,
+      "views_recent": 965,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -747,7 +747,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 40,
+       "views": 42,
        "likes": 8,
        "comments": 0
       },
@@ -956,7 +956,7 @@
       "followers": 5,
       "views": 501,
       "posts_count": 16,
-      "views_recent": 501,
+      "views_recent": 502,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -966,7 +966,7 @@
        "title": "مزامنة النصوص مع الصوت بدقة الكلمة الواحدة عبر WhisperX | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Lhp0-3gK3qE",
        "published": "2026-11-25T10:33:49Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -1121,7 +1121,7 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 14,
+      "followers": 15,
       "views": 1247,
       "posts_count": 6,
       "views_recent": 1935,
@@ -3067,7 +3067,7 @@
     "followers": 1,
     "views": 300,
     "posts_count": 11,
-    "views_recent": 342,
+    "views_recent": 353,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3075,7 +3075,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2767,
+    "likes_recent": 2769,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3089,7 +3089,7 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 963,
+    "views_recent": 965,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3103,12 +3103,12 @@
     "followers": 5,
     "views": 501,
     "posts_count": 16,
-    "views_recent": 501,
+    "views_recent": 502,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 14,
+    "followers": 15,
     "views": 1247,
     "posts_count": 6,
     "views_recent": 1935,
