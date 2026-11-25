@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:27:10+03:00",
+ "generated_at": "2026-11-25T14:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 11,
-      "views_recent": 330,
+      "views_recent": 341,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 21,
+       "views": 24,
        "likes": 2,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/22P7NhUyQfY",
        "published": "2026-11-24T15:02:47Z",
-       "views": 16,
+       "views": 22,
        "likes": 0,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (39-42) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/NjYYBMviKx4",
        "published": "2026-11-23T15:03:21Z",
-       "views": 27,
+       "views": 29,
        "likes": 0,
        "comments": 0
       },
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2763,
+      "likes_recent": 2765,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 36,
+       "likes": 38,
        "comments": 0,
        "views": null
       },
@@ -737,7 +737,7 @@
       "followers": 7,
       "views": 907,
       "posts_count": 11,
-      "views_recent": 956,
+      "views_recent": 958,
       "likes_recent": 82,
       "comments_recent": 0
      },
@@ -747,7 +747,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 33,
+       "views": 35,
        "likes": 7,
        "comments": 0
       },
@@ -955,12 +955,21 @@
      "totals": {
       "followers": 5,
       "views": 501,
-      "posts_count": 15,
+      "posts_count": 16,
       "views_recent": 501,
       "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "Lhp0-3gK3qE",
+       "title": "مزامنة النصوص مع الصوت بدقة الكلمة الواحدة عبر WhisperX | هجر AI #Shorts",
+       "url": "https://youtube.com/shorts/Lhp0-3gK3qE",
+       "published": "2026-11-25T10:33:49Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "4GceiV7N_Ow",
        "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
@@ -1115,7 +1124,7 @@
       "followers": 14,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1824,
+      "views_recent": 1884,
       "likes_recent": 48,
       "comments_recent": 0
      },
@@ -1125,7 +1134,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 342,
+       "views": 401,
        "likes": 4,
        "comments": 0
       },
@@ -1152,7 +1161,7 @@
        "title": "زيت الزيتون: شجرة مباركة… وماذا يقول العلم عنها؟",
        "url": "https://youtube.com/shorts/yVyxd58khtQ",
        "published": "2026-11-20T18:00:03Z",
-       "views": 112,
+       "views": 113,
        "likes": 3,
        "comments": 0
       },
@@ -3058,7 +3067,7 @@
     "followers": 1,
     "views": 300,
     "posts_count": 11,
-    "views_recent": 330,
+    "views_recent": 341,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3066,7 +3075,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2763,
+    "likes_recent": 2765,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3080,7 +3089,7 @@
     "followers": 7,
     "views": 907,
     "posts_count": 11,
-    "views_recent": 956,
+    "views_recent": 958,
     "likes_recent": 82,
     "comments_recent": 0
    },
@@ -3093,7 +3102,7 @@
    "AI/youtube": {
     "followers": 5,
     "views": 501,
-    "posts_count": 15,
+    "posts_count": 16,
     "views_recent": 501,
     "likes_recent": 10,
     "comments_recent": 0
@@ -3102,7 +3111,7 @@
     "followers": 14,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1824,
+    "views_recent": 1884,
     "likes_recent": 48,
     "comments_recent": 0
    }
