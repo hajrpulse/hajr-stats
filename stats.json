@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:27:09+03:00",
+ "generated_at": "2026-11-25T11:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 8480
+      "views_recent": 8482
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 1132,
+       "views": 1134,
        "likes": 9,
        "comments": null
       },
@@ -735,9 +735,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 7,
-      "views": 904,
+      "views": 907,
       "posts_count": 11,
-      "views_recent": 942,
+      "views_recent": 946,
       "likes_recent": 80,
       "comments_recent": 0
      },
@@ -756,7 +756,7 @@
        "title": "Blessing in Provision & Family Ties | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9Udqg2_meC4",
        "published": "2026-11-24T02:33:36Z",
-       "views": 43,
+       "views": 47,
        "likes": 3,
        "comments": 0
       },
@@ -1115,8 +1115,8 @@
       "followers": 13,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1576,
-      "likes_recent": 45,
+      "views_recent": 1712,
+      "likes_recent": 47,
       "comments_recent": 0
      },
      "posts": [
@@ -1125,8 +1125,8 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 96,
-       "likes": 2,
+       "views": 232,
+       "likes": 4,
        "comments": 0
       },
       {
@@ -3052,7 +3052,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 8480
+    "views_recent": 8482
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3078,9 +3078,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 7,
-    "views": 904,
+    "views": 907,
     "posts_count": 11,
-    "views_recent": 942,
+    "views_recent": 946,
     "likes_recent": 80,
     "comments_recent": 0
    },
@@ -3102,8 +3102,8 @@
     "followers": 13,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1576,
-    "likes_recent": 45,
+    "views_recent": 1712,
+    "likes_recent": 47,
     "comments_recent": 0
    }
   }
