@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T11:27:10+03:00",
+ "generated_at": "2026-11-25T12:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 11,
-      "views_recent": 324,
+      "views_recent": 330,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 17,
+       "views": 21,
        "likes": 2,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (49-50) بصوت عبد الباسط عبد الصمد #Shorts",
        "url": "https://youtube.com/shorts/22P7NhUyQfY",
        "published": "2026-11-24T15:02:47Z",
-       "views": 14,
+       "views": 16,
        "likes": 0,
        "comments": 0
       },
@@ -1112,11 +1112,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
-      "followers": 13,
+      "followers": 14,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1712,
-      "likes_recent": 47,
+      "views_recent": 1777,
+      "likes_recent": 48,
       "comments_recent": 0
      },
      "posts": [
@@ -1125,7 +1125,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 232,
+       "views": 297,
        "likes": 4,
        "comments": 0
       },
@@ -1144,7 +1144,7 @@
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
        "views": 336,
-       "likes": 18,
+       "likes": 19,
        "comments": 0
       },
       {
@@ -3058,7 +3058,7 @@
     "followers": 1,
     "views": 300,
     "posts_count": 11,
-    "views_recent": 324,
+    "views_recent": 330,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3099,11 +3099,11 @@
     "comments_recent": 0
    },
    "Shifa/youtube": {
-    "followers": 13,
+    "followers": 14,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1712,
-    "likes_recent": 47,
+    "views_recent": 1777,
+    "likes_recent": 48,
     "comments_recent": 0
    }
   }
