@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:27:11+03:00",
+ "generated_at": "2026-11-25T10:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 300,
       "posts_count": 11,
-      "views_recent": 323,
+      "views_recent": 324,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -258,7 +258,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 58,
+       "views": 59,
        "likes": 3,
        "comments": 0
       },
@@ -293,7 +293,7 @@
       "followers": 41,
       "following": 0,
       "posts_count": 30,
-      "likes_recent": 2759,
+      "likes_recent": 2762,
       "comments_recent": 22,
       "views_recent": null
      },
@@ -304,7 +304,7 @@
        "url": "https://www.instagram.com/reel/DgI4Jx4SxDI/",
        "published": "2026-11-24T21:04:34+0000",
        "type": "VIDEO",
-       "likes": 153,
+       "likes": 155,
        "comments": 1,
        "views": null
       },
@@ -314,7 +314,7 @@
        "url": "https://www.instagram.com/reel/DgIO7UipeWP/",
        "published": "2026-11-24T15:04:28+0000",
        "type": "VIDEO",
-       "likes": 35,
+       "likes": 36,
        "comments": 0,
        "views": null
       },
@@ -1115,8 +1115,8 @@
       "followers": 13,
       "views": 1247,
       "posts_count": 6,
-      "views_recent": 1515,
-      "likes_recent": 44,
+      "views_recent": 1576,
+      "likes_recent": 45,
       "comments_recent": 0
      },
      "posts": [
@@ -1125,8 +1125,8 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 37,
-       "likes": 1,
+       "views": 96,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1143,7 +1143,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 334,
+       "views": 336,
        "likes": 18,
        "comments": 0
       },
@@ -3058,7 +3058,7 @@
     "followers": 1,
     "views": 300,
     "posts_count": 11,
-    "views_recent": 323,
+    "views_recent": 324,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3066,7 +3066,7 @@
     "followers": 41,
     "following": 0,
     "posts_count": 30,
-    "likes_recent": 2759,
+    "likes_recent": 2762,
     "comments_recent": 22,
     "views_recent": null
    },
@@ -3102,8 +3102,8 @@
     "followers": 13,
     "views": 1247,
     "posts_count": 6,
-    "views_recent": 1515,
-    "likes_recent": 44,
+    "views_recent": 1576,
+    "likes_recent": 45,
     "comments_recent": 0
    }
   }
