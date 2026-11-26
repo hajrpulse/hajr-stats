@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:27:09+03:00",
+ "generated_at": "2026-11-26T06:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 348,
       "posts_count": 13,
-      "views_recent": 381,
+      "views_recent": 383,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 44,
+       "views": 46,
        "likes": 2,
        "comments": 0
       },
@@ -754,12 +754,21 @@
      "totals": {
       "followers": 7,
       "views": 963,
-      "posts_count": 11,
+      "posts_count": 12,
       "views_recent": 989,
       "likes_recent": 83,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "SpmY1Xgg9Wg",
+       "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
+       "published": "2026-11-26T02:33:42Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "9PWcf090J_4",
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
@@ -974,7 +983,7 @@
       "followers": 5,
       "views": 501,
       "posts_count": 16,
-      "views_recent": 505,
+      "views_recent": 506,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -993,7 +1002,7 @@
        "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/4GceiV7N_Ow",
        "published": "2026-11-24T10:31:13Z",
-       "views": 5,
+       "views": 6,
        "likes": 0,
        "comments": 0
       },
@@ -1142,7 +1151,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 2024,
+      "views_recent": 2022,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1170,7 +1179,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 337,
+       "views": 335,
        "likes": 19,
        "comments": 0
       },
@@ -3145,7 +3154,7 @@
     "followers": 1,
     "views": 348,
     "posts_count": 13,
-    "views_recent": 381,
+    "views_recent": 383,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3166,7 +3175,7 @@
    "Sunnah/youtube": {
     "followers": 7,
     "views": 963,
-    "posts_count": 11,
+    "posts_count": 12,
     "views_recent": 989,
     "likes_recent": 83,
     "comments_recent": 0
@@ -3181,7 +3190,7 @@
     "followers": 5,
     "views": 501,
     "posts_count": 16,
-    "views_recent": 505,
+    "views_recent": 506,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3189,7 +3198,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 2024,
+    "views_recent": 2022,
     "likes_recent": 50,
     "comments_recent": 0
    }
