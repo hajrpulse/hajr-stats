@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:27:13+03:00",
+ "generated_at": "2026-11-26T22:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9954
+      "views_recent": 10043
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 316,
+       "views": 405,
        "likes": 3,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 395,
       "posts_count": 14,
-      "views_recent": 405,
+      "views_recent": 406,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 13,
+       "views": 14,
        "likes": 0,
        "comments": 0
       },
@@ -320,7 +320,7 @@
       "followers": 48,
       "following": 0,
       "posts_count": 33,
-      "likes_recent": 2799,
+      "likes_recent": 2807,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -331,7 +331,7 @@
        "url": "https://www.instagram.com/reel/DgNYkFuBUdS/",
        "published": "2026-11-26T15:04:48+0000",
        "type": "VIDEO",
-       "likes": 15,
+       "likes": 22,
        "comments": 0,
        "views": null
       },
@@ -341,7 +341,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 121,
+       "likes": 122,
        "comments": 0,
        "views": null
       },
@@ -990,9 +990,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 505,
+      "views": 507,
       "posts_count": 17,
-      "views_recent": 510,
+      "views_recent": 512,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1002,7 +1002,7 @@
        "title": "Word-Level Subtitle & Audio Mastering With WhisperX | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/vOw02l-CQyc",
        "published": "2026-11-26T10:31:59Z",
-       "views": 1,
+       "views": 3,
        "likes": 0,
        "comments": 0
       },
@@ -3175,13 +3175,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9954
+    "views_recent": 10043
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 395,
     "posts_count": 14,
-    "views_recent": 405,
+    "views_recent": 406,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3189,7 +3189,7 @@
     "followers": 48,
     "following": 0,
     "posts_count": 33,
-    "likes_recent": 2799,
+    "likes_recent": 2807,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3215,9 +3215,9 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 505,
+    "views": 507,
     "posts_count": 17,
-    "views_recent": 510,
+    "views_recent": 512,
     "likes_recent": 10,
     "comments_recent": 0
    },
