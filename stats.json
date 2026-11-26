@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:27:11+03:00",
+ "generated_at": "2026-11-26T10:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 348,
       "posts_count": 13,
-      "views_recent": 385,
+      "views_recent": 386,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 20,
+       "views": 21,
        "likes": 1,
        "comments": 0
       },
@@ -308,10 +308,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 44,
+      "followers": 45,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2847,
+      "likes_recent": 2853,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 95,
+       "likes": 101,
        "comments": 0,
        "views": null
       },
@@ -755,7 +755,7 @@
       "followers": 7,
       "views": 987,
       "posts_count": 12,
-      "views_recent": 990,
+      "views_recent": 989,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -765,7 +765,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 1,
+       "views": 0,
        "likes": 0,
        "comments": 0
       },
@@ -981,9 +981,9 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 501,
+      "views": 505,
       "posts_count": 16,
-      "views_recent": 506,
+      "views_recent": 507,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1002,7 +1002,7 @@
        "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/4GceiV7N_Ow",
        "published": "2026-11-24T10:31:13Z",
-       "views": 6,
+       "views": 7,
        "likes": 0,
        "comments": 0
       },
@@ -1151,7 +1151,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 7,
-      "views_recent": 2030,
+      "views_recent": 2031,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1188,7 +1188,7 @@
        "title": "شو سر السواك لصحة الفم في الحديث؟ | Why did the Prophet ﷺ use the Siwak?",
        "url": "https://youtube.com/shorts/R9Dh1mhutJY",
        "published": "2026-11-23T04:32:32Z",
-       "views": 335,
+       "views": 336,
        "likes": 19,
        "comments": 0
       },
@@ -3163,15 +3163,15 @@
     "followers": 1,
     "views": 348,
     "posts_count": 13,
-    "views_recent": 385,
+    "views_recent": 386,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 44,
+    "followers": 45,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2847,
+    "likes_recent": 2853,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3185,7 +3185,7 @@
     "followers": 7,
     "views": 987,
     "posts_count": 12,
-    "views_recent": 990,
+    "views_recent": 989,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3197,9 +3197,9 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 501,
+    "views": 505,
     "posts_count": 16,
-    "views_recent": 506,
+    "views_recent": 507,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3207,7 +3207,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 7,
-    "views_recent": 2030,
+    "views_recent": 2031,
     "likes_recent": 50,
     "comments_recent": 0
    }
