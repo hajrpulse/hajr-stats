@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:27:11+03:00",
+ "generated_at": "2026-11-26T23:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 10043
+      "views_recent": 10130
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 405,
+       "views": 488,
        "likes": 3,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1093,
+       "views": 1096,
        "likes": 7,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "فتح الأندلس ٧١١: عبور طارق #Shorts",
        "url": "https://youtube.com/shorts/ax4zeBtRu6k",
        "published": "2026-11-23T16:00:24+00:00",
-       "views": 1259,
+       "views": 1260,
        "likes": 7,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 395,
       "posts_count": 14,
-      "views_recent": 406,
+      "views_recent": 409,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 14,
+       "views": 17,
        "likes": 0,
        "comments": 0
       },
@@ -320,7 +320,7 @@
       "followers": 48,
       "following": 0,
       "posts_count": 33,
-      "likes_recent": 2807,
+      "likes_recent": 2816,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -331,7 +331,7 @@
        "url": "https://www.instagram.com/reel/DgNYkFuBUdS/",
        "published": "2026-11-26T15:04:48+0000",
        "type": "VIDEO",
-       "likes": 22,
+       "likes": 30,
        "comments": 0,
        "views": null
       },
@@ -481,7 +481,7 @@
        "url": "https://www.instagram.com/reel/Df5bLhEvCEx/",
        "published": "2026-11-18T21:02:31+0000",
        "type": "VIDEO",
-       "likes": 225,
+       "likes": 226,
        "comments": 3,
        "views": null
       },
@@ -898,7 +898,7 @@
       "followers": 58,
       "views": null,
       "posts_count": null,
-      "views_recent": 9899
+      "views_recent": 9911
      },
      "posts": [
       {
@@ -906,7 +906,7 @@
        "title": "أبو واصف وخصم الـ100% | بيت أبو حمزة — شورت 03",
        "url": "https://youtube.com/shorts/DwqPvrWsM4Y",
        "published": "2026-11-09T19:12:06+00:00",
-       "views": 79,
+       "views": 87,
        "likes": 6,
        "comments": null
       },
@@ -924,7 +924,7 @@
        "title": "الريموت المفقود! | بيت أبو حمزة — الحلقة 4",
        "url": "https://youtube.com/shorts/LWBsHc5WW1E",
        "published": "2026-11-08T11:53:31+00:00",
-       "views": 74,
+       "views": 76,
        "likes": 8,
        "comments": null
       },
@@ -951,7 +951,7 @@
        "title": "رهف رسمت عالحيط الجديد! | بيت أبو حمزة — الحلقة 2",
        "url": "https://youtube.com/shorts/GbzvvFq84Fs",
        "published": "2026-10-31T20:37:16+00:00",
-       "views": 82,
+       "views": 84,
        "likes": 10,
        "comments": null
       },
@@ -992,7 +992,7 @@
       "followers": 5,
       "views": 507,
       "posts_count": 17,
-      "views_recent": 512,
+      "views_recent": 513,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1074,7 +1074,7 @@
        "title": "Launch a Micro-SaaS in 48 Hours With v0 & Supabase | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/ucCS6vk3DLw",
        "published": "2026-11-18T10:32:06Z",
-       "views": 8,
+       "views": 9,
        "likes": 0,
        "comments": 0
       },
@@ -3175,13 +3175,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 10043
+    "views_recent": 10130
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 395,
     "posts_count": 14,
-    "views_recent": 406,
+    "views_recent": 409,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3189,7 +3189,7 @@
     "followers": 48,
     "following": 0,
     "posts_count": 33,
-    "likes_recent": 2807,
+    "likes_recent": 2816,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3211,13 +3211,13 @@
     "followers": 58,
     "views": null,
     "posts_count": null,
-    "views_recent": 9899
+    "views_recent": 9911
    },
    "AI/youtube": {
     "followers": 5,
     "views": 507,
     "posts_count": 17,
-    "views_recent": 512,
+    "views_recent": 513,
     "likes_recent": 10,
     "comments_recent": 0
    },
