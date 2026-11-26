@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:27:12+03:00",
+ "generated_at": "2026-11-26T07:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9555
+      "views_recent": 9556
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1080,
+       "views": 1081,
        "likes": 7,
        "comments": null
       },
@@ -311,7 +311,7 @@
       "followers": 44,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2838,
+      "likes_recent": 2839,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -332,7 +332,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 167,
+       "likes": 168,
        "comments": 1,
        "views": null
       },
@@ -983,7 +983,7 @@
       "followers": 5,
       "views": 501,
       "posts_count": 16,
-      "views_recent": 506,
+      "views_recent": 505,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1002,7 +1002,7 @@
        "title": "Build Executive Pitch Decks in 45 Seconds With Gamma AI | HAJR AI #Shorts",
        "url": "https://youtube.com/shorts/4GceiV7N_Ow",
        "published": "2026-11-24T10:31:13Z",
-       "views": 6,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -1151,7 +1151,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 2022,
+      "views_recent": 2028,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1161,7 +1161,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 535,
+       "views": 541,
        "likes": 5,
        "comments": 0
       },
@@ -3148,7 +3148,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9555
+    "views_recent": 9556
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3162,7 +3162,7 @@
     "followers": 44,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2838,
+    "likes_recent": 2839,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3190,7 +3190,7 @@
     "followers": 5,
     "views": 501,
     "posts_count": 16,
-    "views_recent": 506,
+    "views_recent": 505,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3198,7 +3198,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 2022,
+    "views_recent": 2028,
     "likes_recent": 50,
     "comments_recent": 0
    }
