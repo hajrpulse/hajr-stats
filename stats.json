@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:27:10+03:00",
+ "generated_at": "2026-11-26T11:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -37,7 +37,7 @@
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
        "views": 1134,
-       "likes": 9,
+       "likes": 10,
        "comments": null
       },
       {
@@ -174,7 +174,7 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 348,
+      "views": 380,
       "posts_count": 13,
       "views_recent": 386,
       "likes_recent": 10,
@@ -308,10 +308,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 45,
+      "followers": 47,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2853,
+      "likes_recent": 2868,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 101,
+       "likes": 116,
        "comments": 0,
        "views": null
       },
@@ -755,7 +755,7 @@
       "followers": 7,
       "views": 987,
       "posts_count": 12,
-      "views_recent": 989,
+      "views_recent": 991,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -765,7 +765,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -774,7 +774,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 61,
+       "views": 62,
        "likes": 8,
        "comments": 0
       },
@@ -1149,7 +1149,7 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 15,
-      "views": 1673,
+      "views": 1786,
       "posts_count": 7,
       "views_recent": 2031,
       "likes_recent": 50,
@@ -3161,17 +3161,17 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 348,
+    "views": 380,
     "posts_count": 13,
     "views_recent": 386,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 45,
+    "followers": 47,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2853,
+    "likes_recent": 2868,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3185,7 +3185,7 @@
     "followers": 7,
     "views": 987,
     "posts_count": 12,
-    "views_recent": 989,
+    "views_recent": 991,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3205,7 +3205,7 @@
    },
    "Shifa/youtube": {
     "followers": 15,
-    "views": 1673,
+    "views": 1786,
     "posts_count": 7,
     "views_recent": 2031,
     "likes_recent": 50,
