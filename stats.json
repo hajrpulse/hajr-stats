@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T11:27:09+03:00",
+ "generated_at": "2026-11-26T12:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9556
+      "views_recent": 9558
      },
      "posts": [
       {
@@ -37,7 +37,7 @@
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
        "views": 1134,
-       "likes": 10,
+       "likes": 11,
        "comments": null
       },
       {
@@ -63,7 +63,7 @@
        "title": "ملاذكرد ١٠٧١: يوم اهتزّت فيه بيزنطة #Shorts",
        "url": "https://youtube.com/shorts/xjDp1T_NBWA",
        "published": "2026-11-21T16:00:27+00:00",
-       "views": 189,
+       "views": 191,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 380,
       "posts_count": 13,
-      "views_recent": 386,
+      "views_recent": 389,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (51-53) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/WtdPog17jNQ",
        "published": "2026-11-24T21:02:21Z",
-       "views": 47,
+       "views": 48,
        "likes": 2,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (43-48) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/FSrcyU2ypqw",
        "published": "2026-11-23T21:03:14Z",
-       "views": 21,
+       "views": 22,
        "likes": 1,
        "comments": 0
       },
@@ -311,7 +311,7 @@
       "followers": 47,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2868,
+      "likes_recent": 2873,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 116,
+       "likes": 121,
        "comments": 0,
        "views": null
       },
@@ -1151,7 +1151,7 @@
       "followers": 15,
       "views": 1786,
       "posts_count": 7,
-      "views_recent": 2031,
+      "views_recent": 2038,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1161,7 +1161,7 @@
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
        "url": "https://youtube.com/shorts/u31BJSTwhvU",
        "published": "2026-11-26T04:34:52Z",
-       "views": 2,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -1170,7 +1170,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 541,
+       "views": 546,
        "likes": 5,
        "comments": 0
       },
@@ -3157,13 +3157,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9556
+    "views_recent": 9558
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 380,
     "posts_count": 13,
-    "views_recent": 386,
+    "views_recent": 389,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3171,7 +3171,7 @@
     "followers": 47,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2868,
+    "likes_recent": 2873,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3207,7 +3207,7 @@
     "followers": 15,
     "views": 1786,
     "posts_count": 7,
-    "views_recent": 2031,
+    "views_recent": 2038,
     "likes_recent": 50,
     "comments_recent": 0
    }
