@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:27:12+03:00",
+ "generated_at": "2026-11-26T20:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9639
+      "views_recent": 9811
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 1,
-       "likes": 0,
+       "views": 173,
+       "likes": 1,
        "comments": null
       },
       {
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 380,
+      "views": 395,
       "posts_count": 14,
-      "views_recent": 399,
+      "views_recent": 404,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 10,
+       "views": 14,
        "likes": 0,
        "comments": 0
       },
@@ -762,7 +762,7 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 7,
-      "views": 987,
+      "views": 991,
       "posts_count": 12,
       "views_recent": 991,
       "likes_recent": 83,
@@ -895,7 +895,7 @@
      "source": "public_page+rss",
      "channel_id": "UCqOaBMVJ3AkNnq25DylDBLQ",
      "totals": {
-      "followers": 57,
+      "followers": 58,
       "views": null,
       "posts_count": null,
       "views_recent": 9899
@@ -992,7 +992,7 @@
       "followers": 5,
       "views": 505,
       "posts_count": 17,
-      "views_recent": 508,
+      "views_recent": 509,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -1011,7 +1011,7 @@
        "title": "مزامنة النصوص مع الصوت بدقة الكلمة الواحدة عبر WhisperX | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Lhp0-3gK3qE",
        "published": "2026-11-25T10:33:49Z",
-       "views": 1,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -1167,9 +1167,9 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 15,
-      "views": 1786,
+      "views": 1816,
       "posts_count": 7,
-      "views_recent": 2050,
+      "views_recent": 2051,
       "likes_recent": 51,
       "comments_recent": 0
      },
@@ -1197,7 +1197,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 37,
+       "views": 38,
        "likes": 1,
        "comments": 0
       },
@@ -3175,13 +3175,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9639
+    "views_recent": 9811
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 380,
+    "views": 395,
     "posts_count": 14,
-    "views_recent": 399,
+    "views_recent": 404,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3201,14 +3201,14 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 7,
-    "views": 987,
+    "views": 991,
     "posts_count": 12,
     "views_recent": 991,
     "likes_recent": 83,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
-    "followers": 57,
+    "followers": 58,
     "views": null,
     "posts_count": null,
     "views_recent": 9899
@@ -3217,15 +3217,15 @@
     "followers": 5,
     "views": 505,
     "posts_count": 17,
-    "views_recent": 508,
+    "views_recent": 509,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 15,
-    "views": 1786,
+    "views": 1816,
     "posts_count": 7,
-    "views_recent": 2050,
+    "views_recent": 2051,
     "likes_recent": 51,
     "comments_recent": 0
    }
