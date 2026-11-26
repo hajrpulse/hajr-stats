@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:27:11+03:00",
+ "generated_at": "2026-11-26T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9643
+      "views_recent": 9645
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1091,
+       "views": 1093,
        "likes": 7,
        "comments": null
       },
@@ -175,18 +175,27 @@
      "totals": {
       "followers": 1,
       "views": 380,
-      "posts_count": 13,
-      "views_recent": 399,
+      "posts_count": 14,
+      "views_recent": 402,
       "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
       {
+       "id": "RqIG9Eb6CmE",
+       "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
+       "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
+       "published": "2026-11-26T15:02:53Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
+      {
        "id": "42uAdcZH1L4",
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 10,
+       "views": 13,
        "likes": 0,
        "comments": 0
       },
@@ -310,12 +319,22 @@
      "totals": {
       "followers": 47,
       "following": 0,
-      "posts_count": 32,
-      "likes_recent": 2876,
+      "posts_count": 33,
+      "likes_recent": 2783,
       "comments_recent": 21,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18157145344546658",
+       "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 58-59\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.instagram.com/reel/DgNYkFuBUdS/",
+       "published": "2026-11-26T15:04:48+0000",
+       "type": "VIDEO",
+       "likes": 0,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "18183844492438274",
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 57\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
@@ -505,16 +524,6 @@
        "likes": 216,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "17921641053461862",
-       "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
-       "url": "https://www.instagram.com/reel/DfzoeVnxsJi/",
-       "published": "2026-11-16T15:03:41+0000",
-       "type": "VIDEO",
-       "likes": 93,
-       "comments": 0,
-       "views": null
       }
      ]
     },
@@ -531,6 +540,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18110435630205624",
+       "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي\n\nسورة البقرة — الآيات 58-59\nالقارئ: محمد صديق المنشاوي\n\nالمصدر: نص المصحف (q",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgNYyRPCJyJ",
+       "published": "2026-11-26T15:06:33+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18120265226325811",
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري\n\nسورة البقرة — الآيات 57\nالقارئ: محمود خليل الحصري\n\nالمصدر: نص المصحف (quran-uth",
@@ -716,16 +735,6 @@
        "title": "سورة البقرة (14-16) بصوت مشاري راشد العفاسي\n\nسورة البقرة — الآيات 14-16\nالقارئ: مشاري راشد العفاسي\n\nالمصدر: نص المصحف (q",
        "url": "https://www.threads.com/@hajrquran.official/post/Df0R2p7hNIA",
        "published": "2026-11-16T21:05:15+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
-      },
-      {
-       "id": "17919977403258722",
-       "title": "سورة البقرة (11-13) بصوت عبد الباسط عبد الصمد\n\nسورة البقرة — الآيات 11-13\nالقارئ: عبد الباسط عبد الصمد\n\nالمصدر: نص المصح",
-       "url": "https://www.threads.com/@hajrquran.official/post/DfzotgyhYoe",
-       "published": "2026-11-16T15:05:45+0000",
        "type": "VIDEO",
        "views": null,
        "likes": null,
@@ -1160,7 +1169,7 @@
       "followers": 15,
       "views": 1786,
       "posts_count": 7,
-      "views_recent": 2048,
+      "views_recent": 2050,
       "likes_recent": 51,
       "comments_recent": 0
      },
@@ -1170,7 +1179,7 @@
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
        "url": "https://youtube.com/shorts/u31BJSTwhvU",
        "published": "2026-11-26T04:34:52Z",
-       "views": 8,
+       "views": 10,
        "likes": 1,
        "comments": 0
       },
@@ -3166,21 +3175,21 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9643
+    "views_recent": 9645
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 380,
-    "posts_count": 13,
-    "views_recent": 399,
+    "posts_count": 14,
+    "views_recent": 402,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 47,
     "following": 0,
-    "posts_count": 32,
-    "likes_recent": 2876,
+    "posts_count": 33,
+    "likes_recent": 2783,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3216,7 +3225,7 @@
     "followers": 15,
     "views": 1786,
     "posts_count": 7,
-    "views_recent": 2048,
+    "views_recent": 2050,
     "likes_recent": 51,
     "comments_recent": 0
    }
