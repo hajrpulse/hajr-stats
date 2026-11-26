@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:27:11+03:00",
+ "generated_at": "2026-11-26T04:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 9545
+      "views_recent": 9555
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1070,
+       "views": 1080,
        "likes": 7,
        "comments": null
       },
@@ -311,7 +311,7 @@
       "followers": 44,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2831,
+      "likes_recent": 2837,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 83,
+       "likes": 87,
        "comments": 0,
        "views": null
       },
@@ -332,7 +332,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 165,
+       "likes": 167,
        "comments": 1,
        "views": null
       },
@@ -755,7 +755,7 @@
       "followers": 7,
       "views": 963,
       "posts_count": 11,
-      "views_recent": 986,
+      "views_recent": 988,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -765,7 +765,7 @@
        "title": "The Most Beloved Deeds to Allah | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/9PWcf090J_4",
        "published": "2026-11-25T02:33:25Z",
-       "views": 59,
+       "views": 61,
        "likes": 8,
        "comments": 0
       },
@@ -1142,7 +1142,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 2007,
+      "views_recent": 2023,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1152,7 +1152,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 519,
+       "views": 535,
        "likes": 5,
        "comments": 0
       },
@@ -3139,7 +3139,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 9545
+    "views_recent": 9555
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3153,7 +3153,7 @@
     "followers": 44,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2831,
+    "likes_recent": 2837,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3167,7 +3167,7 @@
     "followers": 7,
     "views": 963,
     "posts_count": 11,
-    "views_recent": 986,
+    "views_recent": 988,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3189,7 +3189,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 2007,
+    "views_recent": 2023,
     "likes_recent": 50,
     "comments_recent": 0
    }
