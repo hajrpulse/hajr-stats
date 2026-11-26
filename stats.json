@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:27:09+03:00",
+ "generated_at": "2026-11-26T03:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -308,10 +308,10 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 42,
+      "followers": 44,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2806,
+      "likes_recent": 2831,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 58,
+       "likes": 83,
        "comments": 0,
        "views": null
       },
@@ -1142,7 +1142,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 6,
-      "views_recent": 2004,
+      "views_recent": 2007,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1152,7 +1152,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 518,
+       "views": 519,
        "likes": 5,
        "comments": 0
       },
@@ -1161,7 +1161,7 @@
        "title": "الحمى تُبرَّد بالماء: هل هذا حديث صحيح؟ | Cooling a fever with water: is it Sahih?",
        "url": "https://youtube.com/shorts/bx09EdWjnwo",
        "published": "2026-11-24T04:34:45Z",
-       "views": 34,
+       "views": 36,
        "likes": 1,
        "comments": 0
       },
@@ -3150,10 +3150,10 @@
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 42,
+    "followers": 44,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2806,
+    "likes_recent": 2831,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3189,7 +3189,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 6,
-    "views_recent": 2004,
+    "views_recent": 2007,
     "likes_recent": 50,
     "comments_recent": 0
    }
