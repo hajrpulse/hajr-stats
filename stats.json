@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:27:09+03:00",
+ "generated_at": "2026-11-26T09:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 348,
       "posts_count": 13,
-      "views_recent": 384,
+      "views_recent": 385,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -294,7 +294,7 @@
        "title": "سورة البقرة (26-27) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/zSuSj5CnWtU",
        "published": "2026-11-19T21:03:01Z",
-       "views": 34,
+       "views": 35,
        "likes": 0,
        "comments": 0
       }
@@ -311,7 +311,7 @@
       "followers": 44,
       "following": 0,
       "posts_count": 32,
-      "likes_recent": 2844,
+      "likes_recent": 2847,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -322,7 +322,7 @@
        "url": "https://www.instagram.com/reel/DgLc21zBtAJ/",
        "published": "2026-11-25T21:03:48+0000",
        "type": "VIDEO",
-       "likes": 93,
+       "likes": 95,
        "comments": 0,
        "views": null
       },
@@ -332,7 +332,7 @@
        "url": "https://www.instagram.com/reel/DgKzwApBv-p/",
        "published": "2026-11-25T15:04:44+0000",
        "type": "VIDEO",
-       "likes": 168,
+       "likes": 169,
        "comments": 1,
        "views": null
       },
@@ -753,9 +753,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 7,
-      "views": 963,
+      "views": 987,
       "posts_count": 12,
-      "views_recent": 989,
+      "views_recent": 990,
       "likes_recent": 83,
       "comments_recent": 0
      },
@@ -765,7 +765,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 0,
+       "views": 1,
        "likes": 0,
        "comments": 0
       },
@@ -1151,7 +1151,7 @@
       "followers": 15,
       "views": 1673,
       "posts_count": 7,
-      "views_recent": 2027,
+      "views_recent": 2030,
       "likes_recent": 50,
       "comments_recent": 0
      },
@@ -1161,7 +1161,7 @@
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
        "url": "https://youtube.com/shorts/u31BJSTwhvU",
        "published": "2026-11-26T04:34:52Z",
-       "views": 0,
+       "views": 2,
        "likes": 0,
        "comments": 0
       },
@@ -1170,7 +1170,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 540,
+       "views": 541,
        "likes": 5,
        "comments": 0
       },
@@ -3163,7 +3163,7 @@
     "followers": 1,
     "views": 348,
     "posts_count": 13,
-    "views_recent": 384,
+    "views_recent": 385,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3171,7 +3171,7 @@
     "followers": 44,
     "following": 0,
     "posts_count": 32,
-    "likes_recent": 2844,
+    "likes_recent": 2847,
     "comments_recent": 21,
     "views_recent": null
    },
@@ -3183,9 +3183,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 7,
-    "views": 963,
+    "views": 987,
     "posts_count": 12,
-    "views_recent": 989,
+    "views_recent": 990,
     "likes_recent": 83,
     "comments_recent": 0
    },
@@ -3207,7 +3207,7 @@
     "followers": 15,
     "views": 1673,
     "posts_count": 7,
-    "views_recent": 2027,
+    "views_recent": 2030,
     "likes_recent": 50,
     "comments_recent": 0
    }
