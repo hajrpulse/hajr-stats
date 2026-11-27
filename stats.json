@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:27:10+03:00",
+ "generated_at": "2026-11-27T12:27:09+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11051
+      "views_recent": 11071
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "الزلاقة ١٠٨٦: يوم هزيمة ملك قشتالة #Shorts",
        "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
        "published": "2026-11-27T04:29:08+00:00",
-       "views": 630,
-       "likes": 7,
+       "views": 650,
+       "likes": 5,
        "comments": null
       },
       {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 418,
       "posts_count": 16,
-      "views_recent": 438,
+      "views_recent": 442,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 16,
+       "views": 20,
        "likes": 0,
        "comments": 0
       },
@@ -338,7 +338,7 @@
       "followers": 53,
       "following": 0,
       "posts_count": 35,
-      "likes_recent": 2846,
+      "likes_recent": 2868,
       "comments_recent": 12,
       "views_recent": null
      },
@@ -349,7 +349,7 @@
        "url": "https://www.instagram.com/reel/DgO06REAcq8/",
        "published": "2026-11-27T04:31:32+0000",
        "type": "VIDEO",
-       "likes": 80,
+       "likes": 102,
        "comments": 0,
        "views": null
       },
@@ -779,11 +779,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
-      "followers": 8,
+      "followers": 9,
       "views": 991,
       "posts_count": 13,
-      "views_recent": 1045,
-      "likes_recent": 96,
+      "views_recent": 1066,
+      "likes_recent": 100,
       "comments_recent": 0
      },
      "posts": [
@@ -792,8 +792,8 @@
        "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/lDNCsbbNu90",
        "published": "2026-11-27T04:29:41Z",
-       "views": 50,
-       "likes": 12,
+       "views": 71,
+       "likes": 16,
        "comments": 0
       },
       {
@@ -1205,8 +1205,8 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2698,
-      "likes_recent": 105,
+      "views_recent": 2765,
+      "likes_recent": 106,
       "comments_recent": 0
      },
      "posts": [
@@ -1215,8 +1215,8 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 636,
-       "likes": 54,
+       "views": 703,
+       "likes": 55,
        "comments": 0
       },
       {
@@ -3280,13 +3280,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11051
+    "views_recent": 11071
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 418,
     "posts_count": 16,
-    "views_recent": 438,
+    "views_recent": 442,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3294,7 +3294,7 @@
     "followers": 53,
     "following": 0,
     "posts_count": 35,
-    "likes_recent": 2846,
+    "likes_recent": 2868,
     "comments_recent": 12,
     "views_recent": null
    },
@@ -3305,11 +3305,11 @@
    },
    "Quran/tiktok": {},
    "Sunnah/youtube": {
-    "followers": 8,
+    "followers": 9,
     "views": 991,
     "posts_count": 13,
-    "views_recent": 1045,
-    "likes_recent": 96,
+    "views_recent": 1066,
+    "likes_recent": 100,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3330,8 +3330,8 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2698,
-    "likes_recent": 105,
+    "views_recent": 2765,
+    "likes_recent": 106,
     "comments_recent": 0
    }
   }
