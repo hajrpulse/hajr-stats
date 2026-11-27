@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:27:11+03:00",
+ "generated_at": "2026-11-27T18:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11283
+      "views_recent": 11286
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1246,
+       "views": 1249,
        "likes": 9,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 418,
       "posts_count": 16,
-      "views_recent": 449,
+      "views_recent": 450,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 24,
+       "views": 25,
        "likes": 0,
        "comments": 0
       },
@@ -1205,7 +1205,7 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2984,
+      "views_recent": 3032,
       "likes_recent": 110,
       "comments_recent": 0
      },
@@ -1215,7 +1215,7 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 919,
+       "views": 966,
        "likes": 58,
        "comments": 0
       },
@@ -1233,7 +1233,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 555,
+       "views": 556,
        "likes": 6,
        "comments": 0
       },
@@ -3280,13 +3280,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11283
+    "views_recent": 11286
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 418,
     "posts_count": 16,
-    "views_recent": 449,
+    "views_recent": 450,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3330,7 +3330,7 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2984,
+    "views_recent": 3032,
     "likes_recent": 110,
     "comments_recent": 0
    }
