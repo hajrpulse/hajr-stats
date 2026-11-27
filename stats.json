@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:27:13+03:00",
+ "generated_at": "2026-11-27T05:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 10281
+      "views_recent": 10286
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 635,
+       "views": 638,
        "likes": 3,
        "comments": null
       },
@@ -36,7 +36,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1100,
+       "views": 1102,
        "likes": 7,
        "comments": null
       },
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 395,
+      "views": 418,
       "posts_count": 15,
-      "views_recent": 419,
+      "views_recent": 424,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 3,
+       "views": 8,
        "likes": 0,
        "comments": 0
       },
@@ -329,7 +329,7 @@
       "followers": 48,
       "following": 0,
       "posts_count": 34,
-      "likes_recent": 2934,
+      "likes_recent": 2941,
       "comments_recent": 21,
       "views_recent": null
      },
@@ -350,7 +350,7 @@
        "url": "https://www.instagram.com/reel/DgNYkFuBUdS/",
        "published": "2026-11-26T15:04:48+0000",
        "type": "VIDEO",
-       "likes": 98,
+       "likes": 105,
        "comments": 0,
        "views": null
       },
@@ -3244,13 +3244,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 10281
+    "views_recent": 10286
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 395,
+    "views": 418,
     "posts_count": 15,
-    "views_recent": 419,
+    "views_recent": 424,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3258,7 +3258,7 @@
     "followers": 48,
     "following": 0,
     "posts_count": 34,
-    "likes_recent": 2934,
+    "likes_recent": 2941,
     "comments_recent": 21,
     "views_recent": null
    },
