@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:27:10+03:00",
+ "generated_at": "2026-11-27T17:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11275
+      "views_recent": 11283
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "الزلاقة ١٠٨٦: يوم هزيمة ملك قشتالة #Shorts",
        "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
        "published": "2026-11-27T04:29:08+00:00",
-       "views": 841,
+       "views": 849,
        "likes": 3,
        "comments": null
       },
@@ -782,7 +782,7 @@
       "followers": 9,
       "views": 991,
       "posts_count": 13,
-      "views_recent": 1086,
+      "views_recent": 1093,
       "likes_recent": 100,
       "comments_recent": 0
      },
@@ -792,7 +792,7 @@
        "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/lDNCsbbNu90",
        "published": "2026-11-27T04:29:41Z",
-       "views": 89,
+       "views": 91,
        "likes": 16,
        "comments": 0
       },
@@ -801,7 +801,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 7,
+       "views": 12,
        "likes": 1,
        "comments": 0
       },
@@ -1205,7 +1205,7 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2985,
+      "views_recent": 2984,
       "likes_recent": 110,
       "comments_recent": 0
      },
@@ -1233,7 +1233,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 556,
+       "views": 555,
        "likes": 6,
        "comments": 0
       },
@@ -3280,7 +3280,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11275
+    "views_recent": 11283
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3308,7 +3308,7 @@
     "followers": 9,
     "views": 991,
     "posts_count": 13,
-    "views_recent": 1086,
+    "views_recent": 1093,
     "likes_recent": 100,
     "comments_recent": 0
    },
@@ -3330,7 +3330,7 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2985,
+    "views_recent": 2984,
     "likes_recent": 110,
     "comments_recent": 0
    }
