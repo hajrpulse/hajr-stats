@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:27:10+03:00",
+ "generated_at": "2026-11-27T23:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11336
+      "views_recent": 11347
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المنصورة ١٢٥٠: من معركة المنصورة إلى أسر لويس التاسع #Shorts",
        "url": "https://youtube.com/shorts/1vxaeD5fIJk",
        "published": "2026-11-27T16:00:33+00:00",
-       "views": 50,
+       "views": 61,
        "likes": 1,
        "comments": null
       },
@@ -338,7 +338,7 @@
       "followers": 54,
       "following": 0,
       "posts_count": 35,
-      "likes_recent": 2893,
+      "likes_recent": 2894,
       "comments_recent": 12,
       "views_recent": null
      },
@@ -369,7 +369,7 @@
        "url": "https://www.instagram.com/reel/DgNYkFuBUdS/",
        "published": "2026-11-26T15:04:48+0000",
        "type": "VIDEO",
-       "likes": 107,
+       "likes": 108,
        "comments": 0,
        "views": null
       },
@@ -925,7 +925,7 @@
       "followers": 58,
       "views": null,
       "posts_count": null,
-      "views_recent": 9912
+      "views_recent": 9913
      },
      "posts": [
       {
@@ -996,7 +996,7 @@
        "title": "تعرّفوا على عيلة أبو حمزة | بيت أبو حمزة — الحلقة 0",
        "url": "https://youtube.com/shorts/IrN8NAUu0GM",
        "published": "2026-10-24T20:28:27+00:00",
-       "views": 216,
+       "views": 217,
        "likes": 13,
        "comments": null
       }
@@ -1205,8 +1205,8 @@
       "followers": 17,
       "views": 2734,
       "posts_count": 8,
-      "views_recent": 3078,
-      "likes_recent": 114,
+      "views_recent": 3093,
+      "likes_recent": 115,
       "comments_recent": 0
      },
      "posts": [
@@ -1215,8 +1215,8 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 1009,
-       "likes": 62,
+       "views": 1024,
+       "likes": 63,
        "comments": 0
       },
       {
@@ -3280,7 +3280,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11336
+    "views_recent": 11347
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3294,7 +3294,7 @@
     "followers": 54,
     "following": 0,
     "posts_count": 35,
-    "likes_recent": 2893,
+    "likes_recent": 2894,
     "comments_recent": 12,
     "views_recent": null
    },
@@ -3316,7 +3316,7 @@
     "followers": 58,
     "views": null,
     "posts_count": null,
-    "views_recent": 9912
+    "views_recent": 9913
    },
    "AI/youtube": {
     "followers": 5,
@@ -3330,8 +3330,8 @@
     "followers": 17,
     "views": 2734,
     "posts_count": 8,
-    "views_recent": 3078,
-    "likes_recent": 114,
+    "views_recent": 3093,
+    "likes_recent": 115,
     "comments_recent": 0
    }
   }
