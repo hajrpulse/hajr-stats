@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:27:11+03:00",
+ "generated_at": "2026-11-27T16:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11271
+      "views_recent": 11275
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 644,
+       "views": 646,
        "likes": 3,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 1209,
+       "views": 1211,
        "likes": 10,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 418,
       "posts_count": 16,
-      "views_recent": 446,
+      "views_recent": 449,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 22,
+       "views": 24,
        "likes": 0,
        "comments": 0
       },
@@ -213,7 +213,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 21,
+       "views": 22,
        "likes": 0,
        "comments": 0
       },
@@ -782,7 +782,7 @@
       "followers": 9,
       "views": 991,
       "posts_count": 13,
-      "views_recent": 1068,
+      "views_recent": 1086,
       "likes_recent": 100,
       "comments_recent": 0
      },
@@ -792,7 +792,7 @@
        "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/lDNCsbbNu90",
        "published": "2026-11-27T04:29:41Z",
-       "views": 71,
+       "views": 89,
        "likes": 16,
        "comments": 0
       },
@@ -1205,7 +1205,7 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2984,
+      "views_recent": 2985,
       "likes_recent": 110,
       "comments_recent": 0
      },
@@ -1233,7 +1233,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 555,
+       "views": 556,
        "likes": 6,
        "comments": 0
       },
@@ -3280,13 +3280,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11271
+    "views_recent": 11275
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 418,
     "posts_count": 16,
-    "views_recent": 446,
+    "views_recent": 449,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3308,7 +3308,7 @@
     "followers": 9,
     "views": 991,
     "posts_count": 13,
-    "views_recent": 1068,
+    "views_recent": 1086,
     "likes_recent": 100,
     "comments_recent": 0
    },
@@ -3330,7 +3330,7 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2984,
+    "views_recent": 2985,
     "likes_recent": 110,
     "comments_recent": 0
    }
