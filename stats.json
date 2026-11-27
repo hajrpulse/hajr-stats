@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:27:10+03:00",
+ "generated_at": "2026-11-27T15:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11268
+      "views_recent": 11271
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 641,
+       "views": 644,
        "likes": 3,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 418,
       "posts_count": 16,
-      "views_recent": 443,
+      "views_recent": 446,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 20,
+       "views": 22,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 10,
+       "views": 11,
        "likes": 0,
        "comments": 0
       },
@@ -338,7 +338,7 @@
       "followers": 53,
       "following": 0,
       "posts_count": 35,
-      "likes_recent": 2887,
+      "likes_recent": 2890,
       "comments_recent": 12,
       "views_recent": null
      },
@@ -349,7 +349,7 @@
        "url": "https://www.instagram.com/reel/DgO06REAcq8/",
        "published": "2026-11-27T04:31:32+0000",
        "type": "VIDEO",
-       "likes": 121,
+       "likes": 124,
        "comments": 0,
        "views": null
       },
@@ -1019,7 +1019,7 @@
       "followers": 5,
       "views": 517,
       "posts_count": 18,
-      "views_recent": 535,
+      "views_recent": 536,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -1065,7 +1065,7 @@
        "title": "تصميم العروض التقديمية وملفات PDF بالذكاء الاصطناعي Gamma | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/_VjbqD2_s6g",
        "published": "2026-11-23T10:31:55Z",
-       "views": 3,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -1205,7 +1205,7 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2964,
+      "views_recent": 2984,
       "likes_recent": 110,
       "comments_recent": 0
      },
@@ -1215,7 +1215,7 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 899,
+       "views": 919,
        "likes": 58,
        "comments": 0
       },
@@ -3280,13 +3280,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11268
+    "views_recent": 11271
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 418,
     "posts_count": 16,
-    "views_recent": 443,
+    "views_recent": 446,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3294,7 +3294,7 @@
     "followers": 53,
     "following": 0,
     "posts_count": 35,
-    "likes_recent": 2887,
+    "likes_recent": 2890,
     "comments_recent": 12,
     "views_recent": null
    },
@@ -3322,7 +3322,7 @@
     "followers": 5,
     "views": 517,
     "posts_count": 18,
-    "views_recent": 535,
+    "views_recent": 536,
     "likes_recent": 11,
     "comments_recent": 0
    },
@@ -3330,7 +3330,7 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2964,
+    "views_recent": 2984,
     "likes_recent": 110,
     "comments_recent": 0
    }
