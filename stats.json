@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:27:11+03:00",
+ "generated_at": "2026-11-27T21:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11297
+      "views_recent": 11301
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المنصورة ١٢٥٠: من معركة المنصورة إلى أسر لويس التاسع #Shorts",
        "url": "https://youtube.com/shorts/1vxaeD5fIJk",
        "published": "2026-11-27T16:00:33+00:00",
-       "views": 13,
+       "views": 17,
        "likes": 0,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 448,
       "posts_count": 16,
-      "views_recent": 458,
+      "views_recent": 465,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 25,
+       "views": 30,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 11,
+       "views": 13,
        "likes": 0,
        "comments": 0
       },
@@ -338,7 +338,7 @@
       "followers": 54,
       "following": 0,
       "posts_count": 35,
-      "likes_recent": 2890,
+      "likes_recent": 2892,
       "comments_recent": 12,
       "views_recent": null
      },
@@ -349,7 +349,7 @@
        "url": "https://www.instagram.com/reel/DgO06REAcq8/",
        "published": "2026-11-27T04:31:32+0000",
        "type": "VIDEO",
-       "likes": 124,
+       "likes": 126,
        "comments": 0,
        "views": null
       },
@@ -780,9 +780,9 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 9,
-      "views": 991,
+      "views": 1082,
       "posts_count": 13,
-      "views_recent": 1097,
+      "views_recent": 1100,
       "likes_recent": 100,
       "comments_recent": 0
      },
@@ -792,7 +792,7 @@
        "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/lDNCsbbNu90",
        "published": "2026-11-27T04:29:41Z",
-       "views": 94,
+       "views": 97,
        "likes": 16,
        "comments": 0
       },
@@ -1017,7 +1017,7 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 517,
+      "views": 535,
       "posts_count": 18,
       "views_recent": 538,
       "likes_recent": 11,
@@ -3280,13 +3280,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11297
+    "views_recent": 11301
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 448,
     "posts_count": 16,
-    "views_recent": 458,
+    "views_recent": 465,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3294,7 +3294,7 @@
     "followers": 54,
     "following": 0,
     "posts_count": 35,
-    "likes_recent": 2890,
+    "likes_recent": 2892,
     "comments_recent": 12,
     "views_recent": null
    },
@@ -3306,9 +3306,9 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 9,
-    "views": 991,
+    "views": 1082,
     "posts_count": 13,
-    "views_recent": 1097,
+    "views_recent": 1100,
     "likes_recent": 100,
     "comments_recent": 0
    },
@@ -3320,7 +3320,7 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 517,
+    "views": 535,
     "posts_count": 18,
     "views_recent": 538,
     "likes_recent": 11,
