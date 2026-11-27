@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:27:14+03:00",
+ "generated_at": "2026-11-27T08:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,15 +19,24 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 10286
+      "views_recent": 10283
      },
      "posts": [
+      {
+       "id": "LVJ_vxK-YWU",
+       "title": "الزلاقة ١٠٨٦: يوم هزيمة ملك قشتالة #Shorts",
+       "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
+       "published": "2026-11-27T04:29:08+00:00",
+       "views": 0,
+       "likes": 0,
+       "comments": null
+      },
       {
        "id": "0ToFh7hlVHE",
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 638,
+       "views": 641,
        "likes": 3,
        "comments": null
       },
@@ -37,7 +46,7 @@
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
        "views": 1102,
-       "likes": 7,
+       "likes": 8,
        "comments": null
       },
       {
@@ -147,15 +156,6 @@
        "views": 3,
        "likes": 1,
        "comments": null
-      },
-      {
-       "id": "J1IpljIYFfk",
-       "title": "Where Trillions in Global Capital Are Flowing: 3 Mega-Sectors! 🌍🏗️ | HAJR Pulse #Shorts",
-       "url": "https://youtube.com/shorts/J1IpljIYFfk",
-       "published": "2026-11-05T06:32:40+00:00",
-       "views": 6,
-       "likes": 0,
-       "comments": null
       }
      ]
     }
@@ -175,12 +175,21 @@
      "totals": {
       "followers": 1,
       "views": 418,
-      "posts_count": 15,
-      "views_recent": 430,
+      "posts_count": 16,
+      "views_recent": 431,
       "likes_recent": 10,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "ssXKJanIJak",
+       "title": "سورة البقرة (61) بصوت عبد الرحمن السديس #Shorts",
+       "url": "https://youtube.com/shorts/ssXKJanIJak",
+       "published": "2026-11-27T04:29:08Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "Im61CFCd5CU",
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
@@ -195,7 +204,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 8,
+       "views": 9,
        "likes": 0,
        "comments": 0
       },
@@ -328,12 +337,22 @@
      "totals": {
       "followers": 48,
       "following": 0,
-      "posts_count": 34,
-      "likes_recent": 2942,
-      "comments_recent": 21,
+      "posts_count": 35,
+      "likes_recent": 2777,
+      "comments_recent": 12,
       "views_recent": null
      },
      "posts": [
+      {
+       "id": "18106627088427967",
+       "title": "سورة البقرة (61) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 61\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.instagram.com/reel/DgO06REAcq8/",
+       "published": "2026-11-27T04:31:32+0000",
+       "type": "VIDEO",
+       "likes": 13,
+       "comments": 0,
+       "views": null
+      },
       {
        "id": "17992080884877100",
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 60\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani) وا",
@@ -523,16 +542,6 @@
        "likes": 23,
        "comments": 0,
        "views": null
-      },
-      {
-       "id": "18133152784881450",
-       "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
-       "url": "https://www.instagram.com/reel/Df2NbSkOlg1/",
-       "published": "2026-11-17T15:05:02+0000",
-       "type": "VIDEO",
-       "likes": 178,
-       "comments": 9,
-       "views": null
       }
      ]
     },
@@ -549,6 +558,16 @@
       "posts_count_recent": 20
      },
      "posts": [
+      {
+       "id": "18142592491726874",
+       "title": "سورة البقرة (61) بصوت عبد الرحمن السديس\n\nسورة البقرة — الآيات 61\nالقارئ: عبد الرحمن السديس\n\nالمصدر: نص المصحف (quran-uth",
+       "url": "https://www.threads.com/@hajrquran.official/post/DgO0_2RJs6F",
+       "published": "2026-11-27T04:32:36+0000",
+       "type": "VIDEO",
+       "views": null,
+       "likes": null,
+       "comments": null
+      },
       {
        "id": "18000514449023967",
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي\n\nسورة البقرة — الآيات 60\nالقارئ: ماهر المعيقلي\n\nالمصدر: نص المصحف (quran-uthmani) وا",
@@ -738,16 +757,6 @@
        "views": null,
        "likes": null,
        "comments": null
-      },
-      {
-       "id": "18087435212323922",
-       "title": "سورة البقرة (17-19) بصوت أحمد بن علي العجمي\n\nسورة البقرة — الآيات 17-19\nالقارئ: أحمد بن علي العجمي\n\nالمصدر: نص المصحف (q",
-       "url": "https://www.threads.com/@hajrquran.official/post/Df2NrtLMmRw",
-       "published": "2026-11-17T15:07:16+0000",
-       "type": "VIDEO",
-       "views": null,
-       "likes": null,
-       "comments": null
       }
      ]
     },
@@ -772,12 +781,21 @@
      "totals": {
       "followers": 7,
       "views": 991,
-      "posts_count": 12,
+      "posts_count": 13,
       "views_recent": 993,
       "likes_recent": 83,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "lDNCsbbNu90",
+       "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
+       "url": "https://youtube.com/shorts/lDNCsbbNu90",
+       "published": "2026-11-27T04:29:41Z",
+       "views": 0,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "SpmY1Xgg9Wg",
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
@@ -999,13 +1017,22 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 5,
-      "views": 507,
-      "posts_count": 17,
-      "views_recent": 517,
-      "likes_recent": 10,
+      "views": 517,
+      "posts_count": 18,
+      "views_recent": 518,
+      "likes_recent": 11,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "bMC46sHjZzo",
+       "title": "هل يقرأ الذكاء الاصطناعي عمودًا بلا رقم؟",
+       "url": "https://youtube.com/shorts/bMC46sHjZzo",
+       "published": "2026-11-27T04:29:40Z",
+       "views": 1,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "vOw02l-CQyc",
        "title": "Word-Level Subtitle & Audio Mastering With WhisperX | HAJR AI #Shorts",
@@ -1177,12 +1204,21 @@
      "totals": {
       "followers": 15,
       "views": 1829,
-      "posts_count": 7,
-      "views_recent": 2061,
-      "likes_recent": 51,
+      "posts_count": 8,
+      "views_recent": 2062,
+      "likes_recent": 52,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "NJZ0wAKbX4s",
+       "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
+       "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
+       "published": "2026-11-27T04:29:06Z",
+       "views": 1,
+       "likes": 1,
+       "comments": 0
+      },
       {
        "id": "u31BJSTwhvU",
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
@@ -3244,22 +3280,22 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 10286
+    "views_recent": 10283
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 418,
-    "posts_count": 15,
-    "views_recent": 430,
+    "posts_count": 16,
+    "views_recent": 431,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
     "followers": 48,
     "following": 0,
-    "posts_count": 34,
-    "likes_recent": 2942,
-    "comments_recent": 21,
+    "posts_count": 35,
+    "likes_recent": 2777,
+    "comments_recent": 12,
     "views_recent": null
    },
    "Quran/threads": {
@@ -3271,7 +3307,7 @@
    "Sunnah/youtube": {
     "followers": 7,
     "views": 991,
-    "posts_count": 12,
+    "posts_count": 13,
     "views_recent": 993,
     "likes_recent": 83,
     "comments_recent": 0
@@ -3284,18 +3320,18 @@
    },
    "AI/youtube": {
     "followers": 5,
-    "views": 507,
-    "posts_count": 17,
-    "views_recent": 517,
-    "likes_recent": 10,
+    "views": 517,
+    "posts_count": 18,
+    "views_recent": 518,
+    "likes_recent": 11,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 15,
     "views": 1829,
-    "posts_count": 7,
-    "views_recent": 2061,
-    "likes_recent": 51,
+    "posts_count": 8,
+    "views_recent": 2062,
+    "likes_recent": 52,
     "comments_recent": 0
    }
   }
