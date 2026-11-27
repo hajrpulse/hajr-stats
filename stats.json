@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:27:10+03:00",
+ "generated_at": "2026-11-27T14:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11244
+      "views_recent": 11268
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "الزلاقة ١٠٨٦: يوم هزيمة ملك قشتالة #Shorts",
        "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
        "published": "2026-11-27T04:29:08+00:00",
-       "views": 823,
+       "views": 841,
        "likes": 3,
        "comments": null
       },
@@ -45,7 +45,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1240,
+       "views": 1246,
        "likes": 9,
        "comments": null
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 22,
+       "views": 20,
        "likes": 0,
        "comments": 0
       },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 9,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -303,7 +303,7 @@
        "title": "سورة البقرة (30) بصوت مشاري راشد العفاسي #Shorts",
        "url": "https://youtube.com/shorts/2Gw_pSeU36k",
        "published": "2026-11-20T21:02:08Z",
-       "views": 63,
+       "views": 64,
        "likes": 3,
        "comments": 0
       },
@@ -338,7 +338,7 @@
       "followers": 53,
       "following": 0,
       "posts_count": 35,
-      "likes_recent": 2880,
+      "likes_recent": 2887,
       "comments_recent": 12,
       "views_recent": null
      },
@@ -349,7 +349,7 @@
        "url": "https://www.instagram.com/reel/DgO06REAcq8/",
        "published": "2026-11-27T04:31:32+0000",
        "type": "VIDEO",
-       "likes": 114,
+       "likes": 121,
        "comments": 0,
        "views": null
       },
@@ -782,7 +782,7 @@
       "followers": 9,
       "views": 991,
       "posts_count": 13,
-      "views_recent": 1066,
+      "views_recent": 1068,
       "likes_recent": 100,
       "comments_recent": 0
      },
@@ -801,7 +801,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 5,
+       "views": 7,
        "likes": 1,
        "comments": 0
       },
@@ -1019,7 +1019,7 @@
       "followers": 5,
       "views": 517,
       "posts_count": 18,
-      "views_recent": 530,
+      "views_recent": 535,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -1029,7 +1029,7 @@
        "title": "هل يقرأ الذكاء الاصطناعي عمودًا بلا رقم؟",
        "url": "https://youtube.com/shorts/bMC46sHjZzo",
        "published": "2026-11-27T04:29:40Z",
-       "views": 13,
+       "views": 18,
        "likes": 1,
        "comments": 0
       },
@@ -1205,8 +1205,8 @@
       "followers": 17,
       "views": 1829,
       "posts_count": 8,
-      "views_recent": 2946,
-      "likes_recent": 109,
+      "views_recent": 2964,
+      "likes_recent": 110,
       "comments_recent": 0
      },
      "posts": [
@@ -1215,7 +1215,7 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 883,
+       "views": 899,
        "likes": 58,
        "comments": 0
       },
@@ -1224,7 +1224,7 @@
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
        "url": "https://youtube.com/shorts/u31BJSTwhvU",
        "published": "2026-11-26T04:34:52Z",
-       "views": 16,
+       "views": 18,
        "likes": 1,
        "comments": 0
       },
@@ -1234,7 +1234,7 @@
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
        "views": 555,
-       "likes": 5,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -3280,7 +3280,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11244
+    "views_recent": 11268
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3294,7 +3294,7 @@
     "followers": 53,
     "following": 0,
     "posts_count": 35,
-    "likes_recent": 2880,
+    "likes_recent": 2887,
     "comments_recent": 12,
     "views_recent": null
    },
@@ -3308,7 +3308,7 @@
     "followers": 9,
     "views": 991,
     "posts_count": 13,
-    "views_recent": 1066,
+    "views_recent": 1068,
     "likes_recent": 100,
     "comments_recent": 0
    },
@@ -3322,7 +3322,7 @@
     "followers": 5,
     "views": 517,
     "posts_count": 18,
-    "views_recent": 530,
+    "views_recent": 535,
     "likes_recent": 11,
     "comments_recent": 0
    },
@@ -3330,8 +3330,8 @@
     "followers": 17,
     "views": 1829,
     "posts_count": 8,
-    "views_recent": 2946,
-    "likes_recent": 109,
+    "views_recent": 2964,
+    "likes_recent": 110,
     "comments_recent": 0
    }
   }
