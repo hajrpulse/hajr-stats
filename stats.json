@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:27:12+03:00",
+ "generated_at": "2026-11-27T20:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11283
+      "views_recent": 11297
      },
      "posts": [
       {
@@ -27,7 +27,7 @@
        "title": "المنصورة ١٢٥٠: من معركة المنصورة إلى أسر لويس التاسع #Shorts",
        "url": "https://youtube.com/shorts/1vxaeD5fIJk",
        "published": "2026-11-27T16:00:33+00:00",
-       "views": 0,
+       "views": 13,
        "likes": 0,
        "comments": null
       },
@@ -37,7 +37,7 @@
        "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
        "published": "2026-11-27T04:29:08+00:00",
        "views": 849,
-       "likes": 4,
+       "likes": 5,
        "comments": null
       },
       {
@@ -63,7 +63,7 @@
        "title": "حصار فيينا ١٦٨٣: اليوم الذي توقّف فيه الزحف #Shorts",
        "url": "https://youtube.com/shorts/ZirVRspFnOQ",
        "published": "2026-11-24T16:01:20+00:00",
-       "views": 1211,
+       "views": 1212,
        "likes": 10,
        "comments": null
       },
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 418,
+      "views": 448,
       "posts_count": 16,
-      "views_recent": 453,
+      "views_recent": 458,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -276,7 +276,7 @@
        "title": "سورة البقرة (34-35) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/G8I7vC4WfOc",
        "published": "2026-11-22T15:03:38Z",
-       "views": 13,
+       "views": 18,
        "likes": 1,
        "comments": 0
       },
@@ -335,7 +335,7 @@
      ],
      "handle": "@hajrquran.official",
      "totals": {
-      "followers": 53,
+      "followers": 54,
       "following": 0,
       "posts_count": 35,
       "likes_recent": 2890,
@@ -782,7 +782,7 @@
       "followers": 9,
       "views": 991,
       "posts_count": 13,
-      "views_recent": 1096,
+      "views_recent": 1097,
       "likes_recent": 100,
       "comments_recent": 0
      },
@@ -801,7 +801,7 @@
        "title": "Honoring Promises, Truth & Trust | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/SpmY1Xgg9Wg",
        "published": "2026-11-26T02:33:42Z",
-       "views": 12,
+       "views": 13,
        "likes": 1,
        "comments": 0
       },
@@ -925,7 +925,7 @@
       "followers": 58,
       "views": null,
       "posts_count": null,
-      "views_recent": 9911
+      "views_recent": 9912
      },
      "posts": [
       {
@@ -942,7 +942,7 @@
        "title": "محمود ورهف والكنبة السحرية! | بيت أبو حمزة — شورت 02",
        "url": "https://youtube.com/shorts/WhlqA0Uxb9M",
        "published": "2026-11-08T13:00:11+00:00",
-       "views": 6884,
+       "views": 6885,
        "likes": 127,
        "comments": null
       },
@@ -1019,7 +1019,7 @@
       "followers": 5,
       "views": 517,
       "posts_count": 18,
-      "views_recent": 537,
+      "views_recent": 538,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -1101,7 +1101,7 @@
        "title": "تحليل وتلخيص 50 ملف PDF في دقائق عبر NotebookLM | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/B6qZ0gXGEuw",
        "published": "2026-11-19T10:34:11Z",
-       "views": 195,
+       "views": 196,
        "likes": 1,
        "comments": 0
       },
@@ -1203,10 +1203,10 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 17,
-      "views": 1829,
+      "views": 2734,
       "posts_count": 8,
-      "views_recent": 3040,
-      "likes_recent": 111,
+      "views_recent": 3049,
+      "likes_recent": 113,
       "comments_recent": 0
      },
      "posts": [
@@ -1215,8 +1215,8 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 973,
-       "likes": 59,
+       "views": 982,
+       "likes": 61,
        "comments": 0
       },
       {
@@ -3280,18 +3280,18 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11283
+    "views_recent": 11297
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 418,
+    "views": 448,
     "posts_count": 16,
-    "views_recent": 453,
+    "views_recent": 458,
     "likes_recent": 10,
     "comments_recent": 0
    },
    "Quran/instagram": {
-    "followers": 53,
+    "followers": 54,
     "following": 0,
     "posts_count": 35,
     "likes_recent": 2890,
@@ -3308,7 +3308,7 @@
     "followers": 9,
     "views": 991,
     "posts_count": 13,
-    "views_recent": 1096,
+    "views_recent": 1097,
     "likes_recent": 100,
     "comments_recent": 0
    },
@@ -3316,22 +3316,22 @@
     "followers": 58,
     "views": null,
     "posts_count": null,
-    "views_recent": 9911
+    "views_recent": 9912
    },
    "AI/youtube": {
     "followers": 5,
     "views": 517,
     "posts_count": 18,
-    "views_recent": 537,
+    "views_recent": 538,
     "likes_recent": 11,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 17,
-    "views": 1829,
+    "views": 2734,
     "posts_count": 8,
-    "views_recent": 3040,
-    "likes_recent": 111,
+    "views_recent": 3049,
+    "likes_recent": 113,
     "comments_recent": 0
    }
   }
