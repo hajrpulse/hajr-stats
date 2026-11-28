@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:27:12+03:00",
+ "generated_at": "2026-11-28T13:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11429
+      "views_recent": 11430
      },
      "posts": [
       {
@@ -45,8 +45,8 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 649,
-       "likes": 3,
+       "views": 650,
+       "likes": 4,
        "comments": null
       },
       {
@@ -1225,7 +1225,7 @@
       "followers": 18,
       "views": 2932,
       "posts_count": 9,
-      "views_recent": 4479,
+      "views_recent": 4501,
       "likes_recent": 143,
       "comments_recent": 0
      },
@@ -1235,7 +1235,7 @@
        "title": "ماذا تقول بعد آخر رشفة؟ | صحيح مسلم",
        "url": "https://youtube.com/shorts/S98HP7SHcGw",
        "published": "2026-11-28T04:30:36Z",
-       "views": 1165,
+       "views": 1166,
        "likes": 18,
        "comments": 0
       },
@@ -1244,7 +1244,7 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 1239,
+       "views": 1260,
        "likes": 73,
        "comments": 0
       },
@@ -3369,7 +3369,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11429
+    "views_recent": 11430
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3419,7 +3419,7 @@
     "followers": 18,
     "views": 2932,
     "posts_count": 9,
-    "views_recent": 4479,
+    "views_recent": 4501,
     "likes_recent": 143,
     "comments_recent": 0
    }
