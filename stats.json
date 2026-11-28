@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:27:11+03:00",
+ "generated_at": "2026-11-28T10:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -42,7 +42,7 @@
       "views": 489,
       "posts_count": 17,
       "rss_error": "rss feed unavailable",
-      "views_recent": 505,
+      "views_recent": 507,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -52,7 +52,7 @@
        "title": "سورة البقرة (62-65) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/6k_YMY1c1lE",
        "published": "2026-11-27T21:00:52Z",
-       "views": 4,
+       "views": 5,
        "likes": 0,
        "comments": 0
       },
@@ -79,7 +79,7 @@
        "title": "سورة البقرة (58-59) بصوت محمد صديق المنشاوي #Shorts",
        "url": "https://youtube.com/shorts/RqIG9Eb6CmE",
        "published": "2026-11-26T15:02:53Z",
-       "views": 13,
+       "views": 14,
        "likes": 0,
        "comments": 0
       },
@@ -835,7 +835,7 @@
       "views": 539,
       "posts_count": 18,
       "rss_error": "rss feed unavailable",
-      "views_recent": 542,
+      "views_recent": 546,
       "likes_recent": 11,
       "comments_recent": 0
      },
@@ -845,7 +845,7 @@
        "title": "هل يقرأ الذكاء الاصطناعي عمودًا بلا رقم؟",
        "url": "https://youtube.com/shorts/bMC46sHjZzo",
        "published": "2026-11-27T04:29:40Z",
-       "views": 18,
+       "views": 22,
        "likes": 1,
        "comments": 0
       },
@@ -1022,8 +1022,8 @@
       "views": 2932,
       "posts_count": 9,
       "rss_error": "rss feed unavailable",
-      "views_recent": 3830,
-      "likes_recent": 130,
+      "views_recent": 4069,
+      "likes_recent": 138,
       "comments_recent": 0
      },
      "posts": [
@@ -1032,8 +1032,8 @@
        "title": "ماذا تقول بعد آخر رشفة؟ | صحيح مسلم",
        "url": "https://youtube.com/shorts/S98HP7SHcGw",
        "published": "2026-11-28T04:30:36Z",
-       "views": 645,
-       "likes": 13,
+       "views": 883,
+       "likes": 18,
        "comments": 0
       },
       {
@@ -1041,8 +1041,8 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 1110,
-       "likes": 65,
+       "views": 1111,
+       "likes": 68,
        "comments": 0
       },
       {
@@ -3174,7 +3174,7 @@
     "views": 489,
     "posts_count": 17,
     "rss_error": "rss feed unavailable",
-    "views_recent": 505,
+    "views_recent": 507,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3213,7 +3213,7 @@
     "views": 539,
     "posts_count": 18,
     "rss_error": "rss feed unavailable",
-    "views_recent": 542,
+    "views_recent": 546,
     "likes_recent": 11,
     "comments_recent": 0
    },
@@ -3222,8 +3222,8 @@
     "views": 2932,
     "posts_count": 9,
     "rss_error": "rss feed unavailable",
-    "views_recent": 3830,
-    "likes_recent": 130,
+    "views_recent": 4069,
+    "likes_recent": 138,
     "comments_recent": 0
    }
   }
