@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:27:10+03:00",
+ "generated_at": "2026-11-28T07:27:12+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11427
+      "views_recent": 11428
      },
      "posts": [
       {
@@ -36,7 +36,7 @@
        "title": "الزلاقة ١٠٨٦: يوم هزيمة ملك قشتالة #Shorts",
        "url": "https://youtube.com/shorts/LVJ_vxK-YWU",
        "published": "2026-11-27T04:29:08+00:00",
-       "views": 850,
+       "views": 851,
        "likes": 6,
        "comments": null
       },
@@ -793,8 +793,8 @@
       "followers": 9,
       "views": 1082,
       "posts_count": 14,
-      "views_recent": 1106,
-      "likes_recent": 101,
+      "views_recent": 1142,
+      "likes_recent": 109,
       "comments_recent": 0
      },
      "posts": [
@@ -803,8 +803,8 @@
        "title": "Brotherhood & Purifying the Heart | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WXxXY3kv3mQ",
        "published": "2026-11-28T02:30:32Z",
-       "views": 0,
-       "likes": 0,
+       "views": 36,
+       "likes": 8,
        "comments": 0
       },
       {
@@ -1225,7 +1225,7 @@
       "followers": 17,
       "views": 2734,
       "posts_count": 8,
-      "views_recent": 3178,
+      "views_recent": 3182,
       "likes_recent": 117,
       "comments_recent": 0
      },
@@ -1244,7 +1244,7 @@
        "title": "الكمأة من المنّ: كيف تنفع العين؟ | Desert truffles in the Hadith — for the eyes?",
        "url": "https://youtube.com/shorts/u31BJSTwhvU",
        "published": "2026-11-26T04:34:52Z",
-       "views": 21,
+       "views": 22,
        "likes": 1,
        "comments": 0
       },
@@ -1253,7 +1253,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 557,
+       "views": 559,
        "likes": 6,
        "comments": 0
       },
@@ -1307,7 +1307,7 @@
        "title": "تَمرُ العَجوَةِ وَالتَّمرُ النَّبَوِيّ بين السنة الصحيحة وأبحاث PubMed | هجر شِفاء #Shorts",
        "url": "https://youtube.com/shorts/z38xIYfs4z4",
        "published": "2026-11-08T04:32:16Z",
-       "views": 152,
+       "views": 153,
        "likes": 4,
        "comments": 0
       },
@@ -3360,7 +3360,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11427
+    "views_recent": 11428
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3388,8 +3388,8 @@
     "followers": 9,
     "views": 1082,
     "posts_count": 14,
-    "views_recent": 1106,
-    "likes_recent": 101,
+    "views_recent": 1142,
+    "likes_recent": 109,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3410,7 +3410,7 @@
     "followers": 17,
     "views": 2734,
     "posts_count": 8,
-    "views_recent": 3178,
+    "views_recent": 3182,
     "likes_recent": 117,
     "comments_recent": 0
    }
