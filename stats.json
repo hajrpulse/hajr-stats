@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T17:27:11+03:00",
+ "generated_at": "2026-11-28T18:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 489,
       "posts_count": 17,
-      "views_recent": 540,
+      "views_recent": 547,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -204,7 +204,7 @@
        "title": "سورة البقرة (60) بصوت ماهر المعيقلي #Shorts",
        "url": "https://youtube.com/shorts/Im61CFCd5CU",
        "published": "2026-11-26T21:01:38Z",
-       "views": 61,
+       "views": 68,
        "likes": 0,
        "comments": 0
       },
@@ -1039,8 +1039,8 @@
       "followers": 6,
       "views": 539,
       "posts_count": 19,
-      "views_recent": 1005,
-      "likes_recent": 15,
+      "views_recent": 1111,
+      "likes_recent": 17,
       "comments_recent": 0
      },
      "posts": [
@@ -1049,8 +1049,8 @@
        "title": "ثانية من كاميرا روبوت: كيف يتخيّل الذكاء الاصطناعي الحركة التالية؟",
        "url": "https://youtube.com/shorts/vjI3s3BI57Y",
        "published": "2026-11-28T10:30:40Z",
-       "views": 429,
-       "likes": 3,
+       "views": 532,
+       "likes": 5,
        "comments": 0
       },
       {
@@ -1058,7 +1058,7 @@
        "title": "هل يقرأ الذكاء الاصطناعي عمودًا بلا رقم؟",
        "url": "https://youtube.com/shorts/bMC46sHjZzo",
        "published": "2026-11-27T04:29:40Z",
-       "views": 51,
+       "views": 52,
        "likes": 2,
        "comments": 0
       },
@@ -1076,7 +1076,7 @@
        "title": "مزامنة النصوص مع الصوت بدقة الكلمة الواحدة عبر WhisperX | هجر AI #Shorts",
        "url": "https://youtube.com/shorts/Lhp0-3gK3qE",
        "published": "2026-11-25T10:33:49Z",
-       "views": 2,
+       "views": 4,
        "likes": 0,
        "comments": 0
       },
@@ -1234,7 +1234,7 @@
       "followers": 18,
       "views": 2932,
       "posts_count": 9,
-      "views_recent": 4524,
+      "views_recent": 4526,
       "likes_recent": 143,
       "comments_recent": 0
      },
@@ -1271,7 +1271,7 @@
        "title": "ما القسط الهندي والبحري في الطب النبوي؟ | What is costus in Prophetic medicine?",
        "url": "https://youtube.com/shorts/8aZfiTgmWNI",
        "published": "2026-11-25T04:34:36Z",
-       "views": 559,
+       "views": 561,
        "likes": 6,
        "comments": 0
       },
@@ -3384,7 +3384,7 @@
     "followers": 1,
     "views": 489,
     "posts_count": 17,
-    "views_recent": 540,
+    "views_recent": 547,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3420,15 +3420,15 @@
     "followers": 6,
     "views": 539,
     "posts_count": 19,
-    "views_recent": 1005,
-    "likes_recent": 15,
+    "views_recent": 1111,
+    "likes_recent": 17,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 18,
     "views": 2932,
     "posts_count": 9,
-    "views_recent": 4524,
+    "views_recent": 4526,
     "likes_recent": 143,
     "comments_recent": 0
    }
