@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T20:27:12+03:00",
+ "generated_at": "2026-11-28T21:27:13+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11548
+      "views_recent": 11742
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "موهاكس ١٥٢٦: معركة أشعلت صراعًا على العرش #Shorts",
        "url": "https://youtube.com/shorts/LJrpN97Z360",
        "published": "2026-11-28T16:00:35+00:00",
-       "views": 117,
-       "likes": 1,
+       "views": 307,
+       "likes": 3,
        "comments": null
       },
       {
@@ -36,7 +36,7 @@
        "title": "المنصورة ١٢٥٠: من معركة المنصورة إلى أسر لويس التاسع #Shorts",
        "url": "https://youtube.com/shorts/1vxaeD5fIJk",
        "published": "2026-11-27T16:00:33+00:00",
-       "views": 140,
+       "views": 142,
        "likes": 3,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 655,
+       "views": 656,
        "likes": 4,
        "comments": null
       },
@@ -63,7 +63,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1256,
+       "views": 1257,
        "likes": 10,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 532,
       "posts_count": 17,
-      "views_recent": 549,
+      "views_recent": 550,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (62-65) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/6k_YMY1c1lE",
        "published": "2026-11-27T21:00:52Z",
-       "views": 9,
+       "views": 10,
        "likes": 0,
        "comments": 0
       },
@@ -793,7 +793,7 @@
       "followers": 9,
       "views": 1160,
       "posts_count": 14,
-      "views_recent": 1159,
+      "views_recent": 1160,
       "likes_recent": 116,
       "comments_recent": 0
      },
@@ -848,7 +848,7 @@
        "title": "True Strength is Controlling Anger | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/ISceyd0j0gU",
        "published": "2026-11-23T02:32:10Z",
-       "views": 43,
+       "views": 44,
        "likes": 6,
        "comments": 0
       },
@@ -1037,10 +1037,10 @@
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
       "followers": 6,
-      "views": 539,
+      "views": 565,
       "posts_count": 19,
-      "views_recent": 1413,
-      "likes_recent": 19,
+      "views_recent": 1499,
+      "likes_recent": 18,
       "comments_recent": 0
      },
      "posts": [
@@ -1049,8 +1049,8 @@
        "title": "ثانية من كاميرا روبوت: كيف يتخيّل الذكاء الاصطناعي الحركة التالية؟",
        "url": "https://youtube.com/shorts/vjI3s3BI57Y",
        "published": "2026-11-28T10:30:40Z",
-       "views": 820,
-       "likes": 7,
+       "views": 906,
+       "likes": 6,
        "comments": 0
       },
       {
@@ -1234,8 +1234,8 @@
       "followers": 18,
       "views": 4291,
       "posts_count": 9,
-      "views_recent": 4522,
-      "likes_recent": 143,
+      "views_recent": 4527,
+      "likes_recent": 144,
       "comments_recent": 0
      },
      "posts": [
@@ -1253,8 +1253,8 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 1265,
-       "likes": 73,
+       "views": 1270,
+       "likes": 74,
        "comments": 0
       },
       {
@@ -3378,13 +3378,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11548
+    "views_recent": 11742
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 532,
     "posts_count": 17,
-    "views_recent": 549,
+    "views_recent": 550,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3406,7 +3406,7 @@
     "followers": 9,
     "views": 1160,
     "posts_count": 14,
-    "views_recent": 1159,
+    "views_recent": 1160,
     "likes_recent": 116,
     "comments_recent": 0
    },
@@ -3418,18 +3418,18 @@
    },
    "AI/youtube": {
     "followers": 6,
-    "views": 539,
+    "views": 565,
     "posts_count": 19,
-    "views_recent": 1413,
-    "likes_recent": 19,
+    "views_recent": 1499,
+    "likes_recent": 18,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 18,
     "views": 4291,
     "posts_count": 9,
-    "views_recent": 4522,
-    "likes_recent": 143,
+    "views_recent": 4527,
+    "likes_recent": 144,
     "comments_recent": 0
    }
   }
