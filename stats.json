@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T15:27:10+03:00",
+ "generated_at": "2026-11-28T16:27:10+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11430
+      "views_recent": 11435
      },
      "posts": [
       {
@@ -45,7 +45,7 @@
        "title": "فتح مصر العثماني ١٥١٧ #Shorts",
        "url": "https://youtube.com/shorts/0ToFh7hlVHE",
        "published": "2026-11-26T16:00:43+00:00",
-       "views": 650,
+       "views": 652,
        "likes": 4,
        "comments": null
       },
@@ -54,7 +54,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1251,
+       "views": 1254,
        "likes": 10,
        "comments": null
       },
@@ -1036,11 +1036,11 @@
      "source": "public_page+rss+oauth",
      "channel_id": "UCspxFz7vb7jZXILjYVxfBtA",
      "totals": {
-      "followers": 5,
+      "followers": 6,
       "views": 539,
       "posts_count": 19,
-      "views_recent": 567,
-      "likes_recent": 11,
+      "views_recent": 860,
+      "likes_recent": 13,
       "comments_recent": 0
      },
      "posts": [
@@ -1049,8 +1049,8 @@
        "title": "ثانية من كاميرا روبوت: كيف يتخيّل الذكاء الاصطناعي الحركة التالية؟",
        "url": "https://youtube.com/shorts/vjI3s3BI57Y",
        "published": "2026-11-28T10:30:40Z",
-       "views": 2,
-       "likes": 0,
+       "views": 295,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -1234,7 +1234,7 @@
       "followers": 18,
       "views": 2932,
       "posts_count": 9,
-      "views_recent": 4501,
+      "views_recent": 4524,
       "likes_recent": 143,
       "comments_recent": 0
      },
@@ -1244,7 +1244,7 @@
        "title": "ماذا تقول بعد آخر رشفة؟ | صحيح مسلم",
        "url": "https://youtube.com/shorts/S98HP7SHcGw",
        "published": "2026-11-28T04:30:36Z",
-       "views": 1166,
+       "views": 1185,
        "likes": 18,
        "comments": 0
       },
@@ -1253,7 +1253,7 @@
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
        "url": "https://youtube.com/shorts/NJZ0wAKbX4s",
        "published": "2026-11-27T04:29:06Z",
-       "views": 1260,
+       "views": 1264,
        "likes": 73,
        "comments": 0
       },
@@ -3378,7 +3378,7 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11430
+    "views_recent": 11435
    },
    "Quran/youtube": {
     "followers": 1,
@@ -3417,18 +3417,18 @@
     "views_recent": 9915
    },
    "AI/youtube": {
-    "followers": 5,
+    "followers": 6,
     "views": 539,
     "posts_count": 19,
-    "views_recent": 567,
-    "likes_recent": 11,
+    "views_recent": 860,
+    "likes_recent": 13,
     "comments_recent": 0
    },
    "Shifa/youtube": {
     "followers": 18,
     "views": 2932,
     "posts_count": 9,
-    "views_recent": 4501,
+    "views_recent": 4524,
     "likes_recent": 143,
     "comments_recent": 0
    }
