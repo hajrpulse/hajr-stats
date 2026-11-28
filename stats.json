@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T16:27:10+03:00",
+ "generated_at": "2026-11-28T17:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -19,7 +19,7 @@
       "followers": 8,
       "views": null,
       "posts_count": null,
-      "views_recent": 11435
+      "views_recent": 11441
      },
      "posts": [
       {
@@ -27,8 +27,8 @@
        "title": "المنصورة ١٢٥٠: من معركة المنصورة إلى أسر لويس التاسع #Shorts",
        "url": "https://youtube.com/shorts/1vxaeD5fIJk",
        "published": "2026-11-27T16:00:33+00:00",
-       "views": 136,
-       "likes": 2,
+       "views": 140,
+       "likes": 3,
        "comments": null
       },
       {
@@ -54,7 +54,7 @@
        "title": "فتح عكا ١٢٩١: نهاية الإمارات الصليبية #Shorts",
        "url": "https://youtube.com/shorts/c0kwny5Dx4Y",
        "published": "2026-11-25T16:00:33+00:00",
-       "views": 1254,
+       "views": 1256,
        "likes": 10,
        "comments": null
       },
@@ -176,7 +176,7 @@
       "followers": 1,
       "views": 489,
       "posts_count": 17,
-      "views_recent": 536,
+      "views_recent": 540,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -186,7 +186,7 @@
        "title": "سورة البقرة (62-65) بصوت سعود الشريم #Shorts",
        "url": "https://youtube.com/shorts/6k_YMY1c1lE",
        "published": "2026-11-27T21:00:52Z",
-       "views": 7,
+       "views": 8,
        "likes": 0,
        "comments": 0
       },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (61) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/ssXKJanIJak",
        "published": "2026-11-27T04:29:08Z",
-       "views": 18,
+       "views": 20,
        "likes": 0,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 36,
+       "views": 37,
        "likes": 0,
        "comments": 0
       },
@@ -1039,8 +1039,8 @@
       "followers": 6,
       "views": 539,
       "posts_count": 19,
-      "views_recent": 860,
-      "likes_recent": 13,
+      "views_recent": 1005,
+      "likes_recent": 15,
       "comments_recent": 0
      },
      "posts": [
@@ -1049,8 +1049,8 @@
        "title": "ثانية من كاميرا روبوت: كيف يتخيّل الذكاء الاصطناعي الحركة التالية؟",
        "url": "https://youtube.com/shorts/vjI3s3BI57Y",
        "published": "2026-11-28T10:30:40Z",
-       "views": 295,
-       "likes": 2,
+       "views": 429,
+       "likes": 3,
        "comments": 0
       },
       {
@@ -1058,8 +1058,8 @@
        "title": "هل يقرأ الذكاء الاصطناعي عمودًا بلا رقم؟",
        "url": "https://youtube.com/shorts/bMC46sHjZzo",
        "published": "2026-11-27T04:29:40Z",
-       "views": 40,
-       "likes": 1,
+       "views": 51,
+       "likes": 2,
        "comments": 0
       },
       {
@@ -3378,13 +3378,13 @@
     "followers": 8,
     "views": null,
     "posts_count": null,
-    "views_recent": 11435
+    "views_recent": 11441
    },
    "Quran/youtube": {
     "followers": 1,
     "views": 489,
     "posts_count": 17,
-    "views_recent": 536,
+    "views_recent": 540,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3420,8 +3420,8 @@
     "followers": 6,
     "views": 539,
     "posts_count": 19,
-    "views_recent": 860,
-    "likes_recent": 13,
+    "views_recent": 1005,
+    "likes_recent": 15,
     "comments_recent": 0
    },
    "Shifa/youtube": {
