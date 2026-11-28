@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:27:12+03:00",
+ "generated_at": "2026-11-28T08:27:11+03:00",
  "timezone": "Asia/Riyadh",
  "accounts": [
   {
@@ -174,9 +174,9 @@
      "channel_id": "UCLOY_CX5z9CLiyA0mR1HfFg",
      "totals": {
       "followers": 1,
-      "views": 448,
+      "views": 489,
       "posts_count": 17,
-      "views_recent": 500,
+      "views_recent": 504,
       "likes_recent": 10,
       "comments_recent": 0
      },
@@ -195,7 +195,7 @@
        "title": "سورة البقرة (61) بصوت عبد الرحمن السديس #Shorts",
        "url": "https://youtube.com/shorts/ssXKJanIJak",
        "published": "2026-11-27T04:29:08Z",
-       "views": 11,
+       "views": 14,
        "likes": 0,
        "comments": 0
       },
@@ -222,7 +222,7 @@
        "title": "سورة البقرة (57) بصوت محمود خليل الحصري #Shorts",
        "url": "https://youtube.com/shorts/42uAdcZH1L4",
        "published": "2026-11-25T21:02:31Z",
-       "views": 31,
+       "views": 32,
        "likes": 0,
        "comments": 0
       },
@@ -791,10 +791,10 @@
      "channel_id": "UCxJf4LcZR_MG6Qn4zhyASsQ",
      "totals": {
       "followers": 9,
-      "views": 1082,
+      "views": 1104,
       "posts_count": 14,
-      "views_recent": 1142,
-      "likes_recent": 109,
+      "views_recent": 1149,
+      "likes_recent": 111,
       "comments_recent": 0
      },
      "posts": [
@@ -803,8 +803,8 @@
        "title": "Brotherhood & Purifying the Heart | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/WXxXY3kv3mQ",
        "published": "2026-11-28T02:30:32Z",
-       "views": 36,
-       "likes": 8,
+       "views": 40,
+       "likes": 10,
        "comments": 0
       },
       {
@@ -812,7 +812,7 @@
        "title": "Caring for the Widow and the Needy | Sahih Bukhari & Muslim • Prophet Muhammad ﷺ #Shorts",
        "url": "https://youtube.com/shorts/lDNCsbbNu90",
        "published": "2026-11-27T04:29:41Z",
-       "views": 100,
+       "views": 103,
        "likes": 17,
        "comments": 0
       },
@@ -1223,13 +1223,22 @@
      "channel_id": "UCBE_S5Rolk38ui9FsCv_-Yw",
      "totals": {
       "followers": 17,
-      "views": 2734,
-      "posts_count": 8,
-      "views_recent": 3182,
+      "views": 2932,
+      "posts_count": 9,
+      "views_recent": 3185,
       "likes_recent": 117,
       "comments_recent": 0
      },
      "posts": [
+      {
+       "id": "S98HP7SHcGw",
+       "title": "ماذا تقول بعد آخر رشفة؟ | صحيح مسلم",
+       "url": "https://youtube.com/shorts/S98HP7SHcGw",
+       "published": "2026-11-28T04:30:36Z",
+       "views": 3,
+       "likes": 0,
+       "comments": 0
+      },
       {
        "id": "NJZ0wAKbX4s",
        "title": "فضل ماء زمزم: ماذا يعني طعام طُعم؟",
@@ -3364,9 +3373,9 @@
    },
    "Quran/youtube": {
     "followers": 1,
-    "views": 448,
+    "views": 489,
     "posts_count": 17,
-    "views_recent": 500,
+    "views_recent": 504,
     "likes_recent": 10,
     "comments_recent": 0
    },
@@ -3386,10 +3395,10 @@
    "Quran/tiktok": {},
    "Sunnah/youtube": {
     "followers": 9,
-    "views": 1082,
+    "views": 1104,
     "posts_count": 14,
-    "views_recent": 1142,
-    "likes_recent": 109,
+    "views_recent": 1149,
+    "likes_recent": 111,
     "comments_recent": 0
    },
    "BaytAbuHamza/youtube": {
@@ -3408,9 +3417,9 @@
    },
    "Shifa/youtube": {
     "followers": 17,
-    "views": 2734,
-    "posts_count": 8,
-    "views_recent": 3182,
+    "views": 2932,
+    "posts_count": 9,
+    "views_recent": 3185,
     "likes_recent": 117,
     "comments_recent": 0
    }
